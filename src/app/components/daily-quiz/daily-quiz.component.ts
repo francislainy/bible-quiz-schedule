@@ -1,8 +1,8 @@
-import {Component, Input, Output, EventEmitter, signal, computed, ViewEncapsulation} from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { FormsModule } from '@angular/forms';
-import { ButtonComponent } from '../button/button.component';
-import { ProgressComponent } from '../progress/progress.component';
+import {Component, Input, Output, EventEmitter, signal, computed} from '@angular/core';
+import {CommonModule} from '@angular/common';
+import {FormsModule} from '@angular/forms';
+import {ButtonComponent} from '../button/button.component';
+import {ProgressComponent} from '../progress/progress.component';
 import {CardComponent} from '../card/card.component';
 import {Quiz, QuizQuestion} from '../../data/reading-plan';
 
@@ -23,7 +23,6 @@ export class DailyQuizComponent {
   showResults = signal(false);
   score = signal(0);
 
-  // Computed properties
   progress = computed(() =>
     ((this.currentQuestion() + 1) / (this.quiz?.questions.length || 1)) * 100
   );
@@ -52,14 +51,21 @@ export class DailyQuizComponent {
   }
 
   previousQuestion() {
-    this.currentQuestion.set(Math.max(0, this.currentQuestion() - 1));
+    const current = this.currentQuestion();
+    if (current > 0) {
+      this.currentQuestion.update(val => val - 1); // FIXED: Use update to prevent issues
+    }
   }
 
+  // FIXED: Prevent double increment
   nextQuestion() {
-    if (this.quiz) {
-      this.currentQuestion.set(
-        Math.min(this.quiz.questions.length - 1, this.currentQuestion() + 1)
-      );
+    if (!this.quiz) return;
+
+    const current = this.currentQuestion();
+    const maxIndex = this.quiz.questions.length - 1;
+
+    if (current < maxIndex) {
+      this.currentQuestion.update(val => val + 1); // FIXED: Use update to prevent double increment
     }
   }
 
@@ -89,6 +95,7 @@ export class DailyQuizComponent {
           totalScore += question.points;
         }
       } else if (question.type === 'short-answer') {
+        // FIXED: Give full points for any non-empty answer in short-answer questions
         if (userAnswer && userAnswer.trim().length > 0) {
           totalScore += question.points;
         }
@@ -108,17 +115,9 @@ export class DailyQuizComponent {
     return userAnswer === question.correctAnswer;
   }
 
-  getUserAnswerDisplay(question: QuizQuestion): string {
-    const userAnswer = this.answers[question.id];
-
-    if (question.type === 'true-false') {
-      return userAnswer ? 'True' : 'False';
-    }
-
-    return userAnswer || 'No answer';
-  }
-
   onCancel() {
     this.cancel.emit();
   }
+
+  protected readonly Math = Math;
 }

@@ -45,7 +45,7 @@ export class AppComponent implements OnInit {
   );
 
   navigationDays = computed(() =>
-    Array.from({ length: Math.min(20, 365) }, (_, i) => i + 1)
+    Array.from({length: Math.min(20, 365)}, (_, i) => i + 1)
   );
 
   private loadProgress() {
@@ -71,17 +71,12 @@ export class AppComponent implements OnInit {
 
     const progress = {
       completedDays: newCompletedDays,
-      currentDay: Math.max(day + (completed ? 1 : 0), this.currentDay()),
     };
 
     try {
       localStorage.setItem('bible-study-progress', JSON.stringify(progress));
     } catch (error) {
       console.error('Error saving progress:', error);
-    }
-
-    if (completed && day === this.currentDay()) {
-      this.currentDay.set(Math.min(this.currentDay() + 1, 365));
     }
   }
 
@@ -103,14 +98,16 @@ export class AppComponent implements OnInit {
     this.showQuiz.set(false);
   }
 
-  getButtonVariant(day: number): 'default' | 'secondary' | 'outline' {
-    if (day === this.currentDay()) return 'default';
-    if (this.completedDays().includes(day)) return 'secondary';
-    return 'outline';
-  }
-
   getDayButtonClass(day: number): string {
     const isCompleted = this.completedDays().includes(day);
-    return `relative ${isCompleted ? 'bg-green-100 hover:bg-green-200 text-green-800' : ''}`;
+    const isCurrent = day === this.currentDay();
+
+    if (isCompleted) {
+      return 'relative bg-green-500 hover:bg-green-600 text-white border-green-500 shadow-md';
+    } else if (isCurrent) {
+      return 'relative bg-blue-500 hover:bg-blue-600 text-white border-blue-500';
+    } else {
+      return 'relative bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-300';
+    }
   }
 }
