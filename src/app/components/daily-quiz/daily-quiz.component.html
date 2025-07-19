@@ -1,0 +1,189 @@
+<app-card>
+  <div class="p-6">
+    <!-- Quiz not available -->
+    <div *ngIf="!quiz" class="text-center">
+      <p>Quiz not available for this day yet.</p>
+      <app-button (click)="onCancel()" class="mt-4">
+        Back to Reading
+      </app-button>
+    </div>
+
+    <!-- Quiz Results -->
+    <div *ngIf="showResults() && quiz">
+      <div class="flex items-center gap-2 mb-4">
+        <svg
+          *ngIf="passed()"
+          class="h-5 w-5 text-green-500"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+        </svg>
+        <svg
+          *ngIf="!passed()"
+          class="h-5 w-5 text-red-500"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+        <h3 class="text-xl font-semibold">Quiz Results</h3>
+      </div>
+
+      <div class="text-center space-y-4">
+        <div class="text-3xl font-bold">
+          {{score()}}/{{maxScore()}} ({{percentage()}}%)
+        </div>
+        <div [class]="passed() ? 'text-lg font-semibold text-green-600' : 'text-lg font-semibold text-red-600'">
+          {{passed() ? 'Great job! Quiz completed!' : 'Keep studying! Try again tomorrow.'}}
+        </div>
+      </div>
+
+      <div class="space-y-3 mt-6">
+        <div
+          *ngFor="let question of quiz.questions; let i = index"
+          class="border rounded-lg p-3">
+          <div class="flex items-start gap-2">
+            <svg
+              *ngIf="isQuestionCorrect(question)"
+              class="h-4 w-4 text-green-500 mt-1 flex-shrink-0"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+            </svg>
+            <svg
+              *ngIf="!isQuestionCorrect(question)"
+              class="h-4 w-4 text-red-500 mt-1 flex-shrink-0"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+            <div class="flex-1">
+              <p class="font-medium text-sm">{{question.question}}</p>
+              <p class="text-sm text-gray-600 mt-1">
+                Your answer: {{getUserAnswerDisplay(question)}}
+              </p>
+              <p
+                *ngIf="!isQuestionCorrect(question) && question.correctAnswer"
+                class="text-sm text-green-600 mt-1">
+                Correct answer: {{question.correctAnswer}}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex gap-2 mt-6">
+        <app-button (click)="completeQuiz()" class="flex-1">
+          {{passed() ? 'Mark Day Complete' : 'Continue Anyway'}}
+        </app-button>
+        <app-button variant="outline" (click)="onCancel()">
+          Back to Reading
+        </app-button>
+      </div>
+    </div>
+
+    <!-- Quiz Questions -->
+    <div *ngIf="!showResults() && quiz">
+      <div class="flex items-center justify-between mb-4">
+        <div>
+          <h3 class="text-xl font-semibold flex items-center gap-2">
+            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+            </svg>
+            {{quiz.title}}
+          </h3>
+        </div>
+        <span class="text-sm text-gray-500">
+              {{currentQuestion() + 1}} of {{quiz.questions.length}}
+            </span>
+      </div>
+      <app-progress [value]="progress()" class="h-2 mb-6"></app-progress>
+
+      <div class="space-y-6" *ngIf="currentQuestionData()">
+        <div>
+          <h4 class="font-semibold text-lg mb-4">{{currentQuestionData()?.question}}</h4>
+
+          <!-- Multiple Choice -->
+          <div *ngIf="currentQuestionData()?.type === 'multiple-choice'" class="space-y-2">
+            <div
+              *ngFor="let option of currentQuestionData()?.options; let i = index"
+              class="flex items-center space-x-2">
+              <input
+                type="radio"
+                [id]="'option-' + i"
+                [name]="'question-' + currentQuestionData()?.id"
+                [value]="option"
+                [(ngModel)]="answers[currentQuestionData()!.id]"
+                class="w-4 h-4 text-blue-600">
+              <label [for]="'option-' + i" class="flex-1 cursor-pointer">
+                {{option}}
+              </label>
+            </div>
+          </div>
+
+          <!-- True/False -->
+          <div *ngIf="currentQuestionData()?.type === 'true-false'" class="space-y-2">
+            <div class="flex items-center space-x-2">
+              <input
+                type="radio"
+                id="true"
+                [name]="'question-' + currentQuestionData()?.id"
+                [value]="true"
+                [(ngModel)]="answers[currentQuestionData()!.id]"
+                class="w-4 h-4 text-blue-600">
+              <label for="true" class="cursor-pointer">True</label>
+            </div>
+            <div class="flex items-center space-x-2">
+              <input
+                type="radio"
+                id="false"
+                [name]="'question-' + currentQuestionData()?.id"
+                [value]="false"
+                [(ngModel)]="answers[currentQuestionData()!.id]"
+                class="w-4 h-4 text-blue-600">
+              <label for="false" class="cursor-pointer">False</label>
+            </div>
+          </div>
+
+          <!-- Short Answer -->
+          <textarea
+            *ngIf="currentQuestionData()?.type === 'short-answer'"
+            placeholder="Type your answer here..."
+            [(ngModel)]="answers[currentQuestionData()!.id]"
+            class="w-full min-h-[100px] p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+              </textarea>
+        </div>
+
+        <div class="flex justify-between">
+          <app-button
+            variant="outline"
+            (click)="previousQuestion()"
+            [disabled]="currentQuestion() === 0">
+            Previous
+          </app-button>
+
+          <app-button
+            *ngIf="currentQuestion() === quiz.questions.length - 1"
+            (click)="submitQuiz()"
+            [disabled]="!hasCurrentAnswer()">
+            Submit Quiz
+          </app-button>
+
+          <app-button
+            *ngIf="currentQuestion() < quiz.questions.length - 1"
+            (click)="nextQuestion()"
+            [disabled]="!hasCurrentAnswer()">
+            Next
+          </app-button>
+        </div>
+
+        <app-button variant="ghost" (click)="onCancel()" class="w-full">
+          Cancel Quiz
+        </app-button>
+      </div>
+    </div>
+  </div>
+</app-card>
