@@ -1,6 +1,6 @@
 <button
   [class]="buttonClasses"
   [disabled]="disabled"
-  (click)="onClick()">
-  <ng-content></ng-content>
+  (click)="$event.stopPropagation(); onClick()">
+<ng-content></ng-content>
 </button>

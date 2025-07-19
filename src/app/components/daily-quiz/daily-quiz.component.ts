@@ -31,11 +31,6 @@ export class DailyQuizComponent {
     return this.quiz.questions[this.currentQuestion()];
   });
 
-  hasCurrentAnswer(): boolean {
-    const question = this.currentQuestionData();
-    return question ? !!this.answers[question.id] : false;
-  }
-
   previousQuestion() {
     const current = this.currentQuestion();
     if (current > 0) {
@@ -43,15 +38,16 @@ export class DailyQuizComponent {
     }
   }
 
-  // FIXED: Prevent double increment
   nextQuestion() {
     if (!this.quiz) return;
 
     const current = this.currentQuestion();
     const maxIndex = this.quiz.questions.length - 1;
 
+    console.log('Next clicked. Current:', current); // Debug log
+
     if (current < maxIndex) {
-      this.currentQuestion.update(val => val + 1); // FIXED: Use update to prevent double increment
+      this.currentQuestion.update(val => val + 1);
     }
   }
 
