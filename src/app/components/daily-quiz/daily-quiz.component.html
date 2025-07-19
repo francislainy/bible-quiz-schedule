@@ -90,8 +90,7 @@
           <div class="flex gap-2">
             <app-button
               *ngIf="currentQuestion() < (quiz?.questions?.length || 0) - 1"
-              (click)="nextQuestion()"
-              [disabled]="!hasCurrentAnswer()">
+              (click)="nextQuestion()">
               Next
               <svg class="h-4 w-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
@@ -101,7 +100,6 @@
             <app-button
               *ngIf="currentQuestion() === (quiz?.questions?.length || 0) - 1"
               (click)="submitQuiz()"
-              [disabled]="!hasCurrentAnswer()"
               variant="default">
               Submit Quiz
             </app-button>
