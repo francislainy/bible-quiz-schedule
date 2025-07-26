@@ -106,7 +106,6 @@
       <div class="p-6">
         <h3 class="text-xl font-semibold mb-4">Quick Navigation</h3>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-2">
-          <!-- FIXED: Better button styling with proper override -->
           <button
             *ngFor="let day of navigationDays()"
             type="button"
@@ -114,7 +113,6 @@
             [class]="'px-3 py-2 rounded-md text-sm font-medium transition-all duration-200 ' + getDayButtonClass(day)">
             <span class="relative flex items-center justify-center">
               Day {{day}}
-              <!-- FIXED: Better positioned and more visible tick icon -->
               <svg
                 *ngIf="completedDays().includes(day)"
                 class="h-4 w-4 absolute -top-1 -right-1 text-green-100 bg-green-700 rounded-full p-0.5 border border-green-600"
