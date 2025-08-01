@@ -30,6 +30,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
     this.loadProgress();
+    this.updateCurrentDayBasedOnProgress();
   }
 
   // Computed properties
@@ -54,6 +55,48 @@ export class AppComponent implements OnInit {
     return reading?.passage || '';
   }
 
+  // New method to update current day based on progress
+  private updateCurrentDayBasedOnProgress() {
+    const completed = this.completedDays();
+    const today = new Date().toDateString();
+    const lastCompletedToday = this.wasCompletedToday(this.currentDay());
+
+    // If current day was completed today, keep showing it
+    if (lastCompletedToday) {
+      return;
+    }
+
+    // Otherwise, find the next incomplete day
+    let nextIncompleteDay = 1;
+    for (let day = 1; day <= 365; day++) {
+      if (!completed.includes(day)) {
+        nextIncompleteDay = day;
+        break;
+      }
+    }
+
+    this.currentDay.set(nextIncompleteDay);
+  }
+
+  // Check if a day was completed today
+  private wasCompletedToday(day: number): boolean {
+    try {
+      const saved = localStorage.getItem('bible-study-progress');
+      if (saved) {
+        const progress = JSON.parse(saved);
+        const completionDate = progress.completionDates?.[day];
+        if (completionDate) {
+          const completedDate = new Date(completionDate).toDateString();
+          const today = new Date().toDateString();
+          return completedDate === today;
+        }
+      }
+    } catch (error) {
+      console.error('Error checking completion date:', error);
+    }
+    return false;
+  }
+
   private loadProgress() {
     try {
       const saved = localStorage.getItem('bible-study-progress');
@@ -75,14 +118,40 @@ export class AppComponent implements OnInit {
 
     this.completedDays.set(newCompletedDays);
 
-    const progress = {
-      completedDays: newCompletedDays,
-    };
+    // Get existing progress
+    let progress: any = {};
+    try {
+      const saved = localStorage.getItem('bible-study-progress');
+      if (saved) {
+        progress = JSON.parse(saved);
+      }
+    } catch (error) {
+      console.error('Error loading existing progress:', error);
+    }
+
+    // Update progress with completion dates
+    progress.completedDays = newCompletedDays;
+    progress.currentDay = this.currentDay();
+
+    if (!progress.completionDates) {
+      progress.completionDates = {};
+    }
+
+    if (completed) {
+      progress.completionDates[day] = new Date().toISOString();
+    } else {
+      delete progress.completionDates[day];
+    }
 
     try {
       localStorage.setItem('bible-study-progress', JSON.stringify(progress));
     } catch (error) {
       console.error('Error saving progress:', error);
+    }
+
+    // Update current day to next incomplete day after completion
+    if (completed) {
+      this.updateCurrentDayBasedOnProgress();
     }
   }
 
