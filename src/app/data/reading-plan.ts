@@ -1187,11 +1187,24 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Bethel"
         },
         {
+          id: "q3",
+          type: "multiple-choice",
+          question: "Who vowed to give Jehovah a tenth of everything back to him?",
+          options: ["Jacob", "Isaac", "Esau", "Laban"],
+          correctAnswer: "Jacob"
+        },
+        {
           id: "q4",
           type: "multiple-choice",
           question: "Whom did Jacob meet first when he arrived in Haran?",
           options: ["Laban", "Rebekah", "Rachel", "Leah"],
           correctAnswer: "Rachel"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Rachel was a shepherdess.",
+          correctAnswer: true
         },
         {
           id: "q5",
@@ -1240,21 +1253,20 @@ export const readingPlan: DayReading[] = [
         {
           id: "q11",
           type: "true-false",
+          question: "Judah was Leah's first born.",
+          correctAnswer: false
+        },
+        {
+          id: "q11",
+          type: "true-false",
           question: "Rachel had her maidservant Bilhah bear children for Jacob.",
           correctAnswer: true
         },
         {
-          id: "q12",
-          type: "short-answer",
-          question: "What were the names of the sons born through Bilhah?",
-          correctAnswer: "Dan and Naphtali"
-        },
-        {
-          id: "q13",
-          type: "multiple-choice",
-          question: "Which of Jacob’s wives gave him Gad and Asher?",
-          options: ["Rachel", "Leah", "Bilhah", "Zilpah"],
-          correctAnswer: "Zilpah"
+          id: "q11",
+          type: "true-false",
+          question: "Rachel became mother to Dinah.",
+          correctAnswer: false
         },
         {
           id: "q14",
@@ -1277,5 +1289,869 @@ export const readingPlan: DayReading[] = [
         }
       ]
     }
-  }
+  },
+  {
+    day: 10,
+    passage: "Genesis 31–32",
+    focus: "Jacob leaves Laban and prepares to meet Esau",
+    quiz: {
+      title: "📘 Genesis 31–32 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did Jacob decide to leave Laban secretly?",
+          options: [
+            "Jehovah told him to return to his homeland",
+            "He was angry with Laban’s daughters",
+            "Esau was coming to find him",
+            "Laban had taken his flocks"
+          ],
+          correctAnswer: "Jehovah told him to return to his homeland"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Rachel stole her father's household gods before leaving.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What did Laban accuse Jacob of stealing?",
+          options: ["His flocks", "His daughters", "His idols", "His money"],
+          correctAnswer: "His idols"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "Where did Rachel hide the stolen idols?",
+          correctAnswer: "In the saddle basket of a camel"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What did Rachel say to Laban when he came in looking for his stolen good?",
+          correctAnswer: "She couldn't get up because she was menstruating"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Laban caught up with Jacob in the mountains of Gilead.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What prevented Laban from harming Jacob?",
+          options: [
+            "His daughters stopped him",
+            "Jacob’s servants threatened him",
+            "God warned him in a dream",
+            "He was afraid of Esau"
+          ],
+          correctAnswer: "God warned him in a dream"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What kind of agreement did Jacob and Laban make?",
+          correctAnswer: "A covenant of peace and boundary (the Mizpah agreement)"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Jacob made a heap of stones as a witness of the covenant with Laban.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Jacob feel when he heard Esau was coming to meet him with 400 men?",
+          options: ["Relieved", "Excited", "Terrified", "Pleased"],
+          correctAnswer: "Terrified"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What did Jacob do to prepare for meeting Esau?",
+          correctAnswer: "He divided his people and flocks, and sent gifts to Esau"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "Who wrestled with Jacob during the night?",
+          options: ["An angel", "Esau", "Laban", "A shepherd"],
+          correctAnswer: "An angel"
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "What new name did the angel give Jacob?",
+          correctAnswer: "Israel"
+        },
+        {
+          id: "q14",
+          type: "true-false",
+          question: "Jacob broke his hand while wrestling with the angel.",
+          correctAnswer: false
+        },
+        {
+          id: "q14",
+          type: "true-false",
+          question: "The angel was left with a limp after wrestling with Jacob.",
+          correctAnswer: false
+        },
+        {
+          id: "q15",
+          type: "short-answer",
+          question: "What does the name 'Israel' mean?",
+          correctAnswer: "One who contends with God"
+        }
+      ]
+    }
+  },
+  {
+    day: 11,
+    passage: "Genesis 33–34",
+    focus: "Jacob meets Esau and Dinah is violated",
+    quiz: {
+      title: "📘 Genesis 33–34 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Esau react when he saw Jacob?",
+          options: ["He attacked him", "He turned away", "He embraced him", "He took his flocks"],
+          correctAnswer: "He embraced him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jacob bowed to Esau seven times as he approached him.",
+          correctAnswer: true
+        },
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How many men were together with Esau when he came to meet Jacob?",
+          options: ["12", "400", "3000", "185000"],
+          correctAnswer: "400"
+        },
+
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What did Jacob offer Esau when they met?",
+          options: ["His flocks", "His servants", "Many gifts", "A blessing"],
+          correctAnswer: "Many gifts"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What reason did Jacob give for not traveling with Esau?",
+          correctAnswer: "His children and animals were too weak to travel fast"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What city did Jacob settle near after meeting Esau?",
+          correctAnswer: "Shechem"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Jacob built an altar to Jehovah near Shechem.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happened to Dinah, Jacob’s daughter?",
+          correctAnswer: "She was violated by Shechem"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What was Shechem’s request after violating Dinah?",
+          options: ["To leave him alone", "To marry her", "To buy her as a slave", "To flee with her"],
+          correctAnswer: "To marry her"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "What condition did Jacob’s sons give Shechem and his people for intermarriage?",
+          correctAnswer: "All the males must get circumcised"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Which two sons of Jacob attacked Shechem’s city?",
+          options: ["Reuben and Judah", "Simeon and Levi", "Dan and Naphtali", "Gad and Asher"],
+          correctAnswer: "Simeon and Levi"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "Simeon and Levi waited until the men were sore from circumcision before attacking.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "The other sons of Jacob joined in the attack on Shechem’s city.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "Why was Jacob upset with Simeon and Levi after the attack?",
+          correctAnswer: "He feared reprisals from the Canaanites and Perizzites"
+        }
+      ]
+    }
+  },
+  {
+    day: 12,
+    passage: "Genesis 35–37",
+    focus: "God blesses Jacob, genealogies, and Joseph's dreams",
+    quiz: {
+      title: "📘 Genesis 35–37 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What did God tell Jacob to do at Bethel?",
+          correctAnswer: "Build an altar to the true God who appeared to him"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What did Jacob bury under the big tree near Shechem?",
+          options: ["Gold", "Idols and earrings", "Bones", "Grain"],
+          correctAnswer: "Idols and earrings"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "God changed Jacob’s name to Israel again at Bethel.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What was the name of the last son born to Jacob?",
+          correctAnswer: "Benjamin"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "Who died while giving birth to Benjamin?",
+          options: ["Leah", "Dinah", "Rachel", "Rebekah"],
+          correctAnswer: "Rachel"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Isaac died at the age of 180 years old.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "Esau had only one wife and lived near Jacob.",
+          correctAnswer: false
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "Why did Esau move away from Jacob?",
+          correctAnswer: "Because their possessions were too many for them to dwell together"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Esau is considered as father of the Edomites?",
+          correctAnswer: true,
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "Who was Joseph’s mother?",
+          options: ["Leah", "Rachel", "Zilpah", "Bilhah"],
+          correctAnswer: "Rachel"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Joseph was Jacob's favorite son.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What special gift did Jacob give to Joseph?",
+          correctAnswer: "A long-sleeved robe"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "What did Joseph’s brothers do to him out of jealousy?",
+          options: [
+            "Sold him to the Midianites",
+            "Killed him",
+            "Ignored him",
+            "Took his robe"
+          ],
+          correctAnswer: "Sold him to the Midianites",
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What was Joseph's first dream about?",
+          options: [
+            "The sun, moon, and stars bowing to him",
+            "Eleven sheaves bowing to his sheaf",
+            "A ladder reaching heaven",
+            "A lion and a lamb lying together"
+          ],
+          correctAnswer: "Eleven sheaves bowing to his sheaf"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who suggested not killing Joseph but throwing him in a pit?",
+          options: ["Judah", "Reuben", "Levi", "Dan"],
+          correctAnswer: "Reuben"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "Joseph was sold to the Midianites for twenty pieces of silver.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "How old was Joseph when he was sold as a slave?",
+          options: [
+            "17",
+            "20",
+            "25",
+            "30"
+          ],
+          correctAnswer: "17"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "How did the brothers convince Jacob that Joseph was dead?",
+          correctAnswer: "They dipped his robe in goat’s blood"
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "To whom was Joseph sold in Egypt?",
+          correctAnswer: "Potiphar, a chief of Pharaoh’s guard"
+        }
+      ]
+    }
+  },
+  {
+    day: 13,
+    passage: "Genesis 38–40",
+    focus: "Judah and Tamar, Joseph in Egypt and prison",
+    quiz: {
+      title: "📘 Genesis 38–40 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who was Judah's daughter-in-law?",
+          options: ["Rachel", "Leah", "Tamar", "Dinah"],
+          correctAnswer: "Tamar"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Tamar disguised herself as a prostitute to have a child by Judah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Tamar take from Judah as a pledge?",
+          correctAnswer: "His seal, cord, and staff"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What were the names of Tamar’s twin sons?",
+          options: ["Perez and Zerah", "Esau and Jacob", "Manasseh and Ephraim", "Simeon and Levi"],
+          correctAnswer: "Perez and Zerah"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "To whom was Joseph sold in Egypt?",
+          correctAnswer: "Potiphar"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Potiphar’s wife falsely accused Joseph, causing him to be imprisoned.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "Why did Potiphar's wife accuse Joseph?",
+          options: [
+            "He stole from her",
+            "He ran away from her advances",
+            "He refused to cook for her",
+            "He revealed her secret"
+          ],
+          correctAnswer: "He ran away from her advances"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "Who were the two officials imprisoned with Joseph?",
+          correctAnswer: "Pharaoh’s chief cupbearer and baker"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What did Joseph say was the source of dream interpretations?",
+          options: ["His wisdom", "Books of magic", "God", "The stars"],
+          correctAnswer: "God"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Joseph’s interpretation of the dreams of the cupbearer and the baker both predicted restoration.",
+          correctAnswer: false
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What was the outcome for the chief cupbearer?",
+          correctAnswer: "He was restored to his position"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "What was the outcome for the chief baker?",
+          correctAnswer: "He was executed"
+        },
+        {
+          id: "q13",
+          type: "true-false",
+          question: "The chief cupbearer remembered Joseph immediately and told Pharaoh about him.",
+          correctAnswer: false
+        },
+        {
+          id: "q14",
+          type: "true-false",
+          question: "The baker got executed on the day of Pharaoh's birthday.",
+          correctAnswer: true
+        },
+      ]
+    }
+  },
+  {
+    day: 14,
+    passage: "Genesis 41–42",
+    focus: "Pharaoh’s dreams, Joseph’s rise to power, and his brothers’ visit",
+    quiz: {
+      title: "📘 Genesis 41–42 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What were the two types of things Pharaoh saw in his dreams?",
+          options: ["Wells and rivers", "Stars and moons", "Cows and ears of grain", "Lions and sheep"],
+          correctAnswer: "Cows and ears of grain"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "Who finally told Pharaoh about Joseph’s ability to interpret dreams?",
+          correctAnswer: "The chief cupbearer"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Joseph took credit for interpreting dreams before Pharaoh.",
+          correctAnswer: false
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Pharaoh’s dreams mean?",
+          options: [
+            "Egypt would fall to war",
+            "There would be 7 years of abundance followed by 7 years of famine",
+            "The Nile would dry up permanently",
+            "He would have twin sons"
+          ],
+          correctAnswer: "There would be 7 years of abundance followed by 7 years of famine"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What position did Pharaoh give to Joseph after interpreting the dreams?",
+          correctAnswer: "Second in command over Egypt"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Pharaoh gave Joseph a wife.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What were the names of Joseph’s two sons?",
+          options: ["Manasseh and Ephraim", "Reuben and Simeon", "Judah and Levi", "Dan and Naphtali"],
+          correctAnswer: "Manasseh and Ephraim"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why did Joseph’s brothers go to Egypt?",
+          options: [
+            "To escape war",
+            "To flee from Esau",
+            "To look for Joseph",
+            "To buy food during the famine"
+          ],
+          correctAnswer: "To buy food during the famine"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Joseph’s brothers recognized him when they saw him in Egypt.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What accusation did Joseph make against his brothers?",
+          correctAnswer: "That they were spies"
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "Which brother was kept in Egypt while the others returned home?",
+          options: ["Reuben", "Judah", "Simeon", "Levi"],
+          correctAnswer: "Simeon"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "Which brother did Joseph demand to see before releasing Simeon?",
+          correctAnswer: "Benjamin"
+        },
+        {
+          id: "q14",
+          type: "short-answer",
+          question: "What did Jacob say when his sons told him they had to take Benjamin to Egypt?",
+          correctAnswer: "He refused to let Benjamin go"
+        },
+        {
+          id: "q15",
+          type: "short-answer",
+          question: "What did Reuben offer to do if he did not bring Benjamin back safely?",
+          correctAnswer: "To have his two sons killed"
+        },
+      ]
+    }
+  },
+  {
+    day: 15,
+    passage: "Genesis 43–45",
+    focus: "Joseph’s brothers return to Egypt and reveal his identity",
+    quiz: {
+      title: "📘 Genesis 43–45 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "Which brother promised to be responsible for Benjamin’s safety?",
+          correctAnswer: "Judah"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What gift did Jacob send with his sons to Egypt the second time?",
+          options: ["Gold and silver", "Clothing and cattle", "Balm, honey, spices, and almonds", "Olive oil and wine"],
+          correctAnswer: "Balm, honey, spices, and almonds"
+        },
+        {
+          id: "q13",
+          type: "true-false",
+          question: "Joseph secretly returned the money his brothers paid for the grain.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Joseph wept when he saw Benjamin.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How were Joseph’s brothers seated during the meal?",
+          options: [
+            "In order of their age",
+            "By the tribe they represented",
+            "At random",
+            "With Benjamin at the head"
+          ],
+          correctAnswer: "In order of their age"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What special treatment did Benjamin receive during the meal?",
+          correctAnswer: "He was served five times as much food"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What item did Joseph have placed in Benjamin’s bag?",
+          options: ["A silver cup", "A gold coin", "A piece of cloth", "A ring"],
+          correctAnswer: "A silver cup"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "Joseph’s steward accused the brothers of stealing Joseph’s silver cup.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "Which brother pleaded with Joseph to let him stay in Benjamin’s place?",
+          correctAnswer: "Judah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Joseph revealed his identity to his brothers while Pharaoh was present.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "Why did Joseph say God allowed him to be sold into Egypt?",
+          correctAnswer: "To preserve life during the famine"
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "How did Pharaoh respond when he heard about Joseph’s brothers?",
+          options: [
+            "He was angry",
+            "He ignored it",
+            "He welcomed them and gave them provisions",
+            "He expelled them from Egypt"
+          ],
+          correctAnswer: "He welcomed them and gave them provisions"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "What message did Joseph send to his father through his brothers?",
+          correctAnswer: "To come to Egypt quickly and live near him"
+        }
+      ]
+    }
+  },
+  {
+    day: 16,
+    passage: "Genesis 46–48",
+    focus: "Jacob moves to Egypt and blesses Joseph’s sons",
+    quiz: {
+      title: "📘 Genesis 46–48 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What did God tell Jacob in a vision at Beersheba before he went to Egypt?",
+          correctAnswer: "Do not be afraid to go down to Egypt"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "How many direct descendants of Jacob entered Egypt with him?",
+          options: ["66", "70", "72", "75"],
+          correctAnswer: "66"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Joseph traveled personally to meet his father Jacob when he arrived in Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Jacob say when he finally saw Joseph in Egypt?",
+          options: [
+            "‘Now I can die, since I have seen your face.’",
+            "‘Why did you hide yourself from me?’",
+            "‘Let us go back to Canaan now.’",
+            "‘You are no longer my son.’"
+          ],
+          correctAnswer: "‘Now I can die, since I have seen your face.’"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What region of Egypt did Joseph settle his family in?",
+          correctAnswer: "Goshen"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Which Pharaoh welcomed Jacob and his family?",
+          options: ["Pharaoh Amenhotep", "Pharaoh Rameses", "Unnamed Pharaoh", "Pharaoh Zaphnath"],
+          correctAnswer: "Unnamed Pharaoh"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "Jacob told Pharaoh he was 147 years old.",
+          correctAnswer: false
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What did the Egyptians give Joseph in exchange for food during the famine?",
+          correctAnswer: "Money, livestock, land, and themselves as slaves"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "Which of Joseph’s sons did Jacob place his right hand on when blessing them?",
+          options: ["Manasseh", "Ephraim", "Reuben", "Judah"],
+          correctAnswer: "Ephraim"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Joseph was upset when Jacob gave the greater blessing to Ephraim.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "Why did Jacob bless Ephraim over Manasseh?",
+          correctAnswer: "He said Ephraim would become greater than Manasseh"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "What did Jacob give Joseph beyond what he gave his other sons?",
+          options: ["The best land in Goshen", "An extra portion of land", "A golden cup", "His staff"],
+          correctAnswer: "An extra portion of land"
+        }
+      ]
+    }
+  },
+  {
+    day: 17,
+    passage: "Genesis 49–50",
+    focus: "Jacob blesses his sons and his death; Joseph’s final days",
+    quiz: {
+      title: "📘 Genesis 49–50 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What did Jacob do before he died?",
+          correctAnswer: "He blessed each of his sons and gave them prophetic statements"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "Which of Jacob’s sons was told that kings would come from his line?",
+          options: ["Levi", "Judah", "Joseph", "Reuben"],
+          correctAnswer: "Judah"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Jacob rebuked Simeon and Levi for their violent behavior.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What animal is Judah compared to in Jacob’s blessing?",
+          options: ["Lion", "Wolf", "Ox", "Leopard"],
+          correctAnswer: "Lion"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "Where did Jacob request to be buried?",
+          correctAnswer: "In the cave of Machpelah in the field of Ephron"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Jacob was buried in Egypt with full Egyptian honors.",
+          correctAnswer: false
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What did Joseph's brothers fear after Jacob died?",
+          options: [
+            "That Joseph would leave Egypt",
+            "That Joseph would take revenge on them",
+            "That Pharaoh would enslave them",
+            "That they would lose their inheritance"
+          ],
+          correctAnswer: "That Joseph would take revenge on them"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What did Joseph say to comfort his brothers after Jacob’s death?",
+          correctAnswer: "You meant to harm me, but God meant it for good"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Joseph lived to see his great-grandchildren.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How old was Joseph when he died?",
+          options: ["100", "110", "120", "130"],
+          correctAnswer: "110"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "Where did Joseph want his bones to be taken?",
+          correctAnswer: "Back to the land of Israel (Canaan)"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "Joseph was embalmed and placed in a coffin in Egypt.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
 ];
