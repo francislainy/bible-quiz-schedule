@@ -1,4 +1,4 @@
-import {Component, computed, OnInit, signal, ViewEncapsulation} from '@angular/core';
+import {Component, computed, OnInit, signal, ViewEncapsulation, AfterViewInit, ElementRef, ViewChild} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {FormsModule} from '@angular/forms';
 import {readingPlan} from './data/reading-plan';
@@ -23,7 +23,9 @@ import {BadgeComponent} from './components/badge/badge.component';
   templateUrl: './app.html',
   encapsulation: ViewEncapsulation.None
 })
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, AfterViewInit {
+  @ViewChild('navigationGrid', { static: false }) navigationGrid?: ElementRef;
+
   currentDay = signal(1);
   completedDays = signal<number[]>([]);
   showQuiz = signal(false);
@@ -31,6 +33,11 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.loadProgress();
     this.updateCurrentDayBasedOnProgress();
+  }
+
+  ngAfterViewInit() {
+    // Scroll to current day after view initialization
+    setTimeout(() => this.scrollToCurrentDay(), 100);
   }
 
   // Computed properties
@@ -46,7 +53,7 @@ export class AppComponent implements OnInit {
   );
 
   navigationDays = computed(() =>
-    Array.from({length: Math.min(20, 365)}, (_, i) => i + 1)
+    Array.from({length: 365}, (_, i) => i + 1)
   );
 
   // New method to get reading reference for a specific day
@@ -171,6 +178,25 @@ export class AppComponent implements OnInit {
   navigateToDay(day: number) {
     this.currentDay.set(day);
     this.showQuiz.set(false);
+    // Scroll to the selected day
+    setTimeout(() => this.scrollToCurrentDay(), 50);
+  }
+
+  private scrollToCurrentDay() {
+    if (!this.navigationGrid) return;
+
+    const currentDay = this.currentDay();
+    const gridElement = this.navigationGrid.nativeElement;
+    const dayButton = gridElement.querySelector(`[data-day="${currentDay}"]`) as HTMLElement;
+
+    if (dayButton) {
+      // Simple approach: scroll the button into view
+      dayButton.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+        inline: 'nearest'
+      });
+    }
   }
 
   getDayButtonClass(day: number): string {

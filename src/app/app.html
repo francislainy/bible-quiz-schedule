@@ -70,7 +70,7 @@
         <div class="space-y-4">
           <div>
             <h4 class="font-semibold mb-2">Today's Focus:</h4>
-            <p class="text-gray-600">{{todaysReading()?.focus}}.</p>
+            <p class="text-gray-600">{{todaysReading()?.focus}}</p>
           </div>
 
           <div *ngIf="!showQuiz()" class="space-y-4">
@@ -104,10 +104,11 @@
     <app-card>
       <div class="p-6">
         <h3 class="text-xl font-semibold mb-4">Quick Navigation</h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-2">
+        <div #navigationGrid class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-2 max-h-96 overflow-y-auto">
           <button
             *ngFor="let day of navigationDays()"
             type="button"
+            [attr.data-day]="day"
             (click)="navigateToDay(day)"
             [class]="'px-2 py-1 rounded-md text-sm font-medium transition-all duration-200 flex flex-col items-center justify-center h-14 ' + getDayButtonClass(day)">
             <div class="relative w-full">
@@ -125,8 +126,8 @@
             </div>
           </button>
         </div>
-        <p class="text-sm text-gray-500 mt-2 text-center" *ngIf="365 > 20">
-          Showing first 20 days. More days unlock as you progress.
+        <p class="text-sm text-gray-500 mt-2 text-center">
+          All 365 days available for navigation. Scroll to find any day.
         </p>
       </div>
     </app-card>
