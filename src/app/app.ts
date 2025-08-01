@@ -48,6 +48,12 @@ export class AppComponent implements OnInit {
     Array.from({length: Math.min(20, 365)}, (_, i) => i + 1)
   );
 
+  // New method to get reading reference for a specific day
+  getReadingForDay(day: number): string {
+    const reading = readingPlan.find(r => r.day === day);
+    return reading?.passage || '';
+  }
+
   private loadProgress() {
     try {
       const saved = localStorage.getItem('bible-study-progress');

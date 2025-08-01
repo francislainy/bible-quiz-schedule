@@ -1,4 +1,3 @@
-<!-- app.component.html - FIXED VERSION -->
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
   <div class="container mx-auto px-4 py-8 max-w-4xl">
     <!-- Header -->
@@ -110,17 +109,20 @@
             *ngFor="let day of navigationDays()"
             type="button"
             (click)="navigateToDay(day)"
-            [class]="'px-3 py-2 rounded-md text-sm font-medium transition-all duration-200 ' + getDayButtonClass(day)">
-            <span class="relative flex items-center justify-center">
-              Day {{day}}
+            [class]="'px-2 py-1.5 rounded-md text-sm font-medium transition-all duration-200 flex flex-col items-center justify-center h-14 ' + getDayButtonClass(day)">
+            <div class="relative w-full">
+              <div class="text-xs font-semibold leading-none">Day {{day}}</div>
+              <div class="text-[10px] mt-0.5 opacity-75 leading-none">
+                {{getReadingForDay(day)}}
+              </div>
               <svg
                 *ngIf="completedDays().includes(day)"
-                class="h-4 w-4 absolute -top-1 -right-1 text-green-100 bg-green-700 rounded-full p-0.5 border border-green-600"
+                class="h-3 w-3 absolute -top-0.5 -right-0.5 text-green-100 bg-green-700 rounded-full p-0.5 border border-green-600"
                 fill="currentColor"
                 viewBox="0 0 20 20">
                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
               </svg>
-            </span>
+            </div>
           </button>
         </div>
         <p class="text-sm text-gray-500 mt-2 text-center" *ngIf="365 > 20">
