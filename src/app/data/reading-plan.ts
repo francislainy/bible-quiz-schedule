@@ -2154,4 +2154,1130 @@ export const readingPlan: DayReading[] = [
       ]
     }
   },
+  {
+    day: 18,
+    passage: "Exodus 1–4",
+    focus: "Israel’s oppression, Moses’ birth and calling",
+    quiz: {
+      title: "📘 Exodus 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did the new Pharaoh in Egypt oppress the Israelites?",
+          options: [
+            "He feared they would join Egypt’s enemies",
+            "He thought they were lazy",
+            "He wanted their land",
+            "He disliked Joseph"
+          ],
+          correctAnswer: "He feared they would join Egypt’s enemies"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Pharaoh commanded that every newborn Hebrew boy be thrown into the Nile.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who rescued baby Moses from the Nile?",
+          correctAnswer: "Pharaoh’s daughter"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Where did Moses flee after killing an Egyptian?",
+          options: ["Midian", "Moab", "Canaan", "Sinai"],
+          correctAnswer: "Midian"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Moses married Zipporah, the daughter of Jethro, priest of Midian.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "What was the sign God gave Moses at the burning bush to confirm his calling?",
+          correctAnswer: "The bush was on fire but was not consumed"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What name did God reveal to Moses at the burning bush?",
+          options: ["Jehovah", "Elohim", "I Am", "The Almighty"],
+          correctAnswer: "Jehovah"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Moses was eager and confident to speak to Pharaoh.",
+          correctAnswer: false
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "Who did God appoint to help Moses speak to Pharaoh?",
+          correctAnswer: "Aaron, his brother"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Which miracles did God empower Moses to perform as proof?",
+          options: [
+            "Turn his staff into a serpent",
+            "Make his hand leprous and healed",
+            "Turn water into blood",
+            "All of the above"
+          ],
+          correctAnswer: "All of the above"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "Jehovah promised to be with Moses’ mouth and teach him what to say.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "What message was Moses to deliver to Pharaoh?",
+          correctAnswer: "Let my people go so that they may serve me"
+        }
+      ]
+    }
+  },
+  {
+    day: 19,
+    passage: "Exodus 5–7",
+    focus: "Moses before Pharaoh, Jehovah’s power begins",
+    quiz: {
+      title: "📘 Exodus 5–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What was Pharaoh’s response when Moses and Aaron asked him to let Israel go?",
+          correctAnswer: "He said, 'Who is Jehovah, that I should obey his voice?'"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Pharaoh made the Israelites’ work easier after Moses first spoke to him.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What extra burden did Pharaoh place on the Israelites?",
+          options: [
+            "He made them fast",
+            "He ordered them to gather their own straw but still make the same number of bricks",
+            "He doubled their workdays",
+            "He took away their food"
+          ],
+          correctAnswer: "He ordered them to gather their own straw but still make the same number of bricks"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "How did the Israelites react to Moses and Aaron after Pharaoh increased their workload?",
+          correctAnswer: "They blamed Moses and Aaron for making them odious to Pharaoh"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Moses doubted that Pharaoh would listen to him because he was 'uncircumcised in lips.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Jehovah make Moses and Aaron before Pharaoh?",
+          options: ["A prophet and a priest", "A god and a prophet", "A king and a spokesman", "A warrior and a servant"],
+          correctAnswer: "A god and a prophet"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How old was Moses when he spoke to Pharaoh?",
+          correctAnswer: "80 years old"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "How old was Aaron when he spoke to Pharaoh?",
+          correctAnswer: "83 years old"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "When Aaron threw down his rod before Pharaoh, what happened?",
+          options: [
+            "It turned into a staff",
+            "It turned into a serpent",
+            "It turned into fire",
+            "It disappeared"
+          ],
+          correctAnswer: "It turned into a serpent"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Pharaoh’s magic-practicing priests were able to imitate Aaron’s sign with their rods.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What happened to the magicians’ rods after they became serpents?",
+          correctAnswer: "Aaron’s rod swallowed up their rods"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "What was the first plague Jehovah brought upon Egypt?",
+          options: ["Frogs", "Gnats", "Water turned to blood", "Flies"],
+          correctAnswer: "Water turned to blood"
+        },
+        {
+          id: "q13",
+          type: "true-false",
+          question: "All the fish in the Nile died when the water was turned to blood.",
+          correctAnswer: true
+        },
+        {
+          id: "q14",
+          type: "short-answer",
+          question: "How did the Egyptians get drinking water after the Nile turned to blood?",
+          correctAnswer: "They dug around the Nile for fresh water"
+        }
+      ]
+    }
+  },
+  {
+    day: 20,
+    passage: "Exodus 8–10",
+    focus: "The plagues continue against Egypt",
+    quiz: {
+      title: "📘 Exodus 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was the second plague Jehovah brought on Egypt?",
+          options: ["Gnats", "Flies", "Frogs", "Locusts"],
+          correctAnswer: "Frogs"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Pharaoh’s magic-practicing priests were also able to bring frogs upon the land.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Pharaoh promise if Moses removed the frogs?",
+          correctAnswer: "He would let the people go to sacrifice to Jehovah"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What happened during the third plague?",
+          options: ["Flies filled Egypt", "The dust became gnats", "The Nile turned to blood", "Livestock died"],
+          correctAnswer: "The dust became gnats"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What did the priests say when they could not produce the gnats?",
+          correctAnswer: "'It is the finger of God.'"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Jehovah made a distinction between Egypt and Goshen during the plague of flies.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What plague killed Egypt’s livestock?",
+          options: ["The fifth plague", "The sixth plague", "The seventh plague", "The eighth plague"],
+          correctAnswer: "The fifth plague"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What disease did Jehovah strike the Egyptians and their animals with after the livestock plague?",
+          correctAnswer: "Painful boils"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What was the seventh plague?",
+          options: ["Locusts", "Darkness", "Boils", "Hail mixed with fire"],
+          correctAnswer: "Hail mixed with fire"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "The hail destroyed everything in the field, including man, beast, and plants.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "Which crops were destroyed by the hail?",
+          correctAnswer: "The flax and the barley"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "Which crops were not destroyed by the hail?",
+          correctAnswer: "The wheat and the spelt"
+        },
+        {
+          id: "q13",
+          type: "multiple-choice",
+          question: "What was the eighth plague?",
+          options: ["Darkness", "Frogs", "Locusts", "Gnats"],
+          correctAnswer: "Locusts"
+        },
+        {
+          id: "q14",
+          type: "short-answer",
+          question: "What did the locusts eat?",
+          correctAnswer: "All the vegetation of the land and all the fruit of the trees left after the hail"
+        },
+        {
+          id: "q15",
+          type: "multiple-choice",
+          question: "What was the ninth plague?",
+          options: ["Darkness", "Death of the firstborn", "Flies", "Frogs"],
+          correctAnswer: "Darkness"
+        },
+        {
+          id: "q16",
+          type: "true-false",
+          question: "The Israelites also suffered from the three days of thick darkness.",
+          correctAnswer: false
+        },
+        {
+          id: "q17",
+          type: "short-answer",
+          question: "What did Pharaoh threaten Moses with after the plague of darkness?",
+          correctAnswer: "That Moses should never see his face again or he would die"
+        }
+      ]
+    }
+  },
+  {
+    day: 21,
+    passage: "Exodus 11–13",
+    focus: "The final plague and the Exodus",
+    quiz: {
+      title: "📘 Exodus 11–13 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was the tenth and final plague announced by Jehovah?",
+          options: ["Hail", "Locusts", "Darkness", "Death of the firstborn"],
+          correctAnswer: "Death of the firstborn"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehovah said that all the firstborn in Egypt, from Pharaoh’s house to the slave girl’s, would die.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What special meal were the Israelites commanded to prepare before the final plague?",
+          correctAnswer: "The Passover meal"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What were the Israelites instructed to put on their doorposts and lintels?",
+          options: ["Oil", "Water", "Blood of a lamb", "Incense"],
+          correctAnswer: "Blood of a lamb"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What did the blood on the houses serve as?",
+          correctAnswer: "A sign so the plague would pass over their houses"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "The Israelites were to eat the Passover meal leisurely, with sandals off and staff put away.",
+          correctAnswer: false
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "How did Pharaoh react after the death of the firstborn?",
+          options: ["He hardened his heart again", "He asked Moses to bless him", "He allowed the Israelites to leave", "He punished Moses"],
+          correctAnswer: "He allowed the Israelites to leave"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "About how many Israelite men left Egypt, besides women and children?",
+          correctAnswer: "About 600,000"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "How long had the Israelites dwelled in Egypt before leaving?",
+          options: ["210 years", "350 years", "430 years", "490 years"],
+          correctAnswer: "430 years"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Jehovah commanded the Israelites to keep the Passover as a lasting memorial.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What kind of bread did the Israelites eat during Passover?",
+          correctAnswer: "Unleavened bread"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "Which firstborns were to be sanctified to Jehovah?",
+          options: ["Only the firstborn of men", "Only the firstborn of animals", "Every firstborn male, man and beast", "None of them"],
+          correctAnswer: "Every firstborn male, man and beast"
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "Why were the Israelites commanded to commemorate the day of their deliverance?",
+          correctAnswer: "Because Jehovah brought them out of Egypt by his mighty hand"
+        },
+        {
+          id: "q14",
+          type: "multiple-choice",
+          question: "What did Jehovah use to guide the Israelites by day?",
+          options: ["An angel", "A pillar of cloud", "A star", "Moses' staff"],
+          correctAnswer: "A pillar of cloud"
+        },
+        {
+          id: "q15",
+          type: "multiple-choice",
+          question: "What did Jehovah use to guide them by night?",
+          options: ["A pillar of fire", "The moon", "An angel", "Torches"],
+          correctAnswer: "A pillar of fire"
+        },
+        {
+          id: "q16",
+          type: "true-false",
+          question: "The pillar of cloud and fire departed from the Israelites during their journey.",
+          correctAnswer: false
+        }
+      ]
+    }
+  },
+  {
+    day: 22,
+    passage: "Exodus 14–15",
+    focus: "Crossing the Red Sea and the Song of Moses",
+    quiz: {
+      title: "📘 Exodus 14–15 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where did Jehovah tell the Israelites to camp before crossing the sea?",
+          options: ["At Succoth", "At Pithom", "Near Pi-hahiroth by the sea", "At Marah"],
+          correctAnswer: "Near Pi-hahiroth by the sea"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "Why did Pharaoh change his mind and pursue the Israelites?",
+          correctAnswer: "He thought they were trapped and regretted letting them go"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Pharaoh took 600 chosen chariots and other chariots of Egypt to pursue the Israelites.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Jehovah tell Moses to do to divide the Red Sea?",
+          options: ["Strike it with his staff", "Raise his hand with his staff", "Pray aloud", "Step into the water first"],
+          correctAnswer: "Raise his hand with his staff"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "How did Jehovah keep the Egyptians from reaching the Israelites before they crossed the sea?",
+          correctAnswer: "The angel of God and the pillar of cloud moved behind them"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How did the Israelites cross the Red Sea?",
+          options: ["By boats", "By a bridge", "On dry land with walls of water on both sides", "Swimming"],
+          correctAnswer: "On dry land with walls of water on both sides"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "Jehovah caused the wheels of the Egyptian chariots to wobble and bog down.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened when Moses stretched out his hand after the Israelites crossed?",
+          options: ["The sea dried up permanently", "The waters returned and drowned the Egyptians", "The sea turned into a river", "The waters stayed parted forever"],
+          correctAnswer: "The waters returned and drowned the Egyptians"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "How did the Israelites react when they saw the Egyptians dead on the seashore?",
+          correctAnswer: "They feared Jehovah and put faith in Him and Moses"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who sang a song of victory after crossing the sea?",
+          options: ["Moses and the men of Israel", "Aaron and the priests", "Joshua", "Miriam alone"],
+          correctAnswer: "Moses and the men of Israel"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "Miriam, the prophetess, took a tambourine and led the women in song and dance.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "What did the song of Moses primarily praise Jehovah for?",
+          correctAnswer: "For throwing Pharaoh’s army into the sea and showing His great power"
+        },
+        {
+          id: "q13",
+          type: "multiple-choice",
+          question: "After crossing the Red Sea, where did the Israelites travel and find bitter water?",
+          options: ["Marah", "Elim", "Sinai", "Rameses"],
+          correctAnswer: "Marah"
+        },
+        {
+          id: "q14",
+          type: "short-answer",
+          question: "How did Jehovah make the bitter water at Marah drinkable?",
+          correctAnswer: "Moses threw a piece of wood into the water, and it became sweet"
+        },
+        {
+          id: "q15",
+          type: "true-false",
+          question: "At Elim, the Israelites found twelve springs of water and seventy palm trees.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 23,
+    passage: "Exodus 16–18",
+    focus: "Manna and quail, water from the rock, and Jethro’s advice",
+    quiz: {
+      title: "📘 Exodus 16–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did the Israelites complain about in the wilderness of Sin?",
+          options: ["No meat and bread", "Lack of water", "No protection from enemies", "Too much walking"],
+          correctAnswer: "No meat and bread"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "What two foods did Jehovah provide for the Israelites in the wilderness?",
+          correctAnswer: "Manna and quail"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Manna appeared every morning except on the seventh day.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How much manna was each person to gather daily?",
+          options: ["One omer", "Two omers", "A basketful", "As much as they wanted"],
+          correctAnswer: "One omer"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What happened to manna kept overnight on regular days?",
+          options: ["It stayed fresh", "It multiplied", "It bred worms and stank", "It turned to dust"],
+          correctAnswer: "It bred worms and stank"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "On the sixth day, the Israelites gathered twice as much manna, and it did not spoil overnight.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How long did the Israelites eat manna?",
+          correctAnswer: "40 years, until they entered the land of Canaan"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Jehovah tell Moses to strike at Rephidim to provide water?",
+          options: ["A rock in Horeb", "The ground", "A tree", "His staff"],
+          correctAnswer: "A rock in Horeb"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "What was the place where water came from the rock called?",
+          correctAnswer: "Massah and Meribah"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who attacked Israel at Rephidim?",
+          options: ["The Amalekites", "The Philistines", "The Moabites", "The Midianites"],
+          correctAnswer: "The Amalekites"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What happened when Moses held up his hands during the battle against Amalek?",
+          correctAnswer: "Israel prevailed"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "Aaron and Hur supported Moses’ hands until sunset, helping Israel defeat Amalek.",
+          correctAnswer: true
+        },
+        {
+          id: "q13",
+          type: "multiple-choice",
+          question: "Who came to visit Moses in the wilderness?",
+          options: ["His brother Aaron", "His wife Zipporah", "His father-in-law Jethro", "Joshua"],
+          correctAnswer: "His father-in-law Jethro"
+        },
+        {
+          id: "q14",
+          type: "short-answer",
+          question: "What advice did Jethro give Moses?",
+          correctAnswer: "To appoint capable men as chiefs over thousands, hundreds, fifties, and tens to judge the people"
+        },
+        {
+          id: "q15",
+          type: "true-false",
+          question: "Moses rejected Jethro’s advice and chose to continue judging alone.",
+          correctAnswer: false
+        }
+      ]
+    }
+  },
+  {
+    day: 24,
+    passage: "Exodus 19–21",
+    focus: "Israel at Mount Sinai, the Ten Commandments, and laws for the nation",
+    quiz: {
+      title: "📘 Exodus 19–21 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where did the Israelites camp in the third month after leaving Egypt?",
+          options: ["At Rephidim", "At Mount Sinai", "At the Red Sea", "At Jericho"],
+          correctAnswer: "At Mount Sinai"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "What did Jehovah say Israel would become if they obeyed His voice and kept His covenant?",
+          correctAnswer: "A special property, a kingdom of priests, and a holy nation"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "The Israelites were told not to touch the mountain when Jehovah descended on it.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What physical signs accompanied Jehovah’s presence on Mount Sinai?",
+          options: ["Thunder, lightning, thick cloud, and a loud trumpet sound", "A rainbow and fire", "Earthquake and wind", "Darkness and silence"],
+          correctAnswer: "Thunder, lightning, thick cloud, and a loud trumpet sound"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "Which of the following is the first of the Ten Commandments?",
+          options: [
+            "You must not murder",
+            "You must not have any other gods besides me",
+            "Remember the Sabbath day",
+            "Honor your father and mother"
+          ],
+          correctAnswer: "You must not have any other gods besides me"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "The Israelites were commanded to make gods of silver and gold to represent Jehovah.",
+          correctAnswer: false
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What were the Israelites commanded to remember and keep holy as a day of rest?",
+          correctAnswer: "The Sabbath day"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What promise is attached to honoring your father and mother?",
+          options: [
+            "You will live long in the land Jehovah is giving you",
+            "You will have many children",
+            "You will prosper in trade",
+            "You will be safe from enemies"
+          ],
+          correctAnswer: "You will live long in the land Jehovah is giving you"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "What did Jehovah say should be done to anyone who strikes their father or mother?",
+          correctAnswer: "They must be put to death"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "The law said a Hebrew slave was to serve six years and go free in the seventh year.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "What happened if a servant declared he loved his master and did not want to go free?",
+          options: [
+            "He was released anyway",
+            "He remained as a slave forever, with his ear pierced at the door",
+            "He paid a ransom to stay",
+            "He became like a son to the master"
+          ],
+          correctAnswer: "He remained as a slave forever, with his ear pierced at the door"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "What was the penalty for kidnapping a man and selling him?",
+          correctAnswer: "The kidnapper must be put to death"
+        },
+        {
+          id: "q13",
+          type: "multiple-choice",
+          question: "What was the principle given for punishment in cases of injury?",
+          options: [
+            "Sevenfold repayment",
+            "Eye for eye, tooth for tooth, hand for hand, foot for foot",
+            "Double restitution",
+            "No punishment required"
+          ],
+          correctAnswer: "Eye for eye, tooth for tooth, hand for hand, foot for foot"
+        },
+        {
+          id: "q14",
+          type: "true-false",
+          question: "If an ox killed someone, the ox was to be stoned, and the owner was always put to death.",
+          correctAnswer: false
+        },
+        {
+          id: "q15",
+          type: "short-answer",
+          question: "What did Jehovah say about building an altar of stones?",
+          correctAnswer: "It should be made of natural stones, not cut with tools"
+        }
+      ]
+    }
+  },
+  {
+    day: 25,
+    passage: "Exodus 22–25",
+    focus: "Various laws, the covenant confirmed, and instructions for the tabernacle",
+    quiz: {
+      title: "📘 Exodus 22–25 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was the penalty if someone stole an ox or a sheep and killed or sold it?",
+          options: [
+            "They were stoned",
+            "They restored double",
+            "They repaid five oxen for one ox and four sheep for one sheep",
+            "They were imprisoned"
+          ],
+          correctAnswer: "They repaid five oxen for one ox and four sheep for one sheep"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "A sorceress was not to be allowed to live.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jehovah command regarding the treatment of foreigners?",
+          correctAnswer: "Do not mistreat or oppress a foreign resident, for Israel was once foreign in Egypt."
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Jehovah say should not be delayed in giving?",
+          options: ["Tithes", "Firstfruits and firstborn sons", "Sacrifices", "The Sabbath offering"],
+          correctAnswer: "Firstfruits and firstborn sons"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "How many years was the land to be sown before letting it rest in the seventh?",
+          correctAnswer: "Six years"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "The Israelites were commanded to celebrate three annual festivals to Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "Which festivals were commanded in Exodus 23?",
+          options: ["Passover, Festival of Unleavened Bread, Festival of Booths", "Festival of Unleavened Bread, Harvest, Ingathering", "Festival of Lights, Passover, Trumpets", "Day of Atonement, Passover, Ingathering"],
+          correctAnswer: "Festival of Unleavened Bread, Harvest, Ingathering"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What did Moses read to the people before they agreed to the covenant?",
+          correctAnswer: "The book of the covenant"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "How many elders of Israel went up the mountain with Moses?",
+          options: ["12", "24", "40", "70"],
+          correctAnswer: "70"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "The elders of Israel saw a vision of the God of Israel and ate and drank in His presence.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "How many days did the cloud cover Mount Sinai before Jehovah called Moses inside?",
+          correctAnswer: "Six days"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "How long did Moses remain on the mountain when Jehovah gave him instructions for the tabernacle?",
+          options: ["20 days", "30 days", "40 days and nights", "50 days"],
+          correctAnswer: "40 days and nights"
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "What did Jehovah ask the Israelites to contribute for the tabernacle?",
+          correctAnswer: "A voluntary offering of gold, silver, copper, fine linen, precious stones, and other materials"
+        },
+        {
+          id: "q14",
+          type: "multiple-choice",
+          question: "What piece of furniture was to be placed inside the Most Holy?",
+          options: ["The table of showbread", "The golden lampstand", "The Ark of the Covenant", "The altar of incense"],
+          correctAnswer: "The Ark of the Covenant"
+        },
+        {
+          id: "q15",
+          type: "true-false",
+          question: "The cherubs on the Ark’s cover were to face away from each other.",
+          correctAnswer: false
+        },
+        {
+          id: "q16",
+          type: "short-answer",
+          question: "What was placed on the table in the Holy Place before Jehovah always?",
+          correctAnswer: "Showbread"
+        },
+        {
+          id: "q17",
+          type: "multiple-choice",
+          question: "How many branches did the golden lampstand have?",
+          options: ["3", "5", "7", "9"],
+          correctAnswer: "7"
+        }
+      ]
+    }
+  },
+  {
+    day: 26,
+    passage: "Exodus 26–28",
+    focus: "Tabernacle structure, priestly garments, consecration instructions",
+    quiz: {
+      title: "📘 Exodus 26–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What material was used for the inner tabernacle curtains?",
+          options: [
+            "Wool dyed scarlet only",
+            "Fine linen with blue, purple, and scarlet yarn and cherub designs",
+            "Goat hair woven together",
+            "Ram skins dyed red"
+          ],
+          correctAnswer: "Fine linen with blue, purple, and scarlet yarn and cherub designs"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "What divided the Holy Place from the Most Holy?",
+          correctAnswer: "A curtain (veil) with cherubs embroidered on it"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "The Ark of the Covenant was placed in the Holy Place.",
+          correctAnswer: false
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was placed in the Holy Place, outside the curtain?",
+          options: [
+            "The altar of incense, the table of showbread, and the lampstand",
+            "The Ark of the Covenant and mercy seat",
+            "The laver and bronze altar",
+            "Only the golden lampstand"
+          ],
+          correctAnswer: "The altar of incense, the table of showbread, and the lampstand"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What covered the tabernacle over the inner linen curtains?",
+          correctAnswer: "Tent cloths made of goat hair, ram skins dyed red, and sealskins"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What material was the altar of burnt offering made of?",
+          options: ["Gold", "Silver", "Acacia wood overlaid with copper", "Stone"],
+          correctAnswer: "Acacia wood overlaid with copper"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "The courtyard surrounding the tabernacle was rectangular, enclosed with linen hangings.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "Who was chosen to serve as priests for Jehovah?",
+          correctAnswer: "Aaron and his sons"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What was engraved on the two onyx stones worn on the high priest’s ephod?",
+          options: [
+            "The Ten Commandments",
+            "The names of the 12 tribes of Israel",
+            "The covenant law",
+            "The name of Jehovah"
+          ],
+          correctAnswer: "The names of the 12 tribes of Israel"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What was in the breastpiece of judgment?",
+          correctAnswer: "Twelve stones with the names of the 12 tribes of Israel, and the Urim and Thummim"
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "What was written on the gold plate fastened to the high priest’s turban?",
+          options: ["The Ten Commandments", "Holy to Jehovah", "Aaron the High Priest", "Tribe of Levi"],
+          correctAnswer: "Holy to Jehovah"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "Ordinary priests wore tunics, sashes, and caps of fine linen.",
+          correctAnswer: true
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "What color thread was woven into the high priest’s robe, ephod, and breastpiece?",
+          correctAnswer: "Blue, purple, and scarlet"
+        },
+        {
+          id: "q14",
+          type: "multiple-choice",
+          question: "What hung on the hem of the high priest’s robe?",
+          options: ["Golden bells and pomegranates", "Silver tassels", "Scarlet cords", "Cherub designs"],
+          correctAnswer: "Golden bells and pomegranates"
+        }
+      ]
+    }
+  },
+  {
+    day: 27,
+    passage: "Exodus 29–30",
+    focus: "Priestly consecration, daily offerings, incense altar, and atonement money",
+    quiz: {
+      title: "📘 Exodus 29–30 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What animals were used in the consecration of Aaron and his sons?",
+          correctAnswer: "One young bull and two rams"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What was done with the blood of the ram of installation?",
+          options: [
+            "It was poured on the ground",
+            "It was sprinkled on the altar and put on the right ear, thumb, and big toe of Aaron and his sons",
+            "It was burned completely outside the camp",
+            "It was mixed with oil for anointing"
+          ],
+          correctAnswer: "It was sprinkled on the altar and put on the right ear, thumb, and big toe of Aaron and his sons"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Aaron and his sons were to eat the installation offering along with unleavened bread.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "How many days did the installation of Aaron and his sons last?",
+          correctAnswer: "Seven days"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What was the daily burnt offering Israel was to present?",
+          options: [
+            "One bull in the morning and one in the evening",
+            "Two goats each day",
+            "Two one-year-old lambs, one in the morning and one at twilight",
+            "A ram and a bull every morning"
+          ],
+          correctAnswer: "Two one-year-old lambs, one in the morning and one at twilight"
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "Where did Jehovah promise to meet with the sons of Israel?",
+          correctAnswer: "At the entrance of the tent of meeting"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What was the altar of incense made of?",
+          options: ["Gold", "Acacia wood overlaid with gold", "Silver", "Bronze"],
+          correctAnswer: "Acacia wood overlaid with gold"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "The incense altar was placed inside the curtain, in front of the Ark.",
+          correctAnswer: false
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "How often was incense to be burned on the golden altar?",
+          correctAnswer: "Every morning and at twilight"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was to be done once a year to the horns of the incense altar?",
+          options: [
+            "Polished with oil",
+            "Anointed with incense",
+            "Purified with atonement blood",
+            "Covered with gold dust"
+          ],
+          correctAnswer: "Purified with atonement blood"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "What did each Israelite have to give when registered in a census?",
+          correctAnswer: "A ransom for his life, a half-shekel contribution"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "The atonement money collected during the census was used to support the service of the tent of meeting.",
+          correctAnswer: true
+        },
+        {
+          id: "q13",
+          type: "multiple-choice",
+          question: "What was the bronze basin (laver) used for?",
+          options: [
+            "Burning incense",
+            "Washing hands and feet of priests before approaching the altar or entering the tent",
+            "Collecting blood of sacrifices",
+            "Storing oil for anointing"
+          ],
+          correctAnswer: "Washing hands and feet of priests before approaching the altar or entering the tent"
+        }
+      ]
+    }
+  },
+
 ];
