@@ -127,5 +127,23 @@
         </p>
       </div>
     </app-card>
+
+    <!-- Reset Progress Section -->
+    <app-card class="shadow-lg mt-8">
+      <div class="p-6 bg-white bg-opacity-80">
+        <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+          <h4 class="font-semibold text-red-800 mb-2">Reset Progress</h4>
+          <p class="text-red-700 text-sm mb-3">
+            This will permanently delete all your study progress and reset you back to Day 1.
+          </p>
+          <button
+            type="button"
+            (click)="resetProgress()"
+            class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white text-sm font-medium rounded-md transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2">
+            Reset All Progress
+          </button>
+        </div>
+      </div>
+    </app-card>
   </div>
 </div>

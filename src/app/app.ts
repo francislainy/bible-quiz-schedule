@@ -243,4 +243,21 @@ export class AppComponent implements OnInit, AfterViewInit {
       return 'relative bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-300';
     }
   }
+
+  // Add this method to your AppComponent class
+  resetProgress() {
+    if (confirm('Are you sure you want to reset all progress? This cannot be undone.')) {
+      try {
+        localStorage.removeItem('bible-study-progress');
+        this.completedDays.set([]);
+        this.currentDay.set(1);
+        this.showQuiz.set(false);
+
+        // Scroll to day 1 after reset
+        setTimeout(() => this.scrollToCurrentDay(), 100);
+      } catch (error) {
+        console.error('Error resetting progress:', error);
+      }
+    }
+  }
 }
