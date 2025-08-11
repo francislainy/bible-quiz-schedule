@@ -71,7 +71,6 @@
           <div *ngIf="!showQuiz()" class="space-y-4">
             <app-button
               (click)="startQuiz()"
-              [disabled]="isCurrentDayCompleted()"
               class="w-full shadow-md">
               {{ isCurrentDayCompleted() ? 'Quiz Completed' : 'Start Study Quiz' }}
             </app-button>

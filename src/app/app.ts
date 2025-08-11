@@ -223,13 +223,9 @@ export class AppComponent implements OnInit, AfterViewInit {
       // Calculate the relative position of the button within the grid
       const relativeTop = buttonRect.top - gridRect.top + gridElement.scrollTop;
 
-      // Calculate scroll position to center the button in the container
-      const containerHeight = gridElement.clientHeight;
-      const scrollTop = relativeTop - (containerHeight / 2) + (dayButton.offsetHeight / 2);
-
-      // Smoothly scroll within the grid container only
+      // Smoothly scroll to bring the button to the top of the container
       gridElement.scrollTo({
-        top: Math.max(0, scrollTop),
+        top: relativeTop,
         behavior: 'smooth'
       });
     }
