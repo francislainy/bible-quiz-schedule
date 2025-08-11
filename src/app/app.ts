@@ -195,15 +195,13 @@ export class AppComponent implements OnInit, AfterViewInit {
   navigateToDay(day: number) {
     this.currentDay.set(day);
     this.showQuiz.set(false);
-    // Scroll to Today's Reading section
+
+    // Scroll to top of page
     setTimeout(() => {
-      const element = document.getElementById('todays-reading');
-      if (element) {
-        element.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
-        });
-      }
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
     }, 50);
 
     // Then scroll to the selected day in the grid
