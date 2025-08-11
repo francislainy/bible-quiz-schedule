@@ -196,12 +196,22 @@ export class AppComponent implements OnInit, AfterViewInit {
     const gridElement = this.navigationGrid.nativeElement;
     const dayButton = gridElement.querySelector(`[data-day="${currentDay}"]`) as HTMLElement;
 
-    if (dayButton) {
-      // Simple approach: scroll the button into view
-      dayButton.scrollIntoView({
-        behavior: 'smooth',
-        block: 'center',
-        inline: 'nearest'
+    if (dayButton && gridElement) {
+      // Get the button's position relative to the grid container
+      const gridRect = gridElement.getBoundingClientRect();
+      const buttonRect = dayButton.getBoundingClientRect();
+
+      // Calculate the relative position of the button within the grid
+      const relativeTop = buttonRect.top - gridRect.top + gridElement.scrollTop;
+
+      // Calculate scroll position to center the button in the container
+      const containerHeight = gridElement.clientHeight;
+      const scrollTop = relativeTop - (containerHeight / 2) + (dayButton.offsetHeight / 2);
+
+      // Smoothly scroll within the grid container only
+      gridElement.scrollTo({
+        top: Math.max(0, scrollTop),
+        behavior: 'smooth'
       });
     }
   }
