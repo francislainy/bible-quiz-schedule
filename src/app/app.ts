@@ -171,6 +171,16 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   startQuiz() {
     this.showQuiz.set(true);
+
+    setTimeout(() => {
+      const element = document.getElementById('todays-reading');
+      if (element) {
+        element.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    }, 50);
   }
 
   cancelQuiz() {
@@ -185,8 +195,19 @@ export class AppComponent implements OnInit, AfterViewInit {
   navigateToDay(day: number) {
     this.currentDay.set(day);
     this.showQuiz.set(false);
-    // Scroll to the selected day
-    setTimeout(() => this.scrollToCurrentDay(), 50);
+    // Scroll to Today's Reading section
+    setTimeout(() => {
+      const element = document.getElementById('todays-reading');
+      if (element) {
+        element.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    }, 50);
+
+    // Then scroll to the selected day in the grid
+    setTimeout(() => this.scrollToCurrentDay(), 100);
   }
 
   private scrollToCurrentDay() {
