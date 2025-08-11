@@ -2,59 +2,53 @@
 <div class="min-h-screen bg-blue-100">
   <div class="container mx-auto px-4 py-10 max-w-4xl">
     <!-- Header -->
-    <div class="text-center mb-10">
+    <div class="text-center mb-8">
       <h1 class="text-4xl font-bold text-indigo-900 mb-2">Daily Bible Study Guide</h1>
       <p class="text-lg text-indigo-700">
         Complete the Bible in 365 days with guided study questions
       </p>
     </div>
 
-    <!-- Progress Overview -->
-    <app-card class="mb-8 shadow-lg">
-      <div class="p-6 bg-white bg-opacity-80">
-        <h3 class="text-xl font-semibold mb-4 flex items-center gap-2 text-indigo-800">
-          <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                  d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
-          </svg>
-          Your Progress
-        </h3>
-        <div class="space-y-4">
-          <div>
-            <div class="flex justify-between text-sm mb-2 font-medium text-indigo-700">
-              <span>Days Completed</span>
-              <span>{{ completedDays().length }}/365</span>
-            </div>
-            <app-progress [value]="progressPercentage()" class="h-2"></app-progress>
-          </div>
-        </div>
-      </div>
-    </app-card>
-
-    <!-- Today's Reading -->
+    <!-- Today's Reading with Integrated Progress -->
     <app-card id="todays-reading" class="mb-8 shadow-lg">
       <div class="p-6 bg-white bg-opacity-80">
-        <div class="flex items-center justify-between mb-5">
-          <div>
-            <h3 class="text-xl font-semibold flex items-center gap-2 text-indigo-800">
-              <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                      d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
-              </svg>
-              Day {{ currentDay() }} Reading
-            </h3>
+        <!-- Header with Reading Title and Compact Progress -->
+        <div class="flex items-start justify-between mb-5">
+          <div class="flex-1">
+            <div class="flex items-center justify-between">
+              <div class="flex items-center gap-3">
+                <h3 class="text-xl font-semibold flex items-center gap-2 text-indigo-800">
+                  <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+                  </svg>
+                  Day {{ currentDay() }} Reading
+                </h3>
+
+                <!-- Status Badge beside title -->
+                @if (isCurrentDayCompleted()) {
+                  <div class="flex items-center gap-1 bg-green-50 px-2 py-1 rounded-full text-green-700">
+                    <svg class="h-3 w-3 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <span class="text-sm">Completed</span>
+                  </div>
+                }
+              </div>
+
+              <!-- Compact Progress on the right -->
+              <div class="flex items-center gap-3 ml-6">
+                <div class="w-24 sm:w-32">
+                  <app-progress [value]="progressPercentage()" class="h-1.5"></app-progress>
+                </div>
+                <span class="text-xs font-medium text-indigo-500 whitespace-nowrap">
+                  {{ completedDays().length }}/365
+                </span>
+              </div>
+            </div>
             <p class="text-lg font-medium mt-2 text-indigo-600">{{ todaysReading()?.passage }}</p>
           </div>
-          @if (isCurrentDayCompleted()) {
-            <div
-              class="flex items-center gap-1 bg-green-50 px-3 py-1.5 rounded-full text-green-700">
-              <svg class="h-4 w-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                      d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-              </svg>
-              <span>Completed</span>
-            </div>
-          }
         </div>
 
         <div class="space-y-5">
