@@ -96,57 +96,57 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "For disobeying God."
         },
         {
-          id: "q11",
+          id: "q12",
           type: "short-answer",
           question: "What was placed to guard the way to the tree of life?",
           correctAnswer: "Angels (Cherubs) holding a sword."
         },
 
         {
-          id: "q12",
+          id: "q13",
           type: "short-answer",
           question: "In the beginning, what did God first create?",
           correctAnswer: 'The heavens and the earth'
         },
         {
-          id: "q13",
+          id: "q14",
           type: "short-answer",
           question: "What did God use to create things?",
           correctAnswer: 'His active force.'
         },
         {
-          id: "q14",
+          id: "q15",
           type: "short-answer",
           question: "What did God create on the first day?",
           correctAnswer: "Day and Night."
         },
         {
-          id: "q15",
+          id: "q16",
           type: "short-answer",
           question: "What was the first commandment God gave to the first man?",
           correctAnswer: "Be fruitful and become many."
         },
         {
-          id: "q16",
+          id: "q17",
           type: "true-false",
           question: "Man was created from dust.",
           correctAnswer: true
         },
         {
-          id: "q17",
+          id: "q18",
           type: "short-answer",
           question: "Which two special trees were there in the Garden of Eve?",
           correctAnswer: 'The tree of life and the tree of knowledge of good and bad.'
         },
         {
-          id: "q18",
+          id: "q19",
           type: "multiple-choice",
           question: "How many rivers did the river which flew out of Eden divided into?",
           options: ["Two", "Three", "Four", "Five"],
           correctAnswer: "Four"
         },
         {
-          id: "q19",
+          id: "q20",
           type: "short-answer",
           question: "The fruit of which tree was Adam not allowed to eat?",
           correctAnswer: "The fruit from the tree of knowledge of God and Bad."
@@ -187,107 +187,107 @@ export const readingPlan: DayReading[] = [
           correctAnswer: true,
         },
         {
-          id: "q5",
+          id: "q4",
           type: "short-answer",
           question: "What did God say about the violence in Noah's time?"
         },
         {
-          id: "q6",
+          id: "q5",
           type: "short-answer",
           question: "Who was the first human born out of other humans?",
           correctAnswer: "Cain"
         },
         {
-          id: "q8",
+          id: "q6",
           type: "true-false",
           question: "Abel brought fruits as an offering to Jehovah?",
           correctAnswer: false
         },
         {
-          id: "q9",
+          id: "q7",
           type: "true-false",
           question: "Cain brought fruits as an offering to Jehovah?",
           correctAnswer: true
         },
         {
-          id: "q10",
+          id: "q8",
           type: "short-answer",
           question: "What did Jehovah said to Cain when he noticed he was close to commiting a sin?",
           correctAnswer: "He tried to convince him not to do it."
         },
         {
-          id: "q11",
+          id: "q9",
           type: "short-answer",
           question: "How was it possible that Cain had a wife?",
           correctAnswer: "Adam and Eve had sons and daughters."
         },
         {
-          id: "q12",
+          id: "q10",
           type: "short-answer",
           question: "Who was the third son of Adam and Eve?",
           correctAnswer: "Seth."
         },
         {
-          id: "q13",
+          id: "q11",
           type: "true-false",
           question: "Shem, Ham and Japheth were Noah's sons.",
           correctAnswer: true
         },
         {
-          id: "q14",
+          id: "q12",
           type: "short-answer",
           question: "What happened to Enoch after he died?",
           correctAnswer: "God took him."
         },
         {
-          id: "q15",
+          id: "q13",
           type: "multiple-choice",
           question: "Who was Noah's father?",
           options: ["Adam", "Seth", "Lamech", "Methuselah"],
           correctAnswer: "Lamech"
         },
         {
-          id: "q16",
+          id: "q14",
           type: "multiple-choice",
           question: "Who were the Nephilims?",
           options: ["Good angels", "People from nations opposing Jehovah", "Sons of Cain", "Bad angels who came down to earth to marry women"],
           correctAnswer: "Bad angels who came down to earth to marry women"
         },
         {
-          id: "q17",
+          id: "q15",
           type: "true-false",
           question: "The sons of the Nephilims were good people.",
           correctAnswer: false
         },
         {
-          id: "q18",
+          id: "q16",
           type: "short-answer",
           question: "How did Jehovah feel when he saw how people were behaving during Noah's time?",
           correctAnswer: "He regretted making mankind"
         },
         {
-          id: "q19",
+          id: "q17",
           type: "multiple-choice",
           question: "How many animals of each kind was Noah ordered to bring into the Ark?",
           options: ["1", "2", "3", "4"],
           correctAnswer: "2"
         },
         {
-          id: "q20",
+          id: "q18",
           type: "multiple-choice",
           question: "How old was Noah when the floodwaters came upon the earth?",
           options: ["300", "500", "600", "750"],
           correctAnswer: "600"
         },
         {
-          id: "q21",
+          id: "q19",
           type: "multiple-choice",
           question: "How many people entered the Ark together with Noah?",
           options: ["3", "6", "7", "8"],
           correctAnswer: "7"
         },
         {
-          id: "q22",
+          id: "q20",
           type: "true-false",
           question: "It rained for 7 days and 7 nights during the flood.",
           correctAnswer: false
@@ -417,7 +417,6 @@ export const readingPlan: DayReading[] = [
           options: ["Sarah", "Rachel", "Rebekah", "Mary"],
           correctAnswer: "Sarah"
         },
-
       ]
     }
   },
@@ -504,32 +503,32 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "His faith"
         },
         {
-          id: "q12",
+          id: "q11",
           type: "true-false",
           question: "In a vision, Jehovah told Abram his offspring would be enslaved for 400 years.",
           correctAnswer: true
         },
         {
-          id: "q14",
+          id: "q12",
           type: "true-false",
           question: "Abraham was very poor.",
           correctAnswer: false
         },
         {
-          id: "q15",
+          id: "q13",
           type: "short-answer",
           question: "Why did Lob move to a city near Sodom?",
           correctAnswer: "There was quarreling between his crew and Abraham's due to lack of space for both being together."
         },
         {
-          id: "q16",
+          id: "q14",
           type: "multiple-choice",
           question: "Which person did Abraham needed to rescue out of an enemy tribe?",
           options: ["Sarah", "Lot", "Isaac", "Isaac's wife"],
           correctAnswer: "Lot"
         },
         {
-          id: "q17",
+          id: "q15",
           type: "short-answer",
           question: "Why did Abraham refuse money from the king of Sodom?",
           correctAnswer: "So that people wouldn't say that he'd become rich on his expense"
@@ -582,31 +581,31 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Ishmael"
         },
         {
-          id: "q5",
+          id: "q4",
           type: "true-false",
           question: "The angel of Jehovah told Hagar Ishmael's hand would be against everyone, and everyone's hand would be against him.",
           correctAnswer: "You are a God who sees me"
         },
         {
-          id: "q6",
+          id: "q5",
           type: "short-answer",
           question: "How old was Abram when Ishmael was born?",
           correctAnswer: "86 years old"
         },
         {
-          id: "q7",
+          id: "q6",
           type: "true-false",
           question: "God changed Abram’s name to Abraham.",
           correctAnswer: true
         },
         {
-          id: "q8",
+          id: "q7",
           type: "true-false",
           question: "Jehovah said Sarah would never bear a child due to her old age.",
           correctAnswer: false
         },
         {
-          id: "q9",
+          id: "q8",
           type: "multiple-choice",
           question: "What sign did Jehovah give to confirm the covenant with Abraham?",
           options: [
@@ -618,38 +617,38 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Circumcision"
         },
         {
-          id: "q10",
+          id: "q9",
           type: "short-answer",
           question: "How old was Abraham when he was circumcised?",
           correctAnswer: "99 years old"
         },
         {
-          id: "q11",
+          id: "q10",
           type: "multiple-choice",
           question: "How did Sarah react when she heard she would have a son?",
           options: ["She rejoiced", "She cried", "She laughed", "She fainted"],
           correctAnswer: "She laughed"
         },
         {
-          id: "q12",
+          id: "q11",
           type: "short-answer",
           question: "What question did Jehovah ask Sarah after she laughed?",
           correctAnswer: "Is anything too extraordinary for Jehovah?"
         },
         {
-          id: "q13",
+          id: "q12",
           type: "true-false",
           question: "Abraham welcomed three men and showed them hospitality.",
           correctAnswer: true
         },
         {
-          id: "q14",
+          id: "q13",
           type: "short-answer",
           question: "What city did Jehovah say He would investigate due to its grave sin?",
           correctAnswer: "Sodom"
         },
         {
-          id: "q15",
+          id: "q14",
           type: "multiple-choice",
           question: "How many times did Abraham ask Jehovah whether he would spare Sodom from destruction if righteous people were found there?",
           options: ["4", "5", "6", "7"],
@@ -710,7 +709,7 @@ export const readingPlan: DayReading[] = [
           correctAnswer: true
         },
         {
-          id: "q6",
+          id: "q7",
           type: "multiple-choice",
           question: "How did Jehovah destroy Sodom and Gomorrah?",
           options: [
@@ -722,26 +721,26 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "With fire and sulfur"
         },
         {
-          id: "q6",
+          id: "q8",
           type: "true-false",
           question: "The Moabites and Ammonites are direct descendants of Lot.",
           correctAnswer: true
         },
         {
-          id: "q7",
+          id: "q9",
           type: "multiple-choice",
           question: "What did Abraham say about Sarah when staying in Gerar?",
           options: ["She is my cousin", "She is my wife", "She is my servant", "She is my sister"],
           correctAnswer: "She is my sister"
         },
         {
-          id: "q8",
+          id: "q10",
           type: "true-false",
           question: "Isaac was born when Abraham was 100 years old.",
           correctAnswer: true
         },
         {
-          id: "q9",
+          id: "q11",
           type: "multiple-choice",
           question: "Why was Hagar sent away with Ishmael?",
           options: [
@@ -753,57 +752,57 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Because of the inheritance issue"
         },
         {
-          id: "q10",
+          id: "q12",
           type: "true-false",
           question: "God promised to make Ishmael into a great nation.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q13",
           type: "short-answer",
           question: "What did Jehovah ask Abraham to do with Isaac as a test of faith?",
           correctAnswer: "Offer him as a burnt offering"
         },
         {
-          id: "q12",
+          id: "q14",
           type: "multiple-choice",
           question: "Where did Abraham take Isaac to offer him?",
           options: ["Bethel", "Mount Horeb", "Mount Moriah", "Hebron"],
           correctAnswer: "Mount Moriah"
         },
         {
-          id: "q13",
+          id: "q15",
           type: "true-false",
           question: "Isaac carried the wood for the offering.",
           correctAnswer: true
         },
         {
-          id: "q13",
+          id: "q16",
           type: "true-false",
           question: "Isaac knew he was going to be offered as a sacrifice and helped Abraham with the preparations for it.",
           correctAnswer: false
         },
         {
-          id: "q14",
+          id: "q17",
           type: "short-answer",
           question: "What did Abraham say when Isaac asked where the lamb for the offering was?",
           correctAnswer: "God will provide the lamb"
         },
         {
-          id: "q15",
+          id: "q18",
           type: "multiple-choice",
           question: "What stopped Abraham from sacrificing Isaac?",
           options: ["His own decision", "A voice from the sky", "An angel of Jehovah", "Sarah's intervention"],
           correctAnswer: "An angel of Jehovah"
         },
         {
-          id: "q16",
+          id: "q19",
           type: "short-answer",
           question: "What was caught in a thicket and offered in place of Isaac?",
           correctAnswer: "A ram"
         },
         {
-          id: "q17",
+          id: "q20",
           type: "true-false",
           question: "Jehovah swore by Himself to bless Abraham and multiply his offspring.",
           correctAnswer: true
@@ -869,7 +868,7 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "That the woman would offer him and his camels water"
         },
         {
-          id: "q9",
+          id: "q8",
           type: "multiple-choice",
           question: "What did the servant give to Rebekah?",
           options: [
@@ -881,32 +880,32 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "A gold nose ring and two bracelets"
         },
         {
-          id: "q10",
+          id: "q9",
           type: "true-false",
           question: "Rebekah and her family immediately refused the servant’s request for her to marry Isaac.",
           correctAnswer: false
         },
         {
-          id: "q11",
+          id: "q10",
           type: "short-answer",
           question: "How did Rebekah respond when asked if she was willing to leave immediately?",
           correctAnswer: "I am willing to go"
         },
         {
-          id: "q12",
+          id: "q11",
           type: "multiple-choice",
           question: "What was Isaac doing when Rebekah arrived?",
           options: ["Planting crops", "Returning from the well", "Meditating in the field", "Speaking to Abraham"],
           correctAnswer: "Meditating in the field"
         },
         {
-          id: "q13",
+          id: "q12",
           type: "true-false",
           question: "Rebekah covered herself with a veil when she saw Isaac.",
           correctAnswer: true
         },
         {
-          id: "q14",
+          id: "q13",
           type: "short-answer",
           question: "Whom did Isaac marry?",
           correctAnswer: "Rebekah"
@@ -923,85 +922,85 @@ export const readingPlan: DayReading[] = [
       questions: [
         // Abraham's final years and death (Genesis 25:1-11)
         {
-          id: "q2",
+          id: "q1",
           type: "true-false",
           question: "Isaac inherited all of Abraham's belongings.",
           correctAnswer: true
         },
         {
-          id: "q3",
+          id: "q2",
           type: "short-answer",
           question: "How old was Abraham when he died?",
           correctAnswer: "175 years old"
         },
         {
-          id: "q4",
+          id: "q3",
           type: "true-false",
           question: "Ishmael helped Isaac bury their father Abraham.",
           correctAnswer: true
         },
         // Isaac and Rebekah's marriage and children (Genesis 25:19-26)
         {
-          id: "q5",
+          id: "q4",
           type: "multiple-choice",
           question: "Who were the parents of Jacob and Esau?",
           options: ["Abraham and Keturah", "Isaac and Rebekah", "Laban and Rachel", "Abraham and Sarah"],
           correctAnswer: "Isaac and Rebekah"
         },
         {
-          id: "q6",
+          id: "q5",
           type: "multiple-choice",
           question: "How old was Isaac when he married Rebekah?",
           options: ["17", "23", "40", "55"],
           correctAnswer: "40"
         },
         {
-          id: "q7",
+          id: "q6",
           type: "true-false",
           question: "Rebekah was barren.",
           correctAnswer: true
         },
         {
-          id: "q8",
+          id: "q7",
           type: "short-answer",
           question: "What did Jehovah say about the two boys before they were born?",
           correctAnswer: "The older will serve the younger"
         },
         // Birth of Jacob and Esau (Genesis 25:24-26)
         {
-          id: "q9",
+          id: "q8",
           type: "true-false",
           question: "Esau and Jacob were born two years apart.",
           correctAnswer: false
         },
         {
-          id: "q10",
+          id: "q9",
           type: "true-false",
           question: "Jacob was born first, followed by Esau holding his heel.",
           correctAnswer: false
         },
         {
-          id: "q11",
+          id: "q10",
           type: "short-answer",
           question: "What were the characteristics of Esau at birth?",
           correctAnswer: "He was red and hairy all over"
         },
         // Jacob and Esau's relationship (Genesis 25:27-28)
         {
-          id: "q12",
+          id: "q11",
           type: "true-false",
           question: "Rebekah loved Esau and Isaac loved Jacob.",
           correctAnswer: false
         },
         // The birthright sale (Genesis 25:29-34)
         {
-          id: "q13",
+          id: "q12",
           type: "short-answer",
           question: "What was Esau's reply when asked to give up his birthright?",
           correctAnswer: "What use is the birthright to me?"
         },
         {
-          id: "q14",
+          id: "q13",
           type: "multiple-choice",
           question: "What did Esau sell his birthright for?",
           options: ["Gold", "Clothing", "A blessing", "Bread and lentil stew"],
@@ -1009,13 +1008,13 @@ export const readingPlan: DayReading[] = [
         },
         // Isaac in Gerar (Genesis 26:1-11)
         {
-          id: "q15",
+          id: "q14",
           type: "true-false",
           question: "Jehovah appeared to Isaac to reinforce his promise to Abraham",
           correctAnswer: true
         },
         {
-          id: "q16",
+          id: "q15",
           type: "multiple-choice",
           question: "Why did Isaac say Rebekah was his sister in Gerar?",
           options: [
@@ -1027,26 +1026,26 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Because he was afraid for his life"
         },
         {
-          id: "q17",
+          id: "q16",
           type: "true-false",
           question: "Rebekah used to feel sad and was constantly mocked due to her appearance.",
           correctAnswer: false
         },
         {
-          id: "q18",
+          id: "q17",
           type: "true-false",
           question: "Abimelech discovered Isaac and Rebekah were actually husband and wife.",
           correctAnswer: true
         },
         // Isaac's prosperity and conflicts (Genesis 26:12-25)
         {
-          id: "q19",
+          id: "q18",
           type: "short-answer",
           question: "Why did the Philistines envy Isaac?",
           correctAnswer: "Because Jehovah blessed him and he became very wealthy"
         },
         {
-          id: "q20",
+          id: "q19",
           type: "multiple-choice",
           question: "What did the Philistines do to Isaac's wells which Abraham had built?",
           options: [
@@ -1059,14 +1058,14 @@ export const readingPlan: DayReading[] = [
         },
         // Esau's marriages (Genesis 26:34-35)
         {
-          id: "q21",
+          id: "q20",
           type: "true-false",
           question: "Isaac and Rebekah disapproved of Esau's wife.",
           correctAnswer: true
         },
         // The stolen blessing (Genesis 27:1-29)
         {
-          id: "q23",
+          id: "q21",
           type: "multiple-choice",
           question: "What did Isaac ask Esau to do before blessing him?",
           options: [
@@ -1078,13 +1077,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Hunt and prepare a meal"
         },
         {
-          id: "q24",
+          id: "q22",
           type: "true-false",
           question: "Rebekah helped Jacob deceive Isaac to receive the blessing meant for Esau.",
           correctAnswer: true
         },
         {
-          id: "q25",
+          id: "q23",
           type: "multiple-choice",
           question: "How did Rebekah help Jacob receive the blessing from Isaac?",
           options: [
@@ -1096,38 +1095,38 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "By preparing a meal and putting Esau's clothes on Jacob"
         },
         {
-          id: "q26",
+          id: "q24",
           type: "short-answer",
           question: "How did Jacob deceive Isaac to receive the blessing meant for Esau?",
           correctAnswer: "By disguising himself as Esau and bringing food"
         },
         {
-          id: "q27",
+          id: "q25",
           type: "short-answer",
           question: "How did Isaac try to confirm the identity of the son before blessing him?",
           correctAnswer: "He touched him and asked who he was"
         },
         {
-          id: "q28",
+          id: "q26",
           type: "true-false",
           question: "Isaac blessed Esau first, thinking he was Jacob.",
           correctAnswer: false
         },
         {
-          id: "q29",
+          id: "q27",
           type: "true-false",
           question: "Isaac immediately realized he had been tricked and reversed the blessing.",
           correctAnswer: false
         },
         // Esau's reaction and Jacob's departure (Genesis 27:30-46)
         {
-          id: "q30",
+          id: "q28",
           type: "short-answer",
           question: "What did Esau plan to do after their father's death?",
           correctAnswer: "Kill Jacob"
         },
         {
-          id: "q31",
+          id: "q29",
           type: "multiple-choice",
           question: "Where did Rebekah send Jacob to protect him from Esau?",
           options: ["To Egypt", "To Salem", "To Laban in Haran", "To Bethel"],
@@ -1145,25 +1144,25 @@ export const readingPlan: DayReading[] = [
       title: "📘 Genesis 28–30 Study Quiz (NWT)",
       questions: [
         {
-          id: "q22",
+          id: "q1",
           type: "true-false",
           question: "Jacob married a woman of Canaan.",
           correctAnswer: false
         },
         {
-          id: "q32",
+          id: "q2",
           type: "true-false",
           question: "Jehovah appeared to Jacob and told him he would inherit the land.",
           correctAnswer: true
         },
         {
-          id: "q33",
+          id: "q3",
           type: "true-false",
           question: "Jacob named a city called Bethel.",
           correctAnswer: true
         },
         {
-          id: "q1",
+          id: "q4",
           type: "multiple-choice",
           question: "Why did Isaac send Jacob to Paddan-aram?",
           options: [
@@ -1175,39 +1174,39 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "To take a wife from among his relatives"
         },
         {
-          id: "q2",
+          id: "q5",
           type: "true-false",
           question: "Jacob had a dream of a ladder reaching to heaven with angels going up and down.",
           correctAnswer: true
         },
         {
-          id: "q3",
+          id: "q6",
           type: "short-answer",
           question: "What did Jacob call the place where he had his dream?",
           correctAnswer: "Bethel"
         },
         {
-          id: "q3",
+          id: "q7",
           type: "multiple-choice",
           question: "Who vowed to give Jehovah a tenth of everything back to him?",
           options: ["Jacob", "Isaac", "Esau", "Laban"],
           correctAnswer: "Jacob"
         },
         {
-          id: "q4",
+          id: "q8",
           type: "multiple-choice",
           question: "Whom did Jacob meet first when he arrived in Haran?",
           options: ["Laban", "Rebekah", "Rachel", "Leah"],
           correctAnswer: "Rachel"
         },
         {
-          id: "q5",
+          id: "q9",
           type: "true-false",
           question: "Rachel was a shepherdess.",
           correctAnswer: true
         },
         {
-          id: "q5",
+          id: "q10",
           type: "multiple-choice",
           question: "What agreement did Jacob make with Laban to marry Rachel?",
           options: [
@@ -1219,70 +1218,70 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "To serve him for 7 years"
         },
         {
-          id: "q6",
+          id: "q11",
           type: "true-false",
           question: "Laban tricked Jacob into marrying Leah first.",
           correctAnswer: true
         },
         {
-          id: "q7",
+          id: "q12",
           type: "multiple-choice",
           question: "How many more years did Jacob agree to serve to marry Rachel after Leah?",
           options: ["3", "5", "7", "10"],
           correctAnswer: "7"
         },
         {
-          id: "q8",
+          id: "q13",
           type: "short-answer",
           question: "Which wife was loved more by Jacob?",
           correctAnswer: "Rachel"
         },
         {
-          id: "q9",
+          id: "q14",
           type: "multiple-choice",
           question: "Which wife did Jehovah bless with children first?",
           options: ["Rachel", "Leah", "Bilhah", "Zilpah"],
           correctAnswer: "Leah"
         },
         {
-          id: "q10",
+          id: "q15",
           type: "short-answer",
           question: "How many sons did Leah bear before Rachel gave her servant to Jacob?",
           correctAnswer: "4"
         },
         {
-          id: "q11",
+          id: "q16",
           type: "true-false",
           question: "Judah was Leah's first born.",
           correctAnswer: false
         },
         {
-          id: "q11",
+          id: "q17",
           type: "true-false",
           question: "Rachel had her maidservant Bilhah bear children for Jacob.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q18",
           type: "true-false",
           question: "Rachel became mother to Dinah.",
           correctAnswer: false
         },
         {
-          id: "q14",
+          id: "q19",
           type: "multiple-choice",
           question: "What did Rachel name her first son?",
           options: ["Joseph", "Benjamin", "Dan", "Issachar"],
           correctAnswer: "Joseph"
         },
         {
-          id: "q15",
+          id: "q20",
           type: "true-false",
           question: "Jacob’s flocks increased because he used striped branches during mating.",
           correctAnswer: true
         },
         {
-          id: "q16",
+          id: "q21",
           type: "short-answer",
           question: "Why did Laban try to cheat Jacob?",
           correctAnswer: "To keep him working and take advantage of his success"
@@ -1329,19 +1328,19 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "In the saddle basket of a camel"
         },
         {
-          id: "q4",
+          id: "q5",
           type: "short-answer",
           question: "What did Rachel say to Laban when he came in looking for his stolen good?",
           correctAnswer: "She couldn't get up because she was menstruating"
         },
         {
-          id: "q5",
+          id: "q6",
           type: "true-false",
           question: "Laban caught up with Jacob in the mountains of Gilead.",
           correctAnswer: true
         },
         {
-          id: "q6",
+          id: "q7",
           type: "multiple-choice",
           question: "What prevented Laban from harming Jacob?",
           options: [
@@ -1353,13 +1352,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "God warned him in a dream"
         },
         {
-          id: "q7",
+          id: "q8",
           type: "short-answer",
           question: "What kind of agreement did Jacob and Laban make?",
           correctAnswer: "A covenant of peace and boundary (the Mizpah agreement)"
         },
         {
-          id: "q8",
+          id: "q9",
           type: "true-false",
           question: "Jacob made a heap of stones as a witness of the covenant with Laban.",
           correctAnswer: true
@@ -1397,13 +1396,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: false
         },
         {
-          id: "q14",
+          id: "q15",
           type: "true-false",
           question: "The angel was left with a limp after wrestling with Jacob.",
           correctAnswer: false
         },
         {
-          id: "q15",
+          id: "q16",
           type: "short-answer",
           question: "What does the name 'Israel' mean?",
           correctAnswer: "One who contends with God"
@@ -1432,7 +1431,7 @@ export const readingPlan: DayReading[] = [
           correctAnswer: true
         },
         {
-          id: "q1",
+          id: "q3",
           type: "multiple-choice",
           question: "How many men were together with Esau when he came to meet Jacob?",
           options: ["12", "400", "3000", "185000"],
@@ -1440,70 +1439,70 @@ export const readingPlan: DayReading[] = [
         },
 
         {
-          id: "q3",
+          id: "q4",
           type: "multiple-choice",
           question: "What did Jacob offer Esau when they met?",
           options: ["His flocks", "His servants", "Many gifts", "A blessing"],
           correctAnswer: "Many gifts"
         },
         {
-          id: "q4",
+          id: "q5",
           type: "short-answer",
           question: "What reason did Jacob give for not traveling with Esau?",
           correctAnswer: "His children and animals were too weak to travel fast"
         },
         {
-          id: "q5",
+          id: "q6",
           type: "short-answer",
           question: "What city did Jacob settle near after meeting Esau?",
           correctAnswer: "Shechem"
         },
         {
-          id: "q6",
+          id: "q7",
           type: "true-false",
           question: "Jacob built an altar to Jehovah near Shechem.",
           correctAnswer: true
         },
         {
-          id: "q7",
+          id: "q8",
           type: "short-answer",
           question: "What happened to Dinah, Jacob’s daughter?",
           correctAnswer: "She was violated by Shechem"
         },
         {
-          id: "q8",
+          id: "q9",
           type: "multiple-choice",
           question: "What was Shechem’s request after violating Dinah?",
           options: ["To leave him alone", "To marry her", "To buy her as a slave", "To flee with her"],
           correctAnswer: "To marry her"
         },
         {
-          id: "q9",
+          id: "q10",
           type: "short-answer",
           question: "What condition did Jacob’s sons give Shechem and his people for intermarriage?",
           correctAnswer: "All the males must get circumcised"
         },
         {
-          id: "q10",
+          id: "q11",
           type: "multiple-choice",
           question: "Which two sons of Jacob attacked Shechem’s city?",
           options: ["Reuben and Judah", "Simeon and Levi", "Dan and Naphtali", "Gad and Asher"],
           correctAnswer: "Simeon and Levi"
         },
         {
-          id: "q11",
+          id: "q12",
           type: "true-false",
           question: "Simeon and Levi waited until the men were sore from circumcision before attacking.",
           correctAnswer: true
         },
         {
-          id: "q12",
+          id: "q13",
           type: "true-false",
           question: "The other sons of Jacob joined in the attack on Shechem’s city.",
           correctAnswer: true
         },
         {
-          id: "q12",
+          id: "q14",
           type: "short-answer",
           question: "Why was Jacob upset with Simeon and Levi after the attack?",
           correctAnswer: "He feared reprisals from the Canaanites and Perizzites"
@@ -1569,32 +1568,32 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Because their possessions were too many for them to dwell together"
         },
         {
-          id: "q8",
+          id: "q9",
           type: "true-false",
           question: "Esau is considered as father of the Edomites?",
           correctAnswer: true,
         },
         {
-          id: "q9",
+          id: "q10",
           type: "multiple-choice",
           question: "Who was Joseph’s mother?",
           options: ["Leah", "Rachel", "Zilpah", "Bilhah"],
           correctAnswer: "Rachel"
         },
         {
-          id: "q10",
+          id: "q11",
           type: "true-false",
           question: "Joseph was Jacob's favorite son.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q12",
           type: "short-answer",
           question: "What special gift did Jacob give to Joseph?",
           correctAnswer: "A long-sleeved robe"
         },
         {
-          id: "q12",
+          id: "q13",
           type: "multiple-choice",
           question: "What did Joseph’s brothers do to him out of jealousy?",
           options: [
@@ -1606,7 +1605,7 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Sold him to the Midianites",
         },
         {
-          id: "q9",
+          id: "q14",
           type: "multiple-choice",
           question: "What was Joseph's first dream about?",
           options: [
@@ -1618,20 +1617,20 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Eleven sheaves bowing to his sheaf"
         },
         {
-          id: "q10",
+          id: "q15",
           type: "multiple-choice",
           question: "Who suggested not killing Joseph but throwing him in a pit?",
           options: ["Judah", "Reuben", "Levi", "Dan"],
           correctAnswer: "Reuben"
         },
         {
-          id: "q11",
+          id: "q16",
           type: "true-false",
           question: "Joseph was sold to the Midianites for twenty pieces of silver.",
           correctAnswer: true
         },
         {
-          id: "q12",
+          id: "q17",
           type: "multiple-choice",
           question: "How old was Joseph when he was sold as a slave?",
           options: [
@@ -1643,13 +1642,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "17"
         },
         {
-          id: "q12",
+          id: "q18",
           type: "short-answer",
           question: "How did the brothers convince Jacob that Joseph was dead?",
           correctAnswer: "They dipped his robe in goat’s blood"
         },
         {
-          id: "q13",
+          id: "q19",
           type: "short-answer",
           question: "To whom was Joseph sold in Egypt?",
           correctAnswer: "Potiphar, a chief of Pharaoh’s guard"
@@ -1855,13 +1854,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Benjamin"
         },
         {
-          id: "q14",
+          id: "q13",
           type: "short-answer",
           question: "What did Jacob say when his sons told him they had to take Benjamin to Egypt?",
           correctAnswer: "He refused to let Benjamin go"
         },
         {
-          id: "q15",
+          id: "q14",
           type: "short-answer",
           question: "What did Reuben offer to do if he did not bring Benjamin back safely?",
           correctAnswer: "To have his two sons killed"
@@ -1890,19 +1889,25 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "Balm, honey, spices, and almonds"
         },
         {
-          id: "q13",
+          id: "q3",
           type: "true-false",
           question: "Joseph secretly returned the money his brothers paid for the grain.",
           correctAnswer: true
         },
         {
-          id: "q3",
+          id: "q4",
           type: "true-false",
           question: "Joseph wept when he saw Benjamin.",
           correctAnswer: true
         },
         {
-          id: "q4",
+          id: "q5",
+          type: "true-false",
+          question: "The Hebrews and Egyptians ate together as a welcome party for Joseph's brothers.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
           type: "multiple-choice",
           question: "How were Joseph’s brothers seated during the meal?",
           options: [
@@ -1914,44 +1919,50 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "In order of their age"
         },
         {
-          id: "q5",
+          id: "q7",
           type: "short-answer",
           question: "What special treatment did Benjamin receive during the meal?",
           correctAnswer: "He was served five times as much food"
         },
         {
-          id: "q6",
+          id: "q8",
           type: "multiple-choice",
           question: "What item did Joseph have placed in Benjamin’s bag?",
           options: ["A silver cup", "A gold coin", "A piece of cloth", "A ring"],
           correctAnswer: "A silver cup"
         },
         {
-          id: "q7",
+          id: "q9",
           type: "true-false",
           question: "Joseph’s steward accused the brothers of stealing Joseph’s silver cup.",
           correctAnswer: true
         },
         {
-          id: "q8",
+          id: "q10",
           type: "short-answer",
           question: "Which brother pleaded with Joseph to let him stay in Benjamin’s place?",
           correctAnswer: "Judah"
         },
         {
-          id: "q9",
+          id: "q11",
+          type: "short-answer",
+          question: "What were Joseph's fearful might happen to Jacob if they did not bring Benjamin back?",
+          correctAnswer: "He might die of grief"
+        },
+        {
+          id: "q12",
           type: "true-false",
           question: "Joseph revealed his identity to his brothers while Pharaoh was present.",
           correctAnswer: false
         },
         {
-          id: "q10",
+          id: "q13",
           type: "short-answer",
           question: "Why did Joseph say God allowed him to be sold into Egypt?",
           correctAnswer: "To preserve life during the famine"
         },
         {
-          id: "q11",
+          id: "q14",
           type: "multiple-choice",
           question: "How did Pharaoh respond when he heard about Joseph’s brothers?",
           options: [
@@ -1963,9 +1974,21 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "He welcomed them and gave them provisions"
         },
         {
-          id: "q12",
-          type: "short-answer",
+          id: "q15",
+          type: "true-false",
+          question: "Joseph instructed his brothers to tell their father that he was alive and in Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q16",
+          type: "multiple-choice",
           question: "What message did Joseph send to his father through his brothers?",
+          options: [
+            "To come to Egypt quickly and live near him",
+            "To stay in Canaan and not worry about him",
+            "To send more gifts to Pharaoh",
+            "To prepare for war against the Egyptians"
+          ],
           correctAnswer: "To come to Egypt quickly and live near him"
         }
       ]
@@ -2010,6 +2033,12 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "‘Now I can die, since I have seen your face.’"
         },
         {
+          id: "q8",
+          type: "short-answer",
+          question: "What did the Egyptians give Joseph in exchange for food during the famine?",
+          correctAnswer: "Money, livestock, land, and themselves as slaves"
+        },
+        {
           id: "q5",
           type: "short-answer",
           question: "What region of Egypt did Joseph settle his family in?",
@@ -2017,44 +2046,67 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q6",
-          type: "multiple-choice",
-          question: "Which Pharaoh welcomed Jacob and his family?",
-          options: ["Pharaoh Amenhotep", "Pharaoh Rameses", "Unnamed Pharaoh", "Pharaoh Zaphnath"],
-          correctAnswer: "Unnamed Pharaoh"
+          type: "true-false",
+          question: "Herders of sheep were worshipped by the Egyptians.",
+          correctAnswer: false
         },
         {
           id: "q7",
           type: "true-false",
-          question: "Jacob told Pharaoh he was 147 years old.",
+          question: "Joseph presented all of him brothers to Pharaoh.",
           correctAnswer: false
         },
         {
           id: "q8",
-          type: "short-answer",
-          question: "What did the Egyptians give Joseph in exchange for food during the famine?",
-          correctAnswer: "Money, livestock, land, and themselves as slaves"
+          type: "true-false",
+          question: "Jacob blessed Pharaoh.",
+          correctAnswer: true
         },
         {
           id: "q9",
+          type: "short-answer",
+          question: "What did Joseph do to manage the famine in Egypt?",
+          correctAnswer: "He collected all the money, livestock, land, and people in exchange for food"
+        },
+        {
+          id: "q10",
           type: "multiple-choice",
-          question: "Which of Joseph’s sons did Jacob place his right hand on when blessing them?",
+          question: "Why did Joseph placed his hand under Jacob’s thigh?",
+          options: [
+            "To show respect",
+            "To help alleviate his pain",
+            "To swear an oath",
+            "To bless him"
+          ],
+          correctAnswer: "To swear an oath"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "Jacob lived in Egypt for 17 years before he died.",
+          correctAnswer: true
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "Who did Jacob bless first when Joseph brought his sons to him?",
           options: ["Manasseh", "Ephraim", "Reuben", "Judah"],
           correctAnswer: "Ephraim"
         },
         {
-          id: "q10",
+          id: "q13",
           type: "true-false",
           question: "Joseph was upset when Jacob gave the greater blessing to Ephraim.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q14",
           type: "short-answer",
           question: "Why did Jacob bless Ephraim over Manasseh?",
           correctAnswer: "He said Ephraim would become greater than Manasseh"
         },
         {
-          id: "q12",
+          id: "q15",
           type: "multiple-choice",
           question: "What did Jacob give Joseph beyond what he gave his other sons?",
           options: ["The best land in Goshen", "An extra portion of land", "A golden cup", "His staff"],
@@ -2100,7 +2152,7 @@ export const readingPlan: DayReading[] = [
           id: "q5",
           type: "short-answer",
           question: "Where did Jacob request to be buried?",
-          correctAnswer: "In the cave of Machpelah in the field of Ephron"
+          correctAnswer: "In the same cave Leah and others from his family were buried "
         },
         {
           id: "q6",
@@ -2182,49 +2234,98 @@ export const readingPlan: DayReading[] = [
         {
           id: "q3",
           type: "short-answer",
+          question: "Why did the midwives not obey Pharaoh’s command to kill the newborn babies who were born male?",
+          correctAnswer: "They feared God and let them live",
+        },
+        {
+          id: "q4",
+          type: "true-false",
+          question: "Moses's parents were both from Levi's tribe.",
+          correctAnswer: true
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What did Moses’ mother place him in to save him?",
+          options: ["A basket", "A boat", "A box", "A jar"],
+          correctAnswer: "A basket"
+        },
+        {
+          id: "q6",
+          type: "short-answer",
           question: "Who rescued baby Moses from the Nile?",
           correctAnswer: "Pharaoh’s daughter"
         },
         {
-          id: "q4",
+          id: "q7",
+          type: "true-false",
+          question: "Moses was raised in Pharaoh’s household.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Moses's mother nursed him for some time before handing him to Pharaoh's daughter.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What did Moses do when he saw an Egyptian beating a Hebrew?",
+          options: [
+            "He reported it to Pharaoh",
+            "He killed the Egyptian and hid his body",
+            "He tried to stop the beating",
+            "He ran away"
+          ],
+          correctAnswer: "He killed the Egyptian and hid his body"
+        },
+        {
+          id: "q10",
           type: "multiple-choice",
           question: "Where did Moses flee after killing an Egyptian?",
           options: ["Midian", "Moab", "Canaan", "Sinai"],
           correctAnswer: "Midian"
         },
         {
-          id: "q5",
+          id: "q11",
           type: "true-false",
           question: "Moses married Zipporah, the daughter of Jethro, priest of Midian.",
           correctAnswer: true
         },
         {
-          id: "q6",
+          id: "q12",
           type: "short-answer",
           question: "What was the sign God gave Moses at the burning bush to confirm his calling?",
           correctAnswer: "The bush was on fire but was not consumed"
         },
         {
-          id: "q7",
+          id: "q13",
+          type: "true-false",
+          question: "Moses gave God a name.",
+          correctAnswer: false
+        },
+        {
+          id: "q14",
           type: "multiple-choice",
           question: "What name did God reveal to Moses at the burning bush?",
           options: ["Jehovah", "Elohim", "I Am", "The Almighty"],
           correctAnswer: "Jehovah"
         },
         {
-          id: "q8",
+          id: "q15",
           type: "true-false",
           question: "Moses was eager and confident to speak to Pharaoh.",
           correctAnswer: false
         },
         {
-          id: "q9",
+          id: "q16",
           type: "short-answer",
           question: "Who did God appoint to help Moses speak to Pharaoh?",
           correctAnswer: "Aaron, his brother"
         },
         {
-          id: "q10",
+          id: "q17",
           type: "multiple-choice",
           question: "Which miracles did God empower Moses to perform as proof?",
           options: [
@@ -2236,13 +2337,13 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "All of the above"
         },
         {
-          id: "q11",
+          id: "q18",
           type: "true-false",
           question: "Jehovah promised to be with Moses’ mouth and teach him what to say.",
           correctAnswer: true
         },
         {
-          id: "q12",
+          id: "q19",
           type: "short-answer",
           question: "What message was Moses to deliver to Pharaoh?",
           correctAnswer: "Let my people go so that they may serve me"
@@ -2265,12 +2366,18 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q2",
-          type: "true-false",
-          question: "Pharaoh made the Israelites’ work easier after Moses first spoke to him.",
-          correctAnswer: false
+          type: "short-answer",
+          question: "For how long the Israelites were to go into the wilderness to hold a festival to Jehovah?",
+          correctAnswer: "Three days"
         },
         {
           id: "q3",
+          type: "true-false",
+          question: "Pharaoh made the Israelites’ work less after Moses first spoke to him.",
+          correctAnswer: false
+        },
+        {
+          id: "q4",
           type: "multiple-choice",
           question: "What extra burden did Pharaoh place on the Israelites?",
           options: [
@@ -2282,23 +2389,16 @@ export const readingPlan: DayReading[] = [
           correctAnswer: "He ordered them to gather their own straw but still make the same number of bricks"
         },
         {
-          id: "q4",
+          id: "q5",
           type: "short-answer",
           question: "How did the Israelites react to Moses and Aaron after Pharaoh increased their workload?",
           correctAnswer: "They blamed Moses and Aaron for making them odious to Pharaoh"
         },
         {
-          id: "q5",
+          id: "q6",
           type: "true-false",
           question: "Moses doubted that Pharaoh would listen to him because he was 'uncircumcised in lips.'",
           correctAnswer: true
-        },
-        {
-          id: "q6",
-          type: "multiple-choice",
-          question: "What did Jehovah make Moses and Aaron before Pharaoh?",
-          options: ["A prophet and a priest", "A god and a prophet", "A king and a spokesman", "A warrior and a servant"],
-          correctAnswer: "A god and a prophet"
         },
         {
           id: "q7",
@@ -2354,6 +2454,12 @@ export const readingPlan: DayReading[] = [
           type: "short-answer",
           question: "How did the Egyptians get drinking water after the Nile turned to blood?",
           correctAnswer: "They dug around the Nile for fresh water"
+        },
+        {
+          id: "q15",
+          type: "short-answer",
+          question: "How many days did the Nile remain blood?",
+          correctAnswer: "Seven days"
         }
       ]
     }
@@ -2394,81 +2500,87 @@ export const readingPlan: DayReading[] = [
         {
           id: "q5",
           type: "short-answer",
+          question: "Why did Moses not want to sacrifice to Jehovah in Egypt?",
+          correctAnswer: "Because the Egyptians would be offended by the sacrifice"
+        },
+        {
+          id: "q6",
+          type: "short-answer",
           question: "What did the priests say when they could not produce the gnats?",
           correctAnswer: "'It is the finger of God.'"
         },
         {
-          id: "q6",
+          id: "q7",
           type: "true-false",
           question: "Jehovah made a distinction between Egypt and Goshen during the plague of flies.",
           correctAnswer: true
         },
         {
-          id: "q7",
+          id: "q8",
           type: "multiple-choice",
           question: "What plague killed Egypt’s livestock?",
           options: ["The fifth plague", "The sixth plague", "The seventh plague", "The eighth plague"],
           correctAnswer: "The fifth plague"
         },
         {
-          id: "q8",
+          id: "q9",
           type: "short-answer",
           question: "What disease did Jehovah strike the Egyptians and their animals with after the livestock plague?",
           correctAnswer: "Painful boils"
         },
         {
-          id: "q9",
+          id: "q10",
           type: "multiple-choice",
           question: "What was the seventh plague?",
           options: ["Locusts", "Darkness", "Boils", "Hail mixed with fire"],
           correctAnswer: "Hail mixed with fire"
         },
         {
-          id: "q10",
+          id: "q11",
           type: "true-false",
           question: "The hail destroyed everything in the field, including man, beast, and plants.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q12",
           type: "short-answer",
           question: "Which crops were destroyed by the hail?",
           correctAnswer: "The flax and the barley"
         },
         {
-          id: "q12",
+          id: "q13",
           type: "short-answer",
           question: "Which crops were not destroyed by the hail?",
           correctAnswer: "The wheat and the spelt"
         },
         {
-          id: "q13",
+          id: "q14",
           type: "multiple-choice",
           question: "What was the eighth plague?",
           options: ["Darkness", "Frogs", "Locusts", "Gnats"],
           correctAnswer: "Locusts"
         },
         {
-          id: "q14",
+          id: "q15",
           type: "short-answer",
           question: "What did the locusts eat?",
           correctAnswer: "All the vegetation of the land and all the fruit of the trees left after the hail"
         },
         {
-          id: "q15",
+          id: "q16",
           type: "multiple-choice",
           question: "What was the ninth plague?",
           options: ["Darkness", "Death of the firstborn", "Flies", "Frogs"],
           correctAnswer: "Darkness"
         },
         {
-          id: "q16",
+          id: "q17",
           type: "true-false",
           question: "The Israelites also suffered from the three days of thick darkness.",
           correctAnswer: false
         },
         {
-          id: "q17",
+          id: "q18",
           type: "short-answer",
           question: "What did Pharaoh threaten Moses with after the plague of darkness?",
           correctAnswer: "That Moses should never see his face again or he would die"
@@ -2499,89 +2611,126 @@ export const readingPlan: DayReading[] = [
         {
           id: "q3",
           type: "short-answer",
+          question: "What was the Passover?",
+          correctAnswer: "The killing of the firstborn in Egypt by an angel of Jehovah who passed by every house and checked whether it belonged to an Israelite"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
           question: "What special meal were the Israelites commanded to prepare before the final plague?",
           correctAnswer: "The Passover meal"
         },
         {
-          id: "q4",
+          id: "q5",
           type: "multiple-choice",
           question: "What were the Israelites instructed to put on their doorposts and lintels?",
           options: ["Oil", "Water", "Blood of a lamb", "Incense"],
           correctAnswer: "Blood of a lamb"
         },
         {
-          id: "q5",
+          id: "q6",
           type: "short-answer",
           question: "What did the blood on the houses serve as?",
           correctAnswer: "A sign so the plague would pass over their houses"
         },
         {
-          id: "q6",
+          id: "q7",
+          type: "short-answer",
+          question: "What kind of bread were the Israelites to prepare?",
+          correctAnswer: "Unleavened bread"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Foreigners were not allowed to celebrate the Passover together with the Israelites.",
+          correctAnswer: false
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "Which condition were foreigners required to comply with in order to participate of the Passover?",
+          options: ["To kill an Egyptian", "To get circumcised", "To publicly deny their Egyptian inheritance", "To run away without wearing sandals"],
+          correctAnswer: "To get circumcised"
+        },
+        {
+          id: "q10",
           type: "true-false",
           question: "The Israelites were to eat the Passover meal leisurely, with sandals off and staff put away.",
           correctAnswer: false
         },
         {
-          id: "q7",
+          id: "q11",
           type: "multiple-choice",
           question: "How did Pharaoh react after the death of the firstborn?",
           options: ["He hardened his heart again", "He asked Moses to bless him", "He allowed the Israelites to leave", "He punished Moses"],
           correctAnswer: "He allowed the Israelites to leave"
         },
         {
-          id: "q8",
+          id: "q12",
+          type: "true-false",
+          question: "The Israelites plundered the Egyptians before fleeing Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q13",
+          type: "true-false",
+          question: "The Israelites left Joseph's bones in Egypt.",
+          correctAnswer: false
+        },
+        {
+          id: "q14",
           type: "short-answer",
           question: "About how many Israelite men left Egypt, besides women and children?",
           correctAnswer: "About 600,000"
         },
         {
-          id: "q9",
+          id: "q15",
           type: "multiple-choice",
           question: "How long had the Israelites dwelled in Egypt before leaving?",
           options: ["210 years", "350 years", "430 years", "490 years"],
           correctAnswer: "430 years"
         },
         {
-          id: "q10",
+          id: "q16",
           type: "true-false",
           question: "Jehovah commanded the Israelites to keep the Passover as a lasting memorial.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q17",
           type: "short-answer",
-          question: "What kind of bread did the Israelites eat during Passover?",
+          question: "What kind of bread did the Israelites eat during the Passover?",
           correctAnswer: "Unleavened bread"
         },
         {
-          id: "q12",
+          id: "q18",
           type: "multiple-choice",
           question: "Which firstborns were to be sanctified to Jehovah?",
           options: ["Only the firstborn of men", "Only the firstborn of animals", "Every firstborn male, man and beast", "None of them"],
           correctAnswer: "Every firstborn male, man and beast"
         },
         {
-          id: "q13",
+          id: "q19",
           type: "short-answer",
           question: "Why were the Israelites commanded to commemorate the day of their deliverance?",
           correctAnswer: "Because Jehovah brought them out of Egypt by his mighty hand"
         },
         {
-          id: "q14",
+          id: "q20",
           type: "multiple-choice",
           question: "What did Jehovah use to guide the Israelites by day?",
           options: ["An angel", "A pillar of cloud", "A star", "Moses' staff"],
           correctAnswer: "A pillar of cloud"
         },
         {
-          id: "q15",
+          id: "q21",
           type: "multiple-choice",
           question: "What did Jehovah use to guide them by night?",
           options: ["A pillar of fire", "The moon", "An angel", "Torches"],
           correctAnswer: "A pillar of fire"
         },
         {
-          id: "q16",
+          id: "q22",
           type: "true-false",
           question: "The pillar of cloud and fire departed from the Israelites during their journey.",
           correctAnswer: false
@@ -2598,10 +2747,9 @@ export const readingPlan: DayReading[] = [
       questions: [
         {
           id: "q1",
-          type: "multiple-choice",
-          question: "Where did Jehovah tell the Israelites to camp before crossing the sea?",
-          options: ["At Succoth", "At Pithom", "Near Pi-hahiroth by the sea", "At Marah"],
-          correctAnswer: "Near Pi-hahiroth by the sea"
+          type: "true-false",
+          question: "The Israelites crossed the sea without fearing the Egyptians.",
+          correctAnswer: false
         },
         {
           id: "q2",
@@ -2675,19 +2823,12 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q13",
-          type: "multiple-choice",
-          question: "After crossing the Red Sea, where did the Israelites travel and find bitter water?",
-          options: ["Marah", "Elim", "Sinai", "Rameses"],
-          correctAnswer: "Marah"
-        },
-        {
-          id: "q14",
           type: "short-answer",
-          question: "How did Jehovah make the bitter water at Marah drinkable?",
+          question: "How did Jehovah make the bitter water the Israelites found at Marah drinkable?",
           correctAnswer: "Moses threw a piece of wood into the water, and it became sweet"
         },
         {
-          id: "q15",
+          id: "q14",
           type: "true-false",
           question: "At Elim, the Israelites found twelve springs of water and seventy palm trees.",
           correctAnswer: true
@@ -2749,16 +2890,16 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q8",
+          type: "true-false",
+          question: "Moses was afraid the people would stone him if he did not attend to their complaints to provide water for them.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
           type: "multiple-choice",
           question: "What did Jehovah tell Moses to strike at Rephidim to provide water?",
           options: ["A rock in Horeb", "The ground", "A tree", "His staff"],
           correctAnswer: "A rock in Horeb"
-        },
-        {
-          id: "q9",
-          type: "short-answer",
-          question: "What was the place where water came from the rock called?",
-          correctAnswer: "Massah and Meribah"
         },
         {
           id: "q10",
@@ -2769,31 +2910,44 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q11",
+          type: "multiple-choice",
+          question: "Who fought while Moses held his hand up high?",
+          options: ["Aaron", "Jethro", "Miriam", "Joshua"],
+          correctAnswer: "Joshua"
+        },
+        {
+          id: "q12",
           type: "short-answer",
           question: "What happened when Moses held up his hands during the battle against Amalek?",
           correctAnswer: "Israel prevailed"
         },
         {
-          id: "q12",
+          id: "q13",
           type: "true-false",
           question: "Aaron and Hur supported Moses’ hands until sunset, helping Israel defeat Amalek.",
           correctAnswer: true
         },
         {
-          id: "q13",
+          id: "q14",
           type: "multiple-choice",
           question: "Who came to visit Moses in the wilderness?",
           options: ["His brother Aaron", "His wife Zipporah", "His father-in-law Jethro", "Joshua"],
           correctAnswer: "His father-in-law Jethro"
         },
         {
-          id: "q14",
+          id: "q15",
+          type: "short-answer",
+          question: "Why would the people line up to visit Moses from day to night?",
+          correctAnswer: "To have him judge their cases"
+        },
+        {
+          id: "q16",
           type: "short-answer",
           question: "What advice did Jethro give Moses?",
           correctAnswer: "To appoint capable men as chiefs over thousands, hundreds, fifties, and tens to judge the people"
         },
         {
-          id: "q15",
+          id: "q17",
           type: "true-false",
           question: "Moses rejected Jethro’s advice and chose to continue judging alone.",
           correctAnswer: false
@@ -2917,12 +3071,6 @@ export const readingPlan: DayReading[] = [
           type: "true-false",
           question: "If an ox killed someone, the ox was to be stoned, and the owner was always put to death.",
           correctAnswer: false
-        },
-        {
-          id: "q15",
-          type: "short-answer",
-          question: "What did Jehovah say about building an altar of stones?",
-          correctAnswer: "It should be made of natural stones, not cut with tools"
         }
       ]
     }
