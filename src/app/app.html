@@ -1,91 +1,81 @@
-<div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
-  <div class="container mx-auto px-4 py-8 max-w-4xl">
+<!--<div class="min-h-screen bg-gradient-to-br from-blue-100 via-indigo-50 to-amber-50">-->
+<div class="min-h-screen bg-blue-100">
+  <div class="container mx-auto px-4 py-10 max-w-4xl">
     <!-- Header -->
-    <div class="text-center mb-8">
-      <h1 class="text-4xl font-bold text-gray-900">Daily Bible Study Guide</h1>
-      <p class="text-lg text-gray-600">
+    <div class="text-center mb-10">
+      <h1 class="text-4xl font-bold text-indigo-900 mb-2">Daily Bible Study Guide</h1>
+      <p class="text-lg text-indigo-700">
         Complete the Bible in 365 days with guided study questions
       </p>
     </div>
 
     <!-- Progress Overview -->
-    <app-card class="mb-8">
-      <div class="p-6">
-        <h3 class="text-xl font-semibold mb-4 flex items-center gap-2">
-          <svg class="h-5 w-5 text-yellow-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
+    <app-card class="mb-8 shadow-lg">
+      <div class="p-6 bg-white bg-opacity-80">
+        <h3 class="text-xl font-semibold mb-4 flex items-center gap-2 text-indigo-800">
+          <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
           </svg>
           Your Progress
         </h3>
         <div class="space-y-4">
           <div>
-            <div class="flex justify-between text-sm mb-2">
+            <div class="flex justify-between text-sm mb-2 font-medium text-indigo-700">
               <span>Days Completed</span>
-              <span>{{completedDays().length}}/365</span>
+              <span>{{ completedDays().length }}/365</span>
             </div>
             <app-progress [value]="progressPercentage()" class="h-2"></app-progress>
-          </div>
-          <div class="flex gap-4 text-sm">
-            <div class="flex items-center gap-1">
-              <svg class="h-4 w-4 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-              </svg>
-              <span>Current Day: {{currentDay()}}</span>
-            </div>
-            <div class="flex items-center gap-1">
-              <svg class="h-4 w-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-              </svg>
-              <span>Streak: {{completedDays().length}}</span>
-            </div>
           </div>
         </div>
       </div>
     </app-card>
 
     <!-- Today's Reading -->
-    <app-card class="mb-8">
-      <div class="p-6">
-        <div class="flex items-center justify-between mb-4">
+    <app-card class="mb-8 shadow-lg">
+      <div class="p-6 bg-white bg-opacity-80">
+        <div class="flex items-center justify-between mb-5">
           <div>
-            <h3 class="text-xl font-semibold flex items-center gap-2">
-              <svg class="h-5 w-5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
+            <h3 class="text-xl font-semibold flex items-center gap-2 text-indigo-800">
+              <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
               </svg>
-              Day {{currentDay()}} Reading
+              Day {{ currentDay() }} Reading
             </h3>
-            <p class="text-lg font-medium mt-1 text-gray-600">{{todaysReading()?.passage}}</p>
+            <p class="text-lg font-medium mt-2 text-indigo-600">{{ todaysReading()?.passage }}</p>
           </div>
-          <app-badge
-            *ngIf="isCurrentDayCompleted()"
-            variant="secondary"
-            class="bg-green-100 text-green-800">
-            <svg class="h-4 w-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-            </svg>
-            Completed
-          </app-badge>
+          @if (isCurrentDayCompleted()) {
+            <div
+              class="flex items-center gap-1 bg-green-50 px-3 py-1.5 rounded-full text-green-700">
+              <svg class="h-4 w-4 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                      d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
+              <span>Completed</span>
+            </div>
+          }
         </div>
 
-        <div class="space-y-4">
-          <div>
-            <h4 class="font-semibold mb-2">Today's Focus:</h4>
-            <p class="text-gray-600">{{todaysReading()?.focus}}.</p>
+        <div class="space-y-5">
+          <div class="bg-indigo-50 p-4 rounded-lg">
+            <h4 class="font-semibold mb-2 text-indigo-800">Today's Focus:</h4>
+            <p class="text-indigo-700">{{ todaysReading()?.focus }}.</p>
           </div>
 
           <div *ngIf="!showQuiz()" class="space-y-4">
-            <div>
-              <h4 class="font-semibold mb-2">Reading Instructions:</h4>
-              <p class="text-sm text-gray-600">
-                Read {{todaysReading()?.passage}} carefully, then take the study quiz to test your understanding and
+            <div class="bg-amber-50 p-4 rounded-lg border border-amber-100">
+              <h4 class="font-semibold mb-2 text-amber-800">Reading Instructions:</h4>
+              <p class="text-amber-700">
+                Read {{ todaysReading()?.passage }} carefully, then take the study quiz to test your understanding and
                 complete today's study.
               </p>
             </div>
             <app-button
               (click)="startQuiz()"
               [disabled]="isCurrentDayCompleted()"
-              class="w-full">
-              {{isCurrentDayCompleted() ? 'Quiz Completed' : 'Start Study Quiz'}}
+              class="w-full shadow-md">
+              {{ isCurrentDayCompleted() ? 'Quiz Completed' : 'Start Study Quiz' }}
             </app-button>
           </div>
 
@@ -101,32 +91,41 @@
     </app-card>
 
     <!-- Quick Navigation -->
-    <app-card>
-      <div class="p-6">
-        <h3 class="text-xl font-semibold mb-4">Quick Navigation</h3>
-        <div #navigationGrid class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-2 max-h-96 overflow-y-auto">
+    <app-card class="shadow-lg">
+      <div class="p-6 bg-white bg-opacity-80">
+        <h3 class="text-xl font-semibold mb-4 text-indigo-800 flex items-center gap-2">
+          <svg class="h-5 w-5 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5v-4m0 4h-4m4 0l-5-5"></path>
+          </svg>
+          Quick Navigation
+        </h3>
+        <div #navigationGrid
+             class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-2 max-h-96 overflow-y-auto p-1">
           <button
             *ngFor="let day of navigationDays()"
             type="button"
             [attr.data-day]="day"
             (click)="navigateToDay(day)"
-            [class]="'px-2 py-1 rounded-md text-sm font-medium transition-all duration-200 flex flex-col items-center justify-center h-14 ' + getDayButtonClass(day)">
+            [class]="'px-2 py-1.5 rounded-md text-sm font-medium transition-all duration-200 flex flex-col items-center justify-center h-16 shadow-sm hover:shadow ' + getDayButtonClass(day)">
             <div class="relative w-full">
-              <div class="text-xs font-semibold leading-none">Day {{day}}</div>
-              <div class="text-[11px] mt-1 opacity-75 leading-none">
-                {{getReadingForDay(day)}}
+              <div class="text-xs font-semibold leading-none">Day {{ day }}</div>
+              <div class="text-[11px] mt-1 opacity-80 leading-none">
+                {{ getReadingForDay(day) }}
               </div>
               <svg
                 *ngIf="completedDays().includes(day)"
                 class="h-3 w-3 absolute -top-0.5 -right-0.5 text-green-100 bg-green-700 rounded-full p-0.5 border border-green-600"
                 fill="currentColor"
                 viewBox="0 0 20 20">
-                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
+                <path fill-rule="evenodd"
+                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                      clip-rule="evenodd"></path>
               </svg>
             </div>
           </button>
         </div>
-        <p class="text-sm text-gray-500 mt-2 text-center">
+        <p class="text-sm text-indigo-500 mt-3 text-center font-medium">
           All 365 days available for navigation. Scroll to find any day.
         </p>
       </div>

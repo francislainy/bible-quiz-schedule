@@ -1,4 +1,13 @@
-import {Component, computed, OnInit, signal, ViewEncapsulation, AfterViewInit, ElementRef, ViewChild} from '@angular/core';
+import {
+  AfterViewInit,
+  Component,
+  computed,
+  ElementRef,
+  OnInit,
+  signal,
+  ViewChild,
+  ViewEncapsulation
+} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {FormsModule} from '@angular/forms';
 import {readingPlan} from './data/reading-plan';
@@ -6,7 +15,6 @@ import {DailyQuizComponent} from './components/daily-quiz/daily-quiz.component';
 import {ProgressComponent} from './components/progress/progress.component';
 import {ButtonComponent} from './components/button/button.component';
 import {CardComponent} from './components/card/card.component';
-import {BadgeComponent} from './components/badge/badge.component';
 
 @Component({
   selector: 'app-root',
@@ -17,8 +25,7 @@ import {BadgeComponent} from './components/badge/badge.component';
     DailyQuizComponent,
     ProgressComponent,
     ButtonComponent,
-    CardComponent,
-    BadgeComponent
+    CardComponent
   ],
   templateUrl: './app.html',
   encapsulation: ViewEncapsulation.None
@@ -204,7 +211,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     const isCurrent = day === this.currentDay();
 
     if (isCompleted) {
-      return 'relative bg-green-500 hover:bg-green-600 text-white border-green-500 shadow-md';
+      return 'relative bg-green-100 hover:bg-green-600 text-green-700 hover:text-white border-green-500 shadow-md';
     } else if (isCurrent) {
       return 'relative bg-blue-500 hover:bg-blue-600 text-white border-blue-500';
     } else {
