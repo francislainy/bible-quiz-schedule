@@ -59,18 +59,22 @@
 
         <div class="space-y-5">
           <div class="bg-indigo-50 p-4 rounded-lg">
-            <h4 class="font-semibold mb-2 text-indigo-800">Today's Focus:</h4>
+            <div class="flex items-center justify-between">
+              <h4 class="font-semibold mb-2 text-indigo-800">Today's Focus:</h4>
+              <div class="relative group">
+                <svg class="h-4 w-4 text-indigo-400 hover:text-indigo-600 cursor-help" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+                <div class="absolute right-0 bottom-6 w-64 bg-indigo-800 text-indigo-100 text-xs rounded-lg p-2 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+                  Read {{ todaysReading()?.passage }} carefully, then take the study quiz to test your understanding and
+                  complete today's study.
+                </div>
+              </div>
+            </div>
             <p class="text-indigo-700">{{ todaysReading()?.focus }}.</p>
           </div>
 
           <div *ngIf="!showQuiz()" class="space-y-4">
-            <div class="bg-amber-50 p-4 rounded-lg border border-amber-100">
-              <h4 class="font-semibold mb-2 text-amber-800">Reading Instructions:</h4>
-              <p class="text-amber-700">
-                Read {{ todaysReading()?.passage }} carefully, then take the study quiz to test your understanding and
-                complete today's study.
-              </p>
-            </div>
             <app-button
               (click)="startQuiz()"
               [disabled]="isCurrentDayCompleted()"
