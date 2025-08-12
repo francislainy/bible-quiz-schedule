@@ -3084,20 +3084,14 @@ export const readingPlan: DayReading[] = [
       questions: [
         {
           id: "q1",
-          type: "multiple-choice",
-          question: "What was the penalty if someone stole an ox or a sheep and killed or sold it?",
-          options: [
-            "They were stoned",
-            "They restored double",
-            "They repaid five oxen for one ox and four sheep for one sheep",
-            "They were imprisoned"
-          ],
-          correctAnswer: "They repaid five oxen for one ox and four sheep for one sheep"
+          type: "true-false",
+          question: "A sorceress was not to be allowed to live.",
+          correctAnswer: true
         },
         {
           id: "q2",
           type: "true-false",
-          question: "A sorceress was not to be allowed to live.",
+          question: "Widows and orphans were to be treated with care.",
           correctAnswer: true
         },
         {
@@ -3108,94 +3102,111 @@ export const readingPlan: DayReading[] = [
         },
         {
           id: "q4",
+          type: "true-false",
+          question: "Spreading false reports was accepted and not part of the law given to the Israelites?",
+          correctAnswer: false
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What was the provision made so that poor people weren't without food.",
+          correctAnswer: "Farmers were to leave the edges of their fields and the gleanings for the poor and foreigners."
+        },
+        {
+          id: "q6",
           type: "multiple-choice",
           question: "What did Jehovah say should not be delayed in giving?",
           options: ["Tithes", "Firstfruits and firstborn sons", "Sacrifices", "The Sabbath offering"],
           correctAnswer: "Firstfruits and firstborn sons"
         },
         {
-          id: "q5",
+          id: "q7",
           type: "short-answer",
           question: "How many years was the land to be sown before letting it rest in the seventh?",
           correctAnswer: "Six years"
         },
         {
-          id: "q6",
+          id: "q8",
           type: "true-false",
           question: "The Israelites were commanded to celebrate three annual festivals to Jehovah.",
           correctAnswer: true
         },
         {
-          id: "q7",
+          id: "q9",
           type: "multiple-choice",
           question: "Which festivals were commanded in Exodus 23?",
           options: ["Passover, Festival of Unleavened Bread, Festival of Booths", "Festival of Unleavened Bread, Harvest, Ingathering", "Festival of Lights, Passover, Trumpets", "Day of Atonement, Passover, Ingathering"],
           correctAnswer: "Festival of Unleavened Bread, Harvest, Ingathering"
         },
         {
-          id: "q8",
+          id: "q10",
+          type: "short-answer",
+          question: "What was the Festival of Ingathering about?",
+          correctAnswer: "The Festival of Ingathering was celebrated at the end of the year when the harvest was gathered in to celebrate the result of the labour of the Israelites."
+        },
+        {
+          id: "q11",
           type: "short-answer",
           question: "What did Moses read to the people before they agreed to the covenant?",
           correctAnswer: "The book of the covenant"
         },
         {
-          id: "q9",
+          id: "q12",
+          type: "short-answer",
+          question: "What was the people's attitude when Moses read the book of the covenant?",
+          correctAnswer: "All that Jehovah has spoken we will do, and we will be obedient."
+        },
+        {
+          id: "q13",
           type: "multiple-choice",
           question: "How many elders of Israel went up the mountain with Moses?",
           options: ["12", "24", "40", "70"],
           correctAnswer: "70"
         },
         {
-          id: "q10",
+          id: "q14",
           type: "true-false",
           question: "The elders of Israel saw a vision of the God of Israel and ate and drank in His presence.",
           correctAnswer: true
         },
         {
-          id: "q11",
+          id: "q15",
           type: "short-answer",
           question: "How many days did the cloud cover Mount Sinai before Jehovah called Moses inside?",
           correctAnswer: "Six days"
         },
         {
-          id: "q12",
+          id: "q16",
+          type: "true-false",
+          question: "Moses's appearance changed after being in the presence of Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q17",
           type: "multiple-choice",
           question: "How long did Moses remain on the mountain when Jehovah gave him instructions for the tabernacle?",
           options: ["20 days", "30 days", "40 days and nights", "50 days"],
           correctAnswer: "40 days and nights"
         },
         {
-          id: "q13",
+          id: "q18",
           type: "short-answer",
           question: "What did Jehovah ask the Israelites to contribute for the tabernacle?",
           correctAnswer: "A voluntary offering of gold, silver, copper, fine linen, precious stones, and other materials"
         },
         {
-          id: "q14",
+          id: "q19",
           type: "multiple-choice",
           question: "What piece of furniture was to be placed inside the Most Holy?",
           options: ["The table of showbread", "The golden lampstand", "The Ark of the Covenant", "The altar of incense"],
           correctAnswer: "The Ark of the Covenant"
         },
         {
-          id: "q15",
+          id: "q20",
           type: "true-false",
           question: "The cherubs on the Ark’s cover were to face away from each other.",
           correctAnswer: false
         },
-        {
-          id: "q16",
-          type: "short-answer",
-          question: "What was placed on the table in the Holy Place before Jehovah always?",
-          correctAnswer: "Showbread"
-        },
-        {
-          id: "q17",
-          type: "multiple-choice",
-          question: "How many branches did the golden lampstand have?",
-          options: ["3", "5", "7", "9"],
-          correctAnswer: "7"
-        }
       ]
     }
   },
