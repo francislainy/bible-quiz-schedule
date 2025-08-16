@@ -517,7 +517,7 @@ export const readingPlan: DayReading[] = [
         {
           id: "q13",
           type: "short-answer",
-          question: "Why did Lob move to a city near Sodom?",
+          question: "Why did Lot move to a city near Sodom?",
           correctAnswer: "There was quarreling between his crew and Abraham's due to lack of space for both being together."
         },
         {
@@ -3300,8 +3300,8 @@ export const readingPlan: DayReading[] = [
           id: "q11",
           type: "multiple-choice",
           question: "What was written on the gold plate fastened to the high priest’s turban?",
-          options: ["The Ten Commandments", "Holy to Jehovah", "Aaron the High Priest", "Tribe of Levi"],
-          correctAnswer: "Holy to Jehovah"
+          options: ["The Ten Commandments", "Holiness belongs to Jehovah", "Aaron the High Priest", "Tribe of Levi"],
+          correctAnswer: "Holiness belongs to Jehovah"
         },
         {
           id: "q12",
@@ -3438,5 +3438,750 @@ export const readingPlan: DayReading[] = [
       ]
     }
   },
+  {
+    day: 28,
+    passage: "Exodus 31–33",
+    focus: "Bezalel and Oholiab appointed, Sabbath reminder, golden calf, and Moses’ intercession",
+    quiz: {
+      title: "📘 Exodus 31–33 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who did Jehovah fill with wisdom, understanding, and skill to construct the tabernacle?",
+          options: [
+            "Aaron and his sons",
+            "Bezalel and Oholiab",
+            "Joshua and Caleb",
+            "Moses and Aaron"
+          ],
+          correctAnswer: "Bezalel and Oholiab"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Sabbath was to be observed as a sign between Jehovah and Israel for only one generation.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "On what material were the Ten Commandments written?",
+          correctAnswer: "Two stone tablets"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did the people ask Aaron to make while Moses was on Mount Sinai?",
+          options: [
+            "A bronze serpent",
+            "A golden calf",
+            "A silver crown",
+            "An altar of incense"
+          ],
+          correctAnswer: "A golden calf"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Aaron claimed that he shaped the golden calf with his own hands.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "What tribe rallied to Moses’ call, ‘Who is on Jehovah’s side?’",
+          correctAnswer: "The Levites"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "How many men were killed by the Levites after the golden calf incident?",
+          options: ["1,000", "2,000", "3,000", "5,000"],
+          correctAnswer: "3,000"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What did Moses do with the stone tablets when he saw the calf and the dancing?",
+          correctAnswer: "He threw them down and shattered them at the foot of the mountain"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What did Moses do with the golden calf?",
+          options: [
+            "Burned it, ground it to powder, scattered it on the water, and made the Israelites drink it",
+            "Melted it down for temple use",
+            "Buried it outside the camp",
+            "Gave it to the Levites to guard"
+          ],
+          correctAnswer: "Burned it, ground it to powder, scattered it on the water, and made the Israelites drink it"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Jehovah initially told Moses He would not go with Israel to the promised land because of their stubbornness.",
+          correctAnswer: true
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "Where would Moses pitch the tent of meeting to speak with Jehovah?",
+          correctAnswer: "Outside the camp, far from the camp"
+        },
+        {
+          id: "q12",
+          type: "multiple-choice",
+          question: "Who would speak to Jehovah face-to-face as a man speaks to his friend?",
+          options: ["Aaron", "Joshua", "Moses", "Bezalel"],
+          correctAnswer: "Moses"
+        },
+        {
+          id: "q13",
+          type: "short-answer",
+          question: "What did Moses request to see from Jehovah in chapter 33?",
+          correctAnswer: "Jehovah’s glory"
+        },
+        {
+          id: "q14",
+          type: "true-false",
+          question: "Moses was the only human able to see Jehovah's false.",
+          correctAnswer: false
+        },
+      ]
+    }
+  },
+  {
+    day: 29,
+    passage: "Exodus 34–35",
+    focus: "Renewal of the covenant, Moses’ radiant face, Sabbath command, and contributions for the tabernacle",
+    quiz: {
+      title: "📘 Exodus 34–35 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What did Jehovah command Moses to chisel out again at the start of chapter 34?",
+          correctAnswer: "Two stone tablets like the first ones"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "When Jehovah passed by Moses, how did He describe Himself?",
+          options: [
+            "Jehovah the Almighty Warrior",
+            "Jehovah, merciful and gracious, slow to anger, abundant in loyal love and truth",
+            "Jehovah, mighty in battle and wrath",
+            "Jehovah, the one who judges swiftly without patience"
+          ],
+          correctAnswer: "Jehovah, merciful and gracious, slow to anger, abundant in loyal love and truth"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Jehovah allowed Israel to make treaties with the inhabitants of Canaan.",
+          correctAnswer: false
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "How many times a year men were supposed to gather to appear before Jehovah?",
+          correctAnswer: "Three times"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Moses refused to write the Ten Commandments again after the first tablets got shattered.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "What happened to Moses’ face after speaking with Jehovah?",
+          correctAnswer: "His face emitted rays of light (it was radiant)"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Exodus 35, what command was repeated before the tabernacle instructions?",
+          options: ["Observe the Passover", "Observe the Sabbath", "Offer sacrifices daily", "Honor your parents"],
+          correctAnswer: "Observe the Sabbath"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "On the Sabbath, no fire was to be lit in the Israelites’ dwellings.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "What kind of offerings did the people bring for the tabernacle?",
+          correctAnswer: "Gold, silver, copper, fine linen, blue thread, purple wool, scarlet material, and more"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who did Jehovah fill with wisdom, understanding, and skill for the tabernacle work?",
+          options: ["Aaron", "Bezalel", "Joshua", "Caleb"],
+          correctAnswer: "Bezalel"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "Who was appointed to help Bezalel in the work?",
+          correctAnswer: "Oholiab"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "Both men and women willingly contributed their possessions and skills for the tabernacle.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 30,
+    passage: "Exodus 36–38",
+    focus: "Skilled workers build the tabernacle, the Ark, table, lampstand, altars, basin, and courtyard",
+    quiz: {
+      title: "📘 Exodus 36–38 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "true-false",
+          question: "The Israelites brought so many contributions for the tabernacle that Moses had to command them to stop giving.",
+          correctAnswer: true
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "What material was used for the frames of the tabernacle?",
+          correctAnswer: "Acacia wood"
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What was overlaid with pure gold and had cherubs of hammered work at its ends?",
+          options: ["The altar of burnt offering", "The Ark cover (mercy seat)", "The lampstand", "The basin"],
+          correctAnswer: "The Ark cover (mercy seat)"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "How many branches extended from the sides of the golden lampstand?",
+          correctAnswer: "Six branches (three on each side)"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The altar of incense was made of cedar wood overlaid with silver.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was the altar of burnt offering overlaid with?",
+          options: ["Gold", "Silver", "Bronze (copper)", "Ivory"],
+          correctAnswer: "Bronze (copper)"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was made from the copper mirrors of the women who served at the entrance of the tent of meeting?",
+          correctAnswer: "The basin and its stand"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "The courtyard of the tabernacle was enclosed with what?",
+          options: ["Stone walls", "Curtains of fine twisted linen", "Wooden panels", "Bronze chains"],
+          correctAnswer: "Curtains of fine twisted linen"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "Who was appointed to oversee the work of the Levites regarding the materials?",
+          correctAnswer: "Ithamar, the son of Aaron the priest"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Approximately how much gold from the contributions was used in the tabernacle work?",
+          options: ["10 talents", "29 talents", "50 talents", "100 talents"],
+          correctAnswer: "29 talents"
+        }
+      ]
+    }
+  },
+  {
+    day: 31,
+    passage: "Exodus 39–40",
+    focus: "Priestly garments completed, tabernacle set up and filled with Jehovah’s glory",
+    quiz: {
+      title: "📘 Exodus 39–40 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "What was fastened to the hem of the blue robe of the ephod?",
+          correctAnswer: "Blue, purple, and scarlet pomegranates with golden bells"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What was placed inside the breastpiece of judgment?",
+          options: ["Two tablets of stone", "The Urim and the Thummim", "Incense and oil", "A golden rod"],
+          correctAnswer: "The Urim and the Thummim"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "The gold plate on Aaron’s turban was engraved with the words 'Holiness belongs to Jehovah.'",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "Who inspected all the tabernacle work and saw that it was done just as Jehovah had commanded?",
+          correctAnswer: "Moses"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "On what day of the first month did Moses set up the tabernacle?",
+          options: ["First day", "Seventh day", "Tenth day", "Fourteenth day"],
+          correctAnswer: "First day"
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "What was placed inside the Ark before the cover was put on?",
+          correctAnswer: "The Testimony (the tablets of the Law)"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "Where was the lampstand set up inside the tabernacle?",
+          options: ["North side of the Holy Place", "South side of the Holy Place", "Outside the courtyard entrance", "Beside the altar of burnt offering"],
+          correctAnswer: "South side of the Holy Place"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "After the tabernacle was set up, Jehovah’s cloud filled it so fully that Moses was unable to enter.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "What sign indicated that the Israelites should set out on their journeys?",
+          correctAnswer: "When the cloud lifted from over the tabernacle"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "By what was the tabernacle covered at night after Jehovah’s glory filled it?",
+          options: ["A mist", "A fiery pillar", "A starry light", "A golden glow"],
+          correctAnswer: "A fiery pillar"
+        }
+      ]
+    }
+  },
+  {
+    day: 32,
+    passage: "Leviticus 1–4",
+    focus: "Instructions for burnt offerings, grain offerings, communion offerings, and sin offerings",
+    quiz: {
+      title: "📘 Leviticus 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "In Leviticus 1, what kind of animals could be presented for a burnt offering?",
+          correctAnswer: "A male from the herd, flock, or birds (bull, sheep, goat, turtledove, or pigeon)"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "When presenting a burnt offering from the herd, where was the hand placed on the animal?",
+          options: ["On its back", "On its head", "On its neck", "On its side"],
+          correctAnswer: "On its head"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Grain offerings could be presented as fine flour with oil and frankincense.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was never to be included in a grain offering?",
+          options: ["Salt", "Olive oil", "Leaven (yeast) and honey", "Frankincense"],
+          correctAnswer: "Leaven (yeast) and honey"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "What did every offering of grain have to be seasoned with?",
+          correctAnswer: "Salt"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In the communion offering, what parts of the animal were burned as an offering to Jehovah?",
+          options: ["The skin and bones", "The meat and blood", "The fat, kidneys, and lobe of the liver", "The entire animal"],
+          correctAnswer: "The fat, kidneys, and lobe of the liver"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "The fat and blood of the communion offerings could be eaten by the Israelites.",
+          correctAnswer: false
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "In Leviticus 4, what was offered if the high priest sinned, bringing guilt on the people?",
+          correctAnswer: "A young bull without defect as a sin offering"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What was done with the blood of the sin offering for the congregation?",
+          options: ["It was poured out on the ground", "It was sprinkled in front of the curtain of the Most Holy", "It was burned with the fat", "It was mixed with water"],
+          correctAnswer: "It was sprinkled in front of the curtain of the Most Holy"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What could a leader bring as a sin offering if he unintentionally sinned?",
+          correctAnswer: "A male goat without defect"
+        }
+      ]
+    }
+  },
+  {
+    day: 33,
+    passage: "Leviticus 5–7",
+    focus: "Sin offerings, guilt offerings, regulations for offerings, and the priest’s portion",
+    quiz: {
+      title: "📘 Leviticus 5–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Leviticus 5, what was a person required to do if they became aware of sin and were guilty?",
+          options: ["Fast for seven days", "Confess the sin and bring a sin offering", "Offer incense", "Leave the camp"],
+          correctAnswer: "Confess the sin and bring a sin offering"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "If someone could not afford a lamb for a sin offering, what could they bring instead?",
+          correctAnswer: "Two turtledoves or two young pigeons"
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What was a guilt offering required for?",
+          options: ["Breaking the Sabbath", "Eating leavened bread during Passover", "Deceiving, stealing, or dealing falsely", "Failing to tithe"],
+          correctAnswer: "Deceiving, stealing, or dealing falsely"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "Besides the offering, what else had to be done when making amends for guilt involving property or deceit?",
+          correctAnswer: "Restitution plus an additional fifth"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The burnt offering was to remain on the altar fire all night until morning.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was Aaron and his sons instructed to wear when removing the ashes from the altar?",
+          options: ["Holy garments", "Linen garments", "Woolen garments", "Garments of gold"],
+          correctAnswer: "Linen garments"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Which offerings were most holy and had to be eaten in a holy place?",
+          correctAnswer: "The sin offering and the guilt offering"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "Every male among the priests could eat from the grain offerings, sin offerings, and guilt offerings.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What was strictly forbidden for the Israelites to eat from any animal?",
+          options: ["Skin and bones", "Fat and blood", "Kidneys and liver", "Firstborn animals"],
+          correctAnswer: "Fat and blood"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What portion of the communion offering belonged to Aaron and his sons?",
+          correctAnswer: "The breast of the wave offering and the right leg"
+        }
+      ]
+    }
+  },
+  {
+    day: 34,
+    passage: "Leviticus 8–10",
+    focus: "Installation of priests and the account of Nadab and Abihu",
+    quiz: {
+      title: "📘 Leviticus 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "In Leviticus 8, who was anointed and installed as high priest?",
+          correctAnswer: "Aaron"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What was placed on Aaron’s head during his installation?",
+          options: ["A crown of gold", "The turban with the holy sign of dedication", "A linen cap", "Olive branches"],
+          correctAnswer: "The turban with the holy sign of dedication"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Moses sprinkled some of the anointing oil and some of the blood on Aaron and his sons and their garments.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "How many days were Aaron and his sons to remain at the entrance of the tent of meeting during their installation?",
+          correctAnswer: "Seven days"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Leviticus 9, what happened after Aaron offered the sacrifices as instructed?",
+          options: ["The sky darkened", "Fire came out from before Jehovah and consumed the offering", "The priests fell asleep", "The Ark of the Covenant was moved"],
+          correctAnswer: "Fire came out from before Jehovah and consumed the offering"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "After the fire consumed the offerings, the people shouted and fell facedown.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What sin did Nadab and Abihu commit in Leviticus 10?",
+          options: ["They took unauthorized incense and offered illegitimate fire", "They ate the sin offering in the wrong place", "They refused to serve in the priesthood", "They touched the Ark of the Covenant"],
+          correctAnswer: "They took unauthorized incense and offered illegitimate fire"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What happened to Nadab and Abihu after offering illegitimate fire?",
+          correctAnswer: "Fire came out from Jehovah and consumed them"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "What command was given to Aaron and his remaining sons after the death of Nadab and Abihu?",
+          options: ["Leave the tent of meeting", "Do not mourn openly", "Offer another burnt offering immediately", "Wash in the laver"],
+          correctAnswer: "Do not mourn openly"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "Priests were commanded not to drink wine or other alcoholic beverages when serving in the tent of meeting.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 35,
+    passage: "Leviticus 11–13",
+    focus: "Clean and unclean animals, laws of purification, and diagnosis of skin diseases",
+    quiz: {
+      title: "📘 Leviticus 11–13 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "According to Leviticus 11, which land animals were considered clean to eat?",
+          options: ["Animals with split hooves that also chew the cud", "Animals with paws", "All reptiles", "Any animal with fur"],
+          correctAnswer: "Animals with split hooves that also chew the cud"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "Name one unclean land animal specifically mentioned in Leviticus 11.",
+          correctAnswer: "The camel (also acceptable: pig, rock badger, hare)"
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "Which water creatures were considered clean?",
+          options: ["Any creature in the sea", "Only those with fins and scales", "Only those caught in nets", "All large fish"],
+          correctAnswer: "Only those with fins and scales"
+        },
+        {
+          id: "q4",
+          type: "true-false",
+          question: "Birds like the eagle, vulture, and raven were listed as unclean.",
+          correctAnswer: true
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "In Leviticus 12, how long was a woman ceremonially unclean after giving birth to a son?",
+          correctAnswer: "Seven days"
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Leviticus 12, how long was the purification period after giving birth to a daughter?",
+          correctAnswer: "Two weeks unclean, plus sixty-six days of purification"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What offering was a woman to present after childbirth?",
+          options: ["A lamb and a young pigeon or turtledove", "Two rams", "Grain and oil", "An ox and a goat"],
+          correctAnswer: "A lamb and a young pigeon or turtledove"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "If a woman could not afford a lamb, she was permitted to offer two turtledoves or two young pigeons.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Leviticus 13, who examined people with potential skin diseases?",
+          options: ["The tribal leaders", "The judges", "The priests", "The Levites only"],
+          correctAnswer: "The priests"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What were individuals with confirmed leprosy required to call out?",
+          correctAnswer: "Unclean, unclean!"
+        },
+        {
+          id: "q11",
+          type: "true-false",
+          question: "A person pronounced unclean with leprosy had to live outside the camp.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 36,
+    passage: "Leviticus 14–15",
+    focus: "Cleansing from leprosy and laws about bodily discharges",
+    quiz: {
+      title: "📘 Leviticus 14–15 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "When a person was cleansed from leprosy, what two birds were used in the purification ritual?",
+          options: ["Two pigeons", "Two lambs", "Two turtledoves or young pigeons", "Two clean birds"],
+          correctAnswer: "Two clean birds"
+        },
+        {
+          id: "q2",
+          type: "short-answer",
+          question: "What was done with one of the birds in the leper’s cleansing ritual?",
+          correctAnswer: "It was killed over fresh water in an earthenware vessel."
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What was placed on the cleansed person’s right ear, thumb, and big toe?",
+          options: ["Ashes", "Water", "Blood of the guilt offering", "Oil only"],
+          correctAnswer: "Blood of the guilt offering"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What was applied to the same places after the blood of the guilt offering?",
+          correctAnswer: "Oil"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "If a person was poor, they could offer fewer animals for their cleansing.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What had to be done if leprosy appeared in a house?",
+          options: ["The house was immediately destroyed", "The house was closed for seven days", "The priest prayed over it", "The owner moved out forever"],
+          correctAnswer: "The house was closed for seven days"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "If leprosy spread in the house after inspection, what was to be done?",
+          correctAnswer: "The affected stones were removed and the house scraped and replastered; if it spread again, the house was to be demolished."
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Leviticus 15, what made a man unclean?",
+          options: ["Eating unclean food", "Having a discharge from his body", "Touching a dead animal", "Not washing hands"],
+          correctAnswer: "Having a discharge from his body"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Anything a man with a discharge lay on or sat on became unclean.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "How long was a woman considered unclean during her menstrual period?",
+          correctAnswer: "Seven days"
+        },
+        {
+          id: "q11",
+          type: "short-answer",
+          question: "At the end of uncleanness from a discharge, what offerings were to be made?",
+          correctAnswer: "Two turtledoves or two young pigeons—one for a sin offering and one for a burnt offering."
+        }
+      ]
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
 
 ];
