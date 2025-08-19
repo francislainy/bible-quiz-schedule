@@ -3665,8 +3665,8 @@ export const readingPlan: DayReading[] = [
           id: "q3",
           type: "multiple-choice",
           question: "What was overlaid with pure gold and had cherubs of hammered work at its ends?",
-          options: ["The altar of burnt offering", "The Ark cover (mercy seat)", "The lampstand", "The basin"],
-          correctAnswer: "The Ark cover (mercy seat)"
+          options: ["The altar of burnt offering", "The Ark cover", "The lampstand", "The basin"],
+          correctAnswer: "The Ark cover"
         },
         {
           id: "q4",

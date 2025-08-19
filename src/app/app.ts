@@ -175,9 +175,12 @@ export class AppComponent implements OnInit, AfterViewInit {
     setTimeout(() => {
       const element = document.getElementById('todays-reading');
       if (element) {
-        element.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
+        const elementRect = element.getBoundingClientRect();
+        const offset = 20; // Adjust this value to control the white space above
+
+        window.scrollTo({
+          top: window.pageYOffset + elementRect.top - offset,
+          behavior: 'smooth'
         });
       }
     }, 50);
@@ -185,11 +188,25 @@ export class AppComponent implements OnInit, AfterViewInit {
 
   cancelQuiz() {
     this.showQuiz.set(false);
+
+    setTimeout(() => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }, 200);
   }
 
   onQuizComplete(completed: boolean) {
     this.saveProgress(this.currentDay(), completed);
     this.showQuiz.set(false);
+
+    setTimeout(() => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }, 200);
   }
 
   navigateToDay(day: number) {
