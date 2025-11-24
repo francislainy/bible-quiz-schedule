@@ -36,6 +36,7 @@ export class AppComponent implements OnInit, AfterViewInit {
   currentDay = signal(1);
   completedDays = signal<number[]>([]);
   showQuiz = signal(false);
+  bulkMarkDayInput: number | null = null;
 
   ngOnInit() {
     this.loadProgress();
@@ -258,6 +259,84 @@ export class AppComponent implements OnInit, AfterViewInit {
       return 'relative bg-blue-500 hover:bg-blue-600 text-white border-blue-500';
     } else {
       return 'relative bg-gray-100 hover:bg-gray-200 text-gray-700 border-gray-300';
+    }
+  }
+
+  // Bulk mark days as complete up to a specified day
+  markCompleteUpToDay() {
+    const targetDay = this.bulkMarkDayInput;
+
+    // Validate input
+    if (!targetDay || targetDay < 1 || targetDay > 365) {
+      alert('Please enter a valid day number between 1 and 365.');
+      return;
+    }
+
+    // Confirmation dialog
+    const confirmMessage = `Are you sure you want to mark all days from 1 to ${targetDay} as complete?\n\nThis will mark ${targetDay} day(s) as completed.`;
+    if (!confirm(confirmMessage)) {
+      return;
+    }
+
+    try {
+      // Create array of days 1 through targetDay
+      const daysToMark = Array.from({ length: targetDay }, (_, i) => i + 1);
+
+      // Get existing completed days that are beyond the target day
+      const existingBeyondTarget = this.completedDays().filter(day => day > targetDay);
+
+      // Combine: all days up to target + any existing days beyond target (to preserve progress)
+      const newCompletedDays = [...daysToMark, ...existingBeyondTarget]
+        .filter((d, i, arr) => arr.indexOf(d) === i) // Remove duplicates
+        .sort((a, b) => a - b); // Sort for consistency
+
+      this.completedDays.set(newCompletedDays);
+
+      // Update localStorage with completion dates
+      let progress: any = {};
+      try {
+        const saved = localStorage.getItem('bible-study-progress');
+        if (saved) {
+          progress = JSON.parse(saved);
+        }
+      } catch (error) {
+        console.error('Error loading existing progress:', error);
+      }
+
+      progress.completedDays = newCompletedDays;
+      progress.currentDay = this.currentDay();
+
+      if (!progress.completionDates) {
+        progress.completionDates = {};
+      }
+
+      // Set current timestamp for all newly marked days
+      const currentTimestamp = new Date().toISOString();
+      for (let day = 1; day <= targetDay; day++) {
+        if (!progress.completionDates[day]) {
+          progress.completionDates[day] = currentTimestamp;
+        }
+      }
+
+      try {
+        localStorage.setItem('bible-study-progress', JSON.stringify(progress));
+      } catch (error) {
+        console.error('Error saving progress:', error);
+      }
+
+      // Update current day to next incomplete day
+      this.updateCurrentDayBasedOnProgress();
+
+      // Clear input field
+      this.bulkMarkDayInput = null;
+
+      // Scroll to current day
+      setTimeout(() => this.scrollToCurrentDay(), 100);
+
+      alert(`Successfully marked days 1-${targetDay} as complete!`);
+    } catch (error) {
+      console.error('Error marking days as complete:', error);
+      alert('An error occurred while marking days as complete. Please try again.');
     }
   }
 
