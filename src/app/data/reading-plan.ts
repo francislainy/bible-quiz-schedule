@@ -9276,7 +9276,7 @@ export const readingPlan: DayReading[] = [
         {
           id: "q11",
           type: "true-false",
-          question: "After cutting Saul’s robe, David felt remorse for having shown such disrespect to Jehovah’s anointed one.",
+          question: "After cutting Saul’s robe, David felt remorse.",
           correctAnswer: true
         },
         {
@@ -10076,6 +10076,1806 @@ export const readingPlan: DayReading[] = [
             "He used it to build a palace"
           ],
           correctAnswer: "He sanctified it to Jehovah"
+        }
+      ]
+    }
+  },
+  {
+    day: 99,
+    passage: "2 Samuel 9–12",
+    focus: "David's kindness to Mephibosheth; war with Ammon; David's sin with Bathsheba; Nathan's reproof; consequences of David's sin",
+    quiz: {
+      title: "📘 2 Samuel 9–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did David seek out Mephibosheth?",
+          options: [
+            "To punish him for his father's actions",
+            "To show loyal love for Jonathan's sake",
+            "Because Mephibosheth requested an audience",
+            "To make him a soldier"
+          ],
+          correctAnswer: "To show loyal love for Jonathan's sake"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Mephibosheth was lame in both feet.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What kindness did David show to Mephibosheth?",
+          options: [
+            "He gave him a position in the army",
+            "He restored all of Saul's land to him and invited him to eat at the king's table",
+            "He built him a new house",
+            "He made him a priest"
+          ],
+          correctAnswer: "He restored all of Saul's land to him and invited him to eat at the king's table"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What insult did Hanun, king of Ammon, do to David's messengers?",
+          correctAnswer: "He shaved off half their beards and cut off their garments at the hips (or similar description of humiliation)"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "David remained in Jerusalem while Joab led the army against the Ammonites and Syrians.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Whose wife did David commit adultery with?",
+          options: [
+            "Abigail",
+            "Bathsheba, wife of Uriah the Hittite",
+            "Michal",
+            "Tamar"
+          ],
+          correctAnswer: "Bathsheba, wife of Uriah the Hittite"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did David arrange for Uriah to be killed?",
+          correctAnswer: "He had Joab place Uriah in the front lines where the fighting was fiercest, then withdraw from him"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What illustration did Nathan the prophet use to reprove David?",
+          options: [
+            "A shepherd who lost his sheep",
+            "A rich man who took a poor man's only little lamb",
+            "A king who oppressed his subjects",
+            "A farmer who stole his neighbor's harvest"
+          ],
+          correctAnswer: "A rich man who took a poor man's only little lamb"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Nathan told David that the sword would never depart from his house because of his sin.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to the child born from David's adultery with Bathsheba?",
+          options: [
+            "The child grew up healthy and strong",
+            "The child became ill and died despite David's fasting and prayers",
+            "The child was taken away by enemies",
+            "The child became the next king"
+          ],
+          correctAnswer: "The child became ill and died despite David's fasting and prayers"
+        }
+      ]
+    }
+  },
+  {
+    day: 100,
+    passage: "2 Samuel 13–14",
+    focus: "Amnon's sin against Tamar; Absalom's revenge and exile; Absalom's return to Jerusalem",
+    quiz: {
+      title: "📘 2 Samuel 13–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who was Amnon infatuated with?",
+          options: [
+            "His sister Tamar",
+            "Bathsheba",
+            "Absalom's wife",
+            "A Philistine woman"
+          ],
+          correctAnswer: "His sister Tamar"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Amnon pretended to be sick so he could get Tamar alone in his house.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What terrible sin did Amnon commit against Tamar?",
+          correctAnswer: "He raped her (or violated her, forced himself on her)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Amnon treat Tamar after violating her?",
+          options: [
+            "He married her immediately",
+            "He apologized and cared for her",
+            "He hated her intensely and sent her away",
+            "He asked David for forgiveness"
+          ],
+          correctAnswer: "He hated her intensely and sent her away"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Absalom comforted Tamar and took her into his house after Amnon violated her.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How long did Absalom wait before taking revenge on Amnon?",
+          options: [
+            "One month",
+            "Six months",
+            "Two full years",
+            "Five years"
+          ],
+          correctAnswer: "Two full years"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Where did Absalom have Amnon killed?",
+          correctAnswer: "At a sheep-shearing feast in Baal-hazor (or at his sheep-shearing celebration)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Where did Absalom flee after killing Amnon?",
+          options: [
+            "Egypt",
+            "Moab",
+            "Geshur, to King Talmai his grandfather",
+            "Philistia"
+          ],
+          correctAnswer: "Geshur, to King Talmai his grandfather"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Joab used a wise woman from Tekoa to convince David to bring Absalom back.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "When Absalom returned to Jerusalem, what restriction did David place on him?",
+          options: [
+            "He could not own property",
+            "He had to live in exile outside the city",
+            "He could not see the king's face",
+            "He could not speak to anyone"
+          ],
+          correctAnswer: "He could not see the king's face"
+        }
+      ]
+    }
+  },
+  {
+    day: 101,
+    passage: "2 Samuel 15–16",
+    focus: "Absalom's conspiracy and rebellion; David flees Jerusalem; Shimei curses David; Ahithophel joins Absalom",
+    quiz: {
+      title: "📘 2 Samuel 15–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Absalom win the hearts of the men of Israel?",
+          options: [
+            "By giving them money and gifts",
+            "By standing at the city gate and promising justice to those with complaints",
+            "By defeating Israel's enemies in battle",
+            "By building the temple"
+          ],
+          correctAnswer: "By standing at the city gate and promising justice to those with complaints"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Absalom declared himself king in Hebron after four years of undermining David's authority.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Which of David's trusted counselors joined Absalom's conspiracy?",
+          correctAnswer: "Ahithophel"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did David do when he heard about Absalom's rebellion?",
+          options: [
+            "He immediately gathered his army to fight",
+            "He fled from Jerusalem with his household and servants",
+            "He surrendered to Absalom",
+            "He hid in the palace"
+          ],
+          correctAnswer: "He fled from Jerusalem with his household and servants"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "David left ten concubines behind to take care of the palace when he fled.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who did David send back to Jerusalem to frustrate Ahithophel's counsel?",
+          options: [
+            "Joab",
+            "Nathan the prophet",
+            "Hushai the Archite",
+            "Benaiah"
+          ],
+          correctAnswer: "Hushai the Archite"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Shimei do to David as he was leaving Jerusalem?",
+          correctAnswer: "He cursed David and threw stones at him and his servants"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did David respond when Abishai wanted to kill Shimei for cursing the king?",
+          options: [
+            "He ordered Shimei's immediate execution",
+            "He allowed Abishai to kill him",
+            "He restrained Abishai, saying perhaps Jehovah told Shimei to curse",
+            "He had Shimei imprisoned"
+          ],
+          correctAnswer: "He restrained Abishai, saying perhaps Jehovah told Shimei to curse"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Absalom had relations with his father's concubines on the roof in the sight of all Israel, fulfilling Nathan's prophecy.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Ahithophel's first counsel to Absalom?",
+          options: [
+            "To pursue David immediately with 12,000 men",
+            "To make peace with David",
+            "To have relations with David's concubines",
+            "To fortify Jerusalem against attack"
+          ],
+          correctAnswer: "To have relations with David's concubines"
+        }
+      ]
+    }
+  },
+  {
+    day: 102,
+    passage: "2 Samuel 17–18",
+    focus: "Hushai's counsel prevails over Ahithophel's; Absalom's defeat and death; David's grief",
+    quiz: {
+      title: "📘 2 Samuel 17–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What counsel did Ahithophel give Absalom regarding pursuing David?",
+          options: [
+            "To wait and strengthen the army first",
+            "To pursue David immediately that night with 12,000 men",
+            "To make peace with David",
+            "To send messengers to negotiate"
+          ],
+          correctAnswer: "To pursue David immediately that night with 12,000 men"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hushai's counsel to delay the pursuit and gather all Israel was accepted over Ahithophel's advice.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Ahithophel do when his counsel was not followed?",
+          correctAnswer: "He went home, set his house in order, and hanged himself"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who warned David about Absalom's plans?",
+          options: [
+            "Nathan the prophet",
+            "Jonathan and Ahimaaz, sons of the priests",
+            "Joab's messengers",
+            "A Philistine spy"
+          ],
+          correctAnswer: "Jonathan and Ahimaaz, sons of the priests"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "David personally led his troops into battle against Absalom's forces.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did David command his commanders regarding Absalom?",
+          options: [
+            "To kill him immediately",
+            "To deal gently with the young man Absalom",
+            "To capture him alive at any cost",
+            "To ignore him and focus on winning"
+          ],
+          correctAnswer: "To deal gently with the young man Absalom"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did Absalom die?",
+          correctAnswer: "His head got caught in a large tree while riding his mule, and Joab thrust him through with three sticks/spears"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Who reported Absalom's death to David?",
+          options: [
+            "Joab himself",
+            "Ahimaaz and then a Cushite",
+            "One of Absalom's servants",
+            "Abishai"
+          ],
+          correctAnswer: "Ahimaaz and then a Cushite"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David was overjoyed when he heard of the victory over Absalom's forces.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What were David's words when he heard of Absalom's death?",
+          options: [
+            "Justice has been served",
+            "My son Absalom! If only I had died instead of you!",
+            "The rebellion is finally over",
+            "Jehovah has delivered me"
+          ],
+          correctAnswer: "My son Absalom! If only I had died instead of you!"
+        }
+      ]
+    }
+  },
+  {
+    day: 103,
+    passage: "2 Samuel 19–20",
+    focus: "David's return to Jerusalem; Sheba's rebellion; disputes among the tribes; Joab kills Amasa",
+    quiz: {
+      title: "📘 2 Samuel 19–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who rebuked David for mourning Absalom excessively instead of celebrating the victory?",
+          options: [
+            "Nathan the prophet",
+            "Joab",
+            "Abishai",
+            "Hushai"
+          ],
+          correctAnswer: "Joab"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The tribes of Israel were divided and arguing about bringing King David back.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did David promise Shimei when Shimei came to ask forgiveness for cursing him?",
+          correctAnswer: "That he would not put him to death (or that he would not die)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who complained to David that his servant Ziba had slandered him and taken his property?",
+          options: [
+            "Jonathan's son Mephibosheth",
+            "Absalom's son",
+            "Saul's grandson",
+            "Shimei"
+          ],
+          correctAnswer: "Jonathan's son Mephibosheth"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Barzillai the Gileadite had provided David with supplies during his exile from Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who started a new rebellion against David by blowing a horn and saying 'We have no share in David'?",
+          options: [
+            "Joab",
+            "Sheba the son of Bichri, a Benjaminite",
+            "Amasa",
+            "Adonijah"
+          ],
+          correctAnswer: "Sheba the son of Bichri, a Benjaminite"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Whom did David appoint as army chief in place of Joab?",
+          correctAnswer: "Amasa"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Joab do to Amasa when they met?",
+          options: [
+            "He embraced him as a brother",
+            "He killed him by stabbing him in the belly",
+            "He made peace with him",
+            "He asked for his counsel"
+          ],
+          correctAnswer: "He killed him by stabbing him in the belly"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Sheba took refuge in the city of Abel of Beth-maacah when Joab pursued him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How was Sheba's rebellion ended?",
+          options: [
+            "Sheba surrendered peacefully",
+            "A wise woman negotiated and the city threw Sheba's head over the wall to Joab",
+            "Joab destroyed the entire city",
+            "Sheba escaped to another country"
+          ],
+          correctAnswer: "A wise woman negotiated and the city threw Sheba's head over the wall to Joab"
+        }
+      ]
+    }
+  },
+  {
+    day: 104,
+    passage: "2 Samuel 21–22",
+    focus: "Famine and the Gibeonites; battles with Philistine giants; David's song of salvation and deliverance",
+    quiz: {
+      title: "📘 2 Samuel 21–22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What caused the three-year famine in David's time?",
+          options: [
+            "A drought sent by Jehovah",
+            "Bloodguilt on Saul's house for putting Gibeonites to death",
+            "Israel's disobedience to the Law",
+            "Philistine attacks on crops"
+          ],
+          correctAnswer: "Bloodguilt on Saul's house for putting Gibeonites to death"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Gibeonites asked for silver and gold as compensation for Saul's actions against them.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How many of Saul's descendants did the Gibeonites ask to be given to them?",
+          correctAnswer: "Seven men"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Which of Saul's descendants did David spare from being handed over to the Gibeonites?",
+          options: [
+            "Ish-bosheth",
+            "Mephibosheth, Jonathan's son",
+            "All of Saul's grandsons",
+            "Michal's sons"
+          ],
+          correctAnswer: "Mephibosheth, Jonathan's son"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Rizpah, Saul's concubine, guarded the bodies of the executed men from birds and wild animals.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who saved David when he grew tired during battle with the Philistines and a giant threatened him?",
+          options: [
+            "Joab",
+            "Abishai the son of Zeruiah",
+            "Benaiah",
+            "Ittai the Gittite"
+          ],
+          correctAnswer: "Abishai the son of Zeruiah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who killed Goliath's brother Lahmi (or a relative of Goliath) whose spear shaft was like a weaver's beam?",
+          correctAnswer: "Elhanan (the son of Jaare-oregim or Jair)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In David's song in chapter 22, who does he praise as his rock, fortress, and deliverer?",
+          options: [
+            "His mighty men",
+            "The nation of Israel",
+            "Jehovah",
+            "His own strength"
+          ],
+          correctAnswer: "Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David's song of deliverance in chapter 22 is also recorded in the book of Psalms.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "According to David's song, why did Jehovah reward him?",
+          options: [
+            "Because of his military victories",
+            "Because of his righteousness and cleanness of hands",
+            "Because he was king",
+            "Because of his wealth"
+          ],
+          correctAnswer: "Because of his righteousness and cleanness of hands"
+        }
+      ]
+    }
+  },
+  {
+    day: 105,
+    passage: "2 Samuel 23–24",
+    focus: "David's last words; his mighty warriors; David's census brings consequences; the plague stopped",
+    quiz: {
+      title: "📘 2 Samuel 23–24 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In David's last words, how does he describe a ruler who rules in the fear of God?",
+          options: [
+            "Like a fierce warrior defeating enemies",
+            "Like the morning light at sunrise, a morning without clouds",
+            "Like a lion protecting its cubs",
+            "Like a shepherd watching over sheep"
+          ],
+          correctAnswer: "Like the morning light at sunrise, a morning without clouds"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David had a group of mighty warriors known as 'The Three' who performed outstanding exploits.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did three of David's mighty men risk their lives to bring him from Bethlehem?",
+          correctAnswer: "Water from the cistern (or well) by the gate of Bethlehem"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did David do with the water his men brought from Bethlehem?",
+          options: [
+            "He drank it gratefully",
+            "He poured it out to Jehovah, refusing to drink it",
+            "He shared it with all his men",
+            "He saved it for a special occasion"
+          ],
+          correctAnswer: "He poured it out to Jehovah, refusing to drink it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Joab encouraged David to take a census of Israel and Judah.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How long did it take Joab to complete the census of Israel?",
+          options: [
+            "Three months",
+            "Nine months and 20 days",
+            "One year",
+            "Six months"
+          ],
+          correctAnswer: "Nine months and 20 days"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did David feel after the census was completed?",
+          correctAnswer: "His heart troubled him (or he felt guilty/realized he had sinned)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What three punishments did Gad the prophet offer David to choose from?",
+          options: [
+            "Exile, imprisonment, or death",
+            "Seven years of famine, three months fleeing enemies, or three days of plague",
+            "Loss of kingdom, death of family, or personal illness",
+            "War, drought, or earthquake"
+          ],
+          correctAnswer: "Seven years of famine, three months fleeing enemies, or three days of plague"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David chose to fall into Jehovah's hand rather than into the hand of man.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Where did David build an altar to stop the plague?",
+          options: [
+            "In Bethlehem, his hometown",
+            "On the threshing floor of Araunah the Jebusite",
+            "In Hebron where he was first anointed",
+            "At the tabernacle in Gibeon"
+          ],
+          correctAnswer: "On the threshing floor of Araunah the Jebusite"
+        }
+      ]
+    }
+  },
+  {
+    day: 106,
+    passage: "1 Kings 1–2",
+    focus: "Adonijah's attempt to seize the throne; Solomon anointed king; David's final instructions; David's death",
+    quiz: {
+      title: "📘 1 Kings 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who tried to make himself king while David was old and weak?",
+          options: [
+            "Solomon",
+            "Adonijah, David's son",
+            "Absalom",
+            "Joab"
+          ],
+          correctAnswer: "Adonijah, David's son"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Joab the army chief and Abiathar the priest supported Adonijah's claim to the throne.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Which prophet informed Bathsheba about Adonijah's attempt to become king?",
+          correctAnswer: "Nathan"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did David instruct to be done immediately after learning of Adonijah's actions?",
+          options: [
+            "Execute Adonijah for treason",
+            "Have Solomon anointed as king at Gihon",
+            "Call all the tribes together for a vote",
+            "Send Adonijah into exile"
+          ],
+          correctAnswer: "Have Solomon anointed as king at Gihon"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "When Adonijah heard that Solomon had been anointed king, he fled and grabbed hold of the horns of the altar.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What were David's final instructions to Solomon regarding walking before God?",
+          options: [
+            "To build a magnificent palace",
+            "To keep Jehovah's commandments and walk in His ways",
+            "To expand Israel's territory through war",
+            "To make peace with all surrounding nations"
+          ],
+          correctAnswer: "To keep Jehovah's commandments and walk in His ways"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How long did David reign as king over Israel?",
+          correctAnswer: "40 years (7 years in Hebron and 33 years in Jerusalem)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What request did Adonijah make through Bathsheba that led to his death?",
+          options: [
+            "To be made second-in-command",
+            "To marry Abishag the Shunammite",
+            "To leave the country safely",
+            "To become a priest"
+          ],
+          correctAnswer: "To marry Abishag the Shunammite"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon had Joab executed for his past bloodshed and for supporting Adonijah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What restriction did Solomon place on Shimei, and what happened when he violated it?",
+          options: [
+            "He banned him from speaking; Shimei was imprisoned when he spoke",
+            "He confined him to Jerusalem; Shimei was executed when he left to retrieve his slaves",
+            "He required daily reports; Shimei was exiled when he failed to report",
+            "He forbade him from owning property; Shimei lost everything"
+          ],
+          correctAnswer: "He confined him to Jerusalem; Shimei was executed when he left to retrieve his slaves"
+        }
+      ]
+    }
+  },
+  {
+    day: 107,
+    passage: "1 Kings 3–5",
+    focus: "Solomon's wise request for understanding; his judicial wisdom; preparations for building the temple; Solomon's administration",
+    quiz: {
+      title: "📘 1 Kings 3–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Solomon ask Jehovah for when he was given the opportunity to request anything?",
+          options: [
+            "Long life and riches",
+            "Victory over his enemies",
+            "An obedient heart to judge the people and to discern between good and bad",
+            "A large kingdom and many sons"
+          ],
+          correctAnswer: "An obedient heart to judge the people and to discern between good and bad"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehovah was pleased with Solomon's request and gave him both wisdom and what he did not ask for.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "In the famous judgment, what did Solomon propose to do to resolve the dispute between two women over a baby?",
+          correctAnswer: "Cut the living child in two and give half to each woman"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Solomon identify the true mother of the living child?",
+          options: [
+            "She agreed to have the child divided",
+            "She was willing to give up the child to save its life",
+            "She provided proof of birth",
+            "She was the loudest in her claim"
+          ],
+          correctAnswer: "She was willing to give up the child to save its life"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon's wisdom exceeded the wisdom of all the people of the East and all the wisdom of Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How many proverbs did Solomon speak?",
+          options: [
+            "1,000",
+            "3,000",
+            "5,000",
+            "10,000"
+          ],
+          correctAnswer: "3,000"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Which king of Tyre made a covenant with Solomon to provide materials for the temple?",
+          correctAnswer: "Hiram (King Hiram)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What materials did Hiram provide for building the temple?",
+          options: [
+            "Gold and silver",
+            "Cedar and juniper timbers",
+            "Precious stones only",
+            "Iron and bronze"
+          ],
+          correctAnswer: "Cedar and juniper timbers"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon conscripted 30,000 men from Israel for forced labor in Lebanon.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In what year of Solomon's reign did he begin building the temple?",
+          options: [
+            "The first year",
+            "The fourth year",
+            "The seventh year",
+            "The tenth year"
+          ],
+          correctAnswer: "The fourth year"
+        }
+      ]
+    }
+  },
+  {
+    day: 108,
+    passage: "1 Kings 6–7",
+    focus: "Construction of the temple; details of the temple's design and furnishings; Solomon's palace",
+    quiz: {
+      title: "📘 1 Kings 6–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How long did it take Solomon to build the temple?",
+          options: [
+            "Three years",
+            "Seven years",
+            "Ten years",
+            "Thirteen years"
+          ],
+          correctAnswer: "Seven years"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The stones for the temple were fully dressed at the quarry so no hammer or iron tool was heard at the temple site during construction.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jehovah promise Solomon if he walked in His statutes and obeyed His commandments?",
+          correctAnswer: "That He would fulfill His promise to David and dwell among Israel and not abandon His people"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What wood was the interior of the temple overlaid with?",
+          options: [
+            "Oak",
+            "Cedar",
+            "Acacia",
+            "Pine"
+          ],
+          correctAnswer: "Cedar"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The innermost room (Most Holy) was overlaid with pure gold.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was placed in the Most Holy of the temple?",
+          options: [
+            "The altar of incense",
+            "The table of showbread",
+            "Two cherubs made of oil-tree wood overlaid with gold",
+            "The golden lampstand"
+          ],
+          correctAnswer: "Two cherubs made of oil-tree wood overlaid with gold"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was the name of the skilled craftsman from Tyre who did the bronze work for the temple?",
+          correctAnswer: "Hiram (or Huram)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What were the names of the two copper pillars set up at the temple porch?",
+          options: [
+            "Strength and Beauty",
+            "Jachin and Boaz",
+            "Mercy and Truth",
+            "Faith and Hope"
+          ],
+          correctAnswer: "Jachin and Boaz"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon's palace took longer to build than the temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was the large basin called that held water for the priests to wash?",
+          options: [
+            "The laver",
+            "The molten sea",
+            "The bronze basin",
+            "The washing pool"
+          ],
+          correctAnswer: "The molten sea"
+        }
+      ]
+    }
+  },
+  {
+    day: 109,
+    passage: "1 Kings 8",
+    focus: "The Ark brought into the temple; Solomon's prayer of dedication; Jehovah's glory fills the temple; Solomon blesses the people",
+    quiz: {
+      title: "📘 1 Kings 8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was brought into the Most Holy of the temple?",
+          options: [
+            "The altar of burnt offering",
+            "The Ark of Jehovah's covenant",
+            "The table of showbread",
+            "The golden lampstand"
+          ],
+          correctAnswer: "The Ark of Jehovah's covenant"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The cloud of Jehovah's glory filled the temple so that the priests could not stand to minister.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What was inside the Ark of the Covenant?",
+          correctAnswer: "The two stone tablets (or the tablets of the covenant that Moses placed there at Horeb)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Solomon, who had Jehovah chosen to build a house for His name?",
+          options: [
+            "King David",
+            "Solomon himself",
+            "Nathan the prophet",
+            "Moses"
+          ],
+          correctAnswer: "Solomon himself"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon acknowledged that the heavens and the heaven of the heavens cannot contain Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In his prayer, Solomon asked Jehovah to hear prayers made toward what place?",
+          options: [
+            "Mount Sinai",
+            "Jerusalem",
+            "This house (the temple)",
+            "The Most Holy"
+          ],
+          correctAnswer: "This house (the temple)"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Solomon ask Jehovah to do when His people sinned and then repented?",
+          correctAnswer: "To forgive them and hear their prayer (or show them mercy)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Solomon prayed for foreigners who would come to pray at the temple. Why?",
+          options: [
+            "So they would bring tribute to Israel",
+            "So all peoples of the earth may know Jehovah's name and fear Him",
+            "So Israel could convert them to Judaism",
+            "So they would become servants of Israel"
+          ],
+          correctAnswer: "So all peoples of the earth may know Jehovah's name and fear Him"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon offered 22,000 cattle and 120,000 sheep as communion sacrifices at the temple dedication.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did the temple dedication festival last?",
+          options: [
+            "7 days",
+            "14 days (7 days plus 7 days)",
+            "21 days",
+            "30 days"
+          ],
+          correctAnswer: "14 days (7 days plus 7 days)"
+        }
+      ]
+    }
+  },
+  {
+    day: 110,
+    passage: "1 Kings 9–10",
+    focus: "Jehovah appears to Solomon again; Solomon's building projects and trade; the Queen of Sheba visits; Solomon's wealth and splendor",
+    quiz: {
+      title: "📘 1 Kings 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Jehovah warn Solomon would happen if he or his sons turned away from following Him?",
+          options: [
+            "They would lose their wealth",
+            "Israel would be cut off from the land and the temple would be rejected",
+            "Enemy nations would immediately conquer them",
+            "Solomon would die young"
+          ],
+          correctAnswer: "Israel would be cut off from the land and the temple would be rejected"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "King Hiram of Tyre was pleased with the 20 cities in Galilee that Solomon gave him.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Solomon use forced labor to build besides the temple?",
+          correctAnswer: "His own palace, the Millo, the wall of Jerusalem, and cities like Hazor, Megiddo, and Gezer (any of these acceptable)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who made up the forced labor gang for Solomon's building projects?",
+          options: [
+            "Only Israelites from the northern tribes",
+            "Foreigners hired from surrounding nations",
+            "Survivors of the Amorites, Hittites, Perizzites, Hivites, and Jebusites",
+            "Prisoners of war from Egypt"
+          ],
+          correctAnswer: "Survivors of the Amorites, Hittites, Perizzites, Hivites, and Jebusites"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon made the Israelites slaves for his building projects.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why did the Queen of Sheba come to visit Solomon?",
+          options: [
+            "To arrange a marriage alliance",
+            "To test him with difficult questions because she heard of his wisdom",
+            "To declare war on Israel",
+            "To ask for military assistance"
+          ],
+          correctAnswer: "To test him with difficult questions because she heard of his wisdom"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was the Queen of Sheba's reaction after seeing Solomon's wisdom and wealth?",
+          correctAnswer: "She was left breathless (or overwhelmed/amazed) and said the report she heard was true"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the Queen of Sheba say about Solomon's servants?",
+          options: [
+            "They were overworked and unhappy",
+            "How happy they must be to stand before him and hear his wisdom",
+            "They were well-paid but lacked wisdom",
+            "They feared Solomon too much"
+          ],
+          correctAnswer: "How happy they must be to stand before him and hear his wisdom"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon's fleet of ships brought gold, silver, ivory, apes, and peacocks from distant lands.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How much gold came to Solomon in one year?",
+          options: [
+            "300 talents",
+            "666 talents",
+            "1,000 talents",
+            "100 talents"
+          ],
+          correctAnswer: "666 talents"
+        }
+      ]
+    }
+  },
+  {
+    day: 111,
+    passage: "1 Kings 11–12",
+    focus: "Solomon's foreign wives turn his heart away; God's judgment and adversaries arise; the kingdom divided under Rehoboam and Jeroboam",
+    quiz: {
+      title: "📘 1 Kings 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What caused Solomon to turn away from Jehovah?",
+          options: [
+            "His wealth and pride",
+            "His many foreign wives turned his heart to other gods",
+            "False prophets deceived him",
+            "Military defeats discouraged him"
+          ],
+          correctAnswer: "His many foreign wives turned his heart to other gods"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Solomon had 700 wives who were princesses and 300 concubines.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Name one of the false gods that Solomon's wives influenced him to worship.",
+          correctAnswer: "Ashtoreth, Chemosh, or Molech (any one acceptable)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Jehovah tell Solomon would happen because of his unfaithfulness?",
+          options: [
+            "He would die immediately",
+            "The kingdom would be torn away from him and given to his servant",
+            "All his wealth would be taken away",
+            "Jerusalem would be destroyed"
+          ],
+          correctAnswer: "The kingdom would be torn away from him and given to his servant"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jehovah said He would tear away the entire kingdom in Solomon's lifetime.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who did the prophet Ahijah tell would become king over ten tribes of Israel?",
+          options: [
+            "Rehoboam, Solomon's son",
+            "Jeroboam, Solomon's servant",
+            "Hadad the Edomite",
+            "Shishak of Egypt"
+          ],
+          correctAnswer: "Jeroboam, Solomon's servant"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What symbolic act did Ahijah perform to show the kingdom would be divided?",
+          correctAnswer: "He tore his new garment into 12 pieces and gave 10 pieces to Jeroboam"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What harsh reply did Rehoboam give when the people asked him to lighten their load?",
+          options: [
+            "He agreed to reduce their burdens immediately",
+            "He said his little finger was thicker than his father's hips and he would add to their yoke",
+            "He asked for three days to consider their request",
+            "He offered to negotiate with them"
+          ],
+          correctAnswer: "He said his little finger was thicker than his father's hips and he would add to their yoke"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The ten northern tribes rejected Rehoboam and made Jeroboam their king.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jeroboam do to prevent his people from going to Jerusalem to worship?",
+          options: [
+            "He built a new temple in Samaria",
+            "He made two golden calves and set them up in Bethel and Dan",
+            "He destroyed all the roads to Jerusalem",
+            "He made a treaty with Egypt"
+          ],
+          correctAnswer: "He made two golden calves and set them up in Bethel and Dan"
+        }
+      ]
+    }
+  },
+  {
+    day: 112,
+    passage: "1 Kings 13–14",
+    focus: "Man of God prophesies against Jeroboam's altar; the prophet's disobedience and death; Jeroboam's son dies; Rehoboam's reign in Judah",
+    quiz: {
+      title: "📘 1 Kings 13–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What prophecy did the man of God from Judah make against Jeroboam's altar at Bethel?",
+          options: [
+            "That it would be destroyed by fire from heaven",
+            "That a son named Josiah would be born to David's house who would sacrifice the priests on it",
+            "That Jeroboam would die at the altar",
+            "That the golden calf would melt"
+          ],
+          correctAnswer: "That a son named Josiah would be born to David's house who would sacrifice the priests on it"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "When Jeroboam stretched out his hand against the man of God, his hand became stiff and he could not pull it back.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What instructions had Jehovah given the man of God about his journey?",
+          correctAnswer: "Not to eat bread or drink water, and not to return by the same way he came"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who deceived the man of God into disobeying Jehovah's command?",
+          options: [
+            "King Jeroboam",
+            "An old prophet in Bethel",
+            "Jeroboam's wife",
+            "One of Jeroboam's priests"
+          ],
+          correctAnswer: "An old prophet in Bethel"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The old prophet claimed an angel told him to bring the man of God back to eat and drink, but he was lying.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened to the man of God because of his disobedience?",
+          options: [
+            "He lost his prophetic gift",
+            "A lion killed him on the road",
+            "He was struck with leprosy",
+            "He was imprisoned by Jeroboam"
+          ],
+          correctAnswer: "A lion killed him on the road"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who did Jeroboam send in disguise to inquire of the prophet Ahijah about their sick son?",
+          correctAnswer: "His wife"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Ahijah prophesy would happen to Jeroboam's house?",
+          options: [
+            "It would rule forever",
+            "Jehovah would completely sweep it away like dung",
+            "It would be blessed with many sons",
+            "It would be taken captive to Egypt"
+          ],
+          correctAnswer: "Jehovah would completely sweep it away like dung"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ahijah told Jeroboam's wife that her son would die as soon as she entered the city.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened during Rehoboam's reign in Judah?",
+          options: [
+            "Peace and prosperity throughout the land",
+            "Judah did what was bad in Jehovah's eyes, and King Shishak of Egypt attacked Jerusalem",
+            "The temple was completed and expanded",
+            "All of Israel was reunited under Rehoboam"
+          ],
+          correctAnswer: "Judah did what was bad in Jehovah's eyes, and King Shishak of Egypt attacked Jerusalem"
+        }
+      ]
+    }
+  },
+  {
+    day: 113,
+    passage: "1 Kings 15–17",
+    focus: "Kings of Judah and Israel; Asa's reforms; Baasha's conspiracy; Elijah fed by ravens; widow of Zarephath; her son raised",
+    quiz: {
+      title: "📘 1 Kings 15–17 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Which king of Judah did what was right in Jehovah's eyes and removed idolatrous worship?",
+          options: [
+            "Abijam",
+            "Asa",
+            "Nadab",
+            "Baasha"
+          ],
+          correctAnswer: "Asa"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Asa removed his grandmother Maacah from being queen mother because she made an idol for sacred pole worship.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who conspired against Nadab king of Israel and struck him down, becoming king in his place?",
+          correctAnswer: "Baasha"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Baasha do to fulfill Ahijah's prophecy against Jeroboam's house?",
+          options: [
+            "He exiled them to Egypt",
+            "He struck down all of Jeroboam's household, leaving no survivor",
+            "He made them slaves",
+            "He pardoned them and gave them land"
+          ],
+          correctAnswer: "He struck down all of Jeroboam's household, leaving no survivor"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "During the reign of Ahab, Hiel rebuilt Jericho, fulfilling Joshua's curse.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who did Ahab king of Israel marry, leading him into Baal worship?",
+          options: [
+            "Maacah",
+            "Jezebel, daughter of the king of Sidon",
+            "An Egyptian princess",
+            "A daughter of Asa"
+          ],
+          correctAnswer: "Jezebel, daughter of the king of Sidon"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Elijah prophesy to Ahab about the coming years?",
+          correctAnswer: "That there would be no dew or rain except by his word (a drought)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How was Elijah fed while hiding by the Cherith Valley?",
+          options: [
+            "Angels brought him food",
+            "Ravens brought him bread and meat",
+            "A prophet brought him supplies",
+            "He gathered wild plants"
+          ],
+          correctAnswer: "Ravens brought him bread and meat"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The widow of Zarephath had abundant food when Elijah first asked her for bread.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What miracle did Jehovah perform through Elijah for the widow of Zarephath?",
+          options: [
+            "He gave her great wealth",
+            "Her oil and flour did not run out during the famine, and he raised her son from the dead",
+            "He sent rain immediately to end the drought",
+            "He protected her house from enemies"
+          ],
+          correctAnswer: "Her oil and flour did not run out during the famine, and he raised her son from the dead"
+        }
+      ]
+    }
+  },
+  {
+    day: 114,
+    passage: "1 Kings 18–19",
+    focus: "Elijah's contest with Baal prophets on Mount Carmel; rain returns; Jezebel threatens Elijah; Jehovah appears to Elijah at Horeb",
+    quiz: {
+      title: "📘 1 Kings 18–19 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who was Ahab's palace administrator who feared Jehovah and hid 100 prophets in caves?",
+          options: [
+            "Elisha",
+            "Obadiah",
+            "Jehu",
+            "Micaiah"
+          ],
+          correctAnswer: "Obadiah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Elijah challenged the prophets of Baal to a contest on Mount Carmel to prove who the true God was.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How many prophets of Baal were at Mount Carmel for the contest with Elijah?",
+          correctAnswer: "450 prophets"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was the test that Elijah proposed to determine the true God?",
+          options: [
+            "Whoever could make it rain first",
+            "Whoever could answer fire by consuming the sacrifice",
+            "Whoever could heal a sick person",
+            "Whoever could strike down their opponent"
+          ],
+          correctAnswer: "Whoever could answer fire by consuming the sacrifice"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The prophets of Baal called on their god from morning until noon, but there was no answer.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Elijah do to make the test even more difficult before calling on Jehovah?",
+          options: [
+            "He used wet wood",
+            "He dug a trench around the altar and poured water over the sacrifice three times",
+            "He waited until nighttime",
+            "He removed half the wood"
+          ],
+          correctAnswer: "He dug a trench around the altar and poured water over the sacrifice three times"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happened when Elijah prayed to Jehovah?",
+          correctAnswer: "Fire from Jehovah fell and consumed the sacrifice, wood, stones, dust, and water"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Elijah do to the prophets of Baal after Jehovah answered by fire?",
+          options: [
+            "He sent them away in shame",
+            "He had them seized and slaughtered at the Kishon Valley",
+            "He made them servants",
+            "He imprisoned them"
+          ],
+          correctAnswer: "He had them seized and slaughtered at the Kishon Valley"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jezebel threatened to kill Elijah after hearing what he did to the prophets of Baal, causing him to flee.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Jehovah reveal Himself to Elijah at Mount Horeb?",
+          options: [
+            "In a powerful wind",
+            "In an earthquake",
+            "In a fire",
+            "In a calm, low voice"
+          ],
+          correctAnswer: "In a calm, low voice"
+        }
+      ]
+    }
+  },
+  {
+    day: 115,
+    passage: "1 Kings 20–21",
+    focus: "Ahab's wars with Syria; a prophet condemns Ahab for sparing Ben-hadad; Ahab covets Naboth's vineyard; Jezebel's plot; Elijah pronounces judgment",
+    quiz: {
+      title: "📘 1 Kings 20–21 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who attacked Samaria and demanded Ahab's silver, gold, wives, and children?",
+          options: [
+            "The king of Egypt",
+            "Ben-hadad king of Syria",
+            "The king of Assyria",
+            "The Philistines"
+          ],
+          correctAnswer: "Ben-hadad king of Syria"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "A prophet told Ahab that Jehovah would give the vast Syrian army into his hand so he would know that He is Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Ahab do with Ben-hadad after defeating him in battle?",
+          correctAnswer: "He made a covenant with him and let him go free"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What message did a prophet deliver to Ahab for sparing Ben-hadad?",
+          options: [
+            "That Ahab would be blessed with peace",
+            "That Ahab's life would go for Ben-hadad's life, and his people for his people",
+            "That Syria would become Israel's ally",
+            "That Ahab would rule over Syria"
+          ],
+          correctAnswer: "That Ahab's life would go for Ben-hadad's life, and his people for his people"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Naboth willingly sold his vineyard to King Ahab.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why did Naboth refuse to give his vineyard to Ahab?",
+          options: [
+            "The price was too low",
+            "It was his inheritance from Jehovah and he could not give it away",
+            "He hated King Ahab",
+            "He wanted to keep it for his sons"
+          ],
+          correctAnswer: "It was his inheritance from Jehovah and he could not give it away"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What evil scheme did Jezebel devise to get Naboth's vineyard for Ahab?",
+          correctAnswer: "She had false witnesses accuse Naboth of cursing God and the king, then had him stoned to death"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What judgment did Elijah pronounce on Ahab for murdering Naboth?",
+          options: [
+            "That he would die in battle",
+            "That dogs would lick up his blood in the same place they licked Naboth's blood",
+            "That his entire family would be blessed",
+            "That he would lose his kingdom immediately"
+          ],
+          correctAnswer: "That dogs would lick up his blood in the same place they licked Naboth's blood"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Elijah also prophesied that dogs would eat Jezebel in the plot of land at Jezreel.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Ahab do when he heard Elijah's words of judgment?",
+          options: [
+            "He became angry and tried to kill Elijah",
+            "He ignored the prophecy completely",
+            "He tore his garments, put on sackcloth, fasted, and humbled himself",
+            "He blamed Jezebel for everything"
+          ],
+          correctAnswer: "He tore his garments, put on sackcloth, fasted, and humbled himself"
+        }
+      ]
+    }
+  },
+  {
+    day: 116,
+    passage: "1 Kings 22",
+    focus: "Jehoshaphat and Ahab unite against Syria; Micaiah's true prophecy versus false prophets; Ahab's death; Jehoshaphat's and Ahaziah's reigns",
+    quiz: {
+      title: "📘 1 Kings 22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who joined forces with Ahab to fight against Syria at Ramoth-gilead?",
+          options: [
+            "Asa king of Judah",
+            "Jehoshaphat king of Judah",
+            "Jehu king of Israel",
+            "Elisha the prophet"
+          ],
+          correctAnswer: "Jehoshaphat king of Judah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "All 400 of Ahab's prophets prophesied victory at Ramoth-gilead.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Which prophet did Jehoshaphat request to inquire of Jehovah?",
+          correctAnswer: "Micaiah (son of Imlah)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Micaiah prophesy would happen to Ahab?",
+          options: [
+            "That he would win a great victory",
+            "That Israel would be scattered like sheep without a shepherd, meaning Ahab would die",
+            "That he would make peace with Syria",
+            "That he would live to old age"
+          ],
+          correctAnswer: "That Israel would be scattered like sheep without a shepherd, meaning Ahab would die"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Micaiah explained that a deceptive spirit had been allowed to speak through Ahab's prophets to entice him into battle.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Ahab do to try to avoid the prophecy against him?",
+          options: [
+            "He stayed home and refused to fight",
+            "He disguised himself while Jehoshaphat wore his royal robes",
+            "He made peace with Ben-hadad",
+            "He sacrificed to Jehovah"
+          ],
+          correctAnswer: "He disguised himself while Jehoshaphat wore his royal robes"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How was Ahab fatally wounded in battle?",
+          correctAnswer: "A man randomly shot an arrow that struck Ahab between the scale armor pieces"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened that fulfilled Elijah's prophecy about Ahab?",
+          options: [
+            "He was buried in Samaria with honor",
+            "Dogs licked up his blood when his chariot was washed at the pool of Samaria",
+            "He died peacefully in his bed",
+            "His sons inherited his throne"
+          ],
+          correctAnswer: "Dogs licked up his blood when his chariot was washed at the pool of Samaria"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jehoshaphat did what was right in Jehovah's eyes and removed the male temple prostitutes from the land.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who succeeded Ahab as king of Israel?",
+          options: [
+            "Jehoram",
+            "Ahaziah his son",
+            "Jehu",
+            "Omri"
+          ],
+          correctAnswer: "Ahaziah his son"
         }
       ]
     }
