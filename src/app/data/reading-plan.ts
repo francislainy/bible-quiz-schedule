@@ -11879,10 +11879,305 @@ export const readingPlan: DayReading[] = [
         }
       ]
     }
-  }
-
-
-
-
-
+  },
+  {
+    day: 117,
+    passage: "2 Kings 1–3",
+    focus: "Ahaziah's death; Elijah taken up in windstorm; Elisha's ministry begins; Moab's rebellion; water provided for allied armies",
+    quiz: {
+      title: "📘 2 Kings 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did Ahaziah send messengers to inquire of Baal-zebub the god of Ekron?",
+          options: [
+            "To ask about a military strategy",
+            "To ask if he would recover from his fall through the lattice",
+            "To make an alliance with Ekron",
+            "To seek advice about his kingdom"
+          ],
+          correctAnswer: "To ask if he would recover from his fall through the lattice"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Elijah intercepted Ahaziah's messengers and prophesied that the king would not recover from his sickbed.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What happened to the first two groups of 50 soldiers sent to capture Elijah?",
+          correctAnswer: "Fire came down from heaven and consumed them"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did the third captain approach Elijah differently?",
+          options: [
+            "He threatened Elijah with force",
+            "He came with more soldiers",
+            "He humbled himself and begged for his life and the lives of his men",
+            "He brought gifts to persuade Elijah"
+          ],
+          correctAnswer: "He humbled himself and begged for his life and the lives of his men"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Elisha refused to leave Elijah's side before Elijah was taken away.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Elisha request from Elijah before he was taken away?",
+          options: [
+            "Half of Elijah's possessions",
+            "Two parts of Elijah's spirit",
+            "To become the next king",
+            "Gold and silver"
+          ],
+          correctAnswer: "Two parts of Elijah's spirit"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How was Elijah taken up to the heavens?",
+          correctAnswer: "In a windstorm by a fiery chariot with fiery horses"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Elisha do to demonstrate he had received Elijah's spirit?",
+          options: [
+            "He called down fire from heaven",
+            "He struck the Jordan River with Elijah's cloak and the waters parted",
+            "He prophesied the future",
+            "He healed a leper"
+          ],
+          correctAnswer: "He struck the Jordan River with Elijah's cloak and the waters parted"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jehoram king of Israel, Jehoshaphat king of Judah, and the king of Edom joined forces against Moab.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Jehovah provide water for the allied armies in the wilderness?",
+          options: [
+            "He sent rain",
+            "He made a spring appear",
+            "The valley was filled with water without wind or rain",
+            "Moses' rock provided water"
+          ],
+          correctAnswer: "The valley was filled with water without wind or rain"
+        }
+      ]
+    }
+  },
+  {
+    day: 118,
+    passage: "2 Kings 4–5",
+    focus: "Elisha's miracles: widow's oil multiplied; Shunammite's son raised; poisoned stew and bread multiplied; Naaman healed of leprosy",
+    quiz: {
+      title: "📘 2 Kings 4–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What miracle did Elisha perform for the widow whose sons were about to be taken as slaves?",
+          options: [
+            "He gave her gold and silver",
+            "He multiplied her oil to fill many jars so she could pay her debt",
+            "He raised her husband from the dead",
+            "He made her creditor forgive the debt"
+          ],
+          correctAnswer: "He multiplied her oil to fill many jars so she could pay her debt"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "A wealthy Shunammite woman and her husband prepared a rooftop room for Elisha to stay in.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Elisha promise the Shunammite woman as a reward for her hospitality?",
+          correctAnswer: "That she would have a son (even though her husband was old)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What happened to the Shunammite woman's son when he was older?",
+          options: [
+            "He became ill and died",
+            "He was taken captive",
+            "He ran away from home",
+            "He became a prophet"
+          ],
+          correctAnswer: "He became ill and died"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Elisha raised the Shunammite woman's son back to life by stretching himself over the boy.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How did Elisha make the poisonous stew safe to eat?",
+          options: [
+            "He prayed over it",
+            "He threw flour into the pot",
+            "He boiled it longer",
+            "He added new ingredients"
+          ],
+          correctAnswer: "He threw flour into the pot"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was Naaman's position and what disease did he have?",
+          correctAnswer: "He was the army chief of Syria and had leprosy"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Elisha tell Naaman to do to be healed of his leprosy?",
+          options: [
+            "Offer sacrifices at the temple",
+            "Wash seven times in the Jordan River",
+            "Pay a large sum of money",
+            "Move to Israel permanently"
+          ],
+          correctAnswer: "Wash seven times in the Jordan River"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Naaman was initially angry and refused to follow Elisha's instructions because he expected a more dramatic healing.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to Gehazi, Elisha's servant, for greedily taking gifts from Naaman?",
+          options: [
+            "He was dismissed from service",
+            "He lost all the gifts",
+            "Naaman's leprosy came upon him and his descendants",
+            "He was imprisoned"
+          ],
+          correctAnswer: "Naaman's leprosy came upon him and his descendants"
+        }
+      ]
+    }
+  },
+  {
+    day: 119,
+    passage: "2 Kings 6–8",
+    focus: "Elisha's miracles continue; Syrians blinded; siege of Samaria; Ben-hadad's death; Jehoram and Ahaziah's reigns",
+    quiz: {
+      title: "📘 2 Kings 6–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What miracle did Elisha perform when an axhead fell into the water?",
+          options: [
+            "He parted the water to retrieve it",
+            "He threw a stick in and made the iron axhead float",
+            "He gave them a new axe",
+            "He dove in and got it himself"
+          ],
+          correctAnswer: "He threw a stick in and made the iron axhead float"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The king of Syria was frustrated because Elisha kept revealing his military plans to the king of Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Elisha's servant see when his eyes were opened to the spiritual realm?",
+          correctAnswer: "The mountainside full of fiery horses and chariots surrounding Elisha"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Elisha do to the Syrian army that came to capture him?",
+          options: [
+            "He called down fire to destroy them",
+            "He struck them with blindness and led them to Samaria",
+            "He made them flee in fear",
+            "He negotiated peace with them"
+          ],
+          correctAnswer: "He struck them with blindness and led them to Samaria"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "During the siege of Samaria, the famine was so severe that people resorted to cannibalism.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Elisha prophesy would happen the next day during the siege?",
+          options: [
+            "The city would fall to the Syrians",
+            "Fine flour and barley would be sold cheaply at the gate",
+            "The king would die",
+            "Rain would end the famine"
+          ],
+          correctAnswer: "Fine flour and barley would be sold cheaply at the gate"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who discovered that the Syrian camp was deserted?",
+          correctAnswer: "Four leprous men (at the entrance of the gate)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why did the Syrian army flee and abandon their camp?",
+          options: [
+            "They received news of trouble back home",
+            "Jehovah made them hear the sound of a great army approaching",
+            "They ran out of supplies",
+            "Disease struck their camp"
+          ],
+          correctAnswer: "Jehovah made them hear the sound of a great army approaching"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The officer who doubted Elisha's prophecy was trampled to death in the gate, fulfilling Elisha's words.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who became king of Syria after smothering Ben-hadad with a wet cloth?",
+          options: [
+            "Naaman",
+            "Hazael",
+            "Jehu",
+            "Rezin"
+          ],
+          correctAnswer: "Hazael"
+        }
+      ]
+    }
+  },
 ];
