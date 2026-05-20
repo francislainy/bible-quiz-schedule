@@ -12180,4 +12180,20744 @@ export const readingPlan: DayReading[] = [
       ]
     }
   },
-];
+  {
+    day: 120,
+    passage: "2 Kings 9–10",
+    focus: "Jehu anointed king; Jehu executes judgment on Ahab's house; Jezebel's death; Ahab's 70 sons killed; Baal worshipers destroyed",
+    quiz: {
+      title: "📘 2 Kings 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who anointed Jehu as king over Israel?",
+          options: [
+            "Elisha himself",
+            "One of the sons of the prophets sent by Elisha",
+            "The high priest",
+            "King Joram"
+          ],
+          correctAnswer: "One of the sons of the prophets sent by Elisha"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehu was commanded to strike down the entire house of Ahab to avenge the blood of Jehovah's prophets.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Where did Jehu kill King Joram of Israel?",
+          correctAnswer: "In the plot of land of Naboth the Jezreelite (or at Jezreel)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who else did Jehu kill along with Joram?",
+          options: [
+            "Elisha the prophet",
+            "Ahaziah king of Judah",
+            "Ben-hadad of Syria",
+            "Hazael of Syria"
+          ],
+          correctAnswer: "Ahaziah king of Judah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jezebel painted her eyes and adorned her head before looking out the window at Jehu.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How did Jezebel die, fulfilling Elijah's prophecy?",
+          options: [
+            "Jehu killed her with his sword",
+            "Court officials threw her down from the window and dogs ate her body",
+            "She was burned alive",
+            "She died of natural causes"
+          ],
+          correctAnswer: "Court officials threw her down from the window and dogs ate her body"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How many sons of Ahab were killed in Samaria?",
+          correctAnswer: "70 sons"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What deceptive strategy did Jehu use to destroy all the Baal worshipers?",
+          options: [
+            "He poisoned them at a feast",
+            "He pretended to hold a great sacrifice for Baal and gathered them all in Baal's temple",
+            "He ambushed them at night",
+            "He made a false treaty with them"
+          ],
+          correctAnswer: "He pretended to hold a great sacrifice for Baal and gathered them all in Baal's temple"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jehu completely destroyed Baal worship from Israel and turned the temple of Baal into a latrine.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Jehu's spiritual shortcoming despite eliminating Baal worship?",
+          options: [
+            "He worshiped foreign gods",
+            "He did not turn away from the sins of Jeroboam, continuing the golden calf worship",
+            "He rejected all forms of worship",
+            "He made himself a god"
+          ],
+          correctAnswer: "He did not turn away from the sins of Jeroboam, continuing the golden calf worship"
+        }
+      ]
+    }
+  },
+  {
+    day: 121,
+    passage: "2 Kings 11–13",
+    focus: "Athaliah's usurpation; Jehoash hidden and made king; temple repaired; Jehoash's failure; Jehoahaz and Jehoash of Israel; Elisha's death",
+    quiz: {
+      title: "📘 2 Kings 11–13 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Athaliah do when she saw that her son Ahaziah was dead?",
+          options: [
+            "She mourned and stepped down from power",
+            "She destroyed all the royal offspring and took the throne",
+            "She made peace with Jehu",
+            "She fled to Egypt"
+          ],
+          correctAnswer: "She destroyed all the royal offspring and took the throne"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehosheba, Ahaziah's sister, hid the infant Jehoash and his nurse in the temple for six years.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who was the high priest that organized the conspiracy to make Jehoash king?",
+          correctAnswer: "Jehoiada"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How old was Jehoash when he became king?",
+          options: [
+            "Five years old",
+            "Seven years old",
+            "Ten years old",
+            "Twelve years old"
+          ],
+          correctAnswer: "Seven years old"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Athaliah was executed at the temple after being discovered.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What major project did Jehoash undertake during his reign?",
+          options: [
+            "Building a new palace",
+            "Repairing the temple",
+            "Expanding Jerusalem's walls",
+            "Conquering new territories"
+          ],
+          correctAnswer: "Repairing the temple"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Jehoash do with the holy things when Hazael king of Syria threatened Jerusalem?",
+          correctAnswer: "He took them and the gold from the temple and palace treasuries and sent them to Hazael"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What oppressed Israel during the reign of Jehoahaz?",
+          options: [
+            "Egypt",
+            "Hazael king of Syria and his son Ben-hadad",
+            "Assyria",
+            "The Philistines"
+          ],
+          correctAnswer: "Hazael king of Syria and his son Ben-hadad"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Elisha gave a final prophecy to King Jehoash of Israel before dying, promising victories over Syria.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What miracle occurred after Elisha died?",
+          options: [
+            "His body did not decay",
+            "A dead man came back to life when he touched Elisha's bones",
+            "Fire came down from heaven",
+            "An earthquake shook the land"
+          ],
+          correctAnswer: "A dead man came back to life when he touched Elisha's bones"
+        }
+      ]
+    }
+  },
+  {
+    day: 122,
+    passage: "2 Kings 14–15",
+    focus: "Amaziah and Uzziah's reigns in Judah; Jeroboam II restores Israel's territory; succession of kings in Israel; Assyrian threat grows",
+    quiz: {
+      title: "📘 2 Kings 14–15 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Amaziah do according to the Law after he became strong as king?",
+          options: [
+            "He executed his father's murderers but spared their children",
+            "He killed all his enemies and their families",
+            "He pardoned all criminals",
+            "He made alliances with foreign nations"
+          ],
+          correctAnswer: "He executed his father's murderers but spared their children"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Amaziah challenged Jehoash king of Israel to battle and was defeated.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What happened to the wall of Jerusalem after Amaziah's defeat?",
+          correctAnswer: "Jehoash broke down 400 cubits of the wall (from the Ephraim Gate to the Corner Gate)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was King Uzziah's condition after he presumptuously burned incense in the temple?",
+          options: [
+            "He went blind",
+            "He became leprous until his death",
+            "He lost his voice",
+            "He became paralyzed"
+          ],
+          correctAnswer: "He became leprous until his death"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeroboam II restored the territory of Israel according to Jehovah's word through the prophet Jonah.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who assassinated King Zechariah and reigned in his place?",
+          options: [
+            "Menahem",
+            "Shallum",
+            "Pekahiah",
+            "Pekah"
+          ],
+          correctAnswer: "Shallum"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How long did Shallum reign before being killed by Menahem?",
+          correctAnswer: "One month (or a full month)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Which Assyrian king came against Israel during Menahem's reign?",
+          options: [
+            "Sennacherib",
+            "Tiglath-pileser (Pul)",
+            "Shalmaneser",
+            "Nebuchadnezzar"
+          ],
+          correctAnswer: "Tiglath-pileser (Pul)"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Menahem gave the king of Assyria 1,000 talents of silver to gain his support.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who conspired against Pekahiah and killed him?",
+          options: [
+            "Hoshea",
+            "Pekah his adjutant",
+            "Rezin king of Syria",
+            "Jotham king of Judah"
+          ],
+          correctAnswer: "Pekah his adjutant"
+        }
+      ]
+    }
+  },
+  {
+    day: 123,
+    passage: "2 Kings 16–17",
+    focus: "Ahaz's wicked reign; appeals to Assyria; Israel's final king Hoshea; fall of Samaria; reasons for Israel's exile; foreign settlers in Samaria",
+    quiz: {
+      title: "📘 2 Kings 16–17 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What terrible sin did King Ahaz of Judah commit?",
+          options: [
+            "He worshiped Baal only",
+            "He made his son pass through the fire, following detestable practices",
+            "He destroyed the temple",
+            "He made peace with Israel's enemies"
+          ],
+          correctAnswer: "He made his son pass through the fire, following detestable practices"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ahaz appealed to the king of Assyria for help against Syria and Israel, sending temple treasures as a bribe.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Ahaz do after seeing an altar in Damascus?",
+          correctAnswer: "He had a copy of it built and replaced Jehovah's altar in Jerusalem with it"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who was the last king of Israel?",
+          options: [
+            "Pekah",
+            "Hoshea",
+            "Menahem",
+            "Jeroboam II"
+          ],
+          correctAnswer: "Hoshea"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Hoshea conspired against Pekah, struck him down, and became king in his place.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Which Assyrian king besieged Samaria for three years before capturing it?",
+          options: [
+            "Tiglath-pileser",
+            "Shalmaneser",
+            "Sennacherib",
+            "Esarhaddon"
+          ],
+          correctAnswer: "Shalmaneser"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Where were the Israelites taken into exile after Samaria fell?",
+          correctAnswer: "Assyria (or cities like Halah, Gozan, and the cities of the Medes)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to the account, why did Israel go into exile?",
+          options: [
+            "Because of military weakness",
+            "Because they sinned against Jehovah, worshiped other gods, and rejected His commandments",
+            "Because of natural disasters",
+            "Because they failed to pay tribute"
+          ],
+          correctAnswer: "Because they sinned against Jehovah, worshiped other gods, and rejected His commandments"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The king of Assyria brought people from various nations to settle in the cities of Samaria.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What problem did the new settlers in Samaria face, and how was it addressed?",
+          options: [
+            "Drought; they prayed for rain",
+            "Lions were killing them; a priest of Jehovah was sent to teach them how to fear Jehovah",
+            "Disease; doctors were sent",
+            "Invasion; soldiers were stationed there"
+          ],
+          correctAnswer: "Lions were killing them; a priest of Jehovah was sent to teach them how to fear Jehovah"
+        }
+      ]
+    }
+  },
+  {
+    day: 124,
+    passage: "2 Kings 18–19",
+    focus: "Hezekiah's righteous reign and reforms; Sennacherib's invasion and threats; Hezekiah's prayer; Jerusalem's miraculous deliverance",
+    quiz: {
+      title: "📘 2 Kings 18–19 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What significant reforms did Hezekiah make in Judah?",
+          options: [
+            "He built more temples",
+            "He removed the high places, broke sacred pillars, cut down the sacred pole, and broke up the copper serpent",
+            "He made peace with all surrounding nations",
+            "He expanded the kingdom's borders"
+          ],
+          correctAnswer: "He removed the high places, broke sacred pillars, cut down the sacred pole, and broke up the copper serpent"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hezekiah trusted in Jehovah and there was no one like him among all the kings of Judah after him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Which Assyrian king came up against all the fortified cities of Judah?",
+          correctAnswer: "Sennacherib"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Hezekiah give Sennacherib to try to make him withdraw?",
+          options: [
+            "His crown and royal treasures",
+            "300 talents of silver and 30 talents of gold from the temple and palace",
+            "His sons as hostages",
+            "Half of his kingdom"
+          ],
+          correctAnswer: "300 talents of silver and 30 talents of gold from the temple and palace"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Rabshakeh spoke in Hebrew to demoralize the people on the wall and undermine their trust in Hezekiah and Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Rabshakeh claim about Jehovah?",
+          options: [
+            "That Jehovah was the most powerful god",
+            "That no god of any nation had delivered their land from Assyria, implying Jehovah couldn't either",
+            "That Jehovah wanted Judah to surrender",
+            "That Jehovah had abandoned Hezekiah"
+          ],
+          correctAnswer: "That no god of any nation had delivered their land from Assyria, implying Jehovah couldn't either"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Hezekiah do when he heard Rabshakeh's blasphemous words?",
+          correctAnswer: "He tore his garments, covered himself with sackcloth, went to the temple, and prayed to Jehovah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What message did Isaiah send to Hezekiah?",
+          options: [
+            "To surrender immediately",
+            "Not to be afraid; Jehovah would defend Jerusalem and Sennacherib would fall by the sword",
+            "To flee the city",
+            "To gather more troops"
+          ],
+          correctAnswer: "Not to be afraid; Jehovah would defend Jerusalem and Sennacherib would fall by the sword"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jehovah's angel struck down 185,000 Assyrian soldiers in one night.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Sennacherib die?",
+          options: [
+            "He was killed in battle",
+            "He died of disease",
+            "His own sons struck him down while he was worshiping in the temple of his god Nisroch",
+            "He was executed by his army"
+          ],
+          correctAnswer: "His own sons struck him down while he was worshiping in the temple of his god Nisroch"
+        }
+      ]
+    }
+  },
+  {
+    day: 125,
+    passage: "2 Kings 20–22",
+    focus: "Hezekiah's illness and recovery; Babylonian envoys; Manasseh's wicked reign; Amon's brief reign; Josiah's righteous reforms; Book of the Law found",
+    quiz: {
+      title: "📘 2 Kings 20–22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Isaiah tell Hezekiah when he became deathly sick?",
+          options: [
+            "That he would recover quickly",
+            "To put his house in order because he would die",
+            "To seek medical help",
+            "To make a sacrifice"
+          ],
+          correctAnswer: "To put his house in order because he would die"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hezekiah prayed earnestly and wept, and Jehovah added 15 years to his life.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What sign did Jehovah give Hezekiah to confirm his healing?",
+          correctAnswer: "The shadow went back ten steps on the stairway of Ahaz"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What mistake did Hezekiah make with the Babylonian envoys?",
+          options: [
+            "He refused to see them",
+            "He showed them all his treasures and everything in his kingdom",
+            "He made an alliance against Assyria",
+            "He sent them away with insults"
+          ],
+          correctAnswer: "He showed them all his treasures and everything in his kingdom"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah prophesied that everything in Hezekiah's house would be carried off to Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How is Manasseh's reign described?",
+          options: [
+            "As the most righteous king",
+            "As more wicked than the nations Jehovah had destroyed, including child sacrifice and idol worship",
+            "As a time of peace and prosperity",
+            "As brief and insignificant"
+          ],
+          correctAnswer: "As more wicked than the nations Jehovah had destroyed, including child sacrifice and idol worship"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How long did Manasseh reign in Jerusalem?",
+          correctAnswer: "55 years"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to King Amon?",
+          options: [
+            "He died of natural causes",
+            "His servants conspired against him and killed him in his own house",
+            "He was killed in battle",
+            "He abdicated the throne"
+          ],
+          correctAnswer: "His servants conspired against him and killed him in his own house"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Josiah was eight years old when he became king and he did what was right in Jehovah's eyes.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What important discovery was made during the temple repairs in Josiah's reign?",
+          options: [
+            "Hidden gold and silver",
+            "The book of the Law",
+            "Ancient weapons",
+            "The Ark of the Covenant"
+          ],
+          correctAnswer: "The book of the Law"
+        }
+      ]
+    }
+  },
+  {
+    day: 126,
+    passage: "2 Kings 23–25",
+    focus: "Josiah's reforms and death; Judah's final kings; fall of Jerusalem; temple destroyed; exile to Babylon; Gedaliah's governorship",
+    quiz: {
+      title: "📘 2 Kings 23–25 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Josiah do after hearing the words of the Book of the Law?",
+          options: [
+            "He ignored it",
+            "He made a covenant before Jehovah and carried out extensive reforms, removing all idolatry",
+            "He consulted with foreign advisors",
+            "He waited to see if the prophecies would come true"
+          ],
+          correctAnswer: "He made a covenant before Jehovah and carried out extensive reforms, removing all idolatry"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Josiah celebrated the Passover in a way that had not been done since the days of the judges.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How did King Josiah die?",
+          correctAnswer: "He was killed in battle at Megiddo by Pharaoh Necho of Egypt"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Which Babylonian king besieged Jerusalem during Jehoiachin's reign?",
+          options: [
+            "Belshazzar",
+            "Nebuchadnezzar",
+            "Nabonidus",
+            "Evil-merodach"
+          ],
+          correctAnswer: "Nebuchadnezzar"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Nebuchadnezzar took King Jehoiachin, his family, and many leading citizens into exile in Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who was the last king of Judah?",
+          options: [
+            "Josiah",
+            "Jehoiakim",
+            "Zedekiah",
+            "Jehoiachin"
+          ],
+          correctAnswer: "Zedekiah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happened to Zedekiah when he was captured by the Babylonians?",
+          correctAnswer: "His sons were slaughtered before his eyes, then his eyes were put out and he was bound and taken to Babylon"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the Babylonians do to Jerusalem and the temple?",
+          options: [
+            "They left them intact",
+            "They burned the temple, the king's house, and all the houses, and broke down the walls",
+            "They converted the temple to a Babylonian shrine",
+            "They only took the temple treasures"
+          ],
+          correctAnswer: "They burned the temple, the king's house, and all the houses, and broke down the walls"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The poorest people of the land were left behind to be vinedressers and farmers.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to Gedaliah, whom the king of Babylon appointed as governor?",
+          options: [
+            "He ruled successfully for many years",
+            "He was assassinated by Ishmael and others",
+            "He led a rebellion against Babylon",
+            "He escaped to Egypt"
+          ],
+          correctAnswer: "He was assassinated by Ishmael and others"
+        }
+      ]
+    }
+  },
+  {
+    day: 127,
+    passage: "1 Chronicles 1–2",
+    focus: "Genealogies from Adam to Israel's tribes; descendants of Judah emphasized; David's lineage traced",
+    quiz: {
+      title: "📘 1 Chronicles 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the primary focus of the opening chapters of 1 Chronicles?",
+          options: [
+            "The history of Israel's wars",
+            "Genealogies tracing the lineage from Adam through Israel's tribes",
+            "Prophecies about the future",
+            "David's psalms"
+          ],
+          correctAnswer: "Genealogies tracing the lineage from Adam through Israel's tribes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The genealogy begins with Adam and traces through Noah and his sons.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Which of Noah's sons is the ancestor of Abraham?",
+          correctAnswer: "Shem"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who were the sons of Abraham listed in these chapters?",
+          options: [
+            "Only Isaac",
+            "Isaac and Ishmael, plus sons by Keturah",
+            "Only Jacob's sons",
+            "Isaac, Jacob, and Esau"
+          ],
+          correctAnswer: "Isaac and Ishmael, plus sons by Keturah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Esau's descendants, the Edomites, are included in the genealogical record.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Which tribe receives special emphasis in chapter 2?",
+          options: [
+            "Levi",
+            "Benjamin",
+            "Judah",
+            "Ephraim"
+          ],
+          correctAnswer: "Judah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Through which of Judah's sons does the line leading to David continue?",
+          correctAnswer: "Perez"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Who was the father of Jesse, David's father?",
+          options: [
+            "Obed",
+            "Boaz",
+            "Salmon",
+            "Ram"
+          ],
+          correctAnswer: "Obed"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The genealogy mentions Ruth the Moabitess in David's ancestry.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Why does Chronicles give such detailed genealogies, especially for Judah?",
+          options: [
+            "To record all of Israel's history",
+            "To establish tribal identity and trace the royal line leading to David and ultimately the Messiah",
+            "To prove Israel's military superiority",
+            "To list all the priests"
+          ],
+          correctAnswer: "To establish tribal identity and trace the royal line leading to David and ultimately the Messiah"
+        }
+      ]
+    }
+  },
+  {
+    day: 128,
+    passage: "1 Chronicles 3–5",
+    focus: "David's descendants and sons; genealogies of Judah, Simeon, Reuben, Gad, and half-tribe of Manasseh",
+    quiz: {
+      title: "📘 1 Chronicles 3–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where were David's first sons born?",
+          options: [
+            "Jerusalem",
+            "Bethlehem",
+            "Hebron",
+            "Gibeah"
+          ],
+          correctAnswer: "Hebron"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Solomon was one of the sons born to David in Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who was Solomon's mother?",
+          correctAnswer: "Bathsheba (or Bath-shua, daughter of Ammiel)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "The genealogy traces the royal line through which of David's sons?",
+          options: [
+            "Amnon",
+            "Absalom",
+            "Solomon",
+            "Adonijah"
+          ],
+          correctAnswer: "Solomon"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The descendants of Judah are given extensive coverage in these chapters.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Which tribe settled within Judah's territory because they were too weak to claim their own inheritance?",
+          options: [
+            "Benjamin",
+            "Simeon",
+            "Dan",
+            "Issachar"
+          ],
+          correctAnswer: "Simeon"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Why did Reuben lose his birthright privileges?",
+          correctAnswer: "Because he defiled his father's bed (or violated his father's concubine)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "To which tribe did the birthright go after Reuben lost it?",
+          options: [
+            "Judah",
+            "Levi",
+            "The sons of Joseph",
+            "Benjamin"
+          ],
+          correctAnswer: "The sons of Joseph"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The tribes of Reuben, Gad, and the half-tribe of Manasseh settled on the east side of the Jordan.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What eventually happened to the eastern tribes (Reuben, Gad, and half of Manasseh)?",
+          options: [
+            "They became the most powerful tribes",
+            "They were taken into exile by the king of Assyria",
+            "They conquered Syria",
+            "They merged with Judah"
+          ],
+          correctAnswer: "They were taken into exile by the king of Assyria"
+        }
+      ]
+    }
+  },
+  {
+    day: 129,
+    passage: "1 Chronicles 6–7",
+    focus: "Levitical genealogies and their cities; descendants of Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher",
+    quiz: {
+      title: "📘 1 Chronicles 6–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Which tribe received no land inheritance but was given cities throughout Israel?",
+          options: [
+            "Judah",
+            "Benjamin",
+            "Levi",
+            "Simeon"
+          ],
+          correctAnswer: "Levi"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Levites were descended from Levi's three sons: Gershon, Kohath, and Merari.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "From which Levitical family did the high priests descend?",
+          correctAnswer: "Aaron (from the family of Kohath)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was the primary role of the Levites?",
+          options: [
+            "To be warriors for Israel",
+            "To serve in the tabernacle/temple and teach God's Law",
+            "To collect taxes",
+            "To rule over the tribes"
+          ],
+          correctAnswer: "To serve in the tabernacle/temple and teach God's Law"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites were given 48 cities with their pasture grounds throughout Israel's territory.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Which tribe is listed as having mighty warriors and was known for their military strength?",
+          options: [
+            "Naphtali",
+            "Issachar",
+            "Asher",
+            "Dan"
+          ],
+          correctAnswer: "Issachar"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "From which tribe did King Saul come?",
+          correctAnswer: "Benjamin"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "The descendants of which patriarch received a double portion through Ephraim and Manasseh?",
+          options: [
+            "Reuben",
+            "Judah",
+            "Joseph",
+            "Levi"
+          ],
+          correctAnswer: "Joseph"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Joshua (Jehoshua) the son of Nun is mentioned in the genealogy of Ephraim.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Why are detailed genealogies important in Chronicles?",
+          options: [
+            "To show how many people lived in ancient Israel",
+            "To establish tribal identities and inheritance rights after the exile",
+            "To prove Israel was larger than other nations",
+            "To list all the warriors"
+          ],
+          correctAnswer: "To establish tribal identities and inheritance rights after the exile"
+        }
+      ]
+    }
+  },
+  {
+    day: 130,
+    passage: "1 Chronicles 8–10",
+    focus: "Benjamin's genealogy; Jerusalem's inhabitants; Saul's family line; Saul's death and the reason for his downfall",
+    quiz: {
+      title: "📘 1 Chronicles 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Which tribe's genealogy is given special attention in chapter 8?",
+          options: [
+            "Judah",
+            "Levi",
+            "Benjamin",
+            "Ephraim"
+          ],
+          correctAnswer: "Benjamin"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The genealogy of Benjamin includes Saul's family line.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What was the name of Saul's father?",
+          correctAnswer: "Kish"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who were the people living in Jerusalem after the exile?",
+          options: [
+            "Only priests",
+            "People from Judah, Benjamin, Ephraim, Manasseh, and Levites",
+            "Only foreigners",
+            "Only the royal family"
+          ],
+          correctAnswer: "People from Judah, Benjamin, Ephraim, Manasseh, and Levites"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites had specific duties as gatekeepers, singers, and caretakers of the temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Where did the battle take place in which Saul and his sons died?",
+          options: [
+            "Mount Carmel",
+            "Mount Gilboa",
+            "Valley of Elah",
+            "Plains of Moab"
+          ],
+          correctAnswer: "Mount Gilboa"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Which of Saul's sons died with him in battle?",
+          correctAnswer: "Jonathan, Abinadab, and Malchi-shua (any or all acceptable)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the Philistines do with Saul's body?",
+          options: [
+            "They buried it with honor",
+            "They fastened his head in the temple of Dagon and hung his body on the wall of Beth-shan",
+            "They burned it",
+            "They returned it to Israel"
+          ],
+          correctAnswer: "They fastened his head in the temple of Dagon and hung his body on the wall of Beth-shan"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "According to Chronicles, Saul died because he was unfaithful to Jehovah and consulted a spirit medium.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jehovah do after Saul's death?",
+          options: [
+            "He destroyed Israel",
+            "He turned the kingdom over to David",
+            "He appointed no new king",
+            "He gave the kingdom to the Philistines"
+          ],
+          correctAnswer: "He turned the kingdom over to David"
+        }
+      ]
+    }
+  },
+  {
+    day: 131,
+    passage: "1 Chronicles 11–12",
+    focus: "David anointed king over all Israel; capture of Jerusalem; David's mighty warriors; those who joined David at Ziklag and Hebron",
+    quiz: {
+      title: "📘 1 Chronicles 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where did all Israel gather to make David king over all Israel?",
+          options: [
+            "Jerusalem",
+            "Bethlehem",
+            "Hebron",
+            "Gibeon"
+          ],
+          correctAnswer: "Hebron"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David captured the stronghold of Zion, which became known as the City of David.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who became chief of David's army after being first to attack the Jebusites?",
+          correctAnswer: "Joab (son of Zeruiah)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who were 'The Three' mighty warriors?",
+          options: [
+            "Joab, Abishai, and Asahel",
+            "Jashobeam, Eleazar, and Shammah",
+            "David, Jonathan, and Samuel",
+            "Benaiah, Uriah, and Ittai"
+          ],
+          correctAnswer: "Jashobeam, Eleazar, and Shammah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Three mighty warriors risked their lives to bring David water from the well of Bethlehem when the Philistines were camped there.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did David do with the water from Bethlehem?",
+          options: [
+            "He drank it eagerly",
+            "He poured it out as an offering to Jehovah, refusing to drink it",
+            "He shared it with his men",
+            "He used it to wash"
+          ],
+          correctAnswer: "He poured it out as an offering to Jehovah, refusing to drink it"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who was the mighty warrior known for striking down a lion in a pit on a snowy day?",
+          correctAnswer: "Benaiah (son of Jehoiada)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Who came to David at Ziklag while he was still banned from Saul's presence?",
+          options: [
+            "Only men from Judah",
+            "Benjaminites who were Saul's relatives, and warriors from various tribes",
+            "Philistine mercenaries",
+            "Egyptian soldiers"
+          ],
+          correctAnswer: "Benjaminites who were Saul's relatives, and warriors from various tribes"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Men from the tribe of Manasseh defected to David when he was going with the Philistines to battle.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What is said about those who came to David at Hebron to make him king?",
+          options: [
+            "They were few in number",
+            "They came armed for battle with a unified heart to make David king",
+            "They came reluctantly",
+            "They demanded payment first"
+          ],
+          correctAnswer: "They came armed for battle with a unified heart to make David king"
+        }
+      ]
+    }
+  },
+  {
+    day: 132,
+    passage: "1 Chronicles 13–15",
+    focus: "David attempts to bring the Ark; Uzzah struck down; David's palace and victories; successful bringing of the Ark to Jerusalem with celebration",
+    quiz: {
+      title: "📘 1 Chronicles 13–15 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did David want to bring the Ark of the Covenant to Jerusalem?",
+          options: [
+            "To use it as a weapon against enemies",
+            "Because they had not consulted it during Saul's reign",
+            "To sell it for money",
+            "To hide it from the Philistines"
+          ],
+          correctAnswer: "Because they had not consulted it during Saul's reign"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David consulted with all Israel before deciding to bring the Ark to Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "From whose house did they bring the Ark initially?",
+          correctAnswer: "Abinadab's house (in Kiriath-jearim)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What happened when Uzzah reached out his hand to steady the Ark?",
+          options: [
+            "Nothing happened",
+            "He was blessed",
+            "Jehovah's anger blazed against him and He struck him down",
+            "He became a priest"
+          ],
+          correctAnswer: "Jehovah's anger blazed against him and He struck him down"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "After Uzzah's death, David was afraid and left the Ark at the house of Obed-edom for three months.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who built a palace for David in Jerusalem?",
+          options: [
+            "Egyptian craftsmen",
+            "Hiram king of Tyre sent cedar, stonemasons, and carpenters",
+            "David built it himself",
+            "Solomon designed it"
+          ],
+          correctAnswer: "Hiram king of Tyre sent cedar, stonemasons, and carpenters"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did David realize about why Jehovah had established him as king?",
+          correctAnswer: "For the sake of His people Israel (to exalt his kingdom for the sake of Israel)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did David ensure the Ark was brought properly the second time?",
+          options: [
+            "He hired foreigners to carry it",
+            "He had the Levites carry it on their shoulders with poles as Moses commanded",
+            "He put it on a new cart again",
+            "He had it dragged on the ground"
+          ],
+          correctAnswer: "He had the Levites carry it on their shoulders with poles as Moses commanded"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David and the Levites wore linen robes and celebrated with music when bringing the Ark to Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Michal, Saul's daughter, react when she saw David celebrating?",
+          options: [
+            "She joined in the celebration",
+            "She despised him in her heart",
+            "She was filled with joy",
+            "She remained neutral"
+          ],
+          correctAnswer: "She despised him in her heart"
+        }
+      ]
+    }
+  },
+  {
+    day: 133,
+    passage: "1 Chronicles 16–17",
+    focus: "Ark placed in tent; David appoints Levites for service; David's psalm of thanksgiving; David's desire to build temple; God's covenant with David",
+    quiz: {
+      title: "📘 1 Chronicles 16–17 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where did David place the Ark of the Covenant?",
+          options: [
+            "In Solomon's temple",
+            "In the tent that David had pitched for it",
+            "In Saul's palace",
+            "In the tabernacle at Gibeon"
+          ],
+          correctAnswer: "In the tent that David had pitched for it"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David appointed Asaph and his brothers to minister before the Ark with music and thanksgiving.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did David give to every Israelite after placing the Ark in the tent?",
+          correctAnswer: "A loaf of bread, a date cake, and a raisin cake"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What is the theme of David's psalm of thanksgiving in chapter 16?",
+          options: [
+            "Asking for victory in battle",
+            "Praising Jehovah, proclaiming His marvelous works, and thanking Him for His covenant",
+            "Mourning for the dead",
+            "Requesting wealth and power"
+          ],
+          correctAnswer: "Praising Jehovah, proclaiming His marvelous works, and thanking Him for His covenant"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "David felt uncomfortable living in a palace while the Ark of God remained in a tent.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who did David share his desire to build a temple with?",
+          options: [
+            "Joab",
+            "Nathan the prophet",
+            "Solomon",
+            "Zadok the priest"
+          ],
+          correctAnswer: "Nathan the prophet"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Jehovah tell David through Nathan about building the temple?",
+          correctAnswer: "That David would not build it, but his son would build a house for God's name"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Jehovah promise to establish forever in His covenant with David?",
+          options: [
+            "David's wealth",
+            "David's throne and his kingdom/dynasty",
+            "David's military victories",
+            "David's palace"
+          ],
+          correctAnswer: "David's throne and his kingdom/dynasty"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David responded to God's covenant promise with humble prayer and thanksgiving.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did David acknowledge about Jehovah's choosing of Israel?",
+          options: [
+            "That Israel deserved it because of their righteousness",
+            "That Jehovah made them His own people and made His name great",
+            "That it was temporary",
+            "That other nations were equally chosen"
+          ],
+          correctAnswer: "That Jehovah made them His own people and made His name great"
+        }
+      ]
+    }
+  },
+  {
+    day: 134,
+    passage: "1 Chronicles 18–20",
+    focus: "David's military victories and expanding kingdom; kindness to Hanun backfires; Ammonite war; Philistine giants defeated",
+    quiz: {
+      title: "📘 1 Chronicles 18–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Which nations did David defeat and make subject to him?",
+          options: [
+            "Only the Philistines",
+            "Philistines, Moabites, Syrians, and Edomites",
+            "Only the Egyptians",
+            "Babylonians and Assyrians"
+          ],
+          correctAnswer: "Philistines, Moabites, Syrians, and Edomites"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David dedicated all the gold, silver, and bronze from conquered nations to Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who was David's recorder and who was his secretary?",
+          correctAnswer: "Jehoshaphat was recorder and Shavsha (or Seraiah) was secretary"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did David send messengers to Hanun king of Ammon?",
+          options: [
+            "To declare war",
+            "To express loyal love because Hanun's father had shown loyal love to David",
+            "To demand tribute",
+            "To arrange a marriage alliance"
+          ],
+          correctAnswer: "To express loyal love because Hanun's father had shown loyal love to David"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Hanun humiliated David's servants by shaving off half their beards and cutting their garments.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did the Ammonites do when they realized they had offended David?",
+          options: [
+            "They surrendered immediately",
+            "They hired Syrian mercenaries and prepared for war",
+            "They sent gifts to apologize",
+            "They fled to Egypt"
+          ],
+          correctAnswer: "They hired Syrian mercenaries and prepared for war"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who led Israel's army against the Ammonites and Syrians?",
+          correctAnswer: "Joab"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to the crown of the Ammonite king after Rabbah was captured?",
+          options: [
+            "It was melted down",
+            "It was placed on David's head",
+            "It was given to Joab",
+            "It was destroyed"
+          ],
+          correctAnswer: "It was placed on David's head"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David's men defeated several Philistine giants, including relatives of Goliath.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who killed Lahmi the brother of Goliath?",
+          options: [
+            "David",
+            "Joab",
+            "Elhanan son of Jair",
+            "Abishai"
+          ],
+          correctAnswer: "Elhanan son of Jair"
+        }
+      ]
+    }
+  },
+  {
+    day: 135,
+    passage: "1 Chronicles 21–23",
+    focus: "David's census and consequences; plague stopped; temple site chosen; preparations for temple; organization of Levites for service",
+    quiz: {
+      title: "📘 1 Chronicles 21–23 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who incited David to take a census of Israel?",
+          options: [
+            "Joab",
+            "Satan",
+            "Nathan the prophet",
+            "The elders of Israel"
+          ],
+          correctAnswer: "Satan"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Joab objected to David's command to take a census, but David's word prevailed.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What three choices of punishment did God offer David through the prophet Gad?",
+          correctAnswer: "Three years of famine, three months of defeat by enemies, or three days of plague (or pestilence)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Which punishment did David choose?",
+          options: [
+            "Three years of famine",
+            "Three months fleeing from enemies",
+            "Three days of plague, falling into Jehovah's hand",
+            "He refused to choose"
+          ],
+          correctAnswer: "Three days of plague, falling into Jehovah's hand"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "70,000 men in Israel died from the plague.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Where did David see the angel of Jehovah standing with a drawn sword?",
+          options: [
+            "At the gate of Jerusalem",
+            "At the threshing floor of Ornan the Jebusite",
+            "At Mount Sinai",
+            "At the palace"
+          ],
+          correctAnswer: "At the threshing floor of Ornan the Jebusite"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did David build on the threshing floor to stop the plague?",
+          correctAnswer: "An altar to Jehovah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What significant decision did David make about the threshing floor?",
+          options: [
+            "He returned it to Ornan",
+            "He destroyed it",
+            "He declared it would be the site for Jehovah's temple",
+            "He gave it to Solomon"
+          ],
+          correctAnswer: "He declared it would be the site for Jehovah's temple"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "David began making extensive preparations for building the temple even though he would not build it himself.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "At what age were Levites to begin their service according to David's organization?",
+          options: [
+            "20 years old",
+            "25 years old",
+            "30 years old",
+            "35 years old"
+          ],
+          correctAnswer: "30 years old"
+        }
+      ]
+    }
+  },
+  {
+    day: 136,
+    passage: "1 Chronicles 24–26",
+    focus: "Organization of priestly divisions; divisions of singers and musicians; gatekeepers and treasurers appointed for temple service",
+    quiz: {
+      title: "📘 1 Chronicles 24–26 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How many divisions were the descendants of Aaron organized into for temple service?",
+          options: [
+            "12 divisions",
+            "24 divisions",
+            "48 divisions",
+            "7 divisions"
+          ],
+          correctAnswer: "24 divisions"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The divisions of priests were determined by casting lots to ensure fairness.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "From which two sons of Aaron did the priestly divisions descend?",
+          correctAnswer: "Eleazar and Ithamar"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who were appointed as singers and musicians for the temple?",
+          options: [
+            "Foreign musicians",
+            "The sons of Asaph, Heman, and Jeduthun",
+            "Only priests",
+            "David's military commanders"
+          ],
+          correctAnswer: "The sons of Asaph, Heman, and Jeduthun"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The musicians prophesied with harps, lyres, and cymbals under the king's direction.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How many trained musicians were there in total for temple service?",
+          options: [
+            "144",
+            "288",
+            "120",
+            "500"
+          ],
+          correctAnswer: "288"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was the role of the gatekeepers?",
+          correctAnswer: "To guard the gates and entrances of the temple (or to watch over the storehouses and treasuries)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Which family was assigned to guard the east gate of the temple?",
+          options: [
+            "Meshelemiah (Shelemiah)",
+            "Obed-edom",
+            "Hosah",
+            "Shuppim"
+          ],
+          correctAnswer: "Meshelemiah (Shelemiah)"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Obed-edom and his sons were blessed and assigned important duties because Jehovah had blessed him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What were the treasurers responsible for?",
+          options: [
+            "Collecting taxes only",
+            "The holy things and dedicated items in the temple storehouses",
+            "The king's personal wealth",
+            "Distributing food to the people"
+          ],
+          correctAnswer: "The holy things and dedicated items in the temple storehouses"
+        }
+      ]
+    }
+  },
+  {
+    day: 137,
+    passage: "1 Chronicles 27–29",
+    focus: "David's military and civil organization; tribal leaders; David's charge to Solomon and the people; offerings for the temple; Solomon established as king",
+    quiz: {
+      title: "📘 1 Chronicles 27–29 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How were David's army divisions organized?",
+          options: [
+            "By age groups",
+            "Into 12 divisions of 24,000 men, each serving one month per year",
+            "By tribal affiliation only",
+            "Into permanent standing armies"
+          ],
+          correctAnswer: "Into 12 divisions of 24,000 men, each serving one month per year"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "David appointed leaders over each of the 12 tribes of Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who was in charge of the king's treasuries and storehouses?",
+          correctAnswer: "Azmaveth was over the treasuries and Jonathan over the storehouses (or similar officials)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did David tell the assembly about why he could not build the temple?",
+          options: [
+            "He lacked the resources",
+            "He was a man of war who had shed much blood",
+            "He was too old",
+            "The people refused to help"
+          ],
+          correctAnswer: "He was a man of war who had shed much blood"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "David charged Solomon to be strong, courageous, and to keep Jehovah's commandments in building the temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did David give Solomon for building the temple?",
+          options: [
+            "Only verbal instructions",
+            "The architectural plans and vast amounts of gold, silver, and materials",
+            "A small donation",
+            "Nothing, expecting Solomon to provide everything"
+          ],
+          correctAnswer: "The architectural plans and vast amounts of gold, silver, and materials"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did the leaders and people respond to David's call for offerings for the temple?",
+          correctAnswer: "They gave willingly and rejoiced, making generous contributions"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In David's prayer, what did he acknowledge about the people's ability to give?",
+          options: [
+            "That they earned it through hard work",
+            "That everything comes from Jehovah and they were giving back what was His",
+            "That they deserved credit for their generosity",
+            "That it was their own achievement"
+          ],
+          correctAnswer: "That everything comes from Jehovah and they were giving back what was His"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon was anointed as king a second time before all Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did David reign over Israel?",
+          options: [
+            "33 years",
+            "40 years - 7 in Hebron and 33 in Jerusalem",
+            "50 years",
+            "25 years"
+          ],
+          correctAnswer: "40 years - 7 in Hebron and 33 in Jerusalem"
+        }
+      ]
+    }
+  },
+  {
+    day: 138,
+    passage: "2 Chronicles 1–3",
+    focus: "Solomon's wise request at Gibeon; his wealth and prosperity; preparations begin for building the temple; foundation laid",
+    quiz: {
+      title: "📘 2 Chronicles 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where did Solomon go to sacrifice to Jehovah at the beginning of his reign?",
+          options: [
+            "Jerusalem",
+            "Gibeon, where the tent of meeting was",
+            "Hebron",
+            "Bethel"
+          ],
+          correctAnswer: "Gibeon, where the tent of meeting was"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "God appeared to Solomon in a dream at Gibeon and offered to give him whatever he asked.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Solomon request from God?",
+          correctAnswer: "Wisdom and knowledge to lead the people (or an understanding heart to judge)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What else did God give Solomon besides what he asked for?",
+          options: [
+            "Only wisdom",
+            "Riches, wealth, honor, long life, and victory over enemies",
+            "A large family",
+            "Military power only"
+          ],
+          correctAnswer: "Riches, wealth, honor, long life, and victory over enemies"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon accumulated 1,400 chariots and 12,000 horses.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who did Solomon make an agreement with to supply materials for the temple?",
+          options: [
+            "The king of Egypt",
+            "Hiram (Huram) king of Tyre",
+            "The king of Babylon",
+            "The Philistine rulers"
+          ],
+          correctAnswer: "Hiram (Huram) king of Tyre"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What materials did Hiram provide for building the temple?",
+          correctAnswer: "Cedar timbers, algum wood, and skilled craftsmen (or cedar and juniper logs)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Where did Solomon begin building the temple?",
+          options: [
+            "On Mount Sinai",
+            "On Mount Moriah, at the threshing floor of Ornan the Jebusite",
+            "In Hebron",
+            "In Gibeon"
+          ],
+          correctAnswer: "On Mount Moriah, at the threshing floor of Ornan the Jebusite"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon began building the temple in the fourth year of his reign.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What were the interior walls of the temple overlaid with?",
+          options: [
+            "Silver",
+            "Bronze",
+            "Pure gold and decorated with palm trees and chains",
+            "Marble"
+          ],
+          correctAnswer: "Pure gold and decorated with palm trees and chains"
+        }
+      ]
+    }
+  },
+  {
+    day: 139,
+    passage: "2 Chronicles 4–6",
+    focus: "Temple furnishings completed; Ark brought to temple; God's glory fills the house; Solomon's dedication prayer and blessing",
+    quiz: {
+      title: "📘 2 Chronicles 4–6 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was the large basin in the temple courtyard called?",
+          options: [
+            "The bronze laver",
+            "The molten sea",
+            "The washing pool",
+            "The sacred basin"
+          ],
+          correctAnswer: "The molten sea"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The molten sea rested on 12 bulls facing outward in groups of three.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How many lampstands of gold were placed in the temple?",
+          correctAnswer: "Ten lampstands"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What happened when the priests brought the Ark into the Most Holy?",
+          options: [
+            "Nothing unusual occurred",
+            "The cloud of Jehovah's glory filled the temple so the priests could not stand to minister",
+            "Thunder and lightning filled the sky",
+            "The ground shook"
+          ],
+          correctAnswer: "The cloud of Jehovah's glory filled the temple so the priests could not stand to minister"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon stood on a bronze platform in front of all the assembly to pray.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In his prayer, what did Solomon acknowledge about the temple?",
+          options: [
+            "That it was too small",
+            "That the heavens cannot contain God, much less the house he had built",
+            "That it was the most magnificent building ever made",
+            "That God needed a dwelling place"
+          ],
+          correctAnswer: "That the heavens cannot contain God, much less the house he had built"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Solomon ask God to do from His dwelling place in heaven?",
+          correctAnswer: "To hear the prayers made toward this place and to forgive"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Solomon prayed for foreigners who would come to the temple. What did he ask?",
+          options: [
+            "That they would be turned away",
+            "That God would hear them so all peoples would know His name and fear Him",
+            "That they would bring tribute",
+            "That they would convert to Judaism"
+          ],
+          correctAnswer: "That God would hear them so all peoples would know His name and fear Him"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Solomon blessed the entire assembly of Israel after his prayer.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Solomon say about Jehovah's promises to David?",
+          options: [
+            "That they might come true someday",
+            "That not one word of all His good promises had failed",
+            "That they were symbolic only",
+            "That they were conditional"
+          ],
+          correctAnswer: "That not one word of all His good promises had failed"
+        }
+      ]
+    }
+  },
+  {
+    day: 140,
+    passage: "2 Chronicles 7–9",
+    focus: "Fire from heaven; festival celebration; God appears to Solomon; Solomon's achievements and building projects; Queen of Sheba's visit; Solomon's wealth",
+    quiz: {
+      title: "📘 2 Chronicles 7–9 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What miraculous sign occurred when Solomon finished praying?",
+          options: [
+            "An earthquake shook the temple",
+            "Fire came down from heaven and consumed the sacrifice, and God's glory filled the temple",
+            "A rainbow appeared",
+            "Thunder roared from heaven"
+          ],
+          correctAnswer: "Fire came down from heaven and consumed the sacrifice, and God's glory filled the temple"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The priests could not enter the temple because the glory of Jehovah filled it.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How long did the festival of temple dedication last?",
+          correctAnswer: "Seven days (plus seven more for the Festival of Booths, totaling 14 days)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What warning did God give Solomon when He appeared to him?",
+          options: [
+            "That enemies would attack soon",
+            "If he or his sons turned away to serve other gods, Israel would be uprooted and the temple rejected",
+            "That he should build more temples",
+            "That he would die young"
+          ],
+          correctAnswer: "If he or his sons turned away to serve other gods, Israel would be uprooted and the temple rejected"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Solomon built cities, fortified walls, and store cities throughout his kingdom.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How long did it take Solomon to build the temple and his own palace?",
+          options: [
+            "Seven years total",
+            "Twenty years - seven for the temple and thirteen for his palace",
+            "Forty years",
+            "Ten years"
+          ],
+          correctAnswer: "Twenty years - seven for the temple and thirteen for his palace"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Why did the Queen of Sheba come to visit Solomon?",
+          correctAnswer: "To test him with hard questions because she heard of his fame and wisdom"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What was the Queen of Sheba's reaction after seeing Solomon's wisdom and wealth?",
+          options: [
+            "She was disappointed",
+            "She was left breathless and said the report was true, but half had not been told",
+            "She challenged his claims",
+            "She remained unimpressed"
+          ],
+          correctAnswer: "She was left breathless and said the report was true, but half had not been told"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The Queen of Sheba blessed Jehovah for placing Solomon on the throne to execute justice and righteousness.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How much gold came to Solomon in one year?",
+          options: [
+            "100 talents",
+            "666 talents",
+            "1,000 talents",
+            "300 talents"
+          ],
+          correctAnswer: "666 talents"
+        }
+      ]
+    }
+  },
+  {
+    day: 141,
+    passage: "2 Chronicles 10–14",
+    focus: "Kingdom divided under Rehoboam; Jeroboam's rebellion; Rehoboam's reign; Abijah's war with Jeroboam; Asa's reforms and early victories",
+    quiz: {
+      title: "📘 2 Chronicles 10–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did the people ask Rehoboam to do when he became king?",
+          options: [
+            "To build more temples",
+            "To lighten the heavy yoke his father Solomon had put on them",
+            "To go to war",
+            "To lower taxes only"
+          ],
+          correctAnswer: "To lighten the heavy yoke his father Solomon had put on them"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Rehoboam rejected the advice of the elders and followed the counsel of the young men, speaking harshly to the people.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How many tribes rebelled and followed Jeroboam?",
+          correctAnswer: "Ten tribes"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did God tell Rehoboam through the prophet Shemaiah when he prepared to fight Israel?",
+          options: [
+            "To attack immediately",
+            "Not to fight against their brothers; this division was from God",
+            "To seek help from Egypt",
+            "To wait one year"
+          ],
+          correctAnswer: "Not to fight against their brothers; this division was from God"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites and faithful Israelites from all tribes came to Jerusalem to worship because Jeroboam prevented them from serving as priests.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened during Rehoboam's reign after he abandoned Jehovah's Law?",
+          options: [
+            "Peace and prosperity continued",
+            "Shishak king of Egypt came up against Jerusalem and took away the temple treasures",
+            "Israel reunited with Judah",
+            "Nothing significant occurred"
+          ],
+          correctAnswer: "Shishak king of Egypt came up against Jerusalem and took away the temple treasures"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who succeeded Rehoboam as king of Judah?",
+          correctAnswer: "Abijah (or Abijam)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Abijah tell Jeroboam before their battle?",
+          options: [
+            "That they should make peace",
+            "That Judah followed Jehovah while Israel had abandoned Him with their golden calves",
+            "That Israel was stronger",
+            "That he would surrender"
+          ],
+          correctAnswer: "That Judah followed Jehovah while Israel had abandoned Him with their golden calves"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Though outnumbered, Judah defeated Israel because they relied on Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What reforms did King Asa make in Judah?",
+          options: [
+            "He built golden calves like Jeroboam",
+            "He removed foreign altars, high places, sacred pillars, and Asherah poles",
+            "He made alliances with all surrounding nations",
+            "He abandoned the temple"
+          ],
+          correctAnswer: "He removed foreign altars, high places, sacred pillars, and Asherah poles"
+        }
+      ]
+    }
+  },
+  {
+    day: 142,
+    passage: "2 Chronicles 15–18",
+    focus: "Asa's covenant renewal; conflict with Baasha; Asa's disease; Jehoshaphat's good reign; alliance with Ahab; Micaiah's prophecy; Ahab's death",
+    quiz: {
+      title: "📘 2 Chronicles 15–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who encouraged Asa to continue his reforms and remove idolatry?",
+          options: [
+            "Nathan the prophet",
+            "Azariah son of Oded, by God's spirit",
+            "Elijah",
+            "Isaiah"
+          ],
+          correctAnswer: "Azariah son of Oded, by God's spirit"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Asa removed his grandmother Maacah from being queen mother because she made a horrible idol for Asherah worship.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What covenant did Asa and the people make in the 15th year of his reign?",
+          correctAnswer: "To seek Jehovah with all their heart and soul"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What mistake did Asa make when Baasha king of Israel fortified Ramah?",
+          options: [
+            "He surrendered immediately",
+            "He relied on the king of Syria instead of Jehovah",
+            "He abandoned Jerusalem",
+            "He made peace with Baasha"
+          ],
+          correctAnswer: "He relied on the king of Syria instead of Jehovah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The seer Hanani rebuked Asa for relying on Syria instead of Jehovah, and Asa put him in prison.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Asa do when he became diseased in his feet?",
+          options: [
+            "He sought Jehovah",
+            "He sought help only from physicians, not from Jehovah",
+            "He repented immediately",
+            "He abdicated the throne"
+          ],
+          correctAnswer: "He sought help only from physicians, not from Jehovah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How is Jehoshaphat's reign described?",
+          correctAnswer: "He did what was right in Jehovah's eyes and walked in the ways of David (his forefather)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What alliance did Jehoshaphat make that displeased Jehovah?",
+          options: [
+            "An alliance with Egypt",
+            "A marriage alliance with Ahab's family and agreement to fight with him at Ramoth-gilead",
+            "An alliance with Assyria",
+            "An alliance with the Philistines"
+          ],
+          correctAnswer: "A marriage alliance with Ahab's family and agreement to fight with him at Ramoth-gilead"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The prophet Micaiah prophesied defeat for Ahab at Ramoth-gilead, while 400 false prophets predicted victory.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Ahab die?",
+          options: [
+            "He was assassinated",
+            "A random arrow struck him between his armor joints and he died",
+            "He died of disease",
+            "He was captured and executed"
+          ],
+          correctAnswer: "A random arrow struck him between his armor joints and he died"
+        }
+      ]
+    }
+  },
+  {
+    day: 143,
+    passage: "2 Chronicles 19–22",
+    focus: "Jehoshaphat's judicial reforms; victory over Moab and Ammon; Jehoshaphat's death; Jehoram's wicked reign; Ahaziah's brief reign and death",
+    quiz: {
+      title: "📘 2 Chronicles 19–22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who rebuked Jehoshaphat for helping wicked Ahab?",
+          options: [
+            "Nathan the prophet",
+            "Jehu the son of Hanani",
+            "Elijah",
+            "Micaiah"
+          ],
+          correctAnswer: "Jehu the son of Hanani"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehoshaphat appointed judges throughout Judah and instructed them to judge faithfully for Jehovah, not for man.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jehoshaphat tell the judges about taking bribes?",
+          correctAnswer: "That there is no injustice with Jehovah, no partiality, and no taking of bribes"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "When a vast army of Moabites, Ammonites, and Meunites came against Judah, what did Jehoshaphat do?",
+          options: [
+            "He immediately attacked them",
+            "He proclaimed a fast and sought Jehovah with prayer",
+            "He surrendered",
+            "He fled to Egypt"
+          ],
+          correctAnswer: "He proclaimed a fast and sought Jehovah with prayer"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The spirit of Jehovah came upon Jahaziel, who prophesied that the battle belonged to God and Judah would not need to fight.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Jehoshaphat place in front of the army as they went out?",
+          options: [
+            "The strongest warriors",
+            "Singers praising Jehovah in holy splendor",
+            "Archers and spearmen",
+            "The Ark of the Covenant"
+          ],
+          correctAnswer: "Singers praising Jehovah in holy splendor"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happened to the enemy armies?",
+          correctAnswer: "They turned on each other and destroyed themselves; Judah found only corpses"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How is Jehoram's reign described?",
+          options: [
+            "As righteous like his father",
+            "As wicked; he walked in the ways of Israel's kings and killed his brothers",
+            "As peaceful and prosperous",
+            "As brief and insignificant"
+          ],
+          correctAnswer: "As wicked; he walked in the ways of Israel's kings and killed his brothers"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Elijah sent a letter to Jehoram warning him of punishment for his wickedness.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did King Ahaziah of Judah die?",
+          options: [
+            "He died of disease",
+            "Jehu killed him during the purge of Ahab's house",
+            "He was assassinated by his servants",
+            "He died in battle"
+          ],
+          correctAnswer: "Jehu killed him during the purge of Ahab's house"
+        }
+      ]
+    }
+  },
+  {
+    day: 144,
+    passage: "2 Chronicles 23–25",
+    focus: "Athaliah overthrown; Jehoash becomes king; temple repaired; Jehoash's apostasy; Amaziah's reign; victory over Edom; defeat by Israel",
+    quiz: {
+      title: "📘 2 Chronicles 23–25 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who organized the conspiracy to make young Jehoash king and overthrow Athaliah?",
+          options: [
+            "The prophet Elisha",
+            "Jehoiada the priest",
+            "Benaiah the warrior",
+            "Azariah the prophet"
+          ],
+          correctAnswer: "Jehoiada the priest"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehoash was only seven years old when he became king.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Where was Athaliah executed?",
+          correctAnswer: "At the Horse Gate of the king's house (not in the temple)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What major project did Jehoash undertake during his reign?",
+          options: [
+            "Building a new palace",
+            "Repairing and restoring the temple",
+            "Conquering new territories",
+            "Building city walls"
+          ],
+          correctAnswer: "Repairing and restoring the temple"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jehoash did what was right in Jehovah's eyes all the days of Jehoiada the priest.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened after Jehoiada the priest died?",
+          options: [
+            "Jehoash continued faithfully",
+            "Jehoash abandoned Jehovah and worshiped sacred poles and idols",
+            "Solomon became king",
+            "The temple was completed"
+          ],
+          correctAnswer: "Jehoash abandoned Jehovah and worshiped sacred poles and idols"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who was stoned to death in the temple courtyard for prophesying against the king?",
+          correctAnswer: "Zechariah, the son of Jehoiada the priest"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What judgment came upon Jehoash for his apostasy?",
+          options: [
+            "Immediate death",
+            "The Syrian army invaded and he was assassinated by his servants",
+            "He lost his throne peacefully",
+            "Nothing happened to him"
+          ],
+          correctAnswer: "The Syrian army invaded and he was assassinated by his servants"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Amaziah defeated Edom in the Valley of Salt and captured Sela.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What foolish thing did Amaziah do after defeating Edom?",
+          options: [
+            "He challenged Jehoash king of Israel to battle and was defeated",
+            "He made peace with all enemies",
+            "He abdicated the throne",
+            "He destroyed the temple"
+          ],
+          correctAnswer: "He challenged Jehoash king of Israel to battle and was defeated"
+        }
+      ]
+    }
+  },
+  {
+    day: 145,
+    passage: "2 Chronicles 26–28",
+    focus: "Uzziah's prosperous reign and prideful downfall; Jotham's faithful reign; Ahaz's wickedness and idolatry; defeat by Syria and Israel",
+    quiz: {
+      title: "📘 2 Chronicles 26–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How old was Uzziah when he became king?",
+          options: [
+            "12 years old",
+            "16 years old",
+            "20 years old",
+            "25 years old"
+          ],
+          correctAnswer: "16 years old"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Uzziah did what was right in Jehovah's eyes as long as he sought God during the days of Zechariah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What military achievements did Uzziah accomplish?",
+          correctAnswer: "He defeated the Philistines, Arabians, and Meunites, and built towers and fortifications (any of these acceptable)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What sin did Uzziah commit when his heart became proud?",
+          options: [
+            "He worshiped Baal",
+            "He entered the temple to burn incense, a duty reserved only for priests",
+            "He killed innocent people",
+            "He made an alliance with enemies"
+          ],
+          correctAnswer: "He entered the temple to burn incense, a duty reserved only for priests"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "When Uzziah became enraged at the priests who confronted him, leprosy broke out on his forehead.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened to Uzziah after he became leprous?",
+          options: [
+            "He was healed immediately",
+            "He lived in isolation until his death, and his son Jotham governed",
+            "He continued ruling normally",
+            "He was executed"
+          ],
+          correctAnswer: "He lived in isolation until his death, and his son Jotham governed"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How is Jotham's reign described?",
+          correctAnswer: "He did what was right in Jehovah's eyes and became mighty because he walked steadfastly before Jehovah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What terrible sins did King Ahaz commit?",
+          options: [
+            "He only neglected the temple",
+            "He made his sons pass through fire, sacrificed at high places, and worshiped idols",
+            "He was too lenient with criminals",
+            "He refused to pay tribute"
+          ],
+          correctAnswer: "He made his sons pass through fire, sacrificed at high places, and worshiped idols"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Because of Ahaz's wickedness, Jehovah gave Judah into the hand of Syria and Israel, who inflicted great defeats.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Ahaz do in his distress instead of turning to Jehovah?",
+          options: [
+            "He repented sincerely",
+            "He sacrificed to the gods of Damascus who had defeated him and shut the doors of the temple",
+            "He sought help from Egypt",
+            "He abdicated the throne"
+          ],
+          correctAnswer: "He sacrificed to the gods of Damascus who had defeated him and shut the doors of the temple"
+        }
+      ]
+    }
+  },
+  {
+    day: 146,
+    passage: "2 Chronicles 29–30",
+    focus: "Hezekiah's reforms; temple cleansed and worship restored; Passover celebrated with great joy for the first time in generations",
+    quiz: {
+      title: "📘 2 Chronicles 29–30 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Hezekiah do in the first month of the first year of his reign?",
+          options: [
+            "He went to war",
+            "He opened the doors of Jehovah's temple and repaired them",
+            "He built a new palace",
+            "He made alliances with foreign nations"
+          ],
+          correctAnswer: "He opened the doors of Jehovah's temple and repaired them"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hezekiah told the Levites to sanctify themselves and cleanse the temple of all uncleanness.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How long did it take the priests and Levites to cleanse the temple?",
+          correctAnswer: "16 days (8 days to reach the porch, 8 more to sanctify the temple)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Hezekiah offer to make atonement for all Israel?",
+          options: [
+            "Gold and silver",
+            "Sin offerings of bulls, rams, and male lambs",
+            "Grain offerings only",
+            "Prayers and fasting"
+          ],
+          correctAnswer: "Sin offerings of bulls, rams, and male lambs"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites sang with the instruments of David while the burnt offering was being offered.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why did Hezekiah celebrate the Passover in the second month instead of the first?",
+          options: [
+            "He forgot about it",
+            "Not enough priests had sanctified themselves and the people had not gathered in Jerusalem",
+            "The weather was bad",
+            "There were no available animals"
+          ],
+          correctAnswer: "Not enough priests had sanctified themselves and the people had not gathered in Jerusalem"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "To which tribes did Hezekiah send messengers inviting them to the Passover?",
+          correctAnswer: "All Israel and Judah, from Beersheba to Dan (including Ephraim and Manasseh)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did most people in Israel respond to the invitation?",
+          options: [
+            "They all came eagerly",
+            "Most laughed and mocked the messengers, though some humbled themselves and came",
+            "They attacked the messengers",
+            "They ignored it completely"
+          ],
+          correctAnswer: "Most laughed and mocked the messengers, though some humbled themselves and came"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Many people ate the Passover without being ceremonially clean, but Hezekiah prayed for them and Jehovah healed the people.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How is the Passover celebration described?",
+          options: [
+            "As ordinary and uneventful",
+            "As having great rejoicing, unlike anything since the days of Solomon",
+            "As poorly attended",
+            "As brief and somber"
+          ],
+          correctAnswer: "As having great rejoicing, unlike anything since the days of Solomon"
+        }
+      ]
+    }
+  },
+  {
+    day: 147,
+    passage: "2 Chronicles 31–33",
+    focus: "Hezekiah's continued reforms; contributions for priests and Levites; Sennacherib's invasion and deliverance; Manasseh's wickedness, captivity, and repentance; Amon's brief reign",
+    quiz: {
+      title: "📘 2 Chronicles 31–33 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did the people do after celebrating the Passover?",
+          options: [
+            "They returned home immediately",
+            "They went throughout Judah and Israel breaking sacred pillars, cutting down sacred poles, and tearing down high places",
+            "They built new altars",
+            "They made sacrifices to foreign gods"
+          ],
+          correctAnswer: "They went throughout Judah and Israel breaking sacred pillars, cutting down sacred poles, and tearing down high places"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hezekiah reorganized the divisions of priests and Levites for their service.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How did the people respond to Hezekiah's call for contributions?",
+          correctAnswer: "They gave generously and abundantly, bringing heaps of contributions"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who invaded Judah and besieged the fortified cities?",
+          options: [
+            "Pharaoh of Egypt",
+            "Sennacherib king of Assyria",
+            "Nebuchadnezzar of Babylon",
+            "The Philistines"
+          ],
+          correctAnswer: "Sennacherib king of Assyria"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Hezekiah encouraged the people not to fear, saying that the one with them was greater than the one with Assyria.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How did Jehovah deliver Jerusalem from Sennacherib?",
+          options: [
+            "Through a great battle",
+            "An angel struck down 185,000 in the Assyrian camp, and Sennacherib returned home where his sons killed him",
+            "Through a plague on the city",
+            "Hezekiah paid tribute"
+          ],
+          correctAnswer: "An angel struck down 185,000 in the Assyrian camp, and Sennacherib returned home where his sons killed him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How is Manasseh's reign initially described?",
+          correctAnswer: "As extremely wicked; he rebuilt high places, set up altars for Baal, made sacred poles, and sacrificed his sons in fire"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to Manasseh because of his wickedness?",
+          options: [
+            "Nothing; he died peacefully",
+            "The Assyrian army commanders captured him and took him to Babylon in chains",
+            "He was assassinated",
+            "He lost his throne to his son"
+          ],
+          correctAnswer: "The Assyrian army commanders captured him and took him to Babylon in chains"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In his distress, Manasseh humbled himself before Jehovah, who heard his prayer and brought him back to Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to King Amon?",
+          options: [
+            "He ruled for many years",
+            "His servants conspired against him and killed him after only two years",
+            "He died of disease",
+            "He abdicated peacefully"
+          ],
+          correctAnswer: "His servants conspired against him and killed him after only two years"
+        }
+      ]
+    }
+  },
+  {
+    day: 148,
+    passage: "2 Chronicles 34–36",
+    focus: "Josiah's reforms; Book of Law found; prophetess Huldah consulted; Passover celebrated; Josiah's death; Judah's final kings; fall of Jerusalem; exile to Babylon",
+    quiz: {
+      title: "📘 2 Chronicles 34–36 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How old was Josiah when he began to seek the God of David?",
+          options: [
+            "Eight years old",
+            "Sixteen years old",
+            "Twenty years old",
+            "Twelve years old"
+          ],
+          correctAnswer: "Sixteen years old"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Josiah began purging Judah and Jerusalem of high places, sacred poles, and idols in the twelfth year of his reign.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What important discovery was made during the temple repairs?",
+          correctAnswer: "The book of Jehovah's Law (given through Moses)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Josiah react when the book of the Law was read to him?",
+          options: [
+            "He was indifferent",
+            "He ripped his garments in distress because Judah had not kept God's word",
+            "He was angry at the priests",
+            "He celebrated immediately"
+          ],
+          correctAnswer: "He ripped his garments in distress because Judah had not kept God's word"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Josiah sent messengers to inquire of Jehovah through Huldah the prophetess.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Huldah prophesy about Josiah personally?",
+          options: [
+            "That he would die in battle",
+            "That he would be gathered to his fathers in peace and not see the calamity coming on Judah",
+            "That he would live to old age and see Jerusalem destroyed",
+            "That he would become the greatest king"
+          ],
+          correctAnswer: "That he would be gathered to his fathers in peace and not see the calamity coming on Judah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What major celebration did Josiah organize after hearing the Law?",
+          correctAnswer: "The Passover"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did Josiah die?",
+          options: [
+            "Of old age",
+            "He was killed in battle at Megiddo by Pharaoh Necho despite God's warning not to interfere",
+            "He was assassinated",
+            "Of disease"
+          ],
+          correctAnswer: "He was killed in battle at Megiddo by Pharaoh Necho despite God's warning not to interfere"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Nebuchadnezzar took King Jehoiachin and many leading citizens into exile to Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to Jerusalem and the temple under Zedekiah, Judah's last king?",
+          options: [
+            "They were spared",
+            "The Babylonians burned the temple and broke down Jerusalem's walls, taking the people into exile",
+            "They were conquered by Egypt",
+            "They were abandoned peacefully"
+          ],
+          correctAnswer: "The Babylonians burned the temple and broke down Jerusalem's walls, taking the people into exile"
+        }
+      ]
+    }
+  },
+  {
+    day: 149,
+    passage: "Ezra 1–3",
+    focus: "Cyrus's decree allows Jews to return; first exiles return under Zerubbabel; altar rebuilt; temple foundation laid with rejoicing and weeping",
+    quiz: {
+      title: "📘 Ezra 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who issued the decree allowing the Jews to return to Jerusalem and rebuild the temple?",
+          options: [
+            "Nebuchadnezzar",
+            "Cyrus king of Persia",
+            "Darius",
+            "Artaxerxes"
+          ],
+          correctAnswer: "Cyrus king of Persia"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Cyrus acknowledged that Jehovah had given him all the kingdoms of the earth and charged him to build a house in Jerusalem.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Cyrus return to the Jews for use in the temple?",
+          correctAnswer: "The vessels and utensils of Jehovah's house that Nebuchadnezzar had taken"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who led the first group of exiles back to Jerusalem?",
+          options: [
+            "Ezra and Nehemiah",
+            "Zerubbabel and Jeshua (Joshua) the high priest",
+            "Daniel and Shadrach",
+            "Cyrus himself"
+          ],
+          correctAnswer: "Zerubbabel and Jeshua (Joshua) the high priest"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "About 42,360 people returned to Judah, plus their servants.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was the first thing the returned exiles built?",
+          options: [
+            "The city walls",
+            "The altar of the God of Israel to offer burnt offerings",
+            "Their own houses",
+            "A new palace"
+          ],
+          correctAnswer: "The altar of the God of Israel to offer burnt offerings"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Why did they build the altar even though they feared the peoples around them?",
+          correctAnswer: "To offer burnt offerings to Jehovah and celebrate the festivals as prescribed in the Law"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "When did they lay the foundation of Jehovah's temple?",
+          options: [
+            "Immediately upon arrival",
+            "In the second month of the second year after returning",
+            "Ten years after returning",
+            "In the seventh month"
+          ],
+          correctAnswer: "In the second month of the second year after returning"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "When the foundation was laid, the people shouted with joy, but many older priests and Levites wept because they had seen the former temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did the priests celebrate when the foundation was laid?",
+          options: [
+            "With silence and mourning",
+            "With trumpets and cymbals, praising Jehovah as David had directed",
+            "With a great feast only",
+            "With animal sacrifices only"
+          ],
+          correctAnswer: "With trumpets and cymbals, praising Jehovah as David had directed"
+        }
+      ]
+    }
+  },
+  {
+    day: 150,
+    passage: "Ezra 4–7",
+    focus: "Opposition to rebuilding; work stopped; prophets encourage resumption; temple completed; Ezra's journey and commission from Artaxerxes",
+    quiz: {
+      title: "📘 Ezra 4–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who offered to help build the temple but were rejected?",
+          options: [
+            "The Egyptians",
+            "The adversaries of Judah, including those resettled by Assyria",
+            "The Babylonians",
+            "The Greeks"
+          ],
+          correctAnswer: "The adversaries of Judah, including those resettled by Assyria"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "After being rejected, the adversaries hired counselors to frustrate the Jews' plans and wrote accusations to the Persian kings.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did King Artaxerxes command after receiving the letter of accusation?",
+          correctAnswer: "That the work on the city be stopped (or that they cease rebuilding)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Which prophets encouraged the Jews to resume building the temple?",
+          options: [
+            "Isaiah and Jeremiah",
+            "Haggai and Zechariah",
+            "Ezekiel and Daniel",
+            "Malachi and Joel"
+          ],
+          correctAnswer: "Haggai and Zechariah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Tattenai the governor questioned the Jews about their authority to rebuild but did not stop the work while waiting for King Darius's response.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did King Darius discover when he searched the records?",
+          options: [
+            "That the Jews had no permission",
+            "The decree of Cyrus authorizing the rebuilding of the temple",
+            "That the temple should never be rebuilt",
+            "Nothing relevant"
+          ],
+          correctAnswer: "The decree of Cyrus authorizing the rebuilding of the temple"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Darius command regarding the temple rebuilding?",
+          correctAnswer: "To let the work continue and to provide expenses and supplies from the royal treasury"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "When was the temple completed?",
+          options: [
+            "In the first year of Cyrus",
+            "In the sixth year of King Darius's reign",
+            "In the twentieth year of rebuilding",
+            "Never completed"
+          ],
+          correctAnswer: "In the sixth year of King Darius's reign"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ezra was a skilled copyist in the Law of Moses and a priest descended from Aaron.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What authority did King Artaxerxes give Ezra?",
+          options: [
+            "To be king over Judah",
+            "To take gold and silver to Jerusalem, teach God's Law, and appoint judges",
+            "To rebuild the walls only",
+            "To collect taxes for Persia"
+          ],
+          correctAnswer: "To take gold and silver to Jerusalem, teach God's Law, and appoint judges"
+        }
+      ]
+    }
+  },
+  {
+    day: 151,
+    passage: "Ezra 8–10",
+    focus: "Ezra's journey to Jerusalem; fasting and prayer for protection; arrival and offerings; intermarriage crisis addressed; confession and covenant to separate from foreign wives",
+    quiz: {
+      title: "📘 Ezra 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What problem did Ezra discover when he assembled the people by the river?",
+          options: [
+            "There were too many people",
+            "There were no Levites among them",
+            "They had no supplies",
+            "They refused to go"
+          ],
+          correctAnswer: "There were no Levites among them"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ezra proclaimed a fast at the river Ahava to humble themselves before God and seek a safe journey.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Why was Ezra ashamed to ask the king for soldiers and horsemen for protection?",
+          correctAnswer: "Because he had told the king that God's hand protects all who seek Him"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Ezra entrust to 12 priests for the journey?",
+          options: [
+            "The temple blueprints",
+            "The silver, gold, and vessels for the temple",
+            "Copies of the Law",
+            "Food and supplies"
+          ],
+          correctAnswer: "The silver, gold, and vessels for the temple"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "God protected them on the journey from enemies and bandits along the way.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What serious problem did the princes report to Ezra after arriving in Jerusalem?",
+          options: [
+            "The temple was incomplete",
+            "The people, priests, and Levites had married foreign wives and adopted pagan practices",
+            "There was a famine",
+            "The walls had collapsed"
+          ],
+          correctAnswer: "The people, priests, and Levites had married foreign wives and adopted pagan practices"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did Ezra react when he heard about the unfaithfulness?",
+          correctAnswer: "He tore his garment and robe, pulled hair from his head and beard, and sat appalled"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Ezra do at the evening grain offering?",
+          options: [
+            "He offered a special sacrifice",
+            "He fell on his knees, spread out his hands, and prayed a confession to God",
+            "He announced immediate judgment",
+            "He called for celebration"
+          ],
+          correctAnswer: "He fell on his knees, spread out his hands, and prayed a confession to God"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The people wept bitterly and made a covenant to send away their foreign wives and children born to them.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did it take to investigate all the cases of intermarriage?",
+          options: [
+            "One month",
+            "Three months, from the first day of the tenth month to the first day of the first month",
+            "One year",
+            "One week"
+          ],
+          correctAnswer: "Three months, from the first day of the tenth month to the first day of the first month"
+        }
+      ]
+    }
+  },
+  {
+    day: 152,
+    passage: "Nehemiah 1–3",
+    focus: "Nehemiah hears of Jerusalem's distress; his prayer and fasting; receives permission from Artaxerxes; inspects walls; rebuilding begins with organized workers",
+    quiz: {
+      title: "📘 Nehemiah 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was Nehemiah's position in the Persian court?",
+          options: [
+            "A priest",
+            "Cupbearer to King Artaxerxes",
+            "A military commander",
+            "A scribe"
+          ],
+          correctAnswer: "Cupbearer to King Artaxerxes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Nehemiah received disturbing news that the wall of Jerusalem was broken down and its gates burned with fire.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How did Nehemiah respond when he heard the news about Jerusalem?",
+          correctAnswer: "He sat down and wept, mourned for days, fasted and prayed to God"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In his prayer, what did Nehemiah confess?",
+          options: [
+            "Only the people's sins",
+            "The sins of Israel, including his own family's sins against God",
+            "Only his own sins",
+            "That Jerusalem deserved destruction"
+          ],
+          correctAnswer: "The sins of Israel, including his own family's sins against God"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "When the king asked why Nehemiah looked sad, Nehemiah was afraid but prayed to God before answering.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Nehemiah request from the king?",
+          options: [
+            "Gold and silver only",
+            "Permission to go to Jerusalem, letters for safe passage, and timber for the gates and walls",
+            "An army to conquer Jerusalem's enemies",
+            "To retire from service"
+          ],
+          correctAnswer: "Permission to go to Jerusalem, letters for safe passage, and timber for the gates and walls"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Why did the king grant Nehemiah's request?",
+          correctAnswer: "Because the good hand of God was upon Nehemiah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Nehemiah do when he first arrived in Jerusalem?",
+          options: [
+            "He immediately began rebuilding",
+            "He inspected the walls secretly at night before telling anyone his plans",
+            "He called a public assembly",
+            "He rested for many days"
+          ],
+          correctAnswer: "He inspected the walls secretly at night before telling anyone his plans"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "When Nehemiah challenged the people to rebuild, they responded enthusiastically, saying 'Let us rise up and build.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who were the main opponents who ridiculed the rebuilding efforts?",
+          options: [
+            "The Egyptians and Philistines",
+            "Sanballat, Tobiah, and Geshem the Arab",
+            "The Babylonians",
+            "The priests of Jerusalem"
+          ],
+          correctAnswer: "Sanballat, Tobiah, and Geshem the Arab"
+        }
+      ]
+    }
+  },
+  {
+    day: 153,
+    passage: "Nehemiah 4–6",
+    focus: "Opposition and threats from enemies; workers armed while building; internal economic problems resolved; plots against Nehemiah; wall completed in 52 days",
+    quiz: {
+      title: "📘 Nehemiah 4–6 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Sanballat and Tobiah react when they heard the Jews were rebuilding?",
+          options: [
+            "They offered to help",
+            "They became furious, ridiculed the Jews, and conspired to attack",
+            "They ignored it completely",
+            "They praised their efforts"
+          ],
+          correctAnswer: "They became furious, ridiculed the Jews, and conspired to attack"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Nehemiah stationed guards and had the builders work with weapons at their side, ready to defend.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What was Nehemiah's response to the threats from enemies?",
+          correctAnswer: "He prayed to God and posted guards day and night (or 'We prayed and set a guard')"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did the builders work according to Nehemiah's plan?",
+          options: [
+            "Only during daylight hours",
+            "Half worked while half stood guard with weapons; each builder had a sword at his side",
+            "They worked without any protection",
+            "They stopped working when threatened"
+          ],
+          correctAnswer: "Half worked while half stood guard with weapons; each builder had a sword at his side"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Some Jews were forcing their fellow Jews into debt slavery and taking their fields and vineyards as collateral.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How did Nehemiah address the economic oppression?",
+          options: [
+            "He ignored it",
+            "He rebuked the nobles and officials and made them swear to return the fields, vineyards, and stop charging interest",
+            "He asked the king to intervene",
+            "He raised taxes"
+          ],
+          correctAnswer: "He rebuked the nobles and officials and made them swear to return the fields, vineyards, and stop charging interest"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What plot did Sanballat and Geshem devise to harm Nehemiah?",
+          correctAnswer: "They invited him to meet in the villages of Ono to harm him (or to trick him into leaving Jerusalem)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How many times did the enemies invite Nehemiah to meet, and what was his response?",
+          options: [
+            "Once; he agreed",
+            "Four times; each time he refused, saying he was doing important work",
+            "Ten times; he eventually went",
+            "Twice; he sent others instead"
+          ],
+          correctAnswer: "Four times; each time he refused, saying he was doing important work"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "False prophets tried to intimidate Nehemiah by suggesting he hide in the temple, but he refused to dishonor God.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did it take to complete the wall?",
+          options: [
+            "Six months",
+            "52 days",
+            "One year",
+            "100 days"
+          ],
+          correctAnswer: "52 days"
+        }
+      ]
+    }
+  },
+  {
+    day: 154,
+    passage: "Nehemiah 7–8",
+    focus: "Jerusalem secured; genealogy of returning exiles; Ezra reads the Law publicly; people weep then rejoice; understanding God's word",
+    quiz: {
+      title: "📘 Nehemiah 7–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who did Nehemiah put in charge of Jerusalem after the wall was completed?",
+          options: [
+            "Ezra the priest",
+            "His brother Hanani and Hananiah the chief of the Citadel",
+            "Sanballat",
+            "The Levites"
+          ],
+          correctAnswer: "His brother Hanani and Hananiah the chief of the Citadel"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jerusalem was large and spacious but had few people living in it and many houses were not yet rebuilt.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did God put into Nehemiah's heart to do regarding the people?",
+          correctAnswer: "To register them by genealogy (or to assemble the nobles and people for registration)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How many people had returned in the first group of exiles?",
+          options: [
+            "12,000",
+            "42,360, plus their servants",
+            "100,000",
+            "5,000"
+          ],
+          correctAnswer: "42,360, plus their servants"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The people gathered as one in the public square and asked Ezra to bring the book of the Law of Moses.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How long did Ezra read from the Law?",
+          options: [
+            "One hour",
+            "From daybreak until midday",
+            "All day and night",
+            "Just a few minutes"
+          ],
+          correctAnswer: "From daybreak until midday"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did the Levites do while Ezra read the Law?",
+          correctAnswer: "They helped the people understand by explaining the meaning and giving the sense"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did the people initially react when they heard the words of the Law?",
+          options: [
+            "They rejoiced immediately",
+            "They wept because they understood they had not been keeping it",
+            "They were angry",
+            "They were indifferent"
+          ],
+          correctAnswer: "They wept because they understood they had not been keeping it"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Nehemiah and Ezra told the people not to mourn or weep because the day was holy, and the joy of Jehovah was their stronghold.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did the people do after understanding the Law?",
+          options: [
+            "They continued weeping",
+            "They went away to eat, drink, share with others, and celebrate with great rejoicing",
+            "They immediately left Jerusalem",
+            "They offered burnt offerings only"
+          ],
+          correctAnswer: "They went away to eat, drink, share with others, and celebrate with great rejoicing"
+        }
+      ]
+    }
+  },
+  {
+    day: 155,
+    passage: "Nehemiah 9–10",
+    focus: "Festival of Booths celebrated; national confession and prayer reviewing Israel's history; covenant renewed with commitment to keep God's Law",
+    quiz: {
+      title: "📘 Nehemiah 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What festival did the people celebrate after hearing the Law?",
+          options: [
+            "Passover",
+            "Festival of Booths (Tabernacles)",
+            "Pentecost",
+            "Day of Atonement"
+          ],
+          correctAnswer: "Festival of Booths (Tabernacles)"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Festival of Booths had not been celebrated like this since the days of Joshua son of Nun.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "On the 24th day of the month, what did the Israelites do?",
+          correctAnswer: "They assembled with fasting, sackcloth, and dirt on their heads to confess their sins"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How long did they read from the book of the Law and confess?",
+          options: [
+            "One hour",
+            "A fourth of the day for reading, another fourth for confessing and worshiping",
+            "All night",
+            "Just a few minutes"
+          ],
+          correctAnswer: "A fourth of the day for reading, another fourth for confessing and worshiping"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites' prayer reviewed Israel's history from creation through Abraham, the Exodus, the wilderness, and the conquest.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did the prayer acknowledge about God's character throughout Israel's rebellions?",
+          options: [
+            "That He was quick to anger",
+            "That He was a God ready to forgive, compassionate, merciful, and slow to anger",
+            "That He punished without mercy",
+            "That He abandoned them completely"
+          ],
+          correctAnswer: "That He was a God ready to forgive, compassionate, merciful, and slow to anger"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did the prayer confess about Israel's current condition?",
+          correctAnswer: "That they were slaves in the land God gave their forefathers, under foreign rulers because of their sins"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the people do in response to their confession?",
+          options: [
+            "They gave up hope",
+            "They made a binding agreement and put it in writing with their leaders sealing it",
+            "They fled Jerusalem",
+            "They blamed God"
+          ],
+          correctAnswer: "They made a binding agreement and put it in writing with their leaders sealing it"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The people committed to not give their daughters to foreign peoples or take foreign wives for their sons.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What else did the people pledge in their covenant?",
+          options: [
+            "To build a new temple",
+            "To keep the Sabbath, observe the seventh year, support the temple service, and bring tithes",
+            "To conquer neighboring nations",
+            "To move to Babylon"
+          ],
+          correctAnswer: "To keep the Sabbath, observe the seventh year, support the temple service, and bring tithes"
+        }
+      ]
+    }
+  },
+  {
+    day: 155,
+    passage: "Nehemiah 9–10",
+    focus: "Festival of Booths celebrated; national confession and prayer reviewing Israel's history; covenant renewed with commitment to keep God's Law",
+    quiz: {
+      title: "📘 Nehemiah 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What festival did the people celebrate after hearing the Law?",
+          options: [
+            "Passover",
+            "Festival of Booths (Tabernacles)",
+            "Pentecost",
+            "Day of Atonement"
+          ],
+          correctAnswer: "Festival of Booths (Tabernacles)"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Festival of Booths had not been celebrated like this since the days of Joshua son of Nun.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "On the 24th day of the month, what did the Israelites do?",
+          correctAnswer: "They assembled with fasting, sackcloth, and dirt on their heads to confess their sins"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How long did they read from the book of the Law and confess?",
+          options: [
+            "One hour",
+            "A fourth of the day for reading, another fourth for confessing and worshiping",
+            "All night",
+            "Just a few minutes"
+          ],
+          correctAnswer: "A fourth of the day for reading, another fourth for confessing and worshiping"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Levites' prayer reviewed Israel's history from creation through Abraham, the Exodus, the wilderness, and the conquest.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did the prayer acknowledge about God's character throughout Israel's rebellions?",
+          options: [
+            "That He was quick to anger",
+            "That He was a God ready to forgive, compassionate, merciful, and slow to anger",
+            "That He punished without mercy",
+            "That He abandoned them completely"
+          ],
+          correctAnswer: "That He was a God ready to forgive, compassionate, merciful, and slow to anger"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did the prayer confess about Israel's current condition?",
+          correctAnswer: "That they were slaves in the land God gave their forefathers, under foreign rulers because of their sins"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the people do in response to their confession?",
+          options: [
+            "They gave up hope",
+            "They made a binding agreement and put it in writing with their leaders sealing it",
+            "They fled Jerusalem",
+            "They blamed God"
+          ],
+          correctAnswer: "They made a binding agreement and put it in writing with their leaders sealing it"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The people committed to not give their daughters to foreign peoples or take foreign wives for their sons.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What else did the people pledge in their covenant?",
+          options: [
+            "To build a new temple",
+            "To keep the Sabbath, observe the seventh year, support the temple service, and bring tithes",
+            "To conquer neighboring nations",
+            "To move to Babylon"
+          ],
+          correctAnswer: "To keep the Sabbath, observe the seventh year, support the temple service, and bring tithes"
+        }
+      ]
+    }
+  },
+  {
+    day: 157,
+    passage: "Esther 1–4",
+    focus: "Queen Vashti deposed; Esther becomes queen; Mordecai uncovers plot; Haman's plan to destroy the Jews; Esther's courage",
+    quiz: {
+      title: "📘 Esther 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why was Queen Vashti deposed?",
+          options: [
+            "She committed treason",
+            "She refused to come when King Ahasuerus summoned her to display her beauty",
+            "She was ill",
+            "She wanted to leave the palace"
+          ],
+          correctAnswer: "She refused to come when King Ahasuerus summoned her to display her beauty"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Esther concealed her Jewish identity when she became queen.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who was Esther's cousin who raised her?",
+          correctAnswer: "Mordecai"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Mordecai discover and report to the king?",
+          options: [
+            "A plot by two doorkeepers to assassinate the king",
+            "Haman's evil plan",
+            "A foreign invasion",
+            "Corruption in the palace"
+          ],
+          correctAnswer: "A plot by two doorkeepers to assassinate the king"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Haman was promoted to the highest position and everyone was commanded to bow to him.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why did Haman plot to destroy all the Jews?",
+          options: [
+            "They refused to pay taxes",
+            "Mordecai refused to bow down to him",
+            "They attacked him",
+            "The king ordered it"
+          ],
+          correctAnswer: "Mordecai refused to bow down to him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did Haman determine the date for destroying the Jews?",
+          correctAnswer: "By casting the Pur (lot)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did Mordecai respond when he learned of the decree?",
+          options: [
+            "He fled Persia",
+            "He put on sackcloth and ashes and cried out in the city",
+            "He attacked Haman",
+            "He hid in his house"
+          ],
+          correctAnswer: "He put on sackcloth and ashes and cried out in the city"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Mordecai told Esther that perhaps she had attained her royal position for such a time as this.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What risk did Esther take?",
+          options: [
+            "She left the palace",
+            "She decided to approach the king uninvited, which could mean death",
+            "She revealed Haman's plot publicly",
+            "She refused to obey the king"
+          ],
+          correctAnswer: "She decided to approach the king uninvited, which could mean death"
+        }
+      ]
+    }
+  },
+  {
+    day: 158,
+    passage: "Esther 5–10",
+    focus: "Esther's banquets; Haman's gallows; Mordecai honored; Haman executed; Jews granted right to defend themselves; Purim established",
+    quiz: {
+      title: "📘 Esther 5–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What happened when Esther approached the king uninvited?",
+          options: [
+            "She was arrested",
+            "The king extended his golden scepter and she was accepted",
+            "She was ignored",
+            "The king became angry"
+          ],
+          correctAnswer: "The king extended his golden scepter and she was accepted"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Esther invited the king and Haman to a banquet, then invited them to a second banquet.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Haman build for Mordecai?",
+          correctAnswer: "A stake (or gallows) 50 cubits high to hang him on"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What kept the king from sleeping one night?",
+          options: [
+            "A nightmare",
+            "He had the book of records read to him and learned Mordecai had saved his life",
+            "Loud noises",
+            "Worry about the kingdom"
+          ],
+          correctAnswer: "He had the book of records read to him and learned Mordecai had saved his life"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Haman was forced to honor Mordecai publicly by leading him through the city on the king's horse.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "At the second banquet, what did Esther reveal to the king?",
+          options: [
+            "That she wanted to leave",
+            "That she and her people had been sold to be destroyed, and Haman was the enemy",
+            "That she was unhappy",
+            "That Mordecai deserved promotion"
+          ],
+          correctAnswer: "That she and her people had been sold to be destroyed, and Haman was the enemy"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Where was Haman executed?",
+          correctAnswer: "On the stake (gallows) he had prepared for Mordecai"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What authority did the king give the Jews?",
+          options: [
+            "To leave Persia",
+            "To assemble and defend themselves against their enemies on the appointed day",
+            "To attack anyone they wanted",
+            "To take over the kingdom"
+          ],
+          correctAnswer: "To assemble and defend themselves against their enemies on the appointed day"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The Jews defeated their enemies, and many people became Jews because fear of them had fallen on the peoples.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What festival was established to commemorate this deliverance?",
+          options: [
+            "Passover",
+            "Purim",
+            "Hanukkah",
+            "Pentecost"
+          ],
+          correctAnswer: "Purim"
+        }
+      ]
+    }
+  },
+  {
+    day: 159,
+    passage: "Job 1–5",
+    focus: "Job's integrity tested; Satan permitted to afflict him; Job loses everything but maintains integrity; friends arrive; first speech cycle begins",
+    quiz: {
+      title: "📘 Job 1–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How is Job described at the beginning of the book?",
+          options: [
+            "As a wicked and corrupt man",
+            "As blameless, upright, fearing God and shunning bad",
+            "As a poor man seeking wealth",
+            "As a man who never prayed"
+          ],
+          correctAnswer: "As blameless, upright, fearing God and shunning bad"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Satan challenged that Job only served God because of the blessings and protection God gave him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Job lose in one day?",
+          correctAnswer: "His livestock, servants, and all ten children"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Job respond to losing everything?",
+          options: [
+            "He cursed God",
+            "He tore his robe, shaved his head, fell to the ground and worshiped, saying 'Jehovah has given and Jehovah has taken away'",
+            "He blamed his wife",
+            "He committed suicide"
+          ],
+          correctAnswer: "He tore his robe, shaved his head, fell to the ground and worshiped, saying 'Jehovah has given and Jehovah has taken away'"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Satan received permission to afflict Job's body but not take his life.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Job's wife tell him to do?",
+          options: [
+            "To remain faithful",
+            "To curse God and die",
+            "To pray harder",
+            "To seek a physician"
+          ],
+          correctAnswer: "To curse God and die"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Name Job's three friends who came to comfort him.",
+          correctAnswer: "Eliphaz, Bildad, and Zophar"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How long did Job's friends sit with him in silence?",
+          options: [
+            "One day",
+            "Seven days and seven nights",
+            "Three days",
+            "One hour"
+          ],
+          correctAnswer: "Seven days and seven nights"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job cursed the day he was born and wished he had died at birth.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Eliphaz's basic argument in his first speech?",
+          options: [
+            "That Job was perfectly innocent",
+            "That the innocent don't perish and Job must have sinned to deserve this suffering",
+            "That God is unjust",
+            "That Job should give up"
+          ],
+          correctAnswer: "That the innocent don't perish and Job must have sinned to deserve this suffering"
+        }
+      ]
+    }
+  },
+  {
+    day: 160,
+    passage: "Job 6–9",
+    focus: "Job defends his integrity; laments his suffering; responds to his friends; questions God's justice while acknowledging God's power",
+    quiz: {
+      title: "📘 Job 6–9 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Job respond to Eliphaz's accusation?",
+          options: [
+            "He agreed completely",
+            "He defended his integrity and said his words were the words of one in despair",
+            "He remained silent",
+            "He cursed his friends"
+          ],
+          correctAnswer: "He defended his integrity and said his words were the words of one in despair"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job complained that his friends had become like a seasonal stream that disappoints when needed most.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Job ask his friends to show him?",
+          correctAnswer: "How he had erred (or to teach him and show his mistake)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was Bildad's main argument?",
+          options: [
+            "That God never punishes anyone",
+            "That God does not reject the blameless; Job's children must have sinned",
+            "That Job should give up hope",
+            "That everyone suffers equally"
+          ],
+          correctAnswer: "That God does not reject the blameless; Job's children must have sinned"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job acknowledged that no one can prove righteous before God.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Job say about God's power?",
+          options: [
+            "That it is limited",
+            "That God removes mountains, shakes the earth, and performs wonders beyond understanding",
+            "That humans are equal to God",
+            "That God is absent"
+          ],
+          correctAnswer: "That God removes mountains, shakes the earth, and performs wonders beyond understanding"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Job desire regarding his dispute with God?",
+          correctAnswer: "A mediator or arbitrator between himself and God"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What dilemma did Job express about confronting God?",
+          options: [
+            "That God would listen to everything",
+            "That even if he was righteous, he couldn't answer; he would have to plead for mercy from his Judge",
+            "That God would immediately vindicate him",
+            "That God would apologize"
+          ],
+          correctAnswer: "That even if he was righteous, he couldn't answer; he would have to plead for mercy from his Judge"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job felt that God was treating him as an enemy and destroying both the blameless and the wicked.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Job conclude about his life?",
+          options: [
+            "That it was full of joy",
+            "That his days were swifter than a runner and fleeing away without seeing good",
+            "That he would live forever",
+            "That everything would improve soon"
+          ],
+          correctAnswer: "That his days were swifter than a runner and fleeing away without seeing good"
+        }
+      ]
+    }
+  },
+  {
+    day: 161,
+    passage: "Job 10–14",
+    focus: "Job's complaint to God; Zophar accuses Job; Job affirms God's wisdom; desires to argue his case before God; reflects on human frailty",
+    quiz: {
+      title: "📘 Job 10–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What bold request did Job make to God?",
+          options: [
+            "To be made wealthy again",
+            "To tell him why He was contending against him",
+            "To destroy his enemies",
+            "To give him a new family"
+          ],
+          correctAnswer: "To tell him why He was contending against him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job asked God why He brought him out of the womb if He was going to make him suffer.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Zophar accuse Job of?",
+          correctAnswer: "Speaking worthless talk and claiming to be pure when he had sinned"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Zophar say Job should do?",
+          options: [
+            "Continue complaining",
+            "Repent and put away sin, then God would restore him",
+            "Give up on God",
+            "Seek revenge"
+          ],
+          correctAnswer: "Repent and put away sin, then God would restore him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job said that what his friends knew, he also knew; he was not inferior to them.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Job say about God's wisdom and power?",
+          options: [
+            "That it was limited",
+            "That with God are wisdom and mightiness; He has counsel and understanding",
+            "That humans understand more",
+            "That God lacks knowledge"
+          ],
+          correctAnswer: "That with God are wisdom and mightiness; He has counsel and understanding"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Job desire to do before God?",
+          correctAnswer: "To present his case and argue it before God (or speak to the Almighty)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Job say his friends were?",
+          options: [
+            "True comforters",
+            "Worthless physicians who smear him with lies",
+            "Wise counselors",
+            "God's messengers"
+          ],
+          correctAnswer: "Worthless physicians who smear him with lies"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job expressed hope that if a man dies, he might live again, and God would call and he would answer.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Job describe human life?",
+          options: [
+            "As eternal and glorious",
+            "As short, full of trouble, fleeting like a shadow",
+            "As always happy",
+            "As without meaning"
+          ],
+          correctAnswer: "As short, full of trouble, fleeting like a shadow"
+        }
+      ]
+    }
+  },
+  {
+    day: 162,
+    passage: "Job 15–18",
+    focus: "Second speech cycle; Eliphaz speaks harshly; Job calls friends miserable comforters; Bildad describes fate of the wicked",
+    quiz: {
+      title: "📘 Job 15–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Eliphaz accuse Job of in his second speech?",
+          options: [
+            "Being too humble",
+            "Speaking empty, unprofitable words and undermining reverence for God",
+            "Being perfectly righteous",
+            "Being too quiet"
+          ],
+          correctAnswer: "Speaking empty, unprofitable words and undermining reverence for God"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Eliphaz claimed that Job was condemning himself by his own words.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Job call his friends?",
+          correctAnswer: "Miserable comforters"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Job say would be easy for him to do if the roles were reversed?",
+          options: [
+            "To mock them as they mocked him",
+            "To strengthen them with his mouth and offer consolation",
+            "To ignore them",
+            "To rejoice in their suffering"
+          ],
+          correctAnswer: "To strengthen them with his mouth and offer consolation"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job felt that God had handed him over to the wicked and dashed him to pieces.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Despite his suffering, what did Job affirm?",
+          options: [
+            "That he deserved it",
+            "That his witness is in heaven and his advocate is on high",
+            "That God had abandoned him forever",
+            "That there is no hope"
+          ],
+          correctAnswer: "That his witness is in heaven and his advocate is on high"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What hope did Job express about Sheol?",
+          correctAnswer: "That God would hide him in Sheol and remember him (or call him back)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What was Bildad's response to Job?",
+          options: [
+            "To comfort him genuinely",
+            "To rebuke him for making them seem like beasts and describe the fate of the wicked",
+            "To admit Job was right",
+            "To remain silent"
+          ],
+          correctAnswer: "To rebuke him for making them seem like beasts and describe the fate of the wicked"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Bildad described how the light of the wicked is extinguished and their steps lead to disaster.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Bildad implying about Job?",
+          options: [
+            "That he was innocent",
+            "That he was wicked and experiencing the fate of evildoers",
+            "That he would be restored soon",
+            "That he should seek another god"
+          ],
+          correctAnswer: "That he was wicked and experiencing the fate of evildoers"
+        }
+      ]
+    }
+  },
+  {
+    day: 163,
+    passage: "Job 19–20",
+    focus: "Job's cry for pity; his famous declaration of hope in his Redeemer; Zophar's second speech on the wicked's temporary prosperity",
+    quiz: {
+      title: "📘 Job 19–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Job ask his friends to do?",
+          options: [
+            "To leave him alone",
+            "To pity him because God's hand had struck him",
+            "To celebrate with him",
+            "To find him a physician"
+          ],
+          correctAnswer: "To pity him because God's hand had struck him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job felt that his relatives and close friends had forgotten him and treated him as a stranger.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What famous declaration of faith did Job make?",
+          correctAnswer: "I know that my Redeemer lives, and He will stand up on the earth (or similar quote about his Redeemer/Vindicator)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What hope did Job express about seeing God?",
+          options: [
+            "That he would never see God",
+            "That in his flesh he would see God with his own eyes",
+            "That only the righteous see God",
+            "That seeing God is impossible"
+          ],
+          correctAnswer: "That in his flesh he would see God with his own eyes"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job warned his friends that they should fear the sword of judgment for themselves.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Zophar say about the prosperity of the wicked?",
+          options: [
+            "That it lasts forever",
+            "That their triumph is brief and their joy lasts only a moment",
+            "That the wicked never prosper",
+            "That prosperity proves righteousness"
+          ],
+          correctAnswer: "That their triumph is brief and their joy lasts only a moment"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "According to Zophar, what happens to the wealth of the wicked?",
+          correctAnswer: "They must vomit it up; God forces it out of their belly (or they lose it/it doesn't satisfy)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What was Zophar's implication about Job's suffering?",
+          options: [
+            "That Job was innocent",
+            "That Job must have gained wealth through wickedness and was now being punished",
+            "That suffering is random",
+            "That Job would be blessed soon"
+          ],
+          correctAnswer: "That Job must have gained wealth through wickedness and was now being punished"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Zophar described how the wicked person's own hands must give back his wealth.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Zophar say is God's appointed portion for the wicked?",
+          options: [
+            "Eternal blessing",
+            "Calamity and loss",
+            "Long life",
+            "Fame and honor"
+          ],
+          correctAnswer: "Calamity and loss"
+        }
+      ]
+    }
+  },
+  {
+    day: 164,
+    passage: "Job 21–24",
+    focus: "Job challenges friends' theology; observes wicked prosper; third speech cycle begins; Job desires to present case before God",
+    quiz: {
+      title: "📘 Job 21–24 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What observation did Job make that contradicted his friends' theology?",
+          options: [
+            "That the wicked always suffer immediately",
+            "That the wicked often live long, prosper, and die in peace",
+            "That only the righteous prosper",
+            "That everyone suffers equally"
+          ],
+          correctAnswer: "That the wicked often live long, prosper, and die in peace"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job pointed out that the wicked often see their children established and their descendants multiply.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did the wicked say to God, according to Job?",
+          correctAnswer: "Turn away from us! We do not want to know your ways (or similar rejection of God)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Eliphaz accuse Job of in his third speech?",
+          options: [
+            "Being too righteous",
+            "Specific sins like exploiting the poor, refusing water to the thirsty, and withholding bread from the hungry",
+            "Being perfect",
+            "Worshiping false gods"
+          ],
+          correctAnswer: "Specific sins like exploiting the poor, refusing water to the thirsty, and withholding bread from the hungry"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Eliphaz told Job that if he returned to the Almighty and removed unrighteousness, he would be restored.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Job desperately wish to do?",
+          options: [
+            "To flee from God",
+            "To know where to find God and present his case before Him",
+            "To die immediately",
+            "To prove his friends wrong publicly"
+          ],
+          correctAnswer: "To know where to find God and present his case before Him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Job say about God's path for him?",
+          correctAnswer: "That when God has tested him, he will come out as gold (or refined like gold)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What complaint did Job make about justice?",
+          options: [
+            "That it always prevails",
+            "That times are not hidden from the Almighty, yet the wicked move boundary markers and oppress the poor",
+            "That everyone receives justice",
+            "That God doesn't care about justice"
+          ],
+          correctAnswer: "That times are not hidden from the Almighty, yet the wicked move boundary markers and oppress the poor"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job described how the wicked exploit orphans, widows, and the poor while God seems to do nothing.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Job's main frustration in these chapters?",
+          options: [
+            "That he lost his wealth",
+            "That he couldn't find God to present his case and couldn't understand why the wicked prosper",
+            "That he had no friends",
+            "That he was in pain"
+          ],
+          correctAnswer: "That he couldn't find God to present his case and couldn't understand why the wicked prosper"
+        }
+      ]
+    }
+  },
+  {
+    day: 165,
+    passage: "Job 25–29",
+    focus: "Bildad's brief speech; Job's response affirming God's power; Job's final defense of his integrity; longs for past blessings",
+    quiz: {
+      title: "📘 Job 25–29 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was Bildad's final, brief argument?",
+          options: [
+            "That Job should give up",
+            "That no one can be righteous before God; even the moon and stars are not pure in His sight",
+            "That Job is perfectly innocent",
+            "That God is unjust"
+          ],
+          correctAnswer: "That no one can be righteous before God; even the moon and stars are not pure in His sight"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job responded by mocking Bildad's 'help' and affirming God's greatness and power.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Job say about God's works and understanding?",
+          correctAnswer: "These are just the fringes of His ways; how faint the whisper we hear of Him (or similar statement about barely understanding God's power)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What oath did Job make regarding his integrity?",
+          options: [
+            "That he would admit guilt",
+            "That he would maintain his righteousness and not let go of it; his heart would not reproach him",
+            "That he was the greatest sinner",
+            "That he would stop defending himself"
+          ],
+          correctAnswer: "That he would maintain his righteousness and not let go of it; his heart would not reproach him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job said where can wisdom be found? It is hidden from all living and cannot be bought with gold.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "According to Job, where does wisdom come from?",
+          options: [
+            "From human knowledge",
+            "From God alone; He understands its way",
+            "From experience",
+            "From ancient books"
+          ],
+          correctAnswer: "From God alone; He understands its way"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did God say to man is wisdom?",
+          correctAnswer: "The fear of Jehovah is wisdom, and to turn away from bad is understanding"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Job long for from his past?",
+          options: [
+            "His wealth only",
+            "The days when God watched over him, his lamp shone, and he was respected",
+            "Nothing; he hated his past",
+            "His youth only"
+          ],
+          correctAnswer: "The days when God watched over him, his lamp shone, and he was respected"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job described how he used to rescue the poor, the fatherless, and cause the widow's heart to sing for joy.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did people formerly respond to Job?",
+          options: [
+            "They mocked him",
+            "They waited for his words, listened respectfully, and were silent for his counsel",
+            "They ignored him",
+            "They feared him"
+          ],
+          correctAnswer: "They waited for his words, listened respectfully, and were silent for his counsel"
+        }
+      ]
+    }
+  },
+  {
+    day: 166,
+    passage: "Job 30–31",
+    focus: "Job's present humiliation; his final oath of innocence; claims of righteous living; challenges God to answer",
+    quiz: {
+      title: "📘 Job 30–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Job describe his current situation compared to his past?",
+          options: [
+            "Better than before",
+            "Men younger than him now mock him; those he despised now ridicule him",
+            "The same as always",
+            "Slightly improved"
+          ],
+          correctAnswer: "Men younger than him now mock him; those he despised now ridicule him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Job felt that God had thrown him into the mire and he had become like dust and ashes.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What complaint did Job make directly to God?",
+          correctAnswer: "That he cried out but God didn't answer; he stood up but God only looked at him (or that God had become cruel to him)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What covenant did Job say he made?",
+          options: [
+            "With his wealth",
+            "With his eyes not to look lustfully at a young woman",
+            "With his enemies",
+            "With his friends"
+          ],
+          correctAnswer: "With his eyes not to look lustfully at a young woman"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Job listed numerous sins he had NOT committed, including adultery, oppression, and idolatry.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Job say he would do if he had wronged his servants?",
+          options: [
+            "Ignore it",
+            "What would he do when God rose up? How would he answer when called to account?",
+            "Blame them instead",
+            "Hide his sin"
+          ],
+          correctAnswer: "What would he do when God rose up? How would he answer when called to account?"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Job say about trusting in gold or wealth?",
+          correctAnswer: "That if he did, it would be unfaithfulness to God (or an offense deserving judgment)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Job say about his treatment of the poor?",
+          options: [
+            "That he ignored them",
+            "That he never withheld what they desired and shared his food with orphans",
+            "That he exploited them",
+            "That he only helped occasionally"
+          ],
+          correctAnswer: "That he never withheld what they desired and shared his food with orphans"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job said if he rejoiced at his enemy's misfortune or gloated when calamity found him, may he be cursed.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Job end his defense?",
+          options: [
+            "With an apology",
+            "By signing his defense and calling for the Almighty to answer him",
+            "With silence",
+            "By admitting defeat"
+          ],
+          correctAnswer: "By signing his defense and calling for the Almighty to answer him"
+        }
+      ]
+    }
+  },
+  {
+    day: 167,
+    passage: "Job 32–34",
+    focus: "Elihu enters; rebukes Job and friends; affirms God's justice; God speaks through suffering to turn people from wrongdoing",
+    quiz: {
+      title: "📘 Job 32–34 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who was Elihu and why was he angry?",
+          options: [
+            "An old friend who agreed with Job",
+            "A young man angry at Job for justifying himself rather than God, and at the three friends for condemning Job without answering him",
+            "A priest sent by God",
+            "Job's servant"
+          ],
+          correctAnswer: "A young man angry at Job for justifying himself rather than God, and at the three friends for condemning Job without answering him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Elihu waited to speak because the others were older than him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Elihu say gives understanding?",
+          correctAnswer: "The spirit in man and the breath of the Almighty (not just age)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Elihu say Job was wrong about?",
+          options: [
+            "Everything",
+            "Claiming to be righteous before God and saying God didn't answer him",
+            "Being too humble",
+            "Worshiping idols"
+          ],
+          correctAnswer: "Claiming to be righteous before God and saying God didn't answer him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Elihu affirmed that God does speak to man, though man may not perceive it.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "According to Elihu, how does God speak to people?",
+          options: [
+            "Only through prophets",
+            "Through dreams, visions, and through suffering on a sickbed to turn them from wrongdoing",
+            "God never speaks",
+            "Only through writing"
+          ],
+          correctAnswer: "Through dreams, visions, and through suffering on a sickbed to turn them from wrongdoing"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Elihu say is God's purpose in using suffering?",
+          correctAnswer: "To turn people away from wrongdoing and keep them from the pit (or to discipline and save them)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Elihu challenge Job's claim that it profits nothing to delight in God?",
+          options: [
+            "By agreeing with Job",
+            "By saying God is far above us; we cannot touch Him with our righteousness or wickedness",
+            "By ignoring it",
+            "By admitting God is unjust"
+          ],
+          correctAnswer: "By saying God is far above us; we cannot touch Him with our righteousness or wickedness"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Elihu declared that God does not pervert justice; the Almighty does not pervert what is right.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Elihu accuse Job of doing?",
+          options: [
+            "Being perfectly righteous",
+            "Adding rebellion to his sin and multiplying words against God without knowledge",
+            "Being too quiet",
+            "Worshiping false gods"
+          ],
+          correctAnswer: "Adding rebellion to his sin and multiplying words against God without knowledge"
+        }
+      ]
+    }
+  },
+  {
+    day: 168,
+    passage: "Job 35–38",
+    focus: "Elihu continues; God's greatness and Job's ignorance; Jehovah answers Job from the storm; questions Job about creation",
+    quiz: {
+      title: "📘 Job 35–38 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Elihu say about Job's claim that righteousness benefits God?",
+          options: [
+            "That it's completely true",
+            "That Job's righteousness affects other men, not God; God is too exalted to be affected by human deeds",
+            "That God needs human righteousness",
+            "That righteousness has no value"
+          ],
+          correctAnswer: "That Job's righteousness affects other men, not God; God is too exalted to be affected by human deeds"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Elihu said people cry out under oppression but don't ask 'Where is God my Maker?'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Elihu say about God's power in nature?",
+          correctAnswer: "That God does great things beyond our understanding; He controls snow, rain, storms, and weather"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Elihu describe the Almighty?",
+          options: [
+            "As weak and distant",
+            "As exalted in power, abundant in justice, and not perverting righteousness",
+            "As uncaring",
+            "As limited in knowledge"
+          ],
+          correctAnswer: "As exalted in power, abundant in justice, and not perverting righteousness"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jehovah answered Job out of the windstorm.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was God's opening challenge to Job?",
+          options: [
+            "To confess his sins",
+            "Who is this who darkens counsel with words without knowledge? Brace yourself; I will question you",
+            "To defend himself",
+            "To be silent"
+          ],
+          correctAnswer: "Who is this who darkens counsel with words without knowledge? Brace yourself; I will question you"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did God ask Job about the earth's foundation?",
+          correctAnswer: "Where were you when I laid the earth's foundation? (or who determined its measurements?)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did God ask Job about the sea?",
+          options: [
+            "If Job created it",
+            "Who shut up the sea behind doors when it burst forth, and set its boundaries",
+            "If Job could drink it all",
+            "Nothing about the sea"
+          ],
+          correctAnswer: "Who shut up the sea behind doors when it burst forth, and set its boundaries"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "God asked Job if he had commanded the morning or caused the dawn to know its place.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was God's purpose in questioning Job?",
+          options: [
+            "To condemn him",
+            "To humble him and show him he lacked the knowledge and power to judge God's ways",
+            "To praise his wisdom",
+            "To apologize to Job"
+          ],
+          correctAnswer: "To humble him and show him he lacked the knowledge and power to judge God's ways"
+        }
+      ]
+    }
+  },
+  {
+    day: 169,
+    passage: "Job 39–42",
+    focus: "God's questions continue about nature and animals; Job humbles himself; God restores Job's fortunes; Job blessed with double",
+    quiz: {
+      title: "📘 Job 39–42 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What animals did God ask Job about to demonstrate His wisdom?",
+          options: [
+            "Only domestic animals",
+            "Mountain goats, deer, wild donkeys, wild oxen, ostriches, horses, hawks, and eagles",
+            "Only fish",
+            "Only birds"
+          ],
+          correctAnswer: "Mountain goats, deer, wild donkeys, wild oxen, ostriches, horses, hawks, and eagles"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "God described the war horse as one that laughs at fear and cannot be restrained from battle.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What challenge did God give Job at the end of His first speech?",
+          correctAnswer: "Will the faultfinder contend with the Almighty? (or let him who argues with God answer)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Job respond after God's first speech?",
+          options: [
+            "He argued back",
+            "He said he was unworthy and would put his hand over his mouth and say no more",
+            "He blamed God",
+            "He left angry"
+          ],
+          correctAnswer: "He said he was unworthy and would put his hand over his mouth and say no more"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "God described Behemoth and Leviathan as powerful creatures beyond human control.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did God ask Job about his ability to judge?",
+          options: [
+            "Nothing about judgment",
+            "Would you really annul My justice? Would you condemn Me so you can be right?",
+            "If Job was perfectly fair",
+            "If Job never made mistakes"
+          ],
+          correctAnswer: "Would you really annul My justice? Would you condemn Me so you can be right?"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was Job's final response to God?",
+          correctAnswer: "I spoke without understanding; I despise myself and repent in dust and ashes (or I had heard of you, but now my eye has seen you)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did God say about Job's three friends?",
+          options: [
+            "That they spoke correctly",
+            "That they had not spoken what is right about Him, as Job had",
+            "That they were wiser than Job",
+            "Nothing"
+          ],
+          correctAnswer: "That they had not spoken what is right about Him, as Job had"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Job prayed for his friends, and then Jehovah restored his fortunes and gave him double what he had before.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did Job live after his restoration?",
+          options: [
+            "40 years",
+            "140 years, seeing four generations",
+            "70 years",
+            "100 years"
+          ],
+          correctAnswer: "140 years, seeing four generations"
+        }
+      ]
+    }
+  },
+  {
+    day: 170,
+    passage: "Psalms 1–8",
+    focus: "Blessed is the righteous; God's anointed king; trust in the Lord; evening and morning prayer; human dignity; God's glory in creation",
+    quiz: {
+      title: "📘 Psalms 1–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "According to Psalm 1, who is the blessed man?",
+          options: [
+            "One who is wealthy",
+            "One who does not walk in the counsel of the wicked, but delights in Jehovah's law",
+            "One who has many friends",
+            "One who is famous"
+          ],
+          correctAnswer: "One who does not walk in the counsel of the wicked, but delights in Jehovah's law"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The righteous are like a tree planted by streams of water that yields fruit in season.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will happen to the wicked according to Psalm 1?",
+          correctAnswer: "They are like chaff that the wind blows away and will not stand in the judgment"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 2 say about the nations that conspire against Jehovah and His anointed?",
+          options: [
+            "They will succeed",
+            "The One in heaven laughs; Jehovah scoffs at them",
+            "God ignores them",
+            "They are righteous"
+          ],
+          correctAnswer: "The One in heaven laughs; Jehovah scoffs at them"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 2 speaks of God's anointed king installed on Zion.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Psalm 3, what does David say even though many are against him?",
+          options: [
+            "That he will flee",
+            "That Jehovah is a shield around him, his glory, and the one who lifts his head",
+            "That he is defeated",
+            "That he has no hope"
+          ],
+          correctAnswer: "That Jehovah is a shield around him, his glory, and the one who lifts his head"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does David ask for in Psalm 4?",
+          correctAnswer: "For God to answer when he calls and give him relief (or show him favor)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Psalm 5, when does David pray to Jehovah?",
+          options: [
+            "Only at night",
+            "In the morning he lays his requests before God and waits expectantly",
+            "Never",
+            "Only on the Sabbath"
+          ],
+          correctAnswer: "In the morning he lays his requests before God and waits expectantly"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 8 declares 'What is mortal man that you remember him?' showing human smallness yet dignity.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 8 say about mankind in creation?",
+          options: [
+            "That they are worthless",
+            "That God made them a little lower than angels and crowned them with glory, giving them dominion over creation",
+            "That they are equal to God",
+            "That they have no purpose"
+          ],
+          correctAnswer: "That God made them a little lower than angels and crowned them with glory, giving them dominion over creation"
+        }
+      ]
+    }
+  },
+  {
+    day: 171,
+    passage: "Psalms 9–16",
+    focus: "Praise for God's justice; trust in times of trouble; the fool's folly; refuge in Jehovah; righteousness rewarded; confidence in God",
+    quiz: {
+      title: "📘 Psalms 9–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the psalmist declare about Jehovah in Psalm 9?",
+          options: [
+            "That He ignores the nations",
+            "That Jehovah has upheld his cause, sits enthroned as the righteous Judge",
+            "That God is absent",
+            "That judgment never comes"
+          ],
+          correctAnswer: "That Jehovah has upheld his cause, sits enthroned as the righteous Judge"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 10 asks 'Why do you stand far off, O Jehovah?' during times of trouble.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the wicked say in his heart in Psalm 10?",
+          correctAnswer: "God has forgotten; He hides His face; He will never see it (or there is no God)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Psalm 11, what is the psalmist's response when told to flee?",
+          options: [
+            "He flees immediately",
+            "He takes refuge in Jehovah; Jehovah is in His holy temple and tests the righteous",
+            "He hides in fear",
+            "He gives up"
+          ],
+          correctAnswer: "He takes refuge in Jehovah; Jehovah is in His holy temple and tests the righteous"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 12 says Jehovah's words are pure, like silver refined seven times.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What cry is found in Psalm 13?",
+          options: [
+            "Endless praise",
+            "How long, O Jehovah? Will you forget me forever?",
+            "Celebration",
+            "Anger at enemies"
+          ],
+          correctAnswer: "How long, O Jehovah? Will you forget me forever?"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the fool say in his heart according to Psalm 14?",
+          correctAnswer: "There is no Jehovah (or there is no God)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Psalm 15, who may dwell in God's tent?",
+          options: [
+            "Anyone at all",
+            "One who walks blamelessly, does what is right, speaks truth, and does not slander",
+            "Only priests",
+            "The wealthy"
+          ],
+          correctAnswer: "One who walks blamelessly, does what is right, speaks truth, and does not slander"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 16 says Jehovah is the psalmist's portion and cup; he has a delightful inheritance.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What hope is expressed in Psalm 16?",
+          options: [
+            "Only earthly blessings",
+            "That God will not abandon him to Sheol or let His loyal one see the pit; fullness of joy in God's presence",
+            "That he will become king",
+            "That he will defeat all enemies"
+          ],
+          correctAnswer: "That God will not abandon him to Sheol or let His loyal one see the pit; fullness of joy in God's presence"
+        }
+      ]
+    }
+  },
+  {
+    day: 172,
+    passage: "Psalms 17–19",
+    focus: "Prayer for vindication; praise for deliverance; God's glory in creation and law; the heavens declare God's glory",
+    quiz: {
+      title: "📘 Psalms 17–19 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does David ask for in Psalm 17?",
+          options: [
+            "Wealth and power",
+            "To hear his righteous plea and vindicate him; keep him as the pupil of your eye",
+            "To destroy all his enemies immediately",
+            "To be made king"
+          ],
+          correctAnswer: "To hear his righteous plea and vindicate him; keep him as the pupil of your eye"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Psalm 17, David asks to be hidden in the shadow of God's wings.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does David say about waking up in Psalm 17?",
+          correctAnswer: "When I awake, I will be satisfied to see your face (or behold your form)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How does Psalm 18 describe Jehovah?",
+          options: [
+            "As distant and uncaring",
+            "As his rock, fortress, deliverer, shield, and stronghold",
+            "As weak",
+            "As only a judge"
+          ],
+          correctAnswer: "As his rock, fortress, deliverer, shield, and stronghold"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 18 describes God coming down with dark clouds, riding on a cherub to rescue David.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does David say God does for the lowly in Psalm 18?",
+          options: [
+            "He ignores them",
+            "He saves the lowly but brings down the haughty",
+            "He only helps the proud",
+            "He treats everyone the same"
+          ],
+          correctAnswer: "He saves the lowly but brings down the haughty"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What declares the glory of God according to Psalm 19?",
+          correctAnswer: "The heavens"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How is the sun described in Psalm 19?",
+          options: [
+            "As weak and distant",
+            "Like a bridegroom coming from his chamber, rejoicing like a strong man to run his course",
+            "As a small light",
+            "As unnecessary"
+          ],
+          correctAnswer: "Like a bridegroom coming from his chamber, rejoicing like a strong man to run his course"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 19 says the law of Jehovah is perfect, restoring the soul; the reminder of Jehovah is trustworthy.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Psalm 19 describe God's commandments?",
+          options: [
+            "As burdensome",
+            "As more desirable than gold and sweeter than honey",
+            "As impossible to keep",
+            "As outdated"
+          ],
+          correctAnswer: "As more desirable than gold and sweeter than honey"
+        }
+      ]
+    }
+  },
+  {
+    day: 173,
+    passage: "Psalms 20–25",
+    focus: "Prayer for the king; praise for victory; shepherd psalm; the King of glory; teach me your paths; God's goodness and faithfulness",
+    quiz: {
+      title: "📘 Psalms 20–25 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the prayer in Psalm 20?",
+          options: [
+            "For personal wealth",
+            "That Jehovah answer the king in distress and grant all his requests",
+            "For revenge on enemies",
+            "For long life only"
+          ],
+          correctAnswer: "That Jehovah answer the king in distress and grant all his requests"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 21 rejoices that the king trusts in Jehovah and through His loyal love will not be shaken.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What famous opening line begins Psalm 23?",
+          correctAnswer: "Jehovah is my shepherd (or The LORD is my shepherd)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Psalm 23, what does the shepherd do for the sheep?",
+          options: [
+            "Abandons them",
+            "Leads them to green pastures, quiet waters, restores their soul, guides in right paths",
+            "Only feeds them occasionally",
+            "Leaves them in danger"
+          ],
+          correctAnswer: "Leads them to green pastures, quiet waters, restores their soul, guides in right paths"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 23 says 'Even though I walk through the valley of deep shadow, I fear no harm, for you are with me.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What question is asked in Psalm 24?",
+          options: [
+            "Who is the richest?",
+            "Who may ascend the mountain of Jehovah? Who has clean hands and a pure heart",
+            "Who is the strongest?",
+            "Who lives longest?"
+          ],
+          correctAnswer: "Who may ascend the mountain of Jehovah? Who has clean hands and a pure heart"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who is the King of glory in Psalm 24?",
+          correctAnswer: "Jehovah strong and mighty, Jehovah of armies"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does the psalmist ask for in Psalm 25?",
+          options: [
+            "Riches and fame",
+            "Teach me your paths, lead me in your truth; remember not my youthful sins",
+            "Revenge on enemies",
+            "A long life"
+          ],
+          correctAnswer: "Teach me your paths, lead me in your truth; remember not my youthful sins"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 25 says Jehovah is good and upright, instructing sinners in the way.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 25 say about those who fear Jehovah?",
+          options: [
+            "They are cursed",
+            "He instructs them in the way they should choose; their soul will lodge in goodness",
+            "They are abandoned",
+            "They have no hope"
+          ],
+          correctAnswer: "He instructs them in the way they should choose; their soul will lodge in goodness"
+        }
+      ]
+    }
+  },
+  {
+    day: 174,
+    passage: "Psalms 26–31",
+    focus: "Vindication plea; confidence in God; worship in God's house; trust despite enemies; deliverance and thanksgiving; refuge in God",
+    quiz: {
+      title: "📘 Psalms 26–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does David ask for in Psalm 26?",
+          options: [
+            "Great wealth",
+            "To be vindicated because he has walked in integrity and trusted in Jehovah",
+            "To defeat all nations",
+            "To live forever"
+          ],
+          correctAnswer: "To be vindicated because he has walked in integrity and trusted in Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Psalm 27, David says 'Jehovah is my light and my salvation; whom should I fear?'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What one thing does David ask of Jehovah in Psalm 27?",
+          correctAnswer: "To dwell in the house of Jehovah all the days of his life (or to gaze on the pleasantness of Jehovah)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 27 encourage at the end?",
+          options: [
+            "To give up hope",
+            "To wait for Jehovah, be courageous, and let your heart be strong",
+            "To flee from enemies",
+            "To trust in human strength"
+          ],
+          correctAnswer: "To wait for Jehovah, be courageous, and let your heart be strong"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 28 asks Jehovah not to be silent like those going down to the pit.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 29 call on God's sons to do?",
+          options: [
+            "To rebel",
+            "To give Jehovah glory and strength; worship Jehovah in holy splendor",
+            "To ignore God",
+            "To seek their own glory"
+          ],
+          correctAnswer: "To give Jehovah glory and strength; worship Jehovah in holy splendor"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 30 say about God's anger versus His favor?",
+          correctAnswer: "His anger lasts a moment, but His favor lasts a lifetime (or weeping may stay for the night, but joyful shouting comes in the morning)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What transformation does Psalm 30 celebrate?",
+          options: [
+            "From rich to poor",
+            "God turned his mourning into dancing and clothed him with rejoicing",
+            "From weak to strong physically",
+            "From young to old"
+          ],
+          correctAnswer: "God turned his mourning into dancing and clothed him with rejoicing"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 31 begins 'Into your hand I entrust my spirit' showing complete trust in God.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 31 say Jehovah does for those who love Him?",
+          options: [
+            "Nothing special",
+            "Jehovah guards the faithful and stores up goodness for those who fear Him",
+            "He only helps occasionally",
+            "He tests them endlessly"
+          ],
+          correctAnswer: "Jehovah guards the faithful and stores up goodness for those who fear Him"
+        }
+      ]
+    }
+  },
+  {
+    day: 175,
+    passage: "Psalms 32–35",
+    focus: "Forgiveness and confession; praise for God's word; righteous cry and God hears; contend with those who contend with me",
+    quiz: {
+      title: "📘 Psalms 32–35 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does Psalm 32 begin?",
+          options: [
+            "With a curse",
+            "Happy is the one whose transgression is pardoned, whose sin is covered",
+            "With a lament",
+            "With fear"
+          ],
+          correctAnswer: "Happy is the one whose transgression is pardoned, whose sin is covered"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 32 says when the psalmist kept silent about his sin, his bones wasted away.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What happened when the psalmist confessed his sin?",
+          correctAnswer: "God forgave the error of his sin (or You pardoned my transgression)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 33 call the upright to do?",
+          options: [
+            "To be silent",
+            "To shout joyfully and sing a new song to Jehovah",
+            "To mourn",
+            "To hide"
+          ],
+          correctAnswer: "To shout joyfully and sing a new song to Jehovah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 33 says the word of Jehovah is upright and by it the heavens were made.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 34 say about tasting and seeing?",
+          options: [
+            "That food is good",
+            "Taste and see that Jehovah is good; happy is the man who takes refuge in Him",
+            "That life is bitter",
+            "That nothing satisfies"
+          ],
+          correctAnswer: "Taste and see that Jehovah is good; happy is the man who takes refuge in Him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 34 say about the righteous crying out?",
+          correctAnswer: "Jehovah hears and rescues them from all their distresses"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Psalm 34, who is close to Jehovah?",
+          options: [
+            "The proud",
+            "Those broken in heart and crushed in spirit",
+            "The wealthy",
+            "The self-righteous"
+          ],
+          correctAnswer: "Those broken in heart and crushed in spirit"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 35 asks Jehovah to contend with those who contend with David and fight those who fight him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does David promise to do in Psalm 35 when delivered?",
+          options: [
+            "To seek revenge",
+            "To thank Jehovah in the great congregation and praise Him among many people",
+            "To remain silent",
+            "To forget God"
+          ],
+          correctAnswer: "To thank Jehovah in the great congregation and praise Him among many people"
+        }
+      ]
+    }
+  },
+  {
+    day: 176,
+    passage: "Psalms 36–38",
+    focus: "God's loyal love; delight in God brings desires; wait patiently for God; confession of sin and prayer for help in affliction",
+    quiz: {
+      title: "📘 Psalms 36–38 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 36 say about the wicked?",
+          options: [
+            "They fear God greatly",
+            "Transgression speaks to them; there is no fear of God before their eyes",
+            "They always repent",
+            "They are perfectly righteous"
+          ],
+          correctAnswer: "Transgression speaks to them; there is no fear of God before their eyes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 36 says God's loyal love reaches to the heavens and His faithfulness to the skies.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What is the source of life according to Psalm 36?",
+          correctAnswer: "With you (God) is the source of life (or fountain of life)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What famous promise is in Psalm 37?",
+          options: [
+            "That the wicked will rule",
+            "Delight in Jehovah and He will grant the desires of your heart; the meek will inherit the earth",
+            "That life has no meaning",
+            "That everyone suffers equally"
+          ],
+          correctAnswer: "Delight in Jehovah and He will grant the desires of your heart; the meek will inherit the earth"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 37 says to wait patiently for Jehovah and not fret over evildoers.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 37 say about the steps of a man?",
+          options: [
+            "They are uncertain",
+            "Jehovah makes his steps firm when He delights in his way",
+            "They always fail",
+            "They need no guidance"
+          ],
+          correctAnswer: "Jehovah makes his steps firm when He delights in his way"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 38 describe about the psalmist's condition?",
+          correctAnswer: "His suffering from sin's effects - no soundness in his flesh, bones in turmoil, overwhelmed with guilt"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why is the psalmist suffering in Psalm 38?",
+          options: [
+            "For no reason",
+            "Because of his sin and foolishness",
+            "Because God is unjust",
+            "Because of others' sins only"
+          ],
+          correctAnswer: "Because of his sin and foolishness"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Psalm 38, the psalmist's friends and companions stand at a distance from his affliction.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What is the psalmist's plea in Psalm 38?",
+          options: [
+            "To be left alone",
+            "O Jehovah, do not forsake me; come quickly to help me, O my salvation",
+            "To punish his enemies immediately",
+            "To give him wealth"
+          ],
+          correctAnswer: "O Jehovah, do not forsake me; come quickly to help me, O my salvation"
+        }
+      ]
+    }
+  },
+  {
+    day: 177,
+    passage: "Psalms 39–42",
+    focus: "Life's brevity; waiting for God; praise for deliverance; longing for God like a deer pants for water; hope in God despite distress",
+    quiz: {
+      title: "📘 Psalms 39–42 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did the psalmist resolve to do in Psalm 39?",
+          options: [
+            "To speak constantly",
+            "To guard his mouth and keep silent, especially before the wicked",
+            "To curse his enemies",
+            "To complain loudly"
+          ],
+          correctAnswer: "To guard his mouth and keep silent, especially before the wicked"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 39 describes human life as a mere handbreadth and our days as nothing before God.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What is the psalmist's hope according to Psalm 39?",
+          correctAnswer: "His hope is in God (or in You, O Lord)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 40 say God did for the psalmist?",
+          options: [
+            "Nothing",
+            "He drew him up from the pit, set his feet on a rock, and put a new song in his mouth",
+            "Made him wealthy",
+            "Gave him victory in battle"
+          ],
+          correctAnswer: "He drew him up from the pit, set his feet on a rock, and put a new song in his mouth"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 40 says God delights in sacrifice and offering more than in obedience.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 41 say about the one who shows consideration to the poor?",
+          options: [
+            "They will be cursed",
+            "Jehovah will rescue him in the day of calamity and protect him",
+            "They will lose everything",
+            "Nothing special happens"
+          ],
+          correctAnswer: "Jehovah will rescue him in the day of calamity and protect him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What famous simile opens Psalm 42?",
+          correctAnswer: "As the deer longs for streams of water, so I long for you, O God"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What repeated refrain appears in Psalm 42?",
+          options: [
+            "God has abandoned me",
+            "Why are you in despair, O my soul? Hope in God, for I will yet praise Him",
+            "I have no hope",
+            "Everything is lost"
+          ],
+          correctAnswer: "Why are you in despair, O my soul? Hope in God, for I will yet praise Him"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The psalmist in Psalm 42 remembers God from the land of Jordan and Mount Hermon.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does the psalmist miss in Psalm 42?",
+          options: [
+            "His wealth",
+            "Going to God's house with shouts of joy and thanksgiving",
+            "His friends only",
+            "His former status"
+          ],
+          correctAnswer: "Going to God's house with shouts of joy and thanksgiving"
+        }
+      ]
+    }
+  },
+  {
+    day: 178,
+    passage: "Psalms 43–47",
+    focus: "Plea for vindication; remembering past glories; God is our refuge; God reigns over nations; clap hands and shout to God",
+    quiz: {
+      title: "📘 Psalms 43–47 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the psalmist ask in Psalm 43?",
+          options: [
+            "For wealth and power",
+            "Vindicate me, O God; send your light and truth to lead me to your holy mountain",
+            "To be left alone",
+            "For revenge"
+          ],
+          correctAnswer: "Vindicate me, O God; send your light and truth to lead me to your holy mountain"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 44 recalls how God drove out nations and planted Israel in the land.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What complaint does Psalm 44 make to God?",
+          correctAnswer: "You have rejected us and handed us over like sheep to be slaughtered, yet we have not forgotten you"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 45 celebrate?",
+          options: [
+            "A funeral",
+            "A royal wedding; the king in his splendor and his bride",
+            "A battle victory only",
+            "A famine ending"
+          ],
+          correctAnswer: "A royal wedding; the king in his splendor and his bride"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 46 declares 'God is our refuge and strength, a help readily found in distress.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What famous command is in Psalm 46?",
+          options: [
+            "Fight constantly",
+            "Be still and know that I am God",
+            "Never rest",
+            "Always worry"
+          ],
+          correctAnswer: "Be still and know that I am God"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 47 call all peoples to do?",
+          correctAnswer: "Clap your hands and shout to God with joyful cries"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Psalm 47, what is God?",
+          options: [
+            "Weak and distant",
+            "King over all the earth; He reigns over the nations",
+            "Limited in power",
+            "Only king over Israel"
+          ],
+          correctAnswer: "King over all the earth; He reigns over the nations"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 47 says God has gone up with shouts of joy and the sound of the horn.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 47 encourage?",
+          options: [
+            "Silent meditation only",
+            "Singing praises to God with understanding",
+            "Complaining",
+            "Worrying about the future"
+          ],
+          correctAnswer: "Singing praises to God with understanding"
+        }
+      ]
+    }
+  },
+  {
+    day: 179,
+    passage: "Psalms 48–52",
+    focus: "Zion, city of God; cannot redeem oneself; God owns everything; true sacrifice is thanksgiving; the fool who trusts in riches",
+    quiz: {
+      title: "📘 Psalms 48–52 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How is Zion described in Psalm 48?",
+          options: [
+            "As weak and defeated",
+            "As the city of our God, beautiful in elevation, joy of all the earth",
+            "As abandoned",
+            "As ordinary"
+          ],
+          correctAnswer: "As the city of our God, beautiful in elevation, joy of all the earth"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 48 says God is in Zion's citadels; He has made Himself known as a secure refuge.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What is the key question in Psalm 49?",
+          correctAnswer: "Can anyone redeem themselves or pay a ransom to God for their life?"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 49 say about wealth at death?",
+          options: [
+            "It goes with you",
+            "They cannot take it with them; their wealth remains behind",
+            "It saves you",
+            "It determines your fate"
+          ],
+          correctAnswer: "They cannot take it with them; their wealth remains behind"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 49 says man in his splendor without understanding is like the beasts that perish.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does God say in Psalm 50?",
+          options: [
+            "That He needs their sacrifices",
+            "Every animal of the forest is mine; I do not need your bulls or goats",
+            "That He is hungry",
+            "That sacrifices are everything"
+          ],
+          correctAnswer: "Every animal of the forest is mine; I do not need your bulls or goats"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What sacrifice does God want according to Psalm 50?",
+          correctAnswer: "Thanksgiving and paying vows to the Most High (or a sacrifice of thanksgiving)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 51 famously ask for?",
+          options: [
+            "Wealth and power",
+            "Create in me a pure heart, O God, and renew a steadfast spirit within me",
+            "Revenge on enemies",
+            "Long life"
+          ],
+          correctAnswer: "Create in me a pure heart, O God, and renew a steadfast spirit within me"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 51 says God does not delight in sacrifice but in a broken and contrite heart.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 52 say about the man who trusts in riches?",
+          options: [
+            "He will prosper forever",
+            "He is like a flourishing olive tree, but God will uproot the wicked",
+            "He is blessed above all",
+            "He needs no God"
+          ],
+          correctAnswer: "He is like a flourishing olive tree, but God will uproot the wicked"
+        }
+      ]
+    }
+  },
+  {
+    day: 180,
+    passage: "Psalms 53–58",
+    focus: "The fool says no God; betrayal by friend; cast your burden on God; trust in God not man; God judges the earth",
+    quiz: {
+      title: "📘 Psalms 53–58 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the fool say according to Psalm 53?",
+          options: [
+            "God is great",
+            "There is no God",
+            "God is weak",
+            "Everyone is righteous"
+          ],
+          correctAnswer: "There is no God"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 54 asks God to save by His name and vindicate by His power.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What betrayal does Psalm 55 describe?",
+          correctAnswer: "A close friend and companion has violated his covenant and turned against him"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What famous instruction is in Psalm 55?",
+          options: [
+            "Carry all burdens alone",
+            "Cast your burden on Jehovah and He will sustain you",
+            "Never trust anyone",
+            "Solve all problems yourself"
+          ],
+          correctAnswer: "Cast your burden on Jehovah and He will sustain you"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 56 says 'When I am afraid, I put my trust in you.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 56 affirm about God's word?",
+          options: [
+            "It is unreliable",
+            "In God I trust; I will not fear. What can mere man do to me?",
+            "It has no power",
+            "It only applies to some"
+          ],
+          correctAnswer: "In God I trust; I will not fear. What can mere man do to me?"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the psalmist resolve to do in Psalm 57?",
+          correctAnswer: "To awake early, sing, and make music; to praise God among the peoples"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 58 condemn?",
+          options: [
+            "Righteousness",
+            "Unjust judges who speak wickedness and deal out violence",
+            "Worship",
+            "Mercy"
+          ],
+          correctAnswer: "Unjust judges who speak wickedness and deal out violence"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 58 affirms that there is a God who judges the earth.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What confidence does Psalm 58 express?",
+          options: [
+            "That evil will triumph",
+            "That the righteous will rejoice when vengeance is seen; surely there is a reward for the righteous",
+            "That justice never comes",
+            "That God does not care"
+          ],
+          correctAnswer: "That the righteous will rejoice when vengeance is seen; surely there is a reward for the righteous"
+        }
+      ]
+    }
+  },
+  {
+    day: 181,
+    passage: "Psalms 59–64",
+    focus: "Protection from enemies; God shakes the land; lead me to the rock higher than I; power and loving-kindness belong to God",
+    quiz: {
+      title: "📘 Psalms 59–64 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the psalmist ask in Psalm 59?",
+          options: [
+            "For wealth",
+            "Deliver me from my enemies, O my God; protect me from evildoers",
+            "For fame",
+            "To be left alone"
+          ],
+          correctAnswer: "Deliver me from my enemies, O my God; protect me from evildoers"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 59 describes enemies prowling like dogs around the city.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the psalmist declare about God in Psalm 59?",
+          correctAnswer: "God is my fortress, my loving God, my stronghold"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 60 lament?",
+          options: [
+            "Personal illness",
+            "That God has rejected them, broken them, and made the land quake",
+            "Lack of food",
+            "A long journey"
+          ],
+          correctAnswer: "That God has rejected them, broken them, and made the land quake"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 60 asks God to give aid against the foe because human help is worthless.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What famous prayer is in Psalm 61?",
+          options: [
+            "Make me wealthy",
+            "Lead me to the rock that is higher than I",
+            "Give me power over nations",
+            "Let me live forever"
+          ],
+          correctAnswer: "Lead me to the rock that is higher than I"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 62 say to do regarding God?",
+          correctAnswer: "Find rest in God alone; wait in silence for Him (or my salvation comes from Him)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 62 say about power and loving-kindness?",
+          options: [
+            "They belong to humans",
+            "Power belongs to God; loving-kindness belongs to you, O Jehovah",
+            "They are myths",
+            "They come from wealth"
+          ],
+          correctAnswer: "Power belongs to God; loving-kindness belongs to you, O Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 63 expresses earnest seeking for God like in a parched land without water.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 64 ask God to do?",
+          options: [
+            "Nothing",
+            "Hear my voice and hide me from the conspiracy of evildoers",
+            "Make the psalmist wealthy",
+            "Destroy everyone"
+          ],
+          correctAnswer: "Hear my voice and hide me from the conspiracy of evildoers"
+        }
+      ]
+    }
+  },
+  {
+    day: 182,
+    passage: "Psalms 65–68",
+    focus: "God provides rain and harvest; praise from all the earth; God's awesome deeds; God provides for the needy; God scatters enemies",
+    quiz: {
+      title: "📘 Psalms 65–68 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 65 praise God for?",
+          options: [
+            "Only spiritual blessings",
+            "Hearing prayer, forgiving sin, and providing rain and abundant harvests",
+            "Military victories only",
+            "Gold and silver"
+          ],
+          correctAnswer: "Hearing prayer, forgiving sin, and providing rain and abundant harvests"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 65 says God visits the earth and waters it, enriching it abundantly.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 66 call all the earth to do?",
+          correctAnswer: "Shout joyfully to God and sing the glory of His name"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 66 say about God testing His people?",
+          options: [
+            "He never tests them",
+            "You tested us, O God; You refined us like silver",
+            "Testing shows God's weakness",
+            "Only the wicked are tested"
+          ],
+          correctAnswer: "You tested us, O God; You refined us like silver"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 67 prays that God's way may be known on earth and His salvation among all nations.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What refrain is repeated in Psalm 67?",
+          options: [
+            "God has abandoned us",
+            "Let the peoples praise you, O God; let all the peoples praise you",
+            "We are alone",
+            "There is no hope"
+          ],
+          correctAnswer: "Let the peoples praise you, O God; let all the peoples praise you"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 68 say God does for the lonely and prisoners?",
+          correctAnswer: "He gives the lonely a home; He brings out prisoners into prosperity"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How is God described in Psalm 68?",
+          options: [
+            "As weak and distant",
+            "A father to the fatherless, defender of widows; He rides through the deserts",
+            "As uncaring",
+            "As limited in power"
+          ],
+          correctAnswer: "A father to the fatherless, defender of widows; He rides through the deserts"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 68 declares that God daily carries our load and is the God of salvation.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 68 say about God's power?",
+          options: [
+            "It is limited",
+            "Awesome is God in His sanctuary; He gives power and strength to His people",
+            "It doesn't exist",
+            "Only certain people receive it"
+          ],
+          correctAnswer: "Awesome is God in His sanctuary; He gives power and strength to His people"
+        }
+      ]
+    }
+  },
+  {
+    day: 183,
+    passage: "Psalms 69–72",
+    focus: "Cry for help; drowning in deep waters; thanksgiving for deliverance; prayer for the king; may he defend the afflicted",
+    quiz: {
+      title: "📘 Psalms 69–72 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does the psalmist describe his situation in Psalm 69?",
+          options: [
+            "As safe and secure",
+            "Save me, O God, for the waters have come up to my neck; I sink in deep mire",
+            "As prosperous",
+            "As peaceful"
+          ],
+          correctAnswer: "Save me, O God, for the waters have come up to my neck; I sink in deep mire"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 69 says the psalmist suffers reproach for God's sake and zeal for God's house consumes him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the psalmist ask God to do in Psalm 69?",
+          correctAnswer: "Answer him in the greatness of His loving-kindness and rescue him from sinking"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 70 urgently ask?",
+          options: [
+            "For slow, eventual help",
+            "Hasten to help me, O God; O Jehovah, hurry to my aid",
+            "For wealth",
+            "For fame"
+          ],
+          correctAnswer: "Hasten to help me, O God; O Jehovah, hurry to my aid"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 71 is a prayer of an elderly person asking God not to forsake them in old age.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does the psalmist in Psalm 71 promise to do?",
+          options: [
+            "To stop praising God",
+            "To continually praise and declare God's righteousness to the next generation",
+            "To remain silent",
+            "To forget God's deeds"
+          ],
+          correctAnswer: "To continually praise and declare God's righteousness to the next generation"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What is the main prayer in Psalm 72?",
+          correctAnswer: "For God to give the king justice and righteousness to judge the people fairly"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 72 say the king should do for the afflicted?",
+          options: [
+            "Ignore them",
+            "Defend the afflicted, save the children of the poor, and crush the oppressor",
+            "Exploit them",
+            "Only help the wealthy"
+          ],
+          correctAnswer: "Defend the afflicted, save the children of the poor, and crush the oppressor"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 72 prays that the king's reign would bring prosperity and peace, lasting as long as the sun and moon.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Psalm 72 end?",
+          options: [
+            "With a curse",
+            "With a doxology blessing God whose glory fills the earth",
+            "With doubt",
+            "With complaints"
+          ],
+          correctAnswer: "With a doxology blessing God whose glory fills the earth"
+        }
+      ]
+    }
+  },
+  {
+    day: 184,
+    passage: "Psalms 73–77",
+    focus: "Why do the wicked prosper?; God destroys His sanctuary; how long will the enemy mock?; you led your people like a flock",
+    quiz: {
+      title: "📘 Psalms 73–77 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What struggle does Psalm 73 address?",
+          options: [
+            "Physical illness",
+            "Why the wicked prosper while the psalmist suffers",
+            "Finding a job",
+            "Family disputes"
+          ],
+          correctAnswer: "Why the wicked prosper while the psalmist suffers"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 73 says the psalmist's feet almost slipped when he envied the prosperity of the wicked.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What changed the psalmist's perspective in Psalm 73?",
+          correctAnswer: "When he entered God's sanctuary, he understood their final destiny (the wicked are on slippery ground)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 74 lament?",
+          options: [
+            "Personal loss only",
+            "The destruction of God's sanctuary by enemies who roared in the meeting place",
+            "A bad harvest",
+            "Political defeat"
+          ],
+          correctAnswer: "The destruction of God's sanctuary by enemies who roared in the meeting place"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 74 asks 'How long, O God, will the enemy mock? Will the foe revile your name forever?'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 75 declare?",
+          options: [
+            "That humans determine everything",
+            "God is the judge; He brings one down and exalts another",
+            "That there is no justice",
+            "That the wicked always win"
+          ],
+          correctAnswer: "God is the judge; He brings one down and exalts another"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Where does Psalm 76 say God is known and His dwelling is?",
+          correctAnswer: "In Judah and Salem (Zion)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does the psalmist do in Psalm 77 when troubled?",
+          options: [
+            "Gives up on God",
+            "Cries aloud to God, remembers His deeds, and meditates on His works",
+            "Blames others",
+            "Becomes bitter"
+          ],
+          correctAnswer: "Cries aloud to God, remembers His deeds, and meditates on His works"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 77 recalls how God led His people like a flock through the sea by the hand of Moses and Aaron.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What questions does the psalmist ask in Psalm 77?",
+          options: [
+            "None; only praise",
+            "Will the Lord reject forever? Has His loving-kindness ceased? Has His promise failed?",
+            "Where is my wealth?",
+            "Why am I so successful?"
+          ],
+          correctAnswer: "Will the Lord reject forever? Has His loving-kindness ceased? Has His promise failed?"
+        }
+      ]
+    }
+  },
+  {
+    day: 185,
+    passage: "Psalms 78–79",
+    focus: "Recount Israel's history; God's patience despite rebellion; wilderness testing; lament over Jerusalem's destruction; prayer for restoration",
+    quiz: {
+      title: "📘 Psalms 78–79 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the purpose of Psalm 78?",
+          options: [
+            "To hide God's deeds",
+            "To tell the next generation God's praiseworthy acts and not hide them from their children",
+            "To forget the past",
+            "To glorify human achievement"
+          ],
+          correctAnswer: "To tell the next generation God's praiseworthy acts and not hide them from their children"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 78 recounts Israel's repeated rebellion despite God's miracles in Egypt and the wilderness.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did God provide in the wilderness according to Psalm 78?",
+          correctAnswer: "Manna from heaven, water from rocks, and quail for meat"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 78 say about Ephraim?",
+          options: [
+            "They were always faithful",
+            "They turned back on the day of battle and did not keep God's covenant",
+            "They led Israel faithfully",
+            "They never received blessings"
+          ],
+          correctAnswer: "They turned back on the day of battle and did not keep God's covenant"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 78 says God chose David His servant and took him from the sheepfolds to shepherd His people.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What disaster does Psalm 79 lament?",
+          options: [
+            "A drought",
+            "Nations have invaded Your inheritance, defiled Your temple, and left Jerusalem in ruins",
+            "A minor setback",
+            "Personal illness"
+          ],
+          correctAnswer: "Nations have invaded Your inheritance, defiled Your temple, and left Jerusalem in ruins"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the psalmist ask regarding their sins in Psalm 79?",
+          correctAnswer: "Do not remember the sins of our forefathers; may Your compassion come quickly to us"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 79 ask God to do to the nations?",
+          options: [
+            "Bless them abundantly",
+            "Pour out Your wrath on nations that do not know You",
+            "Ignore them",
+            "Make peace with them"
+          ],
+          correctAnswer: "Pour out Your wrath on nations that do not know You"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 79 asks for deliverance for the glory of God's name and forgiveness of sins.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Psalm 79 end?",
+          options: [
+            "With despair",
+            "With a promise to praise God from generation to generation",
+            "With anger",
+            "With silence"
+          ],
+          correctAnswer: "With a promise to praise God from generation to generation"
+        }
+      ]
+    }
+  },
+  {
+    day: 186,
+    passage: "Psalms 80–86",
+    focus: "Restore us, O God; your vine from Egypt; how long will you be angry?; sing for joy to God; God stands in the assembly; pleas for help",
+    quiz: {
+      title: "📘 Psalms 80–86 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the repeated refrain in Psalm 80?",
+          options: [
+            "Destroy our enemies",
+            "Restore us, O God; make Your face shine, that we may be saved",
+            "Give us wealth",
+            "We are defeated"
+          ],
+          correctAnswer: "Restore us, O God; make Your face shine, that we may be saved"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 80 uses the image of a vine that God brought out of Egypt and planted.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 81 call Israel to do?",
+          correctAnswer: "Sing for joy to God our strength; shout joyfully to the God of Jacob"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does God say Israel did in Psalm 81?",
+          options: [
+            "They always obeyed perfectly",
+            "My people did not listen to My voice; Israel did not submit to Me",
+            "They never sinned",
+            "They were always faithful"
+          ],
+          correctAnswer: "My people did not listen to My voice; Israel did not submit to Me"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 82 says God stands in the divine assembly and judges among the gods (judges).",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 82 condemn?",
+          options: [
+            "Righteousness",
+            "Unjust judges who show partiality to the wicked and do not defend the weak",
+            "Worship",
+            "Prayer"
+          ],
+          correctAnswer: "Unjust judges who show partiality to the wicked and do not defend the weak"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 83 ask God to do to Israel's enemies?",
+          correctAnswer: "Make them like whirling dust, like chaff before the wind; pursue them and terrify them"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 84 express longing for?",
+          options: [
+            "Wealth and power",
+            "The courts of Jehovah; blessed are those who dwell in Your house",
+            "A new city",
+            "Political victory"
+          ],
+          correctAnswer: "The courts of Jehovah; blessed are those who dwell in Your house"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 85 prays that God would revive His people again and that righteousness and peace would kiss each other.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 86 ask for?",
+          options: [
+            "Nothing",
+            "Incline Your ear and answer me; teach me Your way; unite my heart to fear Your name",
+            "Immediate wealth",
+            "Power over others"
+          ],
+          correctAnswer: "Incline Your ear and answer me; teach me Your way; unite my heart to fear Your name"
+        }
+      ]
+    }
+  },
+  {
+    day: 187,
+    passage: "Psalms 87–90",
+    focus: "Zion, city of God; prayer from the depths; God's covenant faithfulness; Moses' prayer on human frailty; teach us to number our days",
+    quiz: {
+      title: "📘 Psalms 87–90 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 87 celebrate?",
+          options: [
+            "A military victory",
+            "Zion as the city of God; glorious things are spoken of you",
+            "A personal achievement",
+            "A new king"
+          ],
+          correctAnswer: "Zion as the city of God; glorious things are spoken of you"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 88 is one of the darkest psalms, crying out day and night with no apparent answer.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How does Psalm 88 describe the psalmist's condition?",
+          correctAnswer: "Full of troubles, soul near Sheol, cut off from God's hand, overwhelmed by His wrath"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 89 celebrate and then question?",
+          options: [
+            "Human achievement",
+            "God's covenant with David and loving-kindness, then asks why God has rejected His anointed",
+            "Military strength",
+            "Personal wisdom"
+          ],
+          correctAnswer: "God's covenant with David and loving-kindness, then asks why God has rejected His anointed"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 89 says God's faithfulness reaches to the skies and His covenant with David is forever.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What lament is in the latter part of Psalm 89?",
+          options: [
+            "No complaints",
+            "You have rejected and spurned; You have been angry with Your anointed",
+            "Everything is perfect",
+            "We are victorious"
+          ],
+          correctAnswer: "You have rejected and spurned; You have been angry with Your anointed"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 90 say God has been to His people?",
+          correctAnswer: "A dwelling place (or refuge) throughout all generations"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Psalm 90 describe human life?",
+          options: [
+            "Eternal and glorious",
+            "Like grass that flourishes in the morning and withers by evening; 70 or 80 years",
+            "Meaningless",
+            "Always happy"
+          ],
+          correctAnswer: "Like grass that flourishes in the morning and withers by evening; 70 or 80 years"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 90 contains the prayer 'Teach us to number our days that we may gain a heart of wisdom.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 90 ask God to do?",
+          options: [
+            "To leave them alone",
+            "Satisfy us in the morning with Your loving-kindness; establish the work of our hands",
+            "To give them ease only",
+            "To forget them"
+          ],
+          correctAnswer: "Satisfy us in the morning with Your loving-kindness; establish the work of our hands"
+        }
+      ]
+    }
+  },
+  {
+    day: 188,
+    passage: "Psalms 91–96",
+    focus: "Dwelling in shelter of the Most High; thanksgiving for God's works; righteousness flourishes; God reigns; sing a new song",
+    quiz: {
+      title: "📘 Psalms 91–96 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What promise is in Psalm 91?",
+          options: [
+            "No protection is available",
+            "He who dwells in the shelter of the Most High will abide under the Almighty's shadow",
+            "Everyone will suffer",
+            "God is distant"
+          ],
+          correctAnswer: "He who dwells in the shelter of the Most High will abide under the Almighty's shadow"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 91 promises that angels will guard you in all your ways and bear you up.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will not approach the one who trusts in God according to Psalm 91?",
+          correctAnswer: "No harm will befall you, no plague will come near your tent"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 92 say is good to do?",
+          options: [
+            "To complain",
+            "To give thanks to Jehovah and sing praises; to declare His loving-kindness in the morning",
+            "To be silent",
+            "To worry"
+          ],
+          correctAnswer: "To give thanks to Jehovah and sing praises; to declare His loving-kindness in the morning"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 92 says the righteous will flourish like a palm tree and grow like a cedar.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What repeated theme is in Psalms 93-99?",
+          options: [
+            "Despair and defeat",
+            "Jehovah reigns! He is robed in majesty",
+            "Human rule is supreme",
+            "There is no God"
+          ],
+          correctAnswer: "Jehovah reigns! He is robed in majesty"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 95 warn against?",
+          correctAnswer: "Hardening your heart as at Meribah, as in the day of testing in the wilderness"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 96 call the nations to do?",
+          options: [
+            "To worship idols",
+            "Sing to Jehovah a new song; declare His glory among the nations",
+            "To ignore God",
+            "To fight each other"
+          ],
+          correctAnswer: "Sing to Jehovah a new song; declare His glory among the nations"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 96 says to worship Jehovah in holy splendor and let the heavens rejoice.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Why should all creation rejoice according to Psalm 96?",
+          options: [
+            "Because humans rule",
+            "Because Jehovah comes to judge the earth with righteousness and the peoples with His truth",
+            "Because there is no judgment",
+            "For no reason"
+          ],
+          correctAnswer: "Because Jehovah comes to judge the earth with righteousness and the peoples with His truth"
+        }
+      ]
+    }
+  },
+  {
+    day: 189,
+    passage: "Psalms 97–103",
+    focus: "Jehovah reigns; sing to the Lord; Holy is He; shout joyfully; know that Jehovah is God; bless the Lord, O my soul",
+    quiz: {
+      title: "📘 Psalms 97–103 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 97 declare?",
+          options: [
+            "That humans rule",
+            "Jehovah reigns; let the earth rejoice; righteousness and justice are His throne's foundation",
+            "That there is no king",
+            "That evil triumphs"
+          ],
+          correctAnswer: "Jehovah reigns; let the earth rejoice; righteousness and justice are His throne's foundation"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 98 calls for singing a new song because God has done marvelous things.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 99 repeat about God?",
+          correctAnswer: "That He is holy (Holy is He appears three times)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 100 call all the earth to do?",
+          options: [
+            "To despair",
+            "Shout joyfully to Jehovah; serve Him with rejoicing; enter His gates with thanksgiving",
+            "To be silent",
+            "To complain"
+          ],
+          correctAnswer: "Shout joyfully to Jehovah; serve Him with rejoicing; enter His gates with thanksgiving"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 100 says 'Know that Jehovah is God; He made us and we are His.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does the psalmist resolve in Psalm 101?",
+          options: [
+            "To live carelessly",
+            "To walk with integrity, set no worthless thing before his eyes, and hate the work of those who fall away",
+            "To compromise with evil",
+            "To ignore God's ways"
+          ],
+          correctAnswer: "To walk with integrity, set no worthless thing before his eyes, and hate the work of those who fall away"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What is the plea in Psalm 102?",
+          correctAnswer: "Hear my prayer, O Jehovah; let my cry come to You (prayer of the afflicted)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What contrast is in Psalm 102?",
+          options: [
+            "None",
+            "Human frailty (days like a shadow) versus God's eternal nature (You remain, Your years have no end)",
+            "Rich versus poor",
+            "Young versus old"
+          ],
+          correctAnswer: "Human frailty (days like a shadow) versus God's eternal nature (You remain, Your years have no end)"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 103 begins and ends with 'Bless Jehovah, O my soul.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 103 say about God's forgiveness?",
+          options: [
+            "That He never forgives",
+            "He pardons all your errors, heals all your diseases, removes our sins as far as east from west",
+            "That forgiveness is limited",
+            "That we must earn it"
+          ],
+          correctAnswer: "He pardons all your errors, heals all your diseases, removes our sins as far as east from west"
+        }
+      ]
+    }
+  },
+  {
+    day: 190,
+    passage: "Psalms 104–105",
+    focus: "God's creation praised; how many are Your works; meditate on God's wonders; give thanks and remember His covenant with Abraham",
+    quiz: {
+      title: "📘 Psalms 104–105 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 104 praise God for?",
+          options: [
+            "Only spiritual matters",
+            "His works in creation: light, heavens, water, mountains, animals, food, and seasons",
+            "Human achievements",
+            "Nothing specific"
+          ],
+          correctAnswer: "His works in creation: light, heavens, water, mountains, animals, food, and seasons"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 104 says God makes winds His messengers and flames of fire His ministers.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 104 say about God's works?",
+          correctAnswer: "How many are Your works, O Jehovah! In wisdom You have made them all"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 104 say God provides for His creatures?",
+          options: [
+            "Nothing",
+            "Food in due season; when He opens His hand, they are satisfied",
+            "Only occasional help",
+            "Just spiritual blessings"
+          ],
+          correctAnswer: "Food in due season; when He opens His hand, they are satisfied"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 104 mentions Leviathan that plays in the sea.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 105 call people to do?",
+          options: [
+            "Forget God's works",
+            "Give thanks, call on His name, make His deeds known, remember His wonders",
+            "Be silent",
+            "Complain"
+          ],
+          correctAnswer: "Give thanks, call on His name, make His deeds known, remember His wonders"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What covenant does Psalm 105 recall?",
+          correctAnswer: "God's covenant with Abraham, Isaac, and Jacob regarding the land"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What history does Psalm 105 recount?",
+          options: [
+            "Only the conquest",
+            "Joseph in Egypt, Moses and the plagues, the Exodus, wilderness provision, and entering Canaan",
+            "Only David's reign",
+            "The exile only"
+          ],
+          correctAnswer: "Joseph in Egypt, Moses and the plagues, the Exodus, wilderness provision, and entering Canaan"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 105 says God remembered His holy promise to Abraham His servant.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Why did God bring Israel out according to Psalm 105?",
+          options: [
+            "For no reason",
+            "That they might keep His statutes and observe His laws",
+            "Just to show power",
+            "To punish them"
+          ],
+          correctAnswer: "That they might keep His statutes and observe His laws"
+        }
+      ]
+    }
+  },
+  {
+    day: 191,
+    passage: "Psalms 106–108",
+    focus: "Israel's rebellion despite God's mercy; confession of national sin; thanksgiving for deliverance; awake, my glory; praise among the peoples",
+    quiz: {
+      title: "📘 Psalms 106–108 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 106 recount?",
+          options: [
+            "Only blessings",
+            "Israel's repeated rebellion and God's patient mercy despite their sins",
+            "Perfect obedience",
+            "Military victories only"
+          ],
+          correctAnswer: "Israel's repeated rebellion and God's patient mercy despite their sins"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 106 says Israel forgot God their Savior and His works in Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Israel do at Sinai according to Psalm 106?",
+          correctAnswer: "They made a calf at Horeb and worshiped a molten image"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 106 say about Moses?",
+          options: [
+            "He abandoned Israel",
+            "He stood in the breach before God to turn away His wrath from destroying them",
+            "He was always angry",
+            "He never prayed"
+          ],
+          correctAnswer: "He stood in the breach before God to turn away His wrath from destroying them"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 106 confesses that Israel mingled with the nations and learned their practices.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How does Psalm 106 end?",
+          options: [
+            "With despair",
+            "Save us, O Jehovah; gather us from the nations that we may give thanks; blessed be Jehovah",
+            "With a curse",
+            "With silence"
+          ],
+          correctAnswer: "Save us, O Jehovah; gather us from the nations that we may give thanks; blessed be Jehovah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 107 call the redeemed to do?",
+          correctAnswer: "Give thanks to Jehovah for His loving-kindness and His wonders to mankind"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What situations does Psalm 107 describe where God delivers?",
+          options: [
+            "None",
+            "Wanderers in the desert, prisoners, the sick, and sailors in storms",
+            "Only the wealthy",
+            "Only priests"
+          ],
+          correctAnswer: "Wanderers in the desert, prisoners, the sick, and sailors in storms"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 108 says 'I will awake the dawn; I will sing praises among the peoples.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 108 declare about God's love?",
+          options: [
+            "It is limited",
+            "Your loving-kindness is great above the heavens; Your truth reaches to the skies",
+            "It doesn't exist",
+            "It is conditional"
+          ],
+          correctAnswer: "Your loving-kindness is great above the heavens; Your truth reaches to the skies"
+        }
+      ]
+    }
+  },
+  {
+    day: 192,
+    passage: "Psalms 109–115",
+    focus: "Prayer against deceitful enemies; king at God's right hand; fear of Jehovah; praise from the nations; not to us, O Lord, but to Your name",
+    quiz: {
+      title: "📘 Psalms 109–115 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the psalmist ask for in Psalm 109?",
+          options: [
+            "Nothing",
+            "Judgment on his accusers who returned evil for good and hatred for his love",
+            "Blessing for his enemies",
+            "Wealth"
+          ],
+          correctAnswer: "Judgment on his accusers who returned evil for good and hatred for his love"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 110 is a messianic psalm saying 'Sit at My right hand until I make Your enemies Your footstool.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What priesthood is mentioned in Psalm 110?",
+          correctAnswer: "You are a priest forever in the manner of Melchizedek"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 111 say is the beginning of wisdom?",
+          options: [
+            "Wealth",
+            "The fear of Jehovah",
+            "Human knowledge",
+            "Age"
+          ],
+          correctAnswer: "The fear of Jehovah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 112 says blessed is the man who fears Jehovah and delights greatly in His commandments.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 113 praise God for?",
+          options: [
+            "Only physical blessings",
+            "Raising the poor from the dust and the needy from the ash heap to seat them with princes",
+            "Human achievements",
+            "Nothing"
+          ],
+          correctAnswer: "Raising the poor from the dust and the needy from the ash heap to seat them with princes"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 114 recall?",
+          correctAnswer: "The Exodus from Egypt when the sea fled and Jordan turned back"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 115 say about idols?",
+          options: [
+            "They are powerful",
+            "They have mouths but cannot speak, eyes but cannot see; those who make them become like them",
+            "They are alive",
+            "They should be worshiped"
+          ],
+          correctAnswer: "They have mouths but cannot speak, eyes but cannot see; those who make them become like them"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 115 declares 'Not to us, O Jehovah, not to us, but to Your name give glory.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 115 say about those who fear Jehovah?",
+          options: [
+            "They have no blessing",
+            "He is their help and shield; He will bless them",
+            "They are forgotten",
+            "They must fear"
+          ],
+          correctAnswer: "He is their help and shield; He will bless them"
+        }
+      ]
+    }
+  },
+  {
+    day: 193,
+    passage: "Psalms 116–119:63",
+    focus: "Thanksgiving for answered prayer; praise from all nations; cornerstone; God's word a lamp; blessed are those who walk in the law",
+    quiz: {
+      title: "📘 Psalms 116–119:63 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why does the psalmist love Jehovah in Psalm 116?",
+          options: [
+            "For no reason",
+            "Because He hears his voice and supplications; He inclined His ear to him",
+            "Only for blessings",
+            "Out of fear only"
+          ],
+          correctAnswer: "Because He hears his voice and supplications; He inclined His ear to him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 116 says 'I will call on Jehovah as long as I live.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 117 call all nations to do?",
+          correctAnswer: "Praise Jehovah; laud Him, all you peoples"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What famous stone imagery is in Psalm 118?",
+          options: [
+            "The stone that was never used",
+            "The stone the builders rejected has become the chief cornerstone",
+            "The stone that was destroyed",
+            "An ordinary stone"
+          ],
+          correctAnswer: "The stone the builders rejected has become the chief cornerstone"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 118 says 'This is the day Jehovah has made; let us rejoice and be glad in it.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What is Psalm 119 entirely about?",
+          options: [
+            "War",
+            "The excellence, beauty, and value of God's word, law, statutes, and commandments",
+            "Personal achievement",
+            "Human wisdom"
+          ],
+          correctAnswer: "The excellence, beauty, and value of God's word, law, statutes, and commandments"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What famous verse describes God's word as a guide?",
+          correctAnswer: "Your word is a lamp to my foot and a light to my path"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Psalm 119 begin?",
+          options: [
+            "With a curse",
+            "Blessed are those whose way is blameless, who walk in the law of Jehovah",
+            "With complaints",
+            "With questions only"
+          ],
+          correctAnswer: "Blessed are those whose way is blameless, who walk in the law of Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 119 is an acrostic poem with sections for each letter of the Hebrew alphabet.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does the psalmist treasure in Psalm 119?",
+          options: [
+            "Gold and silver",
+            "God's word in his heart to keep from sinning; it is sweeter than honey",
+            "Human praise",
+            "Worldly success"
+          ],
+          correctAnswer: "God's word in his heart to keep from sinning; it is sweeter than honey"
+        }
+      ]
+    }
+  },
+  {
+    day: 194,
+    passage: "Psalms 119:64-176",
+    focus: "Continuation of praise for God's word; your law is truth; I long for your salvation; great peace for those who love your law",
+    quiz: {
+      title: "📘 Psalms 119:64-176 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does the psalmist say about God's judgments?",
+          options: [
+            "They are burdensome",
+            "They are righteous and very faithful; I rejoice in them more than in all riches",
+            "They are impossible",
+            "They don't matter"
+          ],
+          correctAnswer: "They are righteous and very faithful; I rejoice in them more than in all riches"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The psalmist says 'It is good for me that I was afflicted, that I might learn Your statutes.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the psalmist say his eyes do?",
+          correctAnswer: "They stay awake through the night watches to meditate on Your word"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does the psalmist declare about God's word?",
+          options: [
+            "It is outdated",
+            "The sum of Your word is truth; every one of Your righteous judgments endures forever",
+            "It is confusing",
+            "It changes"
+          ],
+          correctAnswer: "The sum of Your word is truth; every one of Your righteous judgments endures forever"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The psalmist says 'Great peace have those who love Your law; nothing can make them stumble.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How often does the psalmist praise God?",
+          options: [
+            "Never",
+            "Seven times a day I praise You because of Your righteous judgments",
+            "Once a year",
+            "Occasionally"
+          ],
+          correctAnswer: "Seven times a day I praise You because of Your righteous judgments"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the psalmist long for?",
+          correctAnswer: "Your salvation, O Jehovah (or to keep Your commandments)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does the psalmist describe straying?",
+          options: [
+            "As intentional rebellion",
+            "I have strayed like a lost sheep; seek Your servant, for I do not forget Your commandments",
+            "As permanent",
+            "As acceptable"
+          ],
+          correctAnswer: "I have strayed like a lost sheep; seek Your servant, for I do not forget Your commandments"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The psalmist declares 'I open my mouth and pant because I long for Your commandments.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Psalm 119 end?",
+          options: [
+            "With doubt",
+            "With a plea to be sought like a lost sheep and a commitment to not forget God's commandments",
+            "With anger",
+            "With silence"
+          ],
+          correctAnswer: "With a plea to be sought like a lost sheep and a commitment to not forget God's commandments"
+        }
+      ]
+    }
+  },
+  {
+    day: 195,
+    passage: "Psalms 120–129",
+    focus: "Songs of Ascents; I lift my eyes to the hills; our help is in the name of Jehovah; those who trust in Jehovah are like Mount Zion",
+    quiz: {
+      title: "📘 Psalms 120–129 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What are Psalms 120-134 called?",
+          options: [
+            "Psalms of Lament",
+            "Songs of Ascents (or pilgrimage songs)",
+            "War Psalms",
+            "Wisdom Psalms"
+          ],
+          correctAnswer: "Songs of Ascents (or pilgrimage songs)"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 121 says 'I lift my eyes to the mountains. From where will my help come? My help comes from Jehovah.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 121 promise about God?",
+          correctAnswer: "He will not let your foot slip; He who watches over you will not slumber"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 122 express joy about?",
+          options: [
+            "Personal wealth",
+            "Let us go to the house of Jehovah; pray for the peace of Jerusalem",
+            "Victory in war",
+            "A new king"
+          ],
+          correctAnswer: "Let us go to the house of Jehovah; pray for the peace of Jerusalem"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 123 says 'Our eyes look to Jehovah until He shows us favor.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 124 declare?",
+          options: [
+            "We did it ourselves",
+            "If Jehovah had not been on our side, we would have been swallowed alive",
+            "We need no help",
+            "God was absent"
+          ],
+          correctAnswer: "If Jehovah had not been on our side, we would have been swallowed alive"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What is the help mentioned in Psalm 124?",
+          correctAnswer: "Our help is in the name of Jehovah, Maker of heaven and earth"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 125 say about those who trust in Jehovah?",
+          options: [
+            "They will fail",
+            "They are like Mount Zion, which cannot be moved but remains forever",
+            "They are weak",
+            "They have no hope"
+          ],
+          correctAnswer: "They are like Mount Zion, which cannot be moved but remains forever"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 126 recalls how Jehovah restored the fortunes of Zion and their mouth was filled with laughter.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 127 say about building and watching?",
+          options: [
+            "Humans can do it alone",
+            "Unless Jehovah builds the house, the builders labor in vain; unless Jehovah watches the city, the watchman stays awake in vain",
+            "God is not involved",
+            "It's always easy"
+          ],
+          correctAnswer: "Unless Jehovah builds the house, the builders labor in vain; unless Jehovah watches the city, the watchman stays awake in vain"
+        }
+      ]
+    }
+  },
+  {
+    day: 196,
+    passage: "Psalms 130–138",
+    focus: "Out of the depths; like a weaned child; David and his vows; unity among brothers; lift up your hands; give thanks with my whole heart",
+    quiz: {
+      title: "📘 Psalms 130–138 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does Psalm 130 begin?",
+          options: [
+            "With praise only",
+            "Out of the depths I call to You, O Jehovah",
+            "With thanksgiving",
+            "With a question"
+          ],
+          correctAnswer: "Out of the depths I call to You, O Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 130 says 'If You kept track of errors, who could stand? But with You is forgiveness.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the psalmist wait for in Psalm 130?",
+          correctAnswer: "Jehovah; I wait for Jehovah more than watchmen wait for the morning"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How does Psalm 131 describe the psalmist's soul?",
+          options: [
+            "As troubled and anxious",
+            "Like a weaned child with its mother; my soul is like a weaned child within me",
+            "As angry",
+            "As confused"
+          ],
+          correctAnswer: "Like a weaned child with its mother; my soul is like a weaned child within me"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 132 recalls David's vow to find a dwelling place for the Mighty One of Jacob.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 133 compare unity to?",
+          options: [
+            "To war",
+            "To precious oil running down Aaron's beard and the dew of Hermon",
+            "To separation",
+            "To silence"
+          ],
+          correctAnswer: "To precious oil running down Aaron's beard and the dew of Hermon"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What famous statement begins Psalm 133?",
+          correctAnswer: "How good and pleasant it is when brothers dwell together in unity"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 134 call those who serve in God's house to do?",
+          options: [
+            "To sleep",
+            "Lift up your hands in the holy place and bless Jehovah",
+            "To complain",
+            "To be silent"
+          ],
+          correctAnswer: "Lift up your hands in the holy place and bless Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 135 praises Jehovah for His great deeds and says our Lord is greater than all other gods.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 138 say David will do?",
+          options: [
+            "Give partial thanks",
+            "Give thanks with his whole heart and bow down toward God's holy temple",
+            "Be silent",
+            "Forget God"
+          ],
+          correctAnswer: "Give thanks with his whole heart and bow down toward God's holy temple"
+        }
+      ]
+    }
+  },
+  {
+    day: 197,
+    passage: "Psalms 139–144",
+    focus: "God knows me completely; search me and know my heart; rescue me from violent men; the Lord is my rock; what is man that You care for him?",
+    quiz: {
+      title: "📘 Psalms 139–144 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 139 declare about God's knowledge?",
+          options: [
+            "That it is limited",
+            "You have searched me and You know me; You know when I sit and when I rise",
+            "That God doesn't know everything",
+            "That humans hide from God"
+          ],
+          correctAnswer: "You have searched me and You know me; You know when I sit and when I rise"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 139 asks 'Where can I go from Your spirit? Where can I flee from Your presence?'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the psalmist say about being formed in the womb?",
+          correctAnswer: "You formed my inward parts; I am fearfully and wonderfully made"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How does Psalm 139 end?",
+          options: [
+            "With self-righteousness",
+            "Search me, O God, and know my heart; see if there is any hurtful way in me",
+            "With pride",
+            "With no prayer"
+          ],
+          correctAnswer: "Search me, O God, and know my heart; see if there is any hurtful way in me"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 140 asks for rescue from violent men who plan to trip up the psalmist's steps.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 141 ask regarding prayer?",
+          options: [
+            "To be ignored",
+            "May my prayer be as incense before You; the lifting up of my hands as the evening grain offering",
+            "To pray rarely",
+            "That prayer has no value"
+          ],
+          correctAnswer: "May my prayer be as incense before You; the lifting up of my hands as the evening grain offering"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the psalmist ask God to set in Psalm 141?",
+          correctAnswer: "A guard over my mouth; a watch at the door of my lips"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 143 confess?",
+          options: [
+            "Perfect righteousness",
+            "No one living is righteous before You; my spirit within me is numb",
+            "No need for God",
+            "Self-sufficiency"
+          ],
+          correctAnswer: "No one living is righteous before You; my spirit within me is numb"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 144 declares 'Blessed be Jehovah my rock, who trains my hands for war.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Psalm 144 ask about humans?",
+          options: [
+            "That they are supreme",
+            "O Jehovah, what is man that You notice him? Mortal man that You think of him?",
+            "That they deserve everything",
+            "That they are gods"
+          ],
+          correctAnswer: "O Jehovah, what is man that You notice him? Mortal man that You think of him?"
+        }
+      ]
+    }
+  },
+  {
+    day: 198,
+    passage: "Psalms 145–150",
+    focus: "Final psalms of praise; extol God's greatness; Jehovah watches over all who love Him; praise Him with everything; let everything that breathes praise Jah",
+    quiz: {
+      title: "📘 Psalms 145–150 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Psalm 145 declare about God's kingdom?",
+          options: [
+            "That it is temporary",
+            "Your kingdom is a kingdom for all times; Your dominion is throughout all generations",
+            "That it has ended",
+            "That it is limited"
+          ],
+          correctAnswer: "Your kingdom is a kingdom for all times; Your dominion is throughout all generations"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Psalm 145 says Jehovah is gracious, merciful, slow to anger, and great in loving-kindness.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Psalm 145 say Jehovah does for those who call on Him?",
+          correctAnswer: "He is near to all who call on Him in truth; He hears their cry and saves them"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Psalm 146 warn against?",
+          options: [
+            "Trusting in God",
+            "Trusting in princes or mortal man, in whom there is no salvation",
+            "Praising God",
+            "Prayer"
+          ],
+          correctAnswer: "Trusting in princes or mortal man, in whom there is no salvation"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Psalm 147 says God heals the brokenhearted and binds up their wounds.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Psalm 147 say about God's understanding?",
+          options: [
+            "It is limited",
+            "His understanding is beyond measure",
+            "It doesn't exist",
+            "Humans surpass it"
+          ],
+          correctAnswer: "His understanding is beyond measure"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Psalm 148 call everything in creation to do?",
+          correctAnswer: "Praise Jehovah (the heavens, earth, creatures, elements, and all peoples)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Psalm 149 say God takes pleasure in?",
+          options: [
+            "The wicked",
+            "His people; He beautifies the meek with salvation",
+            "Violence",
+            "Pride"
+          ],
+          correctAnswer: "His people; He beautifies the meek with salvation"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Psalm 150 calls for praising God with trumpet, harp, strings, pipe, cymbals, and dancing.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does the entire book of Psalms end?",
+          options: [
+            "With silence",
+            "Let everything that breathes praise Jah! Praise Jah!",
+            "With a question",
+            "With doubt"
+          ],
+          correctAnswer: "Let everything that breathes praise Jah! Praise Jah!"
+        }
+      ]
+    }
+  },
+  {
+    day: 199,
+    passage: "Proverbs 1–4",
+    focus: "Purpose of Proverbs; fear of Jehovah is the beginning of knowledge; warnings against bad associates; wisdom's call; get wisdom above all",
+    quiz: {
+      title: "📘 Proverbs 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is stated as the beginning of knowledge in Proverbs 1?",
+          options: [
+            "Human experience",
+            "The fear of Jehovah",
+            "Formal education",
+            "Wealth"
+          ],
+          correctAnswer: "The fear of Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 1 warns against joining those who ambush the innocent for unjust gain.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Wisdom cry aloud in Proverbs 1?",
+          correctAnswer: "In the public squares and at the city gates, calling the simple ones to turn to her reproof"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Proverbs 2 promise to those who seek wisdom?",
+          options: [
+            "Nothing",
+            "Understanding of the fear of Jehovah; knowledge of God; protection in your way",
+            "Only wealth",
+            "Fame"
+          ],
+          correctAnswer: "Understanding of the fear of Jehovah; knowledge of God; protection in your way"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 3 says 'Trust in Jehovah with all your heart, and do not rely on your own understanding.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 3 say about discipline?",
+          options: [
+            "It should be rejected",
+            "Do not reject the discipline of Jehovah; He reproves those He loves",
+            "It is harmful",
+            "It shows God doesn't care"
+          ],
+          correctAnswer: "Do not reject the discipline of Jehovah; He reproves those He loves"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "According to Proverbs 3, what is more precious than coral and cannot be compared to anything you desire?",
+          correctAnswer: "Wisdom"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What instruction does a father give in Proverbs 4?",
+          options: [
+            "Forget what I taught you",
+            "Get wisdom, get understanding; do not forget; acquire wisdom above all",
+            "Wisdom is worthless",
+            "Only seek wealth"
+          ],
+          correctAnswer: "Get wisdom, get understanding; do not forget; acquire wisdom above all"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 4 says the path of the righteous is like bright light that grows brighter until full daylight.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 4 say to guard?",
+          options: [
+            "Your wealth only",
+            "Your heart above all, for out of it are the sources of life",
+            "Your reputation only",
+            "Nothing important"
+          ],
+          correctAnswer: "Your heart above all, for out of it are the sources of life"
+        }
+      ]
+    }
+  },
+  {
+    day: 200,
+    passage: "Proverbs 5–8",
+    focus: "Warning against adultery; avoid the strange woman; ants teach diligence; things Jehovah hates; wisdom's value and her call",
+    quiz: {
+      title: "📘 Proverbs 5–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 5 warn against?",
+          options: [
+            "Hard work",
+            "The adulteress woman whose lips drip honey but her end is bitter as wormwood",
+            "Knowledge",
+            "Family"
+          ],
+          correctAnswer: "The adulteress woman whose lips drip honey but her end is bitter as wormwood"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 5 encourages rejoicing with the wife of one's youth.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 6 tell the sluggard to observe?",
+          correctAnswer: "The ant and its ways; become wise"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How many things does Jehovah hate according to Proverbs 6?",
+          options: [
+            "Three",
+            "Six things, yes seven are detestable to Him",
+            "Ten",
+            "Twelve"
+          ],
+          correctAnswer: "Six things, yes seven are detestable to Him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 6 includes haughty eyes, a lying tongue, and hands that shed innocent blood among things God hates.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 7 describe?",
+          options: [
+            "A wise investment",
+            "A foolish young man seduced by an adulteress, going like an ox to the slaughter",
+            "A successful business",
+            "Building a house"
+          ],
+          correctAnswer: "A foolish young man seduced by an adulteress, going like an ox to the slaughter"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "In Proverbs 8, who calls out at the heights along the road and at the crossroads?",
+          correctAnswer: "Wisdom"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Wisdom say about herself in Proverbs 8?",
+          options: [
+            "She is worthless",
+            "Jehovah produced me as the beginning of His way; I was beside Him as a master worker",
+            "She came recently",
+            "She is inferior to gold"
+          ],
+          correctAnswer: "Jehovah produced me as the beginning of His way; I was beside Him as a master worker"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 8 says the one who finds wisdom finds life and obtains favor from Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 8 say wisdom is better than?",
+          options: [
+            "Nothing",
+            "Coral, gold, and all other delights",
+            "Only silver",
+            "Common knowledge"
+          ],
+          correctAnswer: "Coral, gold, and all other delights"
+        }
+      ]
+    }
+  },
+  {
+    day: 201,
+    passage: "Proverbs 9–12",
+    focus: "Wisdom versus folly; proverbs of Solomon begin; the wise son; righteous and wicked contrasts; integrity and conduct",
+    quiz: {
+      title: "📘 Proverbs 9–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What has Wisdom done in Proverbs 9?",
+          options: [
+            "Built a simple shelter",
+            "Built her house with seven pillars and prepared a feast",
+            "Done nothing",
+            "Hidden away"
+          ],
+          correctAnswer: "Built her house with seven pillars and prepared a feast"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 9 says 'The fear of Jehovah is the beginning of wisdom.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the foolish woman in Proverbs 9 not know?",
+          correctAnswer: "That those accepting her invitation are in the depths of the Grave (or that death is there)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Proverbs 10 say about a wise son?",
+          options: [
+            "He brings shame",
+            "A wise son makes a father rejoice, but a foolish son is his mother's grief",
+            "He is always rebellious",
+            "He needs no instruction"
+          ],
+          correctAnswer: "A wise son makes a father rejoice, but a foolish son is his mother's grief"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 10 says hatred stirs up conflicts, but love covers over all transgressions.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 11 say about dishonest scales?",
+          options: [
+            "They are acceptable",
+            "Dishonest scales are detestable to Jehovah, but an accurate weight pleases Him",
+            "They don't matter",
+            "Only merchants should care"
+          ],
+          correctAnswer: "Dishonest scales are detestable to Jehovah, but an accurate weight pleases Him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Proverbs 11 say the one who trusts in riches will do?",
+          correctAnswer: "Fall (but the righteous will flourish like foliage)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Proverbs 12 say about the words of the wicked versus the righteous?",
+          options: [
+            "They are the same",
+            "The words of the wicked are a deadly ambush, but the mouth of the upright rescues them",
+            "Words don't matter",
+            "Only actions count"
+          ],
+          correctAnswer: "The words of the wicked are a deadly ambush, but the mouth of the upright rescues them"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 12 says 'The one walking in integrity will walk in security.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "According to Proverbs 12, what does the righteous care about?",
+          options: [
+            "Only himself",
+            "The life of his domestic animal, but the mercy of the wicked is cruel",
+            "Nothing",
+            "Only profit"
+          ],
+          correctAnswer: "The life of his domestic animal, but the mercy of the wicked is cruel"
+        }
+      ]
+    }
+  },
+  {
+    day: 202,
+    passage: "Proverbs 13–16",
+    focus: "Wise son accepts discipline; guards his mouth; plans of the diligent lead to profit; soft answer turns away rage; better is little with fear of Jehovah",
+    quiz: {
+      title: "📘 Proverbs 13–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 13 say about discipline?",
+          options: [
+            "It should be avoided",
+            "A wise son accepts his father's discipline, but a scoffer does not listen to rebuke",
+            "It is harmful",
+            "Only for children"
+          ],
+          correctAnswer: "A wise son accepts his father's discipline, but a scoffer does not listen to rebuke"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 13 says 'The one guarding his mouth protects his life.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 13 say about hoping deferred?",
+          correctAnswer: "Hope deferred makes the heart sick, but a desire fulfilled is a tree of life"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Proverbs 14, what is the beginning of wisdom?",
+          options: [
+            "Wealth",
+            "The fear of Jehovah",
+            "Age",
+            "Education"
+          ],
+          correctAnswer: "The fear of Jehovah"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 14 says 'The one showing favor to the poor is lending to Jehovah.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 15 say about a gentle answer?",
+          options: [
+            "It accomplishes nothing",
+            "A gentle answer turns away rage, but a harsh word stirs up anger",
+            "It shows weakness",
+            "It's always wrong"
+          ],
+          correctAnswer: "A gentle answer turns away rage, but a harsh word stirs up anger"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "According to Proverbs 15, what is Jehovah's eyes doing?",
+          correctAnswer: "They are everywhere, watching both the bad and the good"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Proverbs 15 say is better than great treasure?",
+          options: [
+            "More treasure",
+            "Better is a little with the fear of Jehovah than great treasure with confusion",
+            "Fame",
+            "Power"
+          ],
+          correctAnswer: "Better is a little with the fear of Jehovah than great treasure with confusion"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 16 says 'All the ways of a man are pure in his own eyes, but Jehovah examines the motives.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 16 say about pride?",
+          options: [
+            "It is good",
+            "Pride is before a crash, and a haughty spirit before stumbling",
+            "It helps success",
+            "It doesn't matter"
+          ],
+          correctAnswer: "Pride is before a crash, and a haughty spirit before stumbling"
+        }
+      ]
+    }
+  },
+  {
+    day: 203,
+    passage: "Proverbs 17–19",
+    focus: "Better a dry crust with peace; the refining pot tests silver; a friend loves at all times; a man's gift opens the way; wine is a mocker",
+    quiz: {
+      title: "📘 Proverbs 17–19 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 17 say is better than a house full of feasting with quarreling?",
+          options: [
+            "More feasting",
+            "Better is a dry crust with peace",
+            "Silence",
+            "Wealth"
+          ],
+          correctAnswer: "Better is a dry crust with peace"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 17 says 'A friend loves at all times, and a brother is born for times of distress.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 17 say tests silver and gold?",
+          correctAnswer: "The refining pot is for silver and the furnace for gold, but Jehovah tests hearts"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Proverbs 17, what kind of person does not prosper?",
+          options: [
+            "The generous",
+            "The one with a crooked heart and the one whose tongue is deceitful",
+            "The humble",
+            "The diligent"
+          ],
+          correctAnswer: "The one with a crooked heart and the one whose tongue is deceitful"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 18 says 'Death and life are in the power of the tongue.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 18 say about Jehovah's name?",
+          options: [
+            "It is weak",
+            "The name of Jehovah is a strong tower; the righteous runs into it and receives protection",
+            "It should not be mentioned",
+            "It has no power"
+          ],
+          correctAnswer: "The name of Jehovah is a strong tower; the righteous runs into it and receives protection"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Proverbs 18 say about a man's gift?",
+          correctAnswer: "A man's gift opens the way for him and leads him before great men"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Proverbs 19, what is a man's insight?",
+          options: [
+            "Meaningless",
+            "A man's insight slows down his anger, and it is beauty on his part to overlook an offense",
+            "Always leads to conflict",
+            "Should be ignored"
+          ],
+          correctAnswer: "A man's insight slows down his anger, and it is beauty on his part to overlook an offense"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 19 says 'The one showing favor to the lowly is lending to Jehovah, and He will repay him.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 19 say about wine?",
+          options: [
+            "It is always good",
+            "Wine is a mocker, and alcohol is unruly; whoever goes astray by it is not wise",
+            "Everyone should drink it",
+            "It has no effects"
+          ],
+          correctAnswer: "Wine is a mocker, and alcohol is unruly; whoever goes astray by it is not wise"
+        }
+      ]
+    }
+  },
+  {
+    day: 204,
+    passage: "Proverbs 20–22",
+    focus: "The king's heart is in Jehovah's hand; every way of a man is right in his own eyes; train a child; the rich rule the poor; the borrower is servant to the lender",
+    quiz: {
+      title: "📘 Proverbs 20–22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 20 say about wine and alcohol?",
+          options: [
+            "They bring wisdom",
+            "Wine is a mocker, and alcohol is unruly; everyone led astray by them is not wise",
+            "They are always beneficial",
+            "They have no effect"
+          ],
+          correctAnswer: "Wine is a mocker, and alcohol is unruly; everyone led astray by them is not wise"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 20 says 'The plans of the diligent surely lead to success.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 20 say about a person's spirit?",
+          correctAnswer: "The spirit of man is the lamp of Jehovah, searching all the innermost parts"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Proverbs 21 say about the king's heart?",
+          options: [
+            "It is unchangeable",
+            "The king's heart is like streams of water in Jehovah's hand; He directs it wherever He pleases",
+            "It is independent of God",
+            "Kings have no accountability"
+          ],
+          correctAnswer: "The king's heart is like streams of water in Jehovah's hand; He directs it wherever He pleases"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 21 says 'Every way of a man is right in his own eyes, but Jehovah examines the hearts.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 21 say is better than sacrifice?",
+          options: [
+            "More sacrifices",
+            "To do what is right and just is more acceptable to Jehovah than sacrifice",
+            "Wealth",
+            "Fame"
+          ],
+          correctAnswer: "To do what is right and just is more acceptable to Jehovah than sacrifice"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What famous instruction about children is in Proverbs 22?",
+          correctAnswer: "Train a child in the way he should go; even when he grows old he will not depart from it"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Proverbs 22 say about the rich and poor?",
+          options: [
+            "They are equal in power",
+            "The rich rule over the poor, and the borrower is servant to the lender",
+            "The poor rule the rich",
+            "Wealth doesn't matter"
+          ],
+          correctAnswer: "The rich rule over the poor, and the borrower is servant to the lender"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 22 says 'A good name is to be chosen over great riches.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "According to Proverbs 22, what should not be moved?",
+          options: [
+            "Your house",
+            "The ancient boundary marker that your forefathers set",
+            "Your furniture",
+            "Nothing is permanent"
+          ],
+          correctAnswer: "The ancient boundary marker that your forefathers set"
+        }
+      ]
+    }
+  },
+  {
+    day: 205,
+    passage: "Proverbs 23–27",
+    focus: "Do not eat the bread of a stingy man; buy truth; the glory of God conceals a matter; like apples of gold in silver carvings",
+    quiz: {
+      title: "📘 Proverbs 23–27 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 23 warn about?",
+          options: [
+            "Being too generous",
+            "Do not eat the bread of a stingy man; do not desire his delicacies",
+            "Working too little",
+            "Having too few possessions"
+          ],
+          correctAnswer: "Do not eat the bread of a stingy man; do not desire his delicacies"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 23 says 'Buy truth and do not sell it—also wisdom, discipline, and understanding.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 24 say about the righteous falling?",
+          correctAnswer: "The righteous may fall seven times, but he will get up; but the wicked will stumble into calamity"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Proverbs 25 say conceals a matter?",
+          options: [
+            "Human wisdom",
+            "The glory of God conceals a matter, but the glory of kings is to search it out",
+            "Ignorance",
+            "Wealth"
+          ],
+          correctAnswer: "The glory of God conceals a matter, but the glory of kings is to search it out"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 25 says 'A word spoken at the right time is like apples of gold in silver carvings.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "According to Proverbs 25, what should you do to your enemy?",
+          options: [
+            "Seek revenge",
+            "If your enemy is hungry, feed him; if thirsty, give him water to drink",
+            "Ignore him completely",
+            "Attack him"
+          ],
+          correctAnswer: "If your enemy is hungry, feed him; if thirsty, give him water to drink"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Proverbs 26 say about a fool and his folly?",
+          correctAnswer: "Like a dog returning to its vomit, the fool repeats his folly"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Proverbs 27 say about boasting?",
+          options: [
+            "Boast freely",
+            "Do not boast about tomorrow, for you do not know what a day may bring",
+            "Always talk about your plans",
+            "Boasting shows strength"
+          ],
+          correctAnswer: "Do not boast about tomorrow, for you do not know what a day may bring"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 27 says 'Faithful are the wounds of a friend, but the kisses of an enemy are profuse.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 27 say about iron?",
+          options: [
+            "It is worthless",
+            "Iron sharpens iron; so one man sharpens his friend",
+            "It never changes",
+            "Only weapons matter"
+          ],
+          correctAnswer: "Iron sharpens iron; so one man sharpens his friend"
+        }
+      ]
+    }
+  },
+  {
+    day: 206,
+    passage: "Proverbs 28–31",
+    focus: "The wicked flee when no one pursues; he who conceals his sins will not succeed; the virtuous woman—her worth far above coral",
+    quiz: {
+      title: "📘 Proverbs 28–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Proverbs 28 say about the wicked?",
+          options: [
+            "They are always brave",
+            "The wicked flee when no one is pursuing, but the righteous are as bold as a lion",
+            "They never fear",
+            "They are stronger than the righteous"
+          ],
+          correctAnswer: "The wicked flee when no one is pursuing, but the righteous are as bold as a lion"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Proverbs 28 says 'The one covering over his transgressions will not succeed, but whoever confesses and abandons them will be shown mercy.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Proverbs 28 say about those who trust in their own heart?",
+          correctAnswer: "The one trusting in his own heart is stupid (or foolish), but the one walking in wisdom will escape"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Proverbs 29, what happens when the wicked increase?",
+          options: [
+            "Righteousness increases",
+            "Transgression increases, but the righteous will see their downfall",
+            "Peace comes",
+            "Nothing changes"
+          ],
+          correctAnswer: "Transgression increases, but the righteous will see their downfall"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Proverbs 29 says 'Where there is no vision, the people go unrestrained.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Proverbs 30 ask not to be given?",
+          options: [
+            "Wisdom",
+            "Give me neither poverty nor riches; let me devour my prescribed food",
+            "Long life",
+            "Children"
+          ],
+          correctAnswer: "Give me neither poverty nor riches; let me devour my prescribed food"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What four things does Proverbs 30 say are small but wise?",
+          correctAnswer: "Ants, rock badgers, locusts, and lizards (any or all acceptable)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Proverbs 31 describe the virtuous woman?",
+          options: [
+            "As lazy and worthless",
+            "Her worth is far above corals; she is industrious, wise, kind, and fears Jehovah",
+            "As merely beautiful",
+            "As weak"
+          ],
+          correctAnswer: "Her worth is far above corals; she is industrious, wise, kind, and fears Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Proverbs 31 says the virtuous woman rises while it is still night to give food to her household.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Proverbs 31 say about charm and beauty?",
+          options: [
+            "They are everything",
+            "Charm is deceptive and beauty is fleeting, but the woman who fears Jehovah will be praised",
+            "They guarantee success",
+            "They are most important"
+          ],
+          correctAnswer: "Charm is deceptive and beauty is fleeting, but the woman who fears Jehovah will be praised"
+        }
+      ]
+    }
+  },
+  {
+    day: 207,
+    passage: "Ecclesiastes 1–4",
+    focus: "Vanity of vanities; nothing new under the sun; time for everything; two are better than one; oppression observed",
+    quiz: {
+      title: "📘 Ecclesiastes 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the opening declaration of Ecclesiastes?",
+          options: [
+            "All is wonderful",
+            "Vanity of vanities! Everything is futile",
+            "Life is always fair",
+            "Wisdom solves everything"
+          ],
+          correctAnswer: "Vanity of vanities! Everything is futile"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ecclesiastes 1 says 'There is nothing new under the sun.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does the Teacher (Qoheleth) say about increasing knowledge?",
+          correctAnswer: "In much wisdom is much frustration; whoever increases knowledge increases pain"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did the Teacher test in Ecclesiastes 2?",
+          options: [
+            "Only hard work",
+            "Pleasure, wine, folly, wisdom, toil, and great projects",
+            "Only meditation",
+            "Only fasting"
+          ],
+          correctAnswer: "Pleasure, wine, folly, wisdom, toil, and great projects"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Ecclesiastes 3 says 'There is an appointed time for everything, and a time for every activity under the heavens.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 3 say God has put in man's heart?",
+          options: [
+            "Perfect understanding",
+            "Eternity (or a sense of time past and future), yet man cannot fathom God's work",
+            "Complete knowledge",
+            "No awareness"
+          ],
+          correctAnswer: "Eternity (or a sense of time past and future), yet man cannot fathom God's work"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Ecclesiastes 4 say is better than one?",
+          correctAnswer: "Two are better than one"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What benefit does Ecclesiastes 4 give for two working together?",
+          options: [
+            "None",
+            "They have good reward for their toil; if one falls, the other can lift him up",
+            "Only competition",
+            "Conflict"
+          ],
+          correctAnswer: "They have good reward for their toil; if one falls, the other can lift him up"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ecclesiastes 4 says 'A threefold cord is not quickly broken.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What oppression does Ecclesiastes 4 observe?",
+          options: [
+            "None exists",
+            "The tears of the oppressed with no one to comfort them; power on the side of oppressors",
+            "Everything is fair",
+            "Only minor issues"
+          ],
+          correctAnswer: "The tears of the oppressed with no one to comfort them; power on the side of oppressors"
+        }
+      ]
+    }
+  },
+  {
+    day: 208,
+    passage: "Ecclesiastes 5–8",
+    focus: "Guard your steps at God's house; the lover of money never satisfied; enjoy God's gift; no one knows the future; wisdom brightens the face",
+    quiz: {
+      title: "📘 Ecclesiastes 5–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 5 say about going to God's house?",
+          options: [
+            "Go carelessly",
+            "Guard your steps; draw near to listen rather than offer the sacrifice of fools",
+            "Never go",
+            "Only go when convenient"
+          ],
+          correctAnswer: "Guard your steps; draw near to listen rather than offer the sacrifice of fools"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ecclesiastes 5 says 'The one who loves money will never be satisfied with money.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Ecclesiastes 5 say about vows?",
+          correctAnswer: "When you make a vow to God, do not delay to pay it; it is better not to vow than to vow and not pay"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Ecclesiastes 6, what is futile?",
+          options: [
+            "Nothing",
+            "A man having wealth but no ability to enjoy it; a stillborn child is better off",
+            "Hard work",
+            "Relationships"
+          ],
+          correctAnswer: "A man having wealth but no ability to enjoy it; a stillborn child is better off"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Ecclesiastes 7 says 'A good name is better than good oil, and the day of death than the day of birth.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 7 say is better than laughter?",
+          options: [
+            "More laughter",
+            "Sorrow is better than laughter, for by sadness of face the heart is made better",
+            "Nothing",
+            "Pleasure"
+          ],
+          correctAnswer: "Sorrow is better than laughter, for by sadness of face the heart is made better"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Ecclesiastes 7 warn against?",
+          correctAnswer: "Do not be excessively wicked or excessively righteous; do not be overly foolish (or be balanced)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 8 say about the king's command?",
+          options: [
+            "Ignore it",
+            "Obey the king's command because of your sacred oath to God",
+            "Always rebel",
+            "Kings have no authority"
+          ],
+          correctAnswer: "Obey the king's command because of your sacred oath to God"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ecclesiastes 8 observes that sometimes the wicked receive what the righteous deserve and vice versa.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 8 say wisdom does?",
+          options: [
+            "Nothing",
+            "Wisdom brightens a man's face and changes the sternness of his face",
+            "Makes you arrogant",
+            "Brings only sorrow"
+          ],
+          correctAnswer: "Wisdom brightens a man's face and changes the sternness of his face"
+        }
+      ]
+    }
+  },
+  {
+    day: 209,
+    passage: "Ecclesiastes 9–12",
+    focus: "The living know they will die; enjoy life; cast your bread on the waters; remember your Creator in youth; fear God and keep His commandments",
+    quiz: {
+      title: "📘 Ecclesiastes 9–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 9 say is the same for everyone?",
+          options: [
+            "Success",
+            "One eventuality (death) for the righteous and wicked, good and bad",
+            "Wealth",
+            "Fame"
+          ],
+          correctAnswer: "One eventuality (death) for the righteous and wicked, good and bad"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ecclesiastes 9 says 'The living know that they will die, but the dead know nothing at all.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Ecclesiastes 9 encourage regarding life?",
+          correctAnswer: "Enjoy life with your wife; whatever your hand finds to do, do it with all your might"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 9 say about the race?",
+          options: [
+            "The swift always win",
+            "The swift do not always win the race, nor the mighty the battle; time and unexpected events overtake them all",
+            "Skill doesn't matter",
+            "Everyone finishes equally"
+          ],
+          correctAnswer: "The swift do not always win the race, nor the mighty the battle; time and unexpected events overtake them all"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Ecclesiastes 10 says 'Dead flies make the perfumer's oil stink; a little folly outweighs wisdom and glory.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 11 say to do with your bread?",
+          options: [
+            "Hoard it all",
+            "Cast your bread on the waters, for you will find it after many days",
+            "Never share",
+            "Only eat it yourself"
+          ],
+          correctAnswer: "Cast your bread on the waters, for you will find it after many days"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Ecclesiastes 11 say about the way of the spirit?",
+          correctAnswer: "You do not know the way of the spirit or how bones form in the womb; you cannot understand God's work"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Ecclesiastes 12 urge young people to do?",
+          options: [
+            "Forget God until old",
+            "Remember your Grand Creator in the days of your youth, before the distressing days come",
+            "Only enjoy pleasure",
+            "Wait until later"
+          ],
+          correctAnswer: "Remember your Grand Creator in the days of your youth, before the distressing days come"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ecclesiastes 12 describes old age poetically with images of decline and decay.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What is the conclusion of the whole matter in Ecclesiastes 12?",
+          options: [
+            "There is no conclusion",
+            "Fear the true God and keep His commandments, for this is the whole obligation of man",
+            "Do whatever you want",
+            "Life has no meaning"
+          ],
+          correctAnswer: "Fear the true God and keep His commandments, for this is the whole obligation of man"
+        }
+      ]
+    }
+  },
+  {
+    day: 210,
+    passage: "Song of Solomon 1–8",
+    focus: "Love poetry between bride and groom; descriptions of beauty; love is strong as death; many waters cannot extinguish love",
+    quiz: {
+      title: "📘 Song of Solomon 1–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does the Song of Solomon begin?",
+          options: [
+            "With mourning",
+            "Let him kiss me with the kisses of his mouth",
+            "With judgment",
+            "With war"
+          ],
+          correctAnswer: "Let him kiss me with the kisses of his mouth"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The Song of Solomon is poetic literature celebrating romantic love between a man and woman.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How does the bride describe herself?",
+          correctAnswer: "I am dark but lovely (or beautiful), like the tents of Kedar"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does the groom compare his bride to?",
+          options: [
+            "Only common things",
+            "A mare among Pharaoh's chariots, a lily among thorns, various beautiful images",
+            "Nothing",
+            "Only wealth"
+          ],
+          correctAnswer: "A mare among Pharaoh's chariots, a lily among thorns, various beautiful images"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Song contains the refrain 'Do not arouse or awaken love until it pleases.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does the bride say about her beloved?",
+          options: [
+            "He is ordinary",
+            "My beloved is mine and I am his; he is altogether desirable",
+            "She doesn't care",
+            "He is weak"
+          ],
+          correctAnswer: "My beloved is mine and I am his; he is altogether desirable"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the Song say love is as strong as?",
+          correctAnswer: "Death (love is as strong as death; passionate love is as unyielding as the Grave)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does the Song say about trying to buy love?",
+          options: [
+            "It works well",
+            "If a man offered all his wealth for love, it would be utterly scorned",
+            "Money guarantees love",
+            "Love can be purchased"
+          ],
+          correctAnswer: "If a man offered all his wealth for love, it would be utterly scorned"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The Song says 'Many waters cannot extinguish love, nor can rivers wash it away.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How is the Song of Solomon interpreted?",
+          options: [
+            "Only one way",
+            "As celebrating marital love, and by some as symbolic of God's love for His people or Christ and the church",
+            "As condemning love",
+            "As having no meaning"
+          ],
+          correctAnswer: "As celebrating marital love, and by some as symbolic of God's love for His people or Christ and the church"
+        }
+      ]
+    }
+  },
+  {
+    day: 211,
+    passage: "Isaiah 1–4",
+    focus: "Judah's rebellion; though sins are scarlet, they can become white as snow; Jerusalem to be purified; Branch of Jehovah will be beautiful",
+    quiz: {
+      title: "📘 Isaiah 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does Isaiah describe Judah in chapter 1?",
+          options: [
+            "As perfectly righteous",
+            "As a sinful nation, people weighed down with error, children acting corruptly",
+            "As without problems",
+            "As superior to all nations"
+          ],
+          correctAnswer: "As a sinful nation, people weighed down with error, children acting corruptly"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 1 says God is tired of their meaningless sacrifices and detests their festivals.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What famous offer does God make in Isaiah 1?",
+          correctAnswer: "Though your sins are like scarlet, they will be white as snow; though red like crimson, they will be like wool"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 2 prophesy about the mountain of Jehovah's house?",
+          options: [
+            "It will be destroyed",
+            "It will be firmly established above the mountains; all nations will stream to it",
+            "It will remain hidden",
+            "Only Israel will see it"
+          ],
+          correctAnswer: "It will be firmly established above the mountains; all nations will stream to it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 2 prophesies 'They will beat their swords into plowshares and their spears into pruning shears.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 3 warn will happen?",
+          options: [
+            "Prosperity for all",
+            "Jerusalem will stumble and Judah fall; children will be their princes and oppression will rule",
+            "Immediate peace",
+            "No consequences"
+          ],
+          correctAnswer: "Jerusalem will stumble and Judah fall; children will be their princes and oppression will rule"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 3 condemn about the women of Zion?",
+          correctAnswer: "Their haughtiness, ornaments, and pride (walking with their heads held high)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 4 say about the Branch of Jehovah?",
+          options: [
+            "It will be ugly",
+            "The Branch of Jehovah will become beautiful and glorious for the survivors of Israel",
+            "It will never appear",
+            "It will fail"
+          ],
+          correctAnswer: "The Branch of Jehovah will become beautiful and glorious for the survivors of Israel"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 4 promises that those remaining in Zion will be called holy.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What will Jehovah create over Mount Zion according to Isaiah 4?",
+          options: [
+            "Nothing",
+            "A cloud by day and smoke and a flaming fire by night as a shelter",
+            "Only darkness",
+            "A physical building"
+          ],
+          correctAnswer: "A cloud by day and smoke and a flaming fire by night as a shelter"
+        }
+      ]
+    }
+  },
+  {
+    day: 212,
+    passage: "Isaiah 5–7",
+    focus: "Song of the vineyard; woe to the wicked; Isaiah's vision and commission; Immanuel prophecy; the sign of a virgin",
+    quiz: {
+      title: "📘 Isaiah 5–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the song about in Isaiah 5?",
+          options: [
+            "A battle",
+            "A vineyard that produced wild grapes instead of good grapes",
+            "A wedding",
+            "A journey"
+          ],
+          correctAnswer: "A vineyard that produced wild grapes instead of good grapes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 5 pronounces woes on those who call evil good and good evil.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 5 say about those who are wise in their own eyes?",
+          correctAnswer: "Woe to those wise in their own eyes and discreet in their own sight"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Isaiah see in his vision in chapter 6?",
+          options: [
+            "Nothing",
+            "Jehovah sitting on a high throne with seraphim calling 'Holy, holy, holy is Jehovah'",
+            "Only darkness",
+            "A simple room"
+          ],
+          correctAnswer: "Jehovah sitting on a high throne with seraphim calling 'Holy, holy, holy is Jehovah'"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah said 'Woe to me! I am as good as dead, for I am a man of unclean lips.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How was Isaiah cleansed in his vision?",
+          options: [
+            "With water",
+            "A seraph touched his lips with a hot coal from the altar",
+            "He was not cleansed",
+            "Through sacrifice alone"
+          ],
+          correctAnswer: "A seraph touched his lips with a hot coal from the altar"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was Isaiah's response when asked 'Whom shall I send?'",
+          correctAnswer: "Here I am! Send me!"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What sign did Isaiah give to King Ahaz in chapter 7?",
+          options: [
+            "A military victory",
+            "The virgin will become pregnant and give birth to a son, and she will name him Immanuel",
+            "Immediate wealth",
+            "No sign was given"
+          ],
+          correctAnswer: "The virgin will become pregnant and give birth to a son, and she will name him Immanuel"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The name Immanuel means 'God is with us.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was Ahaz's problem that led to this prophecy?",
+          options: [
+            "He had no problems",
+            "Syria and Israel conspired against Judah and he was afraid",
+            "He was too confident",
+            "He wanted more territory"
+          ],
+          correctAnswer: "Syria and Israel conspired against Judah and he was afraid"
+        }
+      ]
+    }
+  },
+  {
+    day: 213,
+    passage: "Isaiah 8–10",
+    focus: "Assyria will overflow Judah; a child is born—Prince of Peace; God's anger against Israel; woe to Assyria, rod of God's anger",
+    quiz: {
+      title: "📘 Isaiah 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 8 warn will overflow Judah?",
+          options: [
+            "Blessings",
+            "The king of Assyria will overflow all his stream beds and sweep on into Judah",
+            "Rain only",
+            "Nothing"
+          ],
+          correctAnswer: "The king of Assyria will overflow all his stream beds and sweep on into Judah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 8 says 'To the law and to the testimony! If they do not speak according to this word, they have no light of dawn.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 8 say to do with God's message?",
+          correctAnswer: "Bind up the testimony; seal the law among my disciples (or wait for Jehovah)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What famous prophecy is in Isaiah 9?",
+          options: [
+            "Of destruction only",
+            "A child is born to us; his name will be Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace",
+            "Of famine",
+            "Of exile"
+          ],
+          correctAnswer: "A child is born to us; his name will be Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 9 says the people walking in darkness have seen a great light.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 9 say about the government?",
+          options: [
+            "It will fail",
+            "The government will rest on his shoulder and there will be no end to peace",
+            "It will be temporary",
+            "It will be weak"
+          ],
+          correctAnswer: "The government will rest on his shoulder and there will be no end to peace"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 9 say about God's anger against Israel?",
+          correctAnswer: "His hand is still stretched out (in anger); His anger has not turned back"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Isaiah 10 describe Assyria?",
+          options: [
+            "As God's friend",
+            "Woe to Assyria, the rod of My anger; I send him against a godless nation",
+            "As innocent",
+            "As weak"
+          ],
+          correctAnswer: "Woe to Assyria, the rod of My anger; I send him against a godless nation"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 10 says a remnant will return and rely on Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Isaiah 10 pronounce on those who enact harmful regulations?",
+          options: [
+            "Blessing",
+            "Woe to those making harmful regulations to deny justice to the poor",
+            "Praise",
+            "Nothing"
+          ],
+          correctAnswer: "Woe to those making harmful regulations to deny justice to the poor"
+        }
+      ]
+    }
+  },
+  {
+    day: 214,
+    passage: "Isaiah 11–14",
+    focus: "A sprout from Jesse; wolf dwells with lamb; thanksgiving for salvation; proclamation against Babylon; How the shining one has fallen!",
+    quiz: {
+      title: "📘 Isaiah 11–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What will come out from the stump of Jesse according to Isaiah 11?",
+          options: [
+            "Nothing",
+            "A sprout, and a twig will bear fruit; the spirit of Jehovah will settle on him",
+            "Only leaves",
+            "Death"
+          ],
+          correctAnswer: "A sprout, and a twig will bear fruit; the spirit of Jehovah will settle on him"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 11 prophesies that the wolf will dwell with the lamb and the leopard lie down with the kid.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will fill the earth according to Isaiah 11?",
+          correctAnswer: "The earth will be filled with the knowledge of Jehovah as the waters cover the sea"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 12 encourage?",
+          options: [
+            "Despair",
+            "Give thanks to Jehovah; He has become my salvation; draw water from the springs of salvation",
+            "Complaints",
+            "Fear"
+          ],
+          correctAnswer: "Give thanks to Jehovah; He has become my salvation; draw water from the springs of salvation"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 13-14 contains a proclamation against Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 13 describe about the day of Jehovah?",
+          options: [
+            "It will be pleasant",
+            "It is coming as a destruction from the Almighty; a cruel day with fury and burning anger",
+            "It will never come",
+            "It is only symbolic"
+          ],
+          correctAnswer: "It is coming as a destruction from the Almighty; a cruel day with fury and burning anger"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 14 say about the king of Babylon?",
+          correctAnswer: "How the oppressor has ceased! How you have fallen from heaven, O shining one (or morning star)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did the shining one say in his heart in Isaiah 14?",
+          options: [
+            "I will serve humbly",
+            "I will ascend above the stars; I will make myself like the Most High",
+            "I will obey",
+            "I am nothing"
+          ],
+          correctAnswer: "I will ascend above the stars; I will make myself like the Most High"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 14 says Jehovah will break the Assyrian in His land and trample him on His mountains.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What comfort does Isaiah 14 give Israel?",
+          options: [
+            "None",
+            "Jehovah will have mercy on Jacob and choose Israel again; He will settle them on their land",
+            "They are abandoned",
+            "They will be destroyed"
+          ],
+          correctAnswer: "Jehovah will have mercy on Jacob and choose Israel again; He will settle them on their land"
+        }
+      ]
+    }
+  },
+  {
+    day: 215,
+    passage: "Isaiah 15–19",
+    focus: "Pronouncements against Moab, Damascus, Ethiopia, and Egypt; Egypt will know Jehovah and worship Him",
+    quiz: {
+      title: "📘 Isaiah 15–19 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What is the pronouncement in Isaiah 15-16 against?",
+          options: [
+            "Israel",
+            "Moab, describing its destruction and mourning",
+            "Babylon",
+            "Persia"
+          ],
+          correctAnswer: "Moab, describing its destruction and mourning"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 16 says the pride of Moab is very great—his haughtiness, pride, and fury.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will happen to Damascus according to Isaiah 17?",
+          correctAnswer: "It will cease to be a city and become a heap of ruins"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 17 say about those who plunder Israel?",
+          options: [
+            "They will succeed",
+            "Woe to those who plunder; at evening there is sudden terror",
+            "They are blessed",
+            "Nothing"
+          ],
+          correctAnswer: "Woe to those who plunder; at evening there is sudden terror"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 18 describes messengers going to a nation tall and smooth-skinned.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What extensive pronouncement is in Isaiah 19?",
+          options: [
+            "Against Judah",
+            "Against Egypt, but also promises Egypt will know Jehovah and worship Him",
+            "Against Greece",
+            "Against Ethiopia only"
+          ],
+          correctAnswer: "Against Egypt, but also promises Egypt will know Jehovah and worship Him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 19 say will be in Egypt?",
+          options: [
+            "Permanent darkness",
+            "An altar to Jehovah and a pillar to Jehovah at its border",
+            "Nothing sacred",
+            "Only idols"
+          ],
+          correctAnswer: "An altar to Jehovah and a pillar to Jehovah at its border"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What will Egypt, Assyria, and Israel become according to Isaiah 19?",
+          options: [
+            "Enemies forever",
+            "A blessing in the midst of the earth; Jehovah will bless them together",
+            "Destroyed completely",
+            "Separate forever"
+          ],
+          correctAnswer: "A blessing in the midst of the earth; Jehovah will bless them together"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 19 prophesies that Egyptians will know Jehovah and worship with sacrifice and offerings.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How will Jehovah strike Egypt according to Isaiah 19?",
+          options: [
+            "Without healing",
+            "He will strike it and heal it; they will return to Jehovah",
+            "Permanently",
+            "Never"
+          ],
+          correctAnswer: "He will strike it and heal it; they will return to Jehovah"
+        }
+      ]
+    }
+  },
+  {
+    day: 216,
+    passage: "Isaiah 20–24",
+    focus: "Sign against Egypt and Ethiopia; fall of Babylon; watchman, what of the night?; judgment on the earth and city of chaos",
+    quiz: {
+      title: "📘 Isaiah 20–24 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Isaiah do as a sign in chapter 20?",
+          options: [
+            "Built an altar",
+            "Walked naked and barefoot for three years as a sign against Egypt and Ethiopia",
+            "Fasted for 40 days",
+            "Remained silent"
+          ],
+          correctAnswer: "Walked naked and barefoot for three years as a sign against Egypt and Ethiopia"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 21 announces 'Babylon has fallen, has fallen!'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What question is asked in Isaiah 21?",
+          correctAnswer: "Watchman, what of the night? (or how much of the night is left?)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 22 condemn?",
+          options: [
+            "Proper mourning",
+            "Rejoicing and celebrating when they should be weeping; eating and drinking when destruction comes",
+            "Fasting",
+            "Prayer"
+          ],
+          correctAnswer: "Rejoicing and celebrating when they should be weeping; eating and drinking when destruction comes"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 22 says 'Let us eat and drink, for tomorrow we die.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What pronouncement is in Isaiah 23?",
+          options: [
+            "Against Jerusalem",
+            "Against Tyre, the marketplace of nations",
+            "Against Rome",
+            "Against Persia"
+          ],
+          correctAnswer: "Against Tyre, the marketplace of nations"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 24 describe?",
+          correctAnswer: "Jehovah devastating the earth and scattering its inhabitants; the earth mourns and fades"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why will the earth be polluted according to Isaiah 24?",
+          options: [
+            "Natural causes",
+            "Its inhabitants have broken laws, violated statutes, and broken the everlasting covenant",
+            "Random events",
+            "No reason given"
+          ],
+          correctAnswer: "Its inhabitants have broken laws, violated statutes, and broken the everlasting covenant"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 24 says the city of chaos is broken down and every house is shut up.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What hope is in Isaiah 24 despite judgment?",
+          options: [
+            "None",
+            "People will raise their voice in song; from the ends of the earth we hear singing",
+            "Complete destruction",
+            "Everyone perishes"
+          ],
+          correctAnswer: "People will raise their voice in song; from the ends of the earth we hear singing"
+        }
+      ]
+    }
+  },
+  {
+    day: 217,
+    passage: "Isaiah 25–28",
+    focus: "Praise for God's wonderful deeds; He will swallow up death; precious cornerstone in Zion; woe to drunkards of Ephraim",
+    quiz: {
+      title: "📘 Isaiah 25–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 25 praise God for?",
+          options: [
+            "Nothing",
+            "You have done wonderful things; plans formed long ago with perfect faithfulness",
+            "Human achievements",
+            "Military victory only"
+          ],
+          correctAnswer: "You have done wonderful things; plans formed long ago with perfect faithfulness"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 25 says God will swallow up death forever and wipe away tears from all faces.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will Jehovah prepare for all peoples according to Isaiah 25?",
+          correctAnswer: "A banquet of rich dishes, a banquet of aged wines (or a feast)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What song is sung in Isaiah 26?",
+          options: [
+            "A funeral dirge",
+            "We have a strong city; God sets up salvation as walls and ramparts; trust in Jehovah forever",
+            "A complaint",
+            "No song"
+          ],
+          correctAnswer: "We have a strong city; God sets up salvation as walls and ramparts; trust in Jehovah forever"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 26 says 'You will keep in perfect peace the one whose mind is steadfast, because he trusts in You.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 27 prophesy about?",
+          options: [
+            "Nothing",
+            "Jehovah will punish Leviathan; His vineyard will blossom and bud; He will gather Israel",
+            "Permanent exile",
+            "No restoration"
+          ],
+          correctAnswer: "Jehovah will punish Leviathan; His vineyard will blossom and bud; He will gather Israel"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 28 pronounce woe upon?",
+          correctAnswer: "The drunkards of Ephraim and their fading beauty"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 28 say God is laying in Zion?",
+          options: [
+            "Nothing",
+            "A tested stone, a precious cornerstone, a sure foundation",
+            "A trap",
+            "Destruction"
+          ],
+          correctAnswer: "A tested stone, a precious cornerstone, a sure foundation"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 28 says 'The one who exercises faith will not panic.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Isaiah 28 say about God's counsel?",
+          options: [
+            "It is foolish",
+            "His counsel is wonderful; His wisdom is great",
+            "It doesn't exist",
+            "It is limited"
+          ],
+          correctAnswer: "His counsel is wonderful; His wisdom is great"
+        }
+      ]
+    }
+  },
+  {
+    day: 218,
+    passage: "Isaiah 29–31",
+    focus: "Woe to Ariel; this people honor me with lips but heart is far; woe to those hiding counsel; trusting Egypt instead of Jehovah",
+    quiz: {
+      title: "📘 Isaiah 29–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 29 pronounce woe upon?",
+          options: [
+            "Babylon",
+            "Ariel (Jerusalem), where David camped",
+            "Egypt",
+            "Tyre"
+          ],
+          correctAnswer: "Ariel (Jerusalem), where David camped"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 29 says 'This people honor me with their lips, but their heart is far removed from me.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 29 say about human wisdom?",
+          correctAnswer: "The wisdom of their wise men will perish, and the understanding of their intelligent men will be hidden"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 30 condemn?",
+          options: [
+            "Seeking God",
+            "Stubborn sons who go down to Egypt for help without consulting God",
+            "Prayer",
+            "Fasting"
+          ],
+          correctAnswer: "Stubborn sons who go down to Egypt for help without consulting God"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 30 says the Egyptians are mere men, not God; their horses are flesh, not spirit.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 30 say Jehovah is waiting to do?",
+          options: [
+            "To punish permanently",
+            "To show you favor and rise up to show you mercy; He is waiting to be gracious",
+            "To abandon His people",
+            "To forget them"
+          ],
+          correctAnswer: "To show you favor and rise up to show you mercy; He is waiting to be gracious"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 30 say about returning and resting?",
+          correctAnswer: "Your salvation is in returning and resting; your mightiness is in keeping calm and trusting"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 31 warn against?",
+          options: [
+            "Trusting God",
+            "Going down to Egypt for help, trusting in horses and chariots instead of Jehovah",
+            "Prayer",
+            "Worship"
+          ],
+          correctAnswer: "Going down to Egypt for help, trusting in horses and chariots instead of Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 31 says Jehovah will protect Jerusalem like birds hovering over it.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What will happen to Assyria according to Isaiah 31?",
+          options: [
+            "It will triumph",
+            "Assyria will fall by a sword, not of man; they will flee and their young men will be subject to forced labor",
+            "It will rule forever",
+            "Nothing"
+          ],
+          correctAnswer: "Assyria will fall by a sword, not of man; they will flee and their young men will be subject to forced labor"
+        }
+      ]
+    }
+  },
+  {
+    day: 219,
+    passage: "Isaiah 32–35",
+    focus: "A king will reign in righteousness; Jerusalem secure; come near and see God's vengeance; desert will blossom; the blind see, lame leap",
+    quiz: {
+      title: "📘 Isaiah 32–35 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 32 prophesy about the future king?",
+          options: [
+            "He will be unjust",
+            "A king will reign in righteousness and princes will rule with justice",
+            "There will be no king",
+            "The kingdom will fail"
+          ],
+          correctAnswer: "A king will reign in righteousness and princes will rule with justice"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 32 says each one will be like a hiding place from the wind and a shelter from the rainstorm.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 32 say will be poured out from on high?",
+          correctAnswer: "The spirit, and the wilderness will become an orchard"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 33 say about Jehovah?",
+          options: [
+            "He is weak",
+            "Jehovah is exalted; He is our judge, lawgiver, and king; He will save us",
+            "He is absent",
+            "He doesn't care"
+          ],
+          correctAnswer: "Jehovah is exalted; He is our judge, lawgiver, and king; He will save us"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 33 asks 'Who can dwell with the consuming fire?' and answers 'The one walking in righteousness.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 34 call the nations to do?",
+          options: [
+            "To ignore God",
+            "Come near and listen; let the earth and everything in it hear God's indignation",
+            "To rebel",
+            "To trust in themselves"
+          ],
+          correctAnswer: "Come near and listen; let the earth and everything in it hear God's indignation"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 35 say will happen to the desert?",
+          correctAnswer: "The wilderness and desert will exult and blossom; it will blossom profusely"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What physical healings does Isaiah 35 prophesy?",
+          options: [
+            "None",
+            "The eyes of the blind will be opened, ears of the deaf unstopped, the lame will leap, the mute will shout",
+            "Only spiritual healing",
+            "Partial healing"
+          ],
+          correctAnswer: "The eyes of the blind will be opened, ears of the deaf unstopped, the lame will leap, the mute will shout"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 35 says a highway called the Way of Holiness will be there, and the unclean will not travel on it.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How will the ransomed ones return according to Isaiah 35?",
+          options: [
+            "In sorrow",
+            "With singing; everlasting joy on their heads; they will find exultation and rejoicing",
+            "Silently",
+            "In fear"
+          ],
+          correctAnswer: "With singing; everlasting joy on their heads; they will find exultation and rejoicing"
+        }
+      ]
+    }
+  },
+  {
+    day: 220,
+    passage: "Isaiah 36–37",
+    focus: "Sennacherib threatens Jerusalem; Rabshakeh's blasphemy; Hezekiah's prayer; Isaiah's prophecy; 185,000 Assyrians struck down",
+    quiz: {
+      title: "📘 Isaiah 36–37 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who came up against Judah's fortified cities in Isaiah 36?",
+          options: [
+            "Nebuchadnezzar",
+            "Sennacherib king of Assyria",
+            "Pharaoh",
+            "The Philistines"
+          ],
+          correctAnswer: "Sennacherib king of Assyria"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Rabshakeh spoke loudly in Hebrew to intimidate the people on the wall.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What blasphemous claim did Rabshakeh make?",
+          correctAnswer: "That no god of any nation had delivered their land from Assyria, implying Jehovah couldn't either"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Hezekiah do when he heard Rabshakeh's words?",
+          options: [
+            "He surrendered",
+            "He tore his garments, covered himself with sackcloth, and went to Jehovah's house to pray",
+            "He fled",
+            "He attacked immediately"
+          ],
+          correctAnswer: "He tore his garments, covered himself with sackcloth, and went to Jehovah's house to pray"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Hezekiah spread Sennacherib's letter before Jehovah in the temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What was Hezekiah's prayer in Isaiah 37?",
+          options: [
+            "For personal wealth",
+            "That Jehovah would save them so all kingdoms would know He alone is God",
+            "For revenge only",
+            "To flee safely"
+          ],
+          correctAnswer: "That Jehovah would save them so all kingdoms would know He alone is God"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What message did Isaiah send to Hezekiah?",
+          correctAnswer: "Do not be afraid; Jehovah will defend this city and Sennacherib will not enter it"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to the Assyrian army?",
+          options: [
+            "They conquered Jerusalem",
+            "Jehovah's angel struck down 185,000 in the Assyrian camp in one night",
+            "They retreated peacefully",
+            "Nothing"
+          ],
+          correctAnswer: "Jehovah's angel struck down 185,000 in the Assyrian camp in one night"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Sennacherib returned to Nineveh where his own sons struck him down while he worshiped in the temple of his god.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Isaiah prophesy about Jerusalem?",
+          options: [
+            "It would be destroyed",
+            "The virgin daughter of Zion despises you; Jehovah will defend this city",
+            "It would surrender",
+            "It had no hope"
+          ],
+          correctAnswer: "The virgin daughter of Zion despises you; Jehovah will defend this city"
+        }
+      ]
+    }
+  },
+  {
+    day: 221,
+    passage: "Isaiah 38–40",
+    focus: "Hezekiah's illness and recovery; Babylonian envoys; comfort my people; prepare the way; the glory of Jehovah will be revealed",
+    quiz: {
+      title: "📘 Isaiah 38–40 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Isaiah tell Hezekiah in chapter 38?",
+          options: [
+            "That he would live long",
+            "Put your house in order, for you will die; you will not recover",
+            "That he was perfectly healthy",
+            "To seek a physician"
+          ],
+          correctAnswer: "Put your house in order, for you will die; you will not recover"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Hezekiah turned his face to the wall, prayed, and wept bitterly.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did God add to Hezekiah's life?",
+          correctAnswer: "15 years"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What sign did God give Hezekiah?",
+          options: [
+            "No sign",
+            "The shadow went back ten steps on the stairway of Ahaz",
+            "An earthquake",
+            "Thunder"
+          ],
+          correctAnswer: "The shadow went back ten steps on the stairway of Ahaz"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Hezekiah showed the Babylonian envoys all his treasures and everything in his kingdom.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Isaiah prophesy about Hezekiah's treasures?",
+          options: [
+            "They would increase",
+            "Everything will be carried off to Babylon; nothing will be left",
+            "They would be hidden safely",
+            "They didn't matter"
+          ],
+          correctAnswer: "Everything will be carried off to Babylon; nothing will be left"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What is the opening call of Isaiah 40?",
+          correctAnswer: "Comfort, comfort my people, says your God"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does the voice cry in Isaiah 40?",
+          options: [
+            "To give up",
+            "In the wilderness prepare the way of Jehovah; make a straight highway for our God",
+            "To hide",
+            "To flee"
+          ],
+          correctAnswer: "In the wilderness prepare the way of Jehovah; make a straight highway for our God"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 40 says 'The glory of Jehovah will be revealed, and all flesh will see it together.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Isaiah 40 say about people and grass?",
+          options: [
+            "They last forever",
+            "All flesh is grass; the grass withers and the flower fades, but God's word endures forever",
+            "They are unrelated",
+            "Grass is more permanent"
+          ],
+          correctAnswer: "All flesh is grass; the grass withers and the flower fades, but God's word endures forever"
+        }
+      ]
+    }
+  },
+  {
+    day: 222,
+    passage: "Isaiah 41–43",
+    focus: "Fear not, I am with you; my servant Israel; the servant will bring justice; I have called you by name, you are mine",
+    quiz: {
+      title: "📘 Isaiah 41–43 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jehovah say to Israel in Isaiah 41?",
+          options: [
+            "Be very afraid",
+            "Do not be afraid, for I am with you; I will strengthen you and help you",
+            "You are abandoned",
+            "You have no hope"
+          ],
+          correctAnswer: "Do not be afraid, for I am with you; I will strengthen you and help you"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 41 says 'You are my servant; I have chosen you and not rejected you.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What title does God give to Himself in Isaiah 41?",
+          correctAnswer: "Your Redeemer, the Holy One of Israel"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 42 say about God's servant?",
+          options: [
+            "He will fail",
+            "Here is my servant; I will put my spirit on him; he will bring justice to the nations",
+            "He is weak",
+            "He will be rejected permanently"
+          ],
+          correctAnswer: "Here is my servant; I will put my spirit on him; he will bring justice to the nations"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 42 says the servant will not cry out or raise his voice in the streets; a bruised reed he will not break.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jehovah call Israel to be in Isaiah 42?",
+          options: [
+            "Nothing",
+            "A light to the nations, to open blind eyes and free prisoners from dungeons",
+            "A military power only",
+            "Isolated forever"
+          ],
+          correctAnswer: "A light to the nations, to open blind eyes and free prisoners from dungeons"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 43 say about passing through waters and fire?",
+          correctAnswer: "When you pass through waters, I will be with you; through rivers, they will not sweep you away; through fire, you will not be burned"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does God say to Israel in Isaiah 43?",
+          options: [
+            "You are forgotten",
+            "Do not fear, for I have redeemed you; I have called you by name; you are mine",
+            "You are alone",
+            "I don't know you"
+          ],
+          correctAnswer: "Do not fear, for I have redeemed you; I have called you by name; you are mine"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 43 says 'You are precious in my eyes, you are honored, and I love you.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jehovah promise to do in Isaiah 43?",
+          options: [
+            "To leave them in exile",
+            "To gather them from east, west, north, and south; forget the former things, He is doing something new",
+            "To punish forever",
+            "Nothing"
+          ],
+          correctAnswer: "To gather them from east, west, north, and south; forget the former things, He is doing something new"
+        }
+      ]
+    }
+  },
+  {
+    day: 223,
+    passage: "Isaiah 44–47",
+    focus: "I will pour out my spirit; no God besides me; Cyrus named; fall of Babylon; come down and sit in the dust, O virgin daughter of Babylon",
+    quiz: {
+      title: "📘 Isaiah 44–47 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jehovah promise in Isaiah 44?",
+          options: [
+            "Nothing",
+            "I will pour out my spirit on your offspring; I will pour out my blessing on your descendants",
+            "Only judgment",
+            "Abandonment"
+          ],
+          correctAnswer: "I will pour out my spirit on your offspring; I will pour out my blessing on your descendants"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 44 declares 'I am the first and I am the last; besides me there is no God.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 44 say about making idols?",
+          correctAnswer: "Those making carved images are nothing; they profit nothing; they are foolish"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who does God name specifically in Isaiah 44-45?",
+          options: [
+            "No one",
+            "Cyrus, saying he will rebuild Jerusalem and the temple before he was even born",
+            "Nebuchadnezzar",
+            "Alexander"
+          ],
+          correctAnswer: "Cyrus, saying he will rebuild Jerusalem and the temple before he was even born"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 45 says God formed light and created darkness, making peace and creating calamity.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 45 declare about God?",
+          options: [
+            "He is one among many",
+            "There is no God apart from me; a righteous God and Savior, there is none besides me",
+            "He is weak",
+            "Other gods exist"
+          ],
+          correctAnswer: "There is no God apart from me; a righteous God and Savior, there is none besides me"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 46 say about Jehovah carrying His people?",
+          correctAnswer: "Even to your old age I am the same; I will carry you; I have made you and I will bear you"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What contrast does Isaiah 46 make between idols and God?",
+          options: [
+            "They are equal",
+            "Idols must be carried by beasts, but Jehovah carries His people",
+            "Idols are stronger",
+            "No contrast"
+          ],
+          correctAnswer: "Idols must be carried by beasts, but Jehovah carries His people"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 47 prophesies Babylon's fall, saying 'Come down and sit in the dust, O virgin daughter of Babylon.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Isaiah 47 say about Babylon's sorceries and spells?",
+          options: [
+            "They will save her",
+            "They cannot save her; disaster will come suddenly upon her",
+            "They are powerful",
+            "They should be trusted"
+          ],
+          correctAnswer: "They cannot save her; disaster will come suddenly upon her"
+        }
+      ]
+    }
+  },
+  {
+    day: 224,
+    passage: "Isaiah 48–50",
+    focus: "For my own sake I act; go out from Babylon; the servant speaks; I have not hidden my face; who among you fears Jehovah?",
+    quiz: {
+      title: "📘 Isaiah 48–50 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why does God say He acts in Isaiah 48?",
+          options: [
+            "Because Israel deserves it",
+            "For my own name's sake I act; for my own sake, for my own sake I take action",
+            "Because of human merit",
+            "Randomly"
+          ],
+          correctAnswer: "For my own name's sake I act; for my own sake, for my own sake I take action"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 48 commands 'Go out from Babylon! Flee from the Chaldeans!'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 48 say about peace?",
+          correctAnswer: "There is no peace for the wicked"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does the servant say in Isaiah 49?",
+          options: [
+            "That he failed",
+            "Jehovah called me from birth; He made my mouth like a sharp sword; He will gather Israel and be a light to nations",
+            "That he gave up",
+            "Nothing"
+          ],
+          correctAnswer: "Jehovah called me from birth; He made my mouth like a sharp sword; He will gather Israel and be a light to nations"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 49 asks 'Can a woman forget her nursing child?' and answers God will never forget His people.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 49 say about Zion?",
+          options: [
+            "She is forgotten",
+            "See, I have engraved you on the palms of my hands; your walls are always before me",
+            "She is abandoned forever",
+            "She has no future"
+          ],
+          correctAnswer: "See, I have engraved you on the palms of my hands; your walls are always before me"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the servant say about his training in Isaiah 50?",
+          correctAnswer: "The Sovereign Lord Jehovah has given me the tongue of the taught ones; He awakens me morning by morning"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What suffering does the servant describe in Isaiah 50?",
+          options: [
+            "None",
+            "I gave my back to those striking me, my cheeks to those plucking out my beard; I did not hide my face from humiliation",
+            "Only spiritual",
+            "Imaginary"
+          ],
+          correctAnswer: "I gave my back to those striking me, my cheeks to those plucking out my beard; I did not hide my face from humiliation"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 50 says 'The Sovereign Lord Jehovah will help me; I will not be put to shame.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What question ends Isaiah 50?",
+          options: [
+            "Where is God?",
+            "Who among you fears Jehovah and obeys his servant? Let him trust in Jehovah's name",
+            "Is there any hope?",
+            "Should we give up?"
+          ],
+          correctAnswer: "Who among you fears Jehovah and obeys his servant? Let him trust in Jehovah's name"
+        }
+      ]
+    }
+  },
+  {
+    day: 225,
+    passage: "Isaiah 51–55",
+    focus: "Awake, awake, O Zion; my people will know my name; he was pierced for our transgression; come, all you thirsty; seek Jehovah while he may be found",
+    quiz: {
+      title: "📘 Isaiah 51–55 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 51 tell those pursuing righteousness?",
+          options: [
+            "To give up",
+            "Listen to me; look to the rock from which you were hewn; look to Abraham your father",
+            "To trust in themselves",
+            "To fear"
+          ],
+          correctAnswer: "Listen to me; look to the rock from which you were hewn; look to Abraham your father"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 51 commands 'Awake, awake, put on your strength, O Zion!'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 52 say the feet of the messenger are?",
+          correctAnswer: "How beautiful on the mountains are the feet of the one bringing good news"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 52 say about God's people knowing His name?",
+          options: [
+            "They never will",
+            "My people will know my name; in that day they will know that I am the one speaking",
+            "It doesn't matter",
+            "Only some will know"
+          ],
+          correctAnswer: "My people will know my name; in that day they will know that I am the one speaking"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 53 describes the suffering servant who was despised and rejected by men, a man of sorrows.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why did the servant suffer according to Isaiah 53?",
+          options: [
+            "For his own sins",
+            "He was pierced for our transgression; crushed for our errors; the punishment for our peace was on him",
+            "Randomly",
+            "For no reason"
+          ],
+          correctAnswer: "He was pierced for our transgression; crushed for our errors; the punishment for our peace was on him"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Isaiah 53 say we are like?",
+          correctAnswer: "All of us like sheep have wandered; each has turned to his own way"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What invitation does Isaiah 55 give?",
+          options: [
+            "Pay high prices",
+            "Come, all you thirsty; come, buy without money, wine and milk without cost",
+            "Stay away",
+            "Work harder"
+          ],
+          correctAnswer: "Come, all you thirsty; come, buy without money, wine and milk without cost"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 55 commands 'Seek Jehovah while he may be found; call to him while he is near.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Isaiah 55 say about God's thoughts and ways?",
+          options: [
+            "They are like ours",
+            "My thoughts are not your thoughts; as the heavens are higher than the earth, so are my ways higher than your ways",
+            "They are lower than ours",
+            "They are the same"
+          ],
+          correctAnswer: "My thoughts are not your thoughts; as the heavens are higher than the earth, so are my ways higher than your ways"
+        }
+      ]
+    }
+  },
+  {
+    day: 226,
+    passage: "Isaiah 56–58",
+    focus: "Keep justice and do righteousness; foreigners who join themselves to Jehovah; true fasting; if you honor the Sabbath, then you will find exquisite delight",
+    quiz: {
+      title: "📘 Isaiah 56–58 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 56 say to keep?",
+          options: [
+            "Silence",
+            "Keep justice and do what is righteous; observe the Sabbath",
+            "Wealth",
+            "Secrets"
+          ],
+          correctAnswer: "Keep justice and do what is righteous; observe the Sabbath"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 56 says foreigners who join themselves to Jehovah will be brought to God's holy mountain.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 56 call God's house?",
+          correctAnswer: "A house of prayer for all peoples"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 57 condemn?",
+          options: [
+            "Righteousness",
+            "Idolatry and spiritual adultery; going to Molech with oil",
+            "Prayer",
+            "Fasting"
+          ],
+          correctAnswer: "Idolatry and spiritual adultery; going to Molech with oil"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 57 says 'I dwell in the high and holy place, but also with the crushed and lowly in spirit.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 58 say true fasting is?",
+          options: [
+            "Just not eating",
+            "To loosen the fetters of wickedness, share bread with the hungry, bring the poor into your house",
+            "Merely appearing humble",
+            "Public display"
+          ],
+          correctAnswer: "To loosen the fetters of wickedness, share bread with the hungry, bring the poor into your house"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What will happen if you properly fast according to Isaiah 58?",
+          correctAnswer: "Your light will break through like the dawn; your healing will spring up quickly; Jehovah will answer when you call"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 58 say about the Sabbath?",
+          options: [
+            "It doesn't matter",
+            "If you honor the Sabbath and call it a delight, then you will find exquisite delight in Jehovah",
+            "It's burdensome",
+            "Ignore it"
+          ],
+          correctAnswer: "If you honor the Sabbath and call it a delight, then you will find exquisite delight in Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 58 promises that if you spend yourself for the hungry, your light will rise even in the darkness.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What should not be done on the Sabbath according to Isaiah 58?",
+          options: [
+            "Worship",
+            "Pursuing your own interests or speaking your own words",
+            "Rest",
+            "Prayer"
+          ],
+          correctAnswer: "Pursuing your own interests or speaking your own words"
+        }
+      ]
+    }
+  }
+,
+  {
+    day: 227,
+    passage: "Isaiah 59–62",
+    focus: "Your sins have separated you from God; the Redeemer will come to Zion; arise, shine, for your light has come; you will be called by a new name",
+    quiz: {
+      title: "📘 Isaiah 59–62 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Isaiah 59 say has separated people from God?",
+          options: [
+            "Distance",
+            "Your errors have separated you from your God; your sins have hidden His face from you",
+            "Time",
+            "Nothing"
+          ],
+          correctAnswer: "Your errors have separated you from your God; your sins have hidden His face from you"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 59 says Jehovah's hand is not too short to save, nor His ear too dull to hear.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What will the Redeemer do according to Isaiah 59?",
+          correctAnswer: "The Redeemer will come to Zion, to those in Jacob who turn from transgression"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 60 command?",
+          options: [
+            "Stay in darkness",
+            "Arise, shine, for your light has come, and the glory of Jehovah has shone on you",
+            "Hide",
+            "Despair"
+          ],
+          correctAnswer: "Arise, shine, for your light has come, and the glory of Jehovah has shone on you"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 60 says nations will come to your light and kings to your shining brightness.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 61 say the spirit of the Lord is upon him to do?",
+          options: [
+            "To condemn",
+            "To preach good news to the meek, bind up the brokenhearted, proclaim liberty to captives",
+            "To destroy",
+            "To remain silent"
+          ],
+          correctAnswer: "To preach good news to the meek, bind up the brokenhearted, proclaim liberty to captives"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What will replace mourning according to Isaiah 61?",
+          correctAnswer: "A garland instead of ashes, oil of exultation instead of mourning, a mantle of praise instead of a despondent spirit"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 62 say about Zion?",
+          options: [
+            "She is abandoned",
+            "You will be called by a new name; you will be a crown of beauty in Jehovah's hand",
+            "She has no future",
+            "She is forgotten"
+          ],
+          correctAnswer: "You will be called by a new name; you will be a crown of beauty in Jehovah's hand"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 62 says watchmen are set on Jerusalem's walls who never keep silent day or night.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What new names will Zion receive in Isaiah 62?",
+          options: [
+            "Forsaken and Desolate",
+            "My Delight Is in Her and Married; you will no longer be called Forsaken",
+            "Forgotten and Abandoned",
+            "No new names"
+          ],
+          correctAnswer: "My Delight Is in Her and Married; you will no longer be called Forsaken"
+        }
+      ]
+    }
+  },
+  {
+    day: 228,
+    passage: "Isaiah 63–66",
+    focus: "Who is this from Edom?; why have you made us wander?; creating new heavens and new earth; all flesh will bow before me",
+    quiz: {
+      title: "📘 Isaiah 63–66 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who comes from Edom in Isaiah 63?",
+          options: [
+            "An ordinary traveler",
+            "One with garments stained red, treading the winepress in fury",
+            "A messenger",
+            "No one"
+          ],
+          correctAnswer: "One with garments stained red, treading the winepress in fury"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Isaiah 63 recalls God's loving-kindnesses and compassions, how He became their Savior.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Isaiah 63 ask God?",
+          correctAnswer: "Where are Your zeal and Your might? Why have You made us wander from Your ways?"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Isaiah 64 acknowledge?",
+          options: [
+            "Human perfection",
+            "We are all unclean; all our righteous acts are like a polluted garment",
+            "Self-sufficiency",
+            "No need for God"
+          ],
+          correctAnswer: "We are all unclean; all our righteous acts are like a polluted garment"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Isaiah 64 says 'We are the clay, and You are our Potter; we are all the work of Your hand.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Isaiah 65 promise?",
+          options: [
+            "Nothing new",
+            "I am creating new heavens and a new earth; rejoice forever in what I am creating",
+            "Only judgment",
+            "The end of everything"
+          ],
+          correctAnswer: "I am creating new heavens and a new earth; rejoice forever in what I am creating"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What peaceful conditions does Isaiah 65 describe?",
+          correctAnswer: "The wolf and lamb will feed together; they will not harm or cause ruin in all my holy mountain"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Isaiah 66 say about heaven and earth?",
+          options: [
+            "They are God's dwelling",
+            "Heaven is my throne and the earth my footstool; where is the house you could build for me?",
+            "They are equal to God",
+            "They contain God"
+          ],
+          correctAnswer: "Heaven is my throne and the earth my footstool; where is the house you could build for me?"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Isaiah 66 says all flesh will come and bow down before Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Isaiah end?",
+          options: [
+            "With despair",
+            "With vision of new heavens and earth, and all flesh worshiping; they will go out and see the carcasses of those who rebelled",
+            "With uncertainty",
+            "With no conclusion"
+          ],
+          correctAnswer: "With vision of new heavens and earth, and all flesh worshiping; they will go out and see the carcasses of those who rebelled"
+        }
+      ]
+    }
+  },
+  {
+    day: 229,
+    passage: "Jeremiah 1–3",
+    focus: "Jeremiah called from the womb; appointed as prophet to nations; see, I am against you; Israel's unfaithfulness like adultery",
+    quiz: {
+      title: "📘 Jeremiah 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Jehovah say to Jeremiah about his calling?",
+          options: [
+            "You are too old",
+            "Before I formed you in the womb I knew you; before you were born I sanctified you",
+            "You are unqualified",
+            "Choose another profession"
+          ],
+          correctAnswer: "Before I formed you in the womb I knew you; before you were born I sanctified you"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah protested that he was too young and did not know how to speak.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jehovah touch to empower Jeremiah?",
+          correctAnswer: "His mouth (Jehovah touched Jeremiah's mouth and put His words in it)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What two visions did Jeremiah see in chapter 1?",
+          options: [
+            "A tree and a river",
+            "An almond branch and a boiling pot tilting from the north",
+            "A lion and lamb",
+            "Mountains and valleys"
+          ],
+          correctAnswer: "An almond branch and a boiling pot tilting from the north"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jehovah promised to make Jeremiah a fortified city, an iron pillar, and copper walls against the whole land.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 2 accuse Israel of?",
+          options: [
+            "Perfect faithfulness",
+            "Forsaking Jehovah, the source of living water, and digging broken cisterns",
+            "Being too righteous",
+            "Nothing"
+          ],
+          correctAnswer: "Forsaking Jehovah, the source of living water, and digging broken cisterns"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah 2 say Israel exchanged?",
+          correctAnswer: "My people have exchanged their glory for what is worthless"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Jeremiah 3 describe Israel's unfaithfulness?",
+          options: [
+            "As a minor mistake",
+            "Like a wife committing adultery and prostitution on every high hill",
+            "As acceptable",
+            "As righteous"
+          ],
+          correctAnswer: "Like a wife committing adultery and prostitution on every high hill"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 3 says treacherous Judah did not return to God with her whole heart, but only in pretense.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 3 call Israel to do?",
+          options: [
+            "Stay in sin",
+            "Return, you renegade sons; I will heal your unfaithfulness",
+            "Give up",
+            "Flee"
+          ],
+          correctAnswer: "Return, you renegade sons; I will heal your unfaithfulness"
+        }
+      ]
+    }
+  },
+  {
+    day: 230,
+    passage: "Jeremiah 4–5",
+    focus: "Circumcise your hearts; disaster from the north; destruction is coming; they proceed from bad to worse; will you not fear me?",
+    quiz: {
+      title: "📘 Jeremiah 4–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah 4 call Israel to do?",
+          options: [
+            "Remain unchanged",
+            "If you return, return to me; circumcise your hearts and remove the foreskin",
+            "Hide from God",
+            "Rebel more"
+          ],
+          correctAnswer: "If you return, return to me; circumcise your hearts and remove the foreskin"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 4 warns of disaster coming from the north like a scorching wind.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Jeremiah see in his vision of the land?",
+          correctAnswer: "The land formless and waste, heavens without light, mountains quaking (total devastation)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 4 say about Jerusalem?",
+          options: [
+            "It is perfectly safe",
+            "Your ways and deeds have brought this on you; how long will you harbor wicked thoughts?",
+            "Nothing will happen",
+            "It needs no warning"
+          ],
+          correctAnswer: "Your ways and deeds have brought this on you; how long will you harbor wicked thoughts?"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 5 says to search Jerusalem's streets to find one person doing justice and seeking faithfulness.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 5 say about swearing falsely?",
+          options: [
+            "It's acceptable",
+            "Though they say 'As surely as Jehovah lives,' they are swearing falsely",
+            "It doesn't matter",
+            "Everyone does it"
+          ],
+          correctAnswer: "Though they say 'As surely as Jehovah lives,' they are swearing falsely"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah 5 say the people proceed from?",
+          correctAnswer: "They proceed from bad to worse (or from one evil to another)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What question does Jehovah ask in Jeremiah 5?",
+          options: [
+            "Should I ignore this?",
+            "Should I not call such a nation as this to account? Should I not avenge myself?",
+            "Does it matter?",
+            "Will anyone care?"
+          ],
+          correctAnswer: "Should I not call such a nation as this to account? Should I not avenge myself?"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 5 says the people have eyes but do not see, ears but do not hear.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 5 ask about fearing God?",
+          options: [
+            "Fear is unnecessary",
+            "Will you not fear me? Will you not tremble before me, who set the sand as the boundary for the sea?",
+            "Fear doesn't matter",
+            "Only the weak fear"
+          ],
+          correctAnswer: "Will you not fear me? Will you not tremble before me, who set the sand as the boundary for the sea?"
+        }
+      ]
+    }
+  },
+  {
+    day: 231,
+    passage: "Jeremiah 6–7",
+    focus: "Disaster from the north; from least to greatest, all practice fraud; stand at the crossroads; don't trust in deceptive words about the temple",
+    quiz: {
+      title: "📘 Jeremiah 6–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah 6 warn is coming?",
+          options: [
+            "Peace and prosperity",
+            "Disaster from the land of the north, a great nation from the remotest parts of the earth",
+            "Nothing",
+            "Minor troubles"
+          ],
+          correctAnswer: "Disaster from the land of the north, a great nation from the remotest parts of the earth"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 6 says from the least to the greatest, all practice fraud; from prophet to priest, all deal falsely.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What do the false prophets say when there is no peace?",
+          correctAnswer: "Peace, peace! when there is no peace"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 6 tell the people to do?",
+          options: [
+            "Follow new paths",
+            "Stand at the crossroads and see; ask for the ancient paths, where the good way is, and walk in it",
+            "Create their own way",
+            "Ignore the past"
+          ],
+          correctAnswer: "Stand at the crossroads and see; ask for the ancient paths, where the good way is, and walk in it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 6 says God has set watchmen, but the people said 'We will not pay attention.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 7 warn about?",
+          options: [
+            "The temple guarantees safety",
+            "Do not trust in deceptive words, saying 'The temple of Jehovah' while doing evil",
+            "Buildings save people",
+            "Rituals are enough"
+          ],
+          correctAnswer: "Do not trust in deceptive words, saying 'The temple of Jehovah' while doing evil"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happened to Shiloh according to Jeremiah 7?",
+          correctAnswer: "Jehovah destroyed it because of the wickedness of His people Israel (as a warning to Jerusalem)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Jeremiah 7 say about their sacrifices?",
+          options: [
+            "They are wonderful",
+            "I did not command your fathers about burnt offerings; I commanded them to obey my voice",
+            "Sacrifices are all that matters",
+            "Keep offering more"
+          ],
+          correctAnswer: "I did not command your fathers about burnt offerings; I commanded them to obey my voice"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 7 condemns making the temple a cave of robbers.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 7 say about the people's stubbornness?",
+          options: [
+            "They listen well",
+            "They did not listen or incline their ear; they walked in their own stubborn, evil heart",
+            "They always obey",
+            "They have no will"
+          ],
+          correctAnswer: "They did not listen or incline their ear; they walked in their own stubborn, evil heart"
+        }
+      ]
+    }
+  },
+  {
+    day: 232,
+    passage: "Jeremiah 8–10",
+    focus: "Harvest is past, summer has ended; is there no balm in Gilead?; learn not the way of the nations; Jehovah is the true God",
+    quiz: {
+      title: "📘 Jeremiah 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What lament is in Jeremiah 8?",
+          options: [
+            "All is well",
+            "The harvest is past, the summer has ended, but we have not been saved",
+            "Everything is perfect",
+            "No problems exist"
+          ],
+          correctAnswer: "The harvest is past, the summer has ended, but we have not been saved"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 8 asks 'Is there no balm in Gilead? Is there no physician there?'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Jeremiah 8 say the wise will be put to shame for?",
+          correctAnswer: "For rejecting the word of Jehovah (What wisdom do they have?)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 9 wish for?",
+          options: [
+            "More wealth",
+            "Oh, that my head were waters and my eyes a source of tears, that I might weep for the slain",
+            "Power",
+            "Fame"
+          ],
+          correctAnswer: "Oh, that my head were waters and my eyes a source of tears, that I might weep for the slain"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 9 says let the one boasting boast in this: that he understands and knows Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 10 warn against?",
+          options: [
+            "Worshiping Jehovah",
+            "Do not learn the way of the nations; do not be terrified by signs in the heavens",
+            "Proper worship",
+            "Obedience"
+          ],
+          correctAnswer: "Do not learn the way of the nations; do not be terrified by signs in the heavens"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah 10 say about idols?",
+          correctAnswer: "They are like a scarecrow in a cucumber field; they cannot speak or walk; they must be carried"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How does Jeremiah 10 contrast idols with Jehovah?",
+          options: [
+            "They are equal",
+            "Jehovah is the true God, the living God, and eternal King; there is none like Him",
+            "Idols are superior",
+            "No difference"
+          ],
+          correctAnswer: "Jehovah is the true God, the living God, and eternal King; there is none like Him"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 10 acknowledges that it does not belong to man to direct his step.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah ask God to do?",
+          options: [
+            "Destroy him completely",
+            "Correct me, O Jehovah, but with judgment, not in Your anger",
+            "Leave him alone",
+            "Forget about him"
+          ],
+          correctAnswer: "Correct me, O Jehovah, but with judgment, not in Your anger"
+        }
+      ]
+    }
+  },
+  {
+    day: 233,
+    passage: "Jeremiah 11–13",
+    focus: "Conspiracy among men of Judah; the people of Anathoth seek Jeremiah's life; linen belt ruined; wine jars filled; every inhabitant drunk",
+    quiz: {
+      title: "📘 Jeremiah 11–13 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah 11 say about the covenant?",
+          options: [
+            "It's irrelevant",
+            "Cursed is the man who does not obey the terms of this covenant; they have broken my covenant",
+            "It never existed",
+            "It's optional"
+          ],
+          correctAnswer: "Cursed is the man who does not obey the terms of this covenant; they have broken my covenant"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 11 reveals a conspiracy among the men of Judah to break God's covenant.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who plotted against Jeremiah's life?",
+          correctAnswer: "The men of Anathoth (his hometown)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah ask God in chapter 12?",
+          options: [
+            "Nothing",
+            "Why does the way of the wicked prosper? Why do all the treacherous live at ease?",
+            "Why am I blessed?",
+            "Why is everything perfect?"
+          ],
+          correctAnswer: "Why does the way of the wicked prosper? Why do all the treacherous live at ease?"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 12 says if you have run with footmen and they tired you out, how will you compete with horses?",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What object lesson does Jeremiah 13 use?",
+          options: [
+            "A cup",
+            "A linen belt hidden by the Euphrates that became ruined and worthless",
+            "A scroll",
+            "A sword"
+          ],
+          correctAnswer: "A linen belt hidden by the Euphrates that became ruined and worthless"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the ruined belt represent?",
+          correctAnswer: "How God will ruin the pride of Judah and Jerusalem (they will become worthless like the belt)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Jeremiah 13 say about wine jars?",
+          options: [
+            "They should remain empty",
+            "Every jar should be filled with wine, and I will make every inhabitant drunk and smash them",
+            "Wine is forbidden",
+            "Jars are meaningless"
+          ],
+          correctAnswer: "Every jar should be filled with wine, and I will make every inhabitant drunk and smash them"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 13 asks 'Can the Ethiopian change his skin or the leopard its spots?' to show that those accustomed to evil cannot do good.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 13 warn will happen?",
+          options: [
+            "Peace forever",
+            "If you will not listen, I will weep in secret; your flock will be taken captive",
+            "Nothing",
+            "Prosperity"
+          ],
+          correctAnswer: "If you will not listen, I will weep in secret; your flock will be taken captive"
+        }
+      ]
+    }
+  },
+  {
+    day: 234,
+    passage: "Jeremiah 14–16",
+    focus: "Drought and famine; false prophets; Jeremiah forbidden to marry; I will restore them to their land that I gave to their forefathers",
+    quiz: {
+      title: "📘 Jeremiah 14–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What calamity does Jeremiah 14 describe?",
+          options: [
+            "Abundance",
+            "Severe drought and famine; the ground is cracked, animals cry out",
+            "Flooding",
+            "Perfect weather"
+          ],
+          correctAnswer: "Severe drought and famine; the ground is cracked, animals cry out"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 14 describes Jeremiah interceding for the people despite their sins.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What do the false prophets say?",
+          correctAnswer: "You will not see the sword, and famine will not come upon you (lies of peace)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jehovah say about the false prophets in Jeremiah 14?",
+          options: [
+            "They speak truth",
+            "I did not send them; they prophesy lies in my name; they will perish by sword and famine",
+            "Listen to them",
+            "They are helpful"
+          ],
+          correctAnswer: "I did not send them; they prophesy lies in my name; they will perish by sword and famine"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 15 says even if Moses and Samuel stood before God, He would not show favor to this people.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jehovah tell Jeremiah about his ministry?",
+          options: [
+            "Everyone will love you",
+            "You will be a fortified copper wall; they will fight against you but not prevail",
+            "It will be easy",
+            "You will be popular"
+          ],
+          correctAnswer: "You will be a fortified copper wall; they will fight against you but not prevail"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What is Jeremiah forbidden to do in chapter 16?",
+          correctAnswer: "To marry, have sons or daughters, or enter a house of mourning or feasting"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why is Jeremiah given these restrictions?",
+          options: [
+            "As punishment",
+            "As a sign of the coming disaster; sons and daughters will die of deadly diseases",
+            "For no reason",
+            "To make him holy"
+          ],
+          correctAnswer: "As a sign of the coming disaster; sons and daughters will die of deadly diseases"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 16 promises that after exile, God will bring them back to the land He gave their forefathers.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 16 say about restoration?",
+          options: [
+            "It will never happen",
+            "Days are coming when it will no longer be said 'Jehovah brought Israel from Egypt' but 'from the land of the north'",
+            "Only partial restoration",
+            "Restoration without God"
+          ],
+          correctAnswer: "Days are coming when it will no longer be said 'Jehovah brought Israel from Egypt' but 'from the land of the north'"
+        }
+      ]
+    }
+  },
+  {
+    day: 235,
+    passage: "Jeremiah 17–20",
+    focus: "The heart is more deceitful than anything; cursed is the man trusting in humans; potter and clay; Jeremiah beaten and put in stocks",
+    quiz: {
+      title: "📘 Jeremiah 17–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah 17 say about the heart?",
+          options: [
+            "It is perfectly good",
+            "The heart is more deceitful than anything and is incurable; who can understand it?",
+            "It is trustworthy",
+            "It needs no examination"
+          ],
+          correctAnswer: "The heart is more deceitful than anything and is incurable; who can understand it?"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 17 says 'Cursed is the man who trusts in humans' but 'Blessed is the man who trusts in Jehovah.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What is the one trusting in Jehovah compared to?",
+          correctAnswer: "A tree planted by water, sending out roots by a stream, not afraid in drought, and bearing fruit"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 17 say about the Sabbath?",
+          options: [
+            "It doesn't matter",
+            "If you hallow the Sabbath, Jerusalem will remain forever; if not, I will set fire to its gates",
+            "Ignore it",
+            "Work on it"
+          ],
+          correctAnswer: "If you hallow the Sabbath, Jerusalem will remain forever; if not, I will set fire to its gates"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 18 uses the illustration of a potter working clay to show God's sovereignty over nations.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does the potter do when a vessel is spoiled?",
+          options: [
+            "Throws it away",
+            "Reworks it into another vessel as it seems good to the potter",
+            "Leaves it broken",
+            "Gives up"
+          ],
+          correctAnswer: "Reworks it into another vessel as it seems good to the potter"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What plot is made against Jeremiah in chapter 18?",
+          correctAnswer: "Come, let us devise a plot against Jeremiah; let us strike him with the tongue"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Jeremiah do with a clay jar in chapter 19?",
+          options: [
+            "Fills it with water",
+            "Breaks it in the Valley of Hinnom as a sign that God will break Jerusalem",
+            "Sells it",
+            "Keeps it"
+          ],
+          correctAnswer: "Breaks it in the Valley of Hinnom as a sign that God will break Jerusalem"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Pashhur the priest beat Jeremiah and put him in the stocks at the Upper Benjamin Gate.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah cry out in chapter 20?",
+          options: [
+            "Praise only",
+            "You deceived me, O Jehovah; I am a laughingstock all day long; cursed be the day I was born",
+            "Everything is wonderful",
+            "I have no troubles"
+          ],
+          correctAnswer: "You deceived me, O Jehovah; I am a laughingstock all day long; cursed be the day I was born"
+        }
+      ]
+    }
+  },
+  {
+    day: 236,
+    passage: "Jeremiah 21–23",
+    focus: "Zedekiah inquires of Jeremiah; woe to shepherds destroying the flock; righteous sprout from David; false prophets condemned",
+    quiz: {
+      title: "📘 Jeremiah 21–23 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Zedekiah ask Jeremiah?",
+          options: [
+            "For wealth",
+            "Inquire of Jehovah for us; perhaps He will perform a miracle and Nebuchadnezzar will withdraw",
+            "For advice on building",
+            "Nothing"
+          ],
+          correctAnswer: "Inquire of Jehovah for us; perhaps He will perform a miracle and Nebuchadnezzar will withdraw"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 21 tells Zedekiah that God will fight against Jerusalem with an outstretched hand.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What choice does Jeremiah give the people?",
+          correctAnswer: "The way of life and the way of death (surrender and live, or stay and die)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 22 say about Jehoiakim?",
+          options: [
+            "He was righteous",
+            "He will be buried with the burial of a donkey, dragged and thrown outside Jerusalem's gates",
+            "He will rule forever",
+            "He was perfect"
+          ],
+          correctAnswer: "He will be buried with the burial of a donkey, dragged and thrown outside Jerusalem's gates"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 22 declares Coniah (Jehoiachin) will be childless, with none of his offspring ruling on David's throne.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 23 pronounce on the shepherds (leaders)?",
+          options: [
+            "Blessing",
+            "Woe to the shepherds who are destroying and scattering the sheep of my pasture",
+            "Praise",
+            "Nothing"
+          ],
+          correctAnswer: "Woe to the shepherds who are destroying and scattering the sheep of my pasture"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah 23 promise God will raise up?",
+          correctAnswer: "A righteous sprout from David who will reign as king and act wisely"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What name will be given to the righteous sprout?",
+          options: [
+            "Mighty Warrior",
+            "Jehovah Is Our Righteousness",
+            "Prince of Peace",
+            "Wonderful Counselor"
+          ],
+          correctAnswer: "Jehovah Is Our Righteousness"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 23 condemns false prophets who prophesy lies and lead people astray.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Jeremiah 23 say about God's word?",
+          options: [
+            "It is weak",
+            "Is not my word like fire and like a hammer that breaks a rock to pieces?",
+            "It has no power",
+            "It is ineffective"
+          ],
+          correctAnswer: "Is not my word like fire and like a hammer that breaks a rock to pieces?"
+        }
+      ]
+    }
+  },
+  {
+    day: 237,
+    passage: "Jeremiah 24–26",
+    focus: "Two baskets of figs; 70 years of exile; cup of wrath for all nations; Jeremiah's temple sermon; threatened with death",
+    quiz: {
+      title: "📘 Jeremiah 24–26 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What vision does Jeremiah see in chapter 24?",
+          options: [
+            "Two cups",
+            "Two baskets of figs—one very good, one very bad",
+            "Two trees",
+            "Two scrolls"
+          ],
+          correctAnswer: "Two baskets of figs—one very good, one very bad"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The good figs represent the exiles whom God will bring back; the bad figs represent Zedekiah and those remaining.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How long does Jeremiah prophesy the exile will last?",
+          correctAnswer: "70 years"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 25 say will happen after 70 years?",
+          options: [
+            "Nothing",
+            "I will call Babylon to account and make it a desolate wasteland forever",
+            "Exile continues",
+            "Babylon will rule forever"
+          ],
+          correctAnswer: "I will call Babylon to account and make it a desolate wasteland forever"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 25 describes a cup of wrath that all nations must drink.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who must drink from the cup first?",
+          options: [
+            "Babylon",
+            "Jerusalem and the cities of Judah",
+            "Egypt",
+            "Distant nations"
+          ],
+          correctAnswer: "Jerusalem and the cities of Judah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah preach at the temple in chapter 26?",
+          correctAnswer: "If you do not listen and walk in my law, I will make this house like Shiloh and this city a curse"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How do the priests and prophets respond to Jeremiah's sermon?",
+          options: [
+            "They repent",
+            "They seize him and say 'You must die!' for prophesying against the temple",
+            "They ignore him",
+            "They praise him"
+          ],
+          correctAnswer: "They seize him and say 'You must die!' for prophesying against the temple"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Some elders remind the people that Micah prophesied similarly and Hezekiah did not kill him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to the prophet Uriah who prophesied like Jeremiah?",
+          options: [
+            "He was honored",
+            "King Jehoiakim had him killed with the sword",
+            "He escaped safely",
+            "Nothing"
+          ],
+          correctAnswer: "King Jehoiakim had him killed with the sword"
+        }
+      ]
+    }
+  },
+  {
+    day: 238,
+    passage: "Jeremiah 27–29",
+    focus: "Yoke of Babylon; Hananiah breaks the yoke; letter to exiles—build houses, seek peace of the city; I know the thoughts I am thinking toward you",
+    quiz: {
+      title: "📘 Jeremiah 27–29 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah wear as a sign in chapter 27?",
+          options: [
+            "A crown",
+            "A yoke of bars and ropes on his neck",
+            "Sackcloth",
+            "Royal robes"
+          ],
+          correctAnswer: "A yoke of bars and ropes on his neck"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The yoke symbolizes that nations must serve Nebuchadnezzar king of Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Jeremiah warn about those prophesying against Babylon?",
+          correctAnswer: "They prophesy lies; do not listen to them (they will cause you to be removed far from your land)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does the false prophet Hananiah do in chapter 28?",
+          options: [
+            "Agrees with Jeremiah",
+            "Breaks the yoke from Jeremiah's neck and prophesies Babylon's yoke will be broken in two years",
+            "Remains silent",
+            "Supports Jeremiah"
+          ],
+          correctAnswer: "Breaks the yoke from Jeremiah's neck and prophesies Babylon's yoke will be broken in two years"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah returns and tells Hananiah that God will replace the wooden yoke with an iron yoke.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happens to Hananiah?",
+          options: [
+            "He lives long",
+            "He dies within the year as Jeremiah prophesied",
+            "He repents",
+            "Nothing"
+          ],
+          correctAnswer: "He dies within the year as Jeremiah prophesied"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah tell the exiles to do in Babylon?",
+          correctAnswer: "Build houses, plant gardens, marry, multiply; seek the peace of the city"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What famous promise is in Jeremiah 29?",
+          options: [
+            "No hope exists",
+            "I know the thoughts I am thinking toward you—thoughts of peace, to give you a future and a hope",
+            "You are forgotten",
+            "Exile is forever"
+          ],
+          correctAnswer: "I know the thoughts I am thinking toward you—thoughts of peace, to give you a future and a hope"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 29 says 'You will call to me and come and pray to me, and I will listen to you.'",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "When will the exiles return according to Jeremiah 29?",
+          options: [
+            "Never",
+            "When 70 years are completed for Babylon, I will bring you back",
+            "Immediately",
+            "In 10 years"
+          ],
+          correctAnswer: "When 70 years are completed for Babylon, I will bring you back"
+        }
+      ]
+    }
+  },
+  {
+    day: 239,
+    passage: "Jeremiah 30–31",
+    focus: "Restoration promised; a time of distress for Jacob; I will make a new covenant; I will put my law within them and write it on their hearts",
+    quiz: {
+      title: "📘 Jeremiah 30–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah 30 say about the time coming?",
+          options: [
+            "Only judgment",
+            "It is a time of distress for Jacob, but he will be saved out of it; I will restore their fortunes",
+            "No hope",
+            "Permanent exile"
+          ],
+          correctAnswer: "It is a time of distress for Jacob, but he will be saved out of it; I will restore their fortunes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 30 promises that Israel will serve Jehovah their God and David their king whom God will raise up.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Jeremiah 30 say about Jacob's wounds?",
+          correctAnswer: "Your wound is incurable, but I will restore you to health and heal your wounds"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 31 say about God's love?",
+          options: [
+            "It is temporary",
+            "I have loved you with an everlasting love; I have drawn you with loyal love",
+            "It has ended",
+            "It is conditional"
+          ],
+          correctAnswer: "I have loved you with an everlasting love; I have drawn you with loyal love"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 31 says Rachel weeps for her children, but there is hope for your future—they will return.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 31 say about individual responsibility?",
+          options: [
+            "Children always suffer for parents' sins",
+            "Each one will die for his own error; the one eating sour grapes, his own teeth will be set on edge",
+            "No one is responsible",
+            "Only groups are judged"
+          ],
+          correctAnswer: "Each one will die for his own error; the one eating sour grapes, his own teeth will be set on edge"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What new covenant does God promise?",
+          correctAnswer: "I will make a new covenant with Israel and Judah, not like the old covenant"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Where will the new covenant law be placed?",
+          options: [
+            "On stone tablets",
+            "I will put my law within them and write it on their hearts",
+            "In a temple",
+            "In a book only"
+          ],
+          correctAnswer: "I will put my law within them and write it on their hearts"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Under the new covenant, they will all know Jehovah from the least to the greatest.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does God promise about their sins under the new covenant?",
+          options: [
+            "They will always be remembered",
+            "I will forgive their error, and I will no longer remember their sin",
+            "No forgiveness available",
+            "Partial forgiveness"
+          ],
+          correctAnswer: "I will forgive their error, and I will no longer remember their sin"
+        }
+      ]
+    }
+  },
+  {
+    day: 240,
+    passage: "Jeremiah 32–34",
+    focus: "Jeremiah buys a field as a sign; nothing is too difficult for you; rechabites' obedience contrasted with Judah; freeing slaves then taking them back",
+    quiz: {
+      title: "📘 Jeremiah 32–34 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jeremiah do while imprisoned during the siege?",
+          options: [
+            "Escapes",
+            "Buys a field in Anathoth as a sign that houses and fields will again be bought in the land",
+            "Gives up",
+            "Curses God"
+          ],
+          correctAnswer: "Buys a field in Anathoth as a sign that houses and fields will again be bought in the land"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah prays 'Ah, Sovereign Lord Jehovah! You made the heavens and earth. Nothing is too difficult for you.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does God confirm to Jeremiah?",
+          correctAnswer: "I am Jehovah, the God of all flesh. Is anything too difficult for me?"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does God promise despite giving the city to Babylon?",
+          options: [
+            "Nothing",
+            "I will gather them from all lands and bring them back; I will give them one heart and one way",
+            "Permanent exile",
+            "Complete destruction"
+          ],
+          correctAnswer: "I will gather them from all lands and bring them back; I will give them one heart and one way"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 33 promises a righteous sprout from David who will execute justice and righteousness.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 33 say about God's covenant with David?",
+          options: [
+            "It was cancelled",
+            "If you can break my covenant with day and night, then my covenant with David can be broken",
+            "It is weak",
+            "It is temporary"
+          ],
+          correctAnswer: "If you can break my covenant with day and night, then my covenant with David can be broken"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who are the Rechabites in Jeremiah 35?",
+          correctAnswer: "A family who obeyed their forefather's command not to drink wine or live in houses"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why does God use the Rechabites as an example?",
+          options: [
+            "They were wealthy",
+            "They obeyed their forefather, but Judah has not obeyed God despite many warnings",
+            "They were numerous",
+            "They were powerful"
+          ],
+          correctAnswer: "They obeyed their forefather, but Judah has not obeyed God despite many warnings"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 34 condemns Zedekiah and the people for freeing their slaves then taking them back again.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does God say about their treatment of the slaves?",
+          options: [
+            "It's acceptable",
+            "You have not obeyed me by proclaiming liberty; I will proclaim liberty for you—to the sword, plague, and famine",
+            "It doesn't matter",
+            "Keep the slaves"
+          ],
+          correctAnswer: "You have not obeyed me by proclaiming liberty; I will proclaim liberty for you—to the sword, plague, and famine"
+        }
+      ]
+    }
+  },
+  {
+    day: 241,
+    passage: "Jeremiah 36–37",
+    focus: "Baruch writes the scroll; Jehoiakim burns it; Jeremiah dictates it again; Zedekiah secretly asks Jeremiah; Jeremiah imprisoned in cistern",
+    quiz: {
+      title: "📘 Jeremiah 36–37 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who writes down Jeremiah's prophecies in chapter 36?",
+          options: [
+            "Jeremiah himself",
+            "Baruch the secretary",
+            "The king",
+            "A priest"
+          ],
+          correctAnswer: "Baruch the secretary"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Baruch reads the scroll in the temple on a fasting day.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does King Jehoiakim do when the scroll is read to him?",
+          correctAnswer: "He cuts it with a knife and throws it into the fire until the entire scroll is burned"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How does Jehoiakim react to God's words?",
+          options: [
+            "He repents",
+            "He shows no fear, does not rip his garments, and tries to arrest Jeremiah and Baruch",
+            "He obeys",
+            "He is terrified"
+          ],
+          correctAnswer: "He shows no fear, does not rip his garments, and tries to arrest Jeremiah and Baruch"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "After Jehoiakim burns the scroll, Jeremiah dictates it again with many similar words added.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does God say will happen to Jehoiakim?",
+          options: [
+            "He will rule forever",
+            "He will have no one to sit on David's throne; his corpse will be exposed to heat by day and frost by night",
+            "He will be honored",
+            "Nothing"
+          ],
+          correctAnswer: "He will have no one to sit on David's throne; his corpse will be exposed to heat by day and frost by night"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Zedekiah secretly ask Jeremiah in chapter 37?",
+          correctAnswer: "Is there any word from Jehovah?"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What message does Jeremiah give Zedekiah?",
+          options: [
+            "Victory is coming",
+            "You will be given into the hand of the king of Babylon",
+            "Peace will prevail",
+            "Escape is possible"
+          ],
+          correctAnswer: "You will be given into the hand of the king of Babylon"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah is accused of deserting to the Chaldeans and is beaten and imprisoned.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Where is Jeremiah imprisoned in chapter 37?",
+          options: [
+            "In a palace room",
+            "In the house of Jonathan the secretary, in a dungeon vault",
+            "In the temple",
+            "He is not imprisoned"
+          ],
+          correctAnswer: "In the house of Jonathan the secretary, in a dungeon vault"
+        }
+      ]
+    }
+  },
+  {
+    day: 242,
+    passage: "Jeremiah 38–40",
+    focus: "Jeremiah in the cistern; Ebed-melech rescues him; fall of Jerusalem; Jeremiah released; Gedaliah appointed governor then assassinated",
+    quiz: {
+      title: "📘 Jeremiah 38–40 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why do the princes put Jeremiah in a cistern in chapter 38?",
+          options: [
+            "To honor him",
+            "Because he tells people to surrender to the Babylonians to save their lives, weakening the soldiers' hands",
+            "He requested it",
+            "For no reason"
+          ],
+          correctAnswer: "Because he tells people to surrender to the Babylonians to save their lives, weakening the soldiers' hands"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The cistern had no water, only mud, and Jeremiah sank into the mud.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Who rescued Jeremiah from the cistern?",
+          correctAnswer: "Ebed-melech the Ethiopian (Cushite)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah tell Zedekiah will happen if he surrenders?",
+          options: [
+            "He will die",
+            "He will live, the city will not be burned, and his family will live",
+            "Nothing will change",
+            "He will be tortured"
+          ],
+          correctAnswer: "He will live, the city will not be burned, and his family will live"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Zedekiah refuses to surrender and tries to escape when Jerusalem falls.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happens to Zedekiah when he is captured?",
+          options: [
+            "He is honored",
+            "His sons are slaughtered before his eyes, then his eyes are put out and he is taken to Babylon in chains",
+            "He escapes again",
+            "Nothing"
+          ],
+          correctAnswer: "His sons are slaughtered before his eyes, then his eyes are put out and he is taken to Babylon in chains"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What happens to Jerusalem and the temple?",
+          correctAnswer: "The Babylonians burn the temple, the king's house, and all the houses, and break down the walls"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How is Jeremiah treated by the Babylonians?",
+          options: [
+            "Killed",
+            "Released and given the choice to go to Babylon or stay; he chooses to stay with the remnant",
+            "Imprisoned",
+            "Ignored"
+          ],
+          correctAnswer: "Released and given the choice to go to Babylon or stay; he chooses to stay with the remnant"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Gedaliah is appointed governor over those remaining in Judah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happens to Gedaliah?",
+          options: [
+            "He rules successfully",
+            "Ishmael assassinates him along with the Jews and Chaldeans with him",
+            "He goes to Babylon",
+            "He retires peacefully"
+          ],
+          correctAnswer: "Ishmael assassinates him along with the Jews and Chaldeans with him"
+        }
+      ]
+    }
+  },
+  {
+    day: 243,
+    passage: "Jeremiah 41–44",
+    focus: "Ishmael's treachery; Johanan rescues the captives; remnant flees to Egypt against God's word; judgment on those in Egypt",
+    quiz: {
+      title: "📘 Jeremiah 41–44 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Ishmael do after assassinating Gedaliah?",
+          options: [
+            "Repents",
+            "Kills 70 more men who came to worship, and takes the remaining people captive toward Ammon",
+            "Flees immediately",
+            "Surrenders"
+          ],
+          correctAnswer: "Kills 70 more men who came to worship, and takes the remaining people captive toward Ammon"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Johanan and his men rescue the captives from Ishmael, but Ishmael escapes to the Ammonites.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What do the people ask Jeremiah to do?",
+          correctAnswer: "Pray to Jehovah and ask what they should do; they promise to obey whatever God says"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does God tell them through Jeremiah?",
+          options: [
+            "Go to Egypt",
+            "Remain in the land and I will build you up; do not go to Egypt or you will die by sword, famine, and plague",
+            "Flee to Babylon",
+            "Hide in the wilderness"
+          ],
+          correctAnswer: "Remain in the land and I will build you up; do not go to Egypt or you will die by sword, famine, and plague"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The people accuse Jeremiah of lying and reject God's word, then go to Egypt anyway.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why do the people say they are going to Egypt?",
+          options: [
+            "Because God told them",
+            "They fear the Chaldeans will come because of Ishmael's assassination of Gedaliah",
+            "Egypt invited them",
+            "They have family there"
+          ],
+          correctAnswer: "They fear the Chaldeans will come because of Ishmael's assassination of Gedaliah"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah prophesy from Egypt?",
+          correctAnswer: "Nebuchadnezzar will come and strike Egypt; those who came here will die"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What sin does Jeremiah 44 address?",
+          options: [
+            "Theft",
+            "Making sacrificial smoke to other gods, especially the Queen of Heaven",
+            "Laziness",
+            "None"
+          ],
+          correctAnswer: "Making sacrificial smoke to other gods, especially the Queen of Heaven"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The women say they will continue burning incense to the Queen of Heaven because they prospered when they did it before.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does God say will happen to those in Egypt?",
+          options: [
+            "They will be safe",
+            "They will be consumed by sword and famine; only a few fugitives will return to Judah",
+            "They will prosper",
+            "Nothing"
+          ],
+          correctAnswer: "They will be consumed by sword and famine; only a few fugitives will return to Judah"
+        }
+      ]
+    }
+  },
+  {
+    day: 244,
+    passage: "Jeremiah 45–49",
+    focus: "Message to Baruch; prophecies against Egypt, Philistines, Moab, Ammon, Edom, Damascus, Kedar, Elam",
+    quiz: {
+      title: "📘 Jeremiah 45–49 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does God tell Baruch in chapter 45?",
+          options: [
+            "To seek great things for himself",
+            "Do not seek great things for yourself; I am bringing disaster on all flesh, but I will give you your life",
+            "To become wealthy",
+            "To rule"
+          ],
+          correctAnswer: "Do not seek great things for yourself; I am bringing disaster on all flesh, but I will give you your life"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 46 contains a prophecy against Egypt and its defeat at Carchemish.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does God call Egypt in chapter 46?",
+          correctAnswer: "A beautiful heifer, but a gadfly from the north is coming (or mere noise, who let the appointed time pass)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Jeremiah 47 prophesy against?",
+          options: [
+            "Israel",
+            "The Philistines—the sword is coming against them",
+            "Babylon",
+            "Persia"
+          ],
+          correctAnswer: "The Philistines—the sword is coming against them"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 48 is an extensive prophecy against Moab for its pride and arrogance.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Jeremiah 48 say about Moab?",
+          options: [
+            "It will prosper",
+            "Moab will be destroyed; it trusted in its treasures and will go into exile with Chemosh",
+            "It will be spared",
+            "Nothing"
+          ],
+          correctAnswer: "Moab will be destroyed; it trusted in its treasures and will go into exile with Chemosh"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Jeremiah 49 prophesy about Ammon?",
+          correctAnswer: "Has Israel no sons? Why has Milcom taken possession? Judgment is coming"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Jeremiah 49 say about Edom?",
+          options: [
+            "It will be honored",
+            "I will make you small among nations; your terror and pride have deceived you",
+            "It will rule",
+            "It is righteous"
+          ],
+          correctAnswer: "I will make you small among nations; your terror and pride have deceived you"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 49 prophesies against Damascus, Kedar, Hazor, and Elam.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does God promise about Elam at the end of chapter 49?",
+          options: [
+            "Permanent destruction",
+            "In the final part of the days, I will restore the fortunes of Elam",
+            "No restoration",
+            "Immediate judgment only"
+          ],
+          correctAnswer: "In the final part of the days, I will restore the fortunes of Elam"
+        }
+      ]
+    }
+  },
+  {
+    day: 245,
+    passage: "Jeremiah 50–52",
+    focus: "Extensive prophecy against Babylon; flee from Babylon; Babylon falls; Jerusalem's fall retold; Jehoiachin released from prison",
+    quiz: {
+      title: "📘 Jeremiah 50–52 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What do chapters 50-51 extensively prophesy?",
+          options: [
+            "Egypt's fall",
+            "Babylon's fall and destruction—she will become a desolate wasteland",
+            "Persia's rise",
+            "Israel's restoration only"
+          ],
+          correctAnswer: "Babylon's fall and destruction—she will become a desolate wasteland"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jeremiah 50 says 'Announce among the nations: Babylon has been captured; Bel has been put to shame.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does God call Israel and Judah in chapter 50?",
+          correctAnswer: "Lost sheep whose shepherds led them astray"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What command is given in Jeremiah 51?",
+          options: [
+            "Stay in Babylon",
+            "Flee from Babylon! Let each one save his life; do not perish because of her error",
+            "Settle permanently",
+            "Join Babylon"
+          ],
+          correctAnswer: "Flee from Babylon! Let each one save his life; do not perish because of her error"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jeremiah 51 says Babylon has been a golden cup in Jehovah's hand, making all the earth drunk.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Seraiah do with Jeremiah's scroll about Babylon?",
+          options: [
+            "Burns it immediately",
+            "Reads it in Babylon, then ties a stone to it and throws it into the Euphrates as a sign Babylon will sink",
+            "Keeps it hidden",
+            "Ignores it"
+          ],
+          correctAnswer: "Reads it in Babylon, then ties a stone to it and throws it into the Euphrates as a sign Babylon will sink"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does chapter 52 retell?",
+          correctAnswer: "The fall of Jerusalem, destruction of the temple, and exile to Babylon"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to the temple articles?",
+          options: [
+            "They were destroyed",
+            "The Chaldeans broke them up and carried the bronze to Babylon",
+            "They were hidden",
+            "They remained in Jerusalem"
+          ],
+          correctAnswer: "The Chaldeans broke them up and carried the bronze to Babylon"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jeremiah 52 records that the poorest people were left in the land to be vinedressers and farmers.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Jeremiah end?",
+          options: [
+            "With total despair",
+            "With Jehoiachin being released from prison and given honor by the king of Babylon—a note of hope",
+            "With Babylon's eternal rule",
+            "With no conclusion"
+          ],
+          correctAnswer: "With Jehoiachin being released from prison and given honor by the king of Babylon—a note of hope"
+        }
+      ]
+    }
+  },
+  {
+    day: 246,
+    passage: "Lamentations 1–2",
+    focus: "How lonely sits the city; she weeps bitterly in the night; Jehovah has become like an enemy; He has swallowed up Israel",
+    quiz: {
+      title: "📘 Lamentations 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does Lamentations begin?",
+          options: [
+            "With joy",
+            "How lonely sits the city that was once full of people! She has become like a widow",
+            "With celebration",
+            "With hope only"
+          ],
+          correctAnswer: "How lonely sits the city that was once full of people! She has become like a widow"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Lamentations 1 says Jerusalem weeps bitterly in the night with tears on her cheeks.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Lamentations 1 say Jerusalem has become?",
+          correctAnswer: "Unclean; all who honored her now despise her; she has become an object of scorn"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did this disaster come upon Jerusalem?",
+          options: [
+            "Random chance",
+            "Because of her many transgressions; Jehovah caused her grief because of her rebellious acts",
+            "Enemy strength only",
+            "No reason"
+          ],
+          correctAnswer: "Because of her many transgressions; Jehovah caused her grief because of her rebellious acts"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Lamentations 1 acknowledges 'Jehovah is righteous, for I rebelled against His word.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How does Lamentations 2 describe God's actions?",
+          options: [
+            "As absent",
+            "Jehovah has become like an enemy; He has swallowed up Israel and all her palaces",
+            "As indifferent",
+            "As weak"
+          ],
+          correctAnswer: "Jehovah has become like an enemy; He has swallowed up Israel and all her palaces"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Lamentations 2 say God did to His tabernacle?",
+          correctAnswer: "He demolished it like a garden booth; He destroyed His meeting place and made Zion forget festival and Sabbath"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Lamentations 2 say about the false prophets?",
+          options: [
+            "They spoke truth",
+            "Your prophets saw visions of worthlessness and foolishness; they did not expose your error",
+            "They were helpful",
+            "They were ignored"
+          ],
+          correctAnswer: "Your prophets saw visions of worthlessness and foolishness; they did not expose your error"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Lamentations 2 describes horrific scenes including mothers eating their own children during the siege.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does the poet call on the people to do?",
+          options: [
+            "Give up",
+            "Pour out your heart like water before Jehovah; lift up your hands to Him for the lives of your children",
+            "Remain silent",
+            "Flee"
+          ],
+          correctAnswer: "Pour out your heart like water before Jehovah; lift up your hands to Him for the lives of your children"
+        }
+      ]
+    }
+  },
+  {
+    day: 247,
+    passage: "Lamentations 3–5",
+    focus: "I am the man who has seen affliction; His mercies never end; they are new every morning; let us return to Jehovah; restore us to yourself",
+    quiz: {
+      title: "📘 Lamentations 3–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does the poet describe himself in Lamentations 3?",
+          options: [
+            "As blessed",
+            "I am the man who has seen affliction by the rod of His fury",
+            "As untouched",
+            "As perfectly happy"
+          ],
+          correctAnswer: "I am the man who has seen affliction by the rod of His fury"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Lamentations 3 says 'He has made me dwell in darkness like those long dead.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What hope does Lamentations 3 express despite the suffering?",
+          correctAnswer: "The acts of loyal love of Jehovah never end; His mercies never fail; they are new every morning"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Lamentations 3 say about God's faithful love?",
+          options: [
+            "It has ended",
+            "Great is Your faithfulness; Jehovah is good to those hoping in Him",
+            "It is weak",
+            "It doesn't exist"
+          ],
+          correctAnswer: "Great is Your faithfulness; Jehovah is good to those hoping in Him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Lamentations 3 says 'It is good to wait quietly for the salvation of Jehovah.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Lamentations 3 acknowledge about God?",
+          options: [
+            "He delights in afflicting",
+            "He does not willingly afflict or bring grief to humans; from His mouth come both calamity and good",
+            "He is cruel",
+            "He is unjust"
+          ],
+          correctAnswer: "He does not willingly afflict or bring grief to humans; from His mouth come both calamity and good"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Lamentations 3 call the people to do?",
+          correctAnswer: "Let us examine and scrutinize our ways and return to Jehovah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Lamentations 4 describe?",
+          options: [
+            "Prosperity",
+            "How gold has lost its luster; the precious sons of Zion worth their weight in gold are now esteemed as clay pots",
+            "Victory",
+            "Peace"
+          ],
+          correctAnswer: "How gold has lost its luster; the precious sons of Zion worth their weight in gold are now esteemed as clay pots"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Lamentations 5 is a prayer asking God to remember what has happened to them and to restore them.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Lamentations end?",
+          options: [
+            "With celebration",
+            "Restore us to yourself, O Jehovah, and we will return; renew our days as in the past",
+            "With despair only",
+            "With no prayer"
+          ],
+          correctAnswer: "Restore us to yourself, O Jehovah, and we will return; renew our days as in the past"
+        }
+      ]
+    }
+  },
+  {
+    day: 248,
+    passage: "Ezekiel 1–3",
+    focus: "Ezekiel's vision of God's throne-chariot; four living creatures; wheels within wheels; called to be a watchman; eat the scroll",
+    quiz: {
+      title: "📘 Ezekiel 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Where was Ezekiel when he received his vision?",
+          options: [
+            "In Jerusalem",
+            "Among the exiles by the river Chebar in Babylon",
+            "In Egypt",
+            "In Assyria"
+          ],
+          correctAnswer: "Among the exiles by the river Chebar in Babylon"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ezekiel saw four living creatures with four faces each: man, lion, bull, and eagle.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What was beside each of the living creatures?",
+          correctAnswer: "A wheel on the earth, a wheel within a wheel, full of eyes all around"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was above the living creatures?",
+          options: [
+            "Nothing",
+            "An expanse like ice, and above it a throne of sapphire with a figure like a man seated on it",
+            "Only clouds",
+            "A simple platform"
+          ],
+          correctAnswer: "An expanse like ice, and above it a throne of sapphire with a figure like a man seated on it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Ezekiel fell facedown when he saw the vision of Jehovah's glory.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does God commission Ezekiel to be?",
+          options: [
+            "A king",
+            "A prophet to the rebellious house of Israel, whether they listen or not",
+            "A priest only",
+            "A warrior"
+          ],
+          correctAnswer: "A prophet to the rebellious house of Israel, whether they listen or not"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does God tell Ezekiel to eat?",
+          correctAnswer: "A scroll that had writing on both sides with dirges, mourning, and wailing"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "How did the scroll taste to Ezekiel?",
+          options: [
+            "Bitter",
+            "Sweet as honey in his mouth",
+            "Sour",
+            "Tasteless"
+          ],
+          correctAnswer: "Sweet as honey in his mouth"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "God tells Ezekiel he is being sent to a people of obscure language that he cannot understand.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What role does God assign Ezekiel in chapter 3?",
+          options: [
+            "A priest",
+            "A watchman for the house of Israel; to warn the wicked and the righteous",
+            "A judge",
+            "A military commander"
+          ],
+          correctAnswer: "A watchman for the house of Israel; to warn the wicked and the righteous"
+        }
+      ]
+    }
+  },
+  {
+    day: 249,
+    passage: "Ezekiel 4–6",
+    focus: "Sign acts: siege of Jerusalem on a brick, lying on his side, eating rationed food; shave hair and divide it; prophecy against mountains of Israel",
+    quiz: {
+      title: "📘 Ezekiel 4–6 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does God tell Ezekiel to draw on a brick?",
+          options: [
+            "A temple",
+            "The city of Jerusalem and then lay siege against it",
+            "A map",
+            "An altar"
+          ],
+          correctAnswer: "The city of Jerusalem and then lay siege against it"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ezekiel is commanded to lie on his left side for 390 days to bear the error of Israel, and on his right side for 40 days for Judah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does each day of Ezekiel lying on his side represent?",
+          correctAnswer: "One year (a day for a year)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What kind of food is Ezekiel commanded to eat?",
+          options: [
+            "Abundant feasts",
+            "Rationed food made from various grains, cooked over fires of human excrement (later changed to cow dung)",
+            "Only bread",
+            "Nothing"
+          ],
+          correctAnswer: "Rationed food made from various grains, cooked over fires of human excrement (later changed to cow dung)"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The rationed food and water symbolize the siege conditions Jerusalem will experience.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does God tell Ezekiel to do with his hair and beard?",
+          options: [
+            "Let it grow",
+            "Shave it with a sword, then divide it into thirds: burn one-third, strike one-third with a sword, scatter one-third to the wind",
+            "Cut it normally",
+            "Nothing"
+          ],
+          correctAnswer: "Shave it with a sword, then divide it into thirds: burn one-third, strike one-third with a sword, scatter one-third to the wind"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What do the three portions of hair represent?",
+          correctAnswer: "The fate of Jerusalem's inhabitants: plague/famine, sword, and exile"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Ezekiel 6 prophesy against?",
+          options: [
+            "Babylon",
+            "The mountains of Israel where they worshiped idols on high places",
+            "Egypt",
+            "The sea"
+          ],
+          correctAnswer: "The mountains of Israel where they worshiped idols on high places"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Ezekiel 6 says God will strike down the altars and make the slain fall before their idols.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What hope is expressed in Ezekiel 6?",
+          options: [
+            "None",
+            "A remnant will escape and remember Jehovah among the nations where they are exiled",
+            "Complete destruction",
+            "Immediate restoration"
+          ],
+          correctAnswer: "A remnant will escape and remember Jehovah among the nations where they are exiled"
+        }
+      ]
+    }
+  },
+  {
+    day: 250,
+    passage: "Ezekiel 7–9",
+    focus: "The end has come; abominations in the temple; six men with weapons; man with inkhorn marks those sighing; slaughter begins",
+    quiz: {
+      title: "📘 Ezekiel 7–9 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Ezekiel 7 announce?",
+          options: [
+            "Peace is coming",
+            "The end has come! The end has come upon the four corners of the land",
+            "Prosperity",
+            "Victory"
+          ],
+          correctAnswer: "The end has come! The end has come upon the four corners of the land"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Ezekiel 7 says 'They will throw their silver into the streets; their gold will become an abhorrent thing.'",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Ezekiel 7 say about the people's wealth?",
+          correctAnswer: "Their silver and gold will not be able to save them in the day of Jehovah's fury"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Ezekiel see in the temple in chapters 8-9?",
+          options: [
+            "Pure worship",
+            "Detestable idolatry: an image of jealousy, elders burning incense to images, women weeping for Tammuz, men worshiping the sun",
+            "Nothing unusual",
+            "Perfect obedience"
+          ],
+          correctAnswer: "Detestable idolatry: an image of jealousy, elders burning incense to images, women weeping for Tammuz, men worshiping the sun"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The elders said 'Jehovah does not see us; Jehovah has abandoned the land.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did the men do at the entrance of the temple?",
+          options: [
+            "Prayed to Jehovah",
+            "Bowed down to the sun with their backs to Jehovah's temple",
+            "Offered proper sacrifices",
+            "Nothing wrong"
+          ],
+          correctAnswer: "Bowed down to the sun with their backs to Jehovah's temple"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does the man clothed in linen do?",
+          correctAnswer: "Puts a mark on the foreheads of those sighing and groaning over the detestable things"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happens to those without the mark?",
+          options: [
+            "Nothing",
+            "Six men with weapons strike them down—old men, young men, women, and children",
+            "They are spared",
+            "They are exiled only"
+          ],
+          correctAnswer: "Six men with weapons strike them down—old men, young men, women, and children"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The slaughter begins at the sanctuary, with the elders before the temple.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How does Ezekiel react to the vision?",
+          options: [
+            "With joy",
+            "He falls facedown and cries 'Will you destroy the entire remnant of Israel?'",
+            "With indifference",
+            "He celebrates"
+          ],
+          correctAnswer: "He falls facedown and cries 'Will you destroy the entire remnant of Israel?'"
+        }
+      ]
+    }
+  },
+  {
+    day: 251,
+    passage: "Ezekiel 10–12",
+    focus: "Jehovah's glory departing the temple, judgment on Jerusalem, and Ezekiel's sign acts",
+    quiz: {
+      title: "📘 Ezekiel 10–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 10, what filled the inner courtyard of the temple as the man in linen received the burning coals?",
+          options: ["The glory of Jehovah in the form of a cloud", "A pillar of fire from heaven", "A great wind from the north", "The sound of many trumpets"],
+          correctAnswer: "The glory of Jehovah in the form of a cloud"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "Where did the cherub take the burning coals from, according to Ezekiel 10:7?",
+          options: ["From the altar of burnt offering", "From between the wheels under the cherubs", "From the fire between the cherubs", "From the golden lampstand"],
+          correctAnswer: "From the fire between the cherubs"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "In Ezekiel 10, Ezekiel recognized the living creatures he saw at the Chebar River as the same cherubs he saw in his earlier vision.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Ezekiel 10:14, what four faces did each cherub have?",
+          options: ["Man, lion, ox, and eagle", "Cherub, man, lion, and eagle", "Lion, ox, eagle, and bear", "Man, cherub, serpent, and eagle"],
+          correctAnswer: "Cherub, man, lion, and eagle"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 10, the glory of Jehovah moved from the threshold of the temple and came to rest over the city of Jerusalem.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 11, who were the 25 men Ezekiel saw at the eastern gate of Jehovah's house?",
+          options: ["Priests serving at the temple", "Leaders of the people, including Jaazaniah and Pelatiah", "Foreign ambassadors visiting Jerusalem", "Levites guarding the temple entrance"],
+          correctAnswer: "Leaders of the people, including Jaazaniah and Pelatiah"
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What was the wicked counsel the 25 leaders were giving in Ezekiel 11:3?",
+          options: ["That the people should flee to Egypt for protection", "That they need not fear because Jerusalem was like a cooking pot protecting them", "That they should rebuild the temple walls immediately", "That Babylon would never conquer the city"],
+          correctAnswer: "That they need not fear because Jerusalem was like a cooking pot protecting them"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What promise did Jehovah make about a 'new heart' and a 'new spirit' to the exiles, as recorded in Ezekiel 11:19–20?",
+          correctAnswer: "Jehovah promised to remove the heart of stone from them and give them a heart of flesh and a new spirit, so they would walk in his statutes and keep his judgments, and they would be his people and he would be their God."
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 11, Pelatiah son of Benaiah died as Ezekiel was prophesying, which caused Ezekiel to fall on his face and cry out to Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What sign act did Jehovah command Ezekiel to perform in Ezekiel 12 to symbolize the coming exile?",
+          options: ["Shave his head and scatter his hair in the wind", "Dig through a wall, carry out his belongings on his shoulder, and cover his face", "Lie on his side for a set number of days", "Tie himself with ropes and sit among the elders"],
+          correctAnswer: "Dig through a wall, carry out his belongings on his shoulder, and cover his face"
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "Who did Jehovah say was represented by Ezekiel's sign act of carrying baggage out through a hole in the wall (Ezekiel 12:10–12)?",
+          options: ["The false prophets of Jerusalem", "The exiles already in Babylon", "The chieftain — meaning King Zedekiah — and the house of Israel in Jerusalem", "The priests who had abandoned the temple"],
+          correctAnswer: "The chieftain — meaning King Zedekiah — and the house of Israel in Jerusalem"
+        },
+        {
+          id: "q12",
+          type: "short-answer",
+          question: "In Ezekiel 12:22–23, what common proverb among the Israelites did Jehovah say he would put an end to, and what would replace it?",
+          correctAnswer: "The proverb was: 'The days keep getting prolonged, and every vision comes to nothing.' Jehovah said he would end this saying and replace it with: 'The days are near, as well as the fulfillment of every vision.'"
+        }
+      ]
+    }
+  },
+  {
+    day: 252,
+    passage: "Ezekiel 13–15",
+    focus: "Jehovah's condemnation of false prophets and prophetesses, worthless shepherds, and the parable of the useless vine",
+    quiz: {
+      title: "📘 Ezekiel 13–15 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 13, what did Jehovah say the false prophets were doing when they prophesied out of their own heart?",
+          options: [
+            "Following the spirit of Jehovah faithfully",
+            "Following their own spirit and seeing nothing at all",
+            "Repeating the words of true prophets",
+            "Teaching the law of Moses accurately"
+          ],
+          correctAnswer: "Following their own spirit and seeing nothing at all"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehovah compared the false prophets of Israel to jackals among the ruins, who had not gone up into the broken places nor built a stone wall to defend the house of Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 13, what image did Jehovah use to describe what the false prophets had built — and what would happen to it?",
+          options: [
+            "A cedar house that would be consumed by fire",
+            "A whitewashed wall that would be torn down by wind, flooding rain, and hailstones",
+            "A stone altar that would be toppled by an earthquake",
+            "A clay idol that would crumble in the rain"
+          ],
+          correctAnswer: "A whitewashed wall that would be torn down by wind, flooding rain, and hailstones"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What were the prophetesses condemned in Ezekiel 13 sewing onto people's wrists, and what was the purpose?",
+          options: [
+            "Strips of linen, to mark those devoted to Jehovah",
+            "Magic bands to ensnare lives and kerchiefs to cover heads for divination",
+            "Garlands of flowers to honor false gods",
+            "Bands of silver to identify those who paid tribute"
+          ],
+          correctAnswer: "Magic bands to ensnare lives and kerchiefs to cover heads for divination"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "According to Ezekiel 13:22–23, what two harmful effects had the false prophetesses caused, and what did Jehovah promise to do?",
+          correctAnswer: "They had disheartened the righteous with lies and encouraged the wicked to keep from turning back from their bad ways. Jehovah promised to tear off their magic bands, deliver his people from their power, and put an end to their false visions and divination."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 14, some of the elders of Israel came to inquire of Jehovah. What was the problem Jehovah identified with them?",
+          options: [
+            "They had not brought the required offerings to the temple",
+            "They had set up their disgusting idols in their hearts and placed a stumbling block of error before their faces",
+            "They had refused to listen to Ezekiel's prophecies",
+            "They had made a covenant with Babylon without Jehovah's approval"
+          ],
+          correctAnswer: "They had set up their disgusting idols in their hearts and placed a stumbling block of error before their faces"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Ezekiel 14, Jehovah said that if a true prophet was deceived into giving an answer, it was solely the fault of the person who had come with idols in his heart, and the prophet bore no guilt at all.",
+          correctAnswer: false
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 14:14, Jehovah named three righteous men whose righteousness could save only themselves, not others, in the face of his judgment. Who were they?",
+          options: [
+            "Abraham, Isaac, and Jacob",
+            "Moses, Aaron, and Miriam",
+            "Noah, Daniel, and Job",
+            "David, Solomon, and Elijah"
+          ],
+          correctAnswer: "Noah, Daniel, and Job"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Ezekiel 14, Jehovah described four severe acts of judgment he could send against a land. Which of the following is NOT one of the four mentioned?",
+          options: [
+            "Sword",
+            "Famine",
+            "Plague",
+            "Earthquake"
+          ],
+          correctAnswer: "Earthquake"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What was the point of Jehovah's repeated message in Ezekiel 14:21–23 about survivors being brought out of Jerusalem to Babylon?",
+          correctAnswer: "The survivors would demonstrate through their conduct and actions that Jehovah's severe judgments on Jerusalem were not without cause. When Ezekiel and the exiles saw their ways and were comforted, they would know that Jehovah had not acted without reason in doing what he did to Jerusalem."
+        },
+        {
+          id: "q11",
+          type: "multiple-choice",
+          question: "In Ezekiel 15, what was the main point of the parable comparing Jerusalem to a vine?",
+          options: [
+            "That Jerusalem had once been fruitful but needed pruning to bear more fruit",
+            "That the wood of the vine is useless for any purpose — even more so when it is charred — making Jerusalem fit only for burning",
+            "That Jerusalem should be replanted in a better land to grow stronger",
+            "That the vine of Israel would one day bear fruit again after a period of drought"
+          ],
+          correctAnswer: "That the wood of the vine is useless for any purpose — even more so when it is charred — making Jerusalem fit only for burning"
+        },
+        {
+          id: "q12",
+          type: "true-false",
+          question: "In Ezekiel 15, Jehovah indicated that Jerusalem had already been partly consumed by fire, and that he would make the land desolate because the people had acted unfaithfully.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 253,
+    passage: "Ezekiel 16",
+    focus: "Jerusalem's unfaithfulness compared to an adulterous wife who forgot Jehovah's kindness, and his promise of a future restoration",
+    quiz: {
+      title: "📘 Ezekiel 16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 16:3, what were the origins Jehovah attributed to Jerusalem to highlight her lowly beginnings?",
+          options: [
+            "Her father was an Assyrian and her mother was Egyptian",
+            "Her father was an Amorite and her mother was a Hittite",
+            "Her father was a Canaanite and her mother was a Philistine",
+            "Her father was a Babylonian and her mother was a Moabite"
+          ],
+          correctAnswer: "Her father was an Amorite and her mother was a Hittite"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 16, Jehovah described how he found Jerusalem as an abandoned newborn infant, cast out into the open field with no one to care for her, and he caused her to thrive.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "According to Ezekiel 16:15–17, how did Jerusalem misuse the gifts and beauty Jehovah had given her?",
+          options: [
+            "She traded them with Babylon in exchange for military protection",
+            "She trusted in her beauty and used Jehovah's gifts to make idols and played the prostitute with every passerby",
+            "She gave them to the priests of foreign gods as temple offerings",
+            "She buried them in the ground rather than use them for Jehovah's worship"
+          ],
+          correctAnswer: "She trusted in her beauty and used Jehovah's gifts to make idols and played the prostitute with every passerby"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What made Jerusalem's conduct worse than an ordinary prostitute, according to Ezekiel 16:31–34?",
+          options: [
+            "She sinned openly in the temple courts rather than in secret",
+            "She gave gifts to her lovers rather than receiving payment, bribing them to come to her",
+            "She refused to listen to any of Jehovah's prophets",
+            "She made covenants with foreign kings without any witnesses"
+          ],
+          correctAnswer: "She gave gifts to her lovers rather than receiving payment, bribing them to come to her"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 16, which two cities did Jehovah say were Jerusalem's sisters, described as having committed their own detestable acts?",
+          options: [
+            "Nineveh and Babylon",
+            "Tyre and Sidon",
+            "Samaria and Sodom",
+            "Egypt and Moab"
+          ],
+          correctAnswer: "Samaria and Sodom"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 16:48–49, Jehovah stated that Sodom's main sin was sexual immorality, and that Jerusalem had not committed anything nearly as bad.",
+          correctAnswer: false
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "According to Ezekiel 16:49–50, what were the actual sins of Sodom that Jehovah identified?",
+          correctAnswer: "Sodom's sins were pride, an abundance of food, and undisturbed ease, while not strengthening the hand of the poor and the needy. They also acted haughtily and committed detestable acts before Jehovah."
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 16:60–62, what did Jehovah promise despite Jerusalem's unfaithfulness?",
+          options: [
+            "That he would never again make a covenant with Israel",
+            "That he would remember his covenant made in her youth and establish an everlasting covenant with her",
+            "That Jerusalem would be permanently destroyed and never rebuilt",
+            "That the nations around her would rule over her forever as punishment"
+          ],
+          correctAnswer: "That he would remember his covenant made in her youth and establish an everlasting covenant with her"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 16, Jehovah said that when he restored Jerusalem and her sisters, Jerusalem would feel ashamed and would never again open her mouth boastfully.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Ezekiel 16:63, what was the purpose of Jerusalem's shame and humiliation in Jehovah's plan?",
+          correctAnswer: "So that Jerusalem would remember and be ashamed and never again open her mouth because of her humiliation, when Jehovah made an atonement for all she had done."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 254,
+    passage: "Ezekiel 17–18",
+    focus: "The parable of the two eagles and the vine, Zedekiah's broken covenant, and individual moral responsibility before Jehovah",
+    quiz: {
+      title: "📘 Ezekiel 17–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In the riddle of Ezekiel 17, what did the great eagle with large wings and long pinions that came to Lebanon represent?",
+          options: [
+            "The king of Egypt",
+            "The king of Babylon",
+            "The king of Assyria",
+            "The king of Persia"
+          ],
+          correctAnswer: "The king of Babylon"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "In Ezekiel 17, what did the topmost shoot of the cedar that the first eagle took to a city of traders represent?",
+          options: [
+            "The high priest taken into exile",
+            "King Jehoiachin taken to Babylon",
+            "The false prophet who fled to Egypt",
+            "The sacred vessels removed from the temple"
+          ],
+          correctAnswer: "King Jehoiachin taken to Babylon"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "In Ezekiel 17, the second eagle represented Egypt, and the vine (Zedekiah) stretched its roots toward it, seeking military help in violation of his covenant with Babylon.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did Jehovah say Zedekiah would not escape or succeed in Ezekiel 17:18–19?",
+          options: [
+            "Because his army was too small to fight Babylon",
+            "Because he had despised the oath and broken the covenant, and Jehovah himself would bring the consequences upon him",
+            "Because Egypt had already betrayed him by withdrawing its forces",
+            "Because the people of Jerusalem had refused to support him"
+          ],
+          correctAnswer: "Because he had despised the oath and broken the covenant, and Jehovah himself would bring the consequences upon him"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "In Ezekiel 17:22–24, Jehovah gave a hopeful conclusion to the parable. What did he promise to do with a tender shoot from the top of the cedar?",
+          correctAnswer: "Jehovah said he himself would take a tender shoot from the top of the cedar and plant it on a high and lofty mountain of Israel, where it would grow into a majestic cedar bearing fruit, and all the trees of the field would know that Jehovah had brought down the high tree and raised up the low tree."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 18, what popular proverb was the people of Israel using to blame their situation on their ancestors?",
+          options: [
+            "'The fathers have built with defective stones and the sons live in crumbling houses'",
+            "'The fathers eat unripe grapes and the teeth of the sons are set on edge'",
+            "'What the fathers sow in the wind the sons reap in the storm'",
+            "'The sins of the fathers are written in the deeds of the sons'"
+          ],
+          correctAnswer: "'The fathers eat unripe grapes and the teeth of the sons are set on edge'"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Ezekiel 18, Jehovah established the principle that each person would be judged according to his own ways — the soul that sins is the one that will die, not his children or parents.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Ezekiel 18:21–22, what would happen to a wicked person who turned away from all his sins and kept all of Jehovah's statutes?",
+          options: [
+            "He would be forgiven only after a period of punishment",
+            "He would be forgiven but his past sins would still be remembered",
+            "He would surely keep living and none of his transgressions would be remembered against him",
+            "He would need to offer sacrifices to atone for each past sin"
+          ],
+          correctAnswer: "He would surely keep living and none of his transgressions would be remembered against him"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Ezekiel 18, Israel accused Jehovah's way of being unjust. How did Jehovah respond to this charge?",
+          options: [
+            "He acknowledged that his judgments were sometimes harsh but necessary",
+            "He turned the charge around, saying it was their own ways that were unjust, not his",
+            "He promised to review each case individually before issuing judgment",
+            "He remained silent and let his actions speak for themselves"
+          ],
+          correctAnswer: "He turned the charge around, saying it was their own ways that were unjust, not his"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What did Jehovah declare about his attitude toward the death of the wicked in Ezekiel 18:23 and 32?",
+          correctAnswer: "Jehovah declared that he does not take any pleasure in the death of the wicked, but rather that the wicked person turn from his way and keep living. He urged the house of Israel to turn back and live."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 255,
+    passage: "Ezekiel 19–21",
+    focus: "Laments over Israel's princes, allegories of the vine and lioness, and Jehovah's sword of judgment against Jerusalem",
+    quiz: {
+      title: "📘 Ezekiel 19–21 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 19, the lamentation used the image of a lioness and her cubs. What did the first cub represent, who was taken to Egypt in hooks?",
+          options: [
+            "King Josiah",
+            "King Jehoahaz",
+            "King Jehoiachin",
+            "King Zedekiah"
+          ],
+          correctAnswer: "King Jehoahaz"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 19, the second lion cub who was taken to Babylon in a cage represented King Jehoiachin.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In the second lament of Ezekiel 19, Israel was compared to a vine. What happened to this vine that caused it to be uprooted and thrown to the ground?",
+          options: [
+            "It produced bitter fruit that poisoned the people",
+            "It grew too tall and overshadowed the other trees of the field",
+            "Fire spread out from one of its strong branches and consumed its fruit",
+            "It was transplanted into dry ground and its fruit withered"
+          ],
+          correctAnswer: "Fire spread out from one of its strong branches and consumed its fruit"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 20, when the elders of Israel came to inquire of Jehovah, what was his response?",
+          options: [
+            "He welcomed them and answered their questions immediately",
+            "He refused to let them inquire of him, and recounted Israel's history of rebellion",
+            "He told Ezekiel to give them a message of comfort",
+            "He instructed them to return after fasting for seven days"
+          ],
+          correctAnswer: "He refused to let them inquire of him, and recounted Israel's history of rebellion"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 20, Jehovah stated that he had given Israel his Sabbaths as a sign between him and them, so they would know that he was Jehovah who sanctifies them.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Ezekiel 20:33–38, what did Jehovah promise to do with Israel in a 'wilderness of the peoples,' and what would be the outcome?",
+          correctAnswer: "Jehovah promised to gather Israel from the nations and bring them into the wilderness of the peoples, where he would enter into judgment with them face to face. He would make them pass under the rod and bring them into the bond of the covenant, purging out the rebels and those who transgress against him, so they would not enter the land of Israel."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 21, what did the drawn sword of Jehovah represent?",
+          options: [
+            "The spiritual discipline Jehovah would use to correct Israel",
+            "The military power of Babylon that Jehovah would use to execute judgment on Jerusalem and the surrounding nations",
+            "The preaching of the prophets that would cut through the people's hard hearts",
+            "The law of Moses that condemned Israel's sins"
+          ],
+          correctAnswer: "The military power of Babylon that Jehovah would use to execute judgment on Jerusalem and the surrounding nations"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 21:19–21, what method did the king of Babylon use at the fork in the road to decide whether to attack Jerusalem or Rabbah of the Ammonites?",
+          options: [
+            "He consulted his royal advisers and military commanders",
+            "He used divination — shaking arrows, consulting household idols, and looking at the liver",
+            "He sent spies ahead to assess which city was more vulnerable",
+            "He waited for a sign from his gods in the movement of the stars"
+          ],
+          correctAnswer: "He used divination — shaking arrows, consulting household idols, and looking at the liver"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 21:26–27, Jehovah declared that the crown and turban of the king of Judah would be removed, and that the kingdom would not be restored until the one who had the legal right to it came.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Ezekiel 21:28–32, what fate did Jehovah pronounce on the Ammonites and their sword of judgment?",
+          correctAnswer: "Jehovah said the Ammonites' sword would return to its sheath and be judged in the land of their origin. They would be fuel for fire and their blood would be in the midst of the land, and they would be remembered no more, because Jehovah had spoken."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 256,
+    passage: "Ezekiel 22–23",
+    focus: "Jerusalem's bloodguilt and moral corruption, the failure of her leaders, and the allegory of Oholah and Oholibah",
+    quiz: {
+      title: "📘 Ezekiel 22–23 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 22, Jehovah called Jerusalem 'the city of bloodshed.' What were some of the specific sins listed among her princes?",
+          options: [
+            "Refusing to pay taxes and hoarding grain during famines",
+            "Using their power to shed blood, dishonoring parents, mistreating the foreign resident, and taking bribes",
+            "Building altars to foreign gods in the temple courts",
+            "Selling fellow Israelites into slavery to foreign nations"
+          ],
+          correctAnswer: "Using their power to shed blood, dishonoring parents, mistreating the foreign resident, and taking bribes"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 22:26, the priests were condemned for making no distinction between what is holy and what is common, and for hiding their eyes from Jehovah's Sabbaths.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 22:30, what was Jehovah looking for among the people, and what did he find?",
+          options: [
+            "A faithful high priest to offer sacrifices — but none could be found",
+            "A man to stand in the gap and repair the broken wall before him so he would not destroy the land — but he found no one",
+            "A righteous king to lead Israel back to his laws — but none remained",
+            "A true prophet to warn the people — but all had fled the land"
+          ],
+          correctAnswer: "A man to stand in the gap and repair the broken wall before him so he would not destroy the land — but he found no one"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 22:18–22, to what did Jehovah compare the house of Israel as he prepared to melt them in his anger?",
+          options: [
+            "Chaff scattered by the wind",
+            "Dross — the worthless residue left when silver is refined by fire",
+            "Cracked clay pots thrown into the valley",
+            "Withered branches cut off from a vine"
+          ],
+          correctAnswer: "Dross — the worthless residue left when silver is refined by fire"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 23, the two sisters Oholah and Oholibah represented which two entities?",
+          options: [
+            "Babylon and Egypt",
+            "Samaria and Jerusalem",
+            "Tyre and Sidon",
+            "Judah and Edom"
+          ],
+          correctAnswer: "Samaria and Jerusalem"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 23, Oholah (Samaria) played the prostitute with the Assyrians and was handed over to them as punishment, yet her sister Oholibah saw this and acted more corruptly than her.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "According to Ezekiel 23:22–24, whom did Jehovah say he would stir up against Oholibah (Jerusalem) as instruments of his judgment?",
+          options: [
+            "The Philistines from the west and the Moabites from the east",
+            "Her former lovers from Babylon and all of Chaldea",
+            "The nations of the far north and the armies of Persia",
+            "Egypt and the allied forces of Cush and Put"
+          ],
+          correctAnswer: "Her former lovers from Babylon and all of Chaldea"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "In Ezekiel 23:36–39, what specific religious crimes had both sisters committed that made their guilt especially serious before Jehovah?",
+          correctAnswer: "They had committed adultery with idols, sacrificed their own children — whom they had borne to Jehovah — as food to idols, and then came into Jehovah's sanctuary on the same day to profane it. They had also slaughtered their children as offerings to their idols on the very day they entered his sanctuary."
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "At the end of Ezekiel 23, Jehovah indicated that the purpose of the punishment on the two sisters was so that all women — meaning all nations — would be warned and not commit such acts of prostitution.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In Ezekiel 23:4, what is the meaning of the name Oholah?",
+          options: [
+            "Her tent",
+            "My tent is in her",
+            "House of the north",
+            "Daughter of Zion"
+          ],
+          correctAnswer: "Her tent"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 257,
+    passage: "Ezekiel 24–26",
+    focus: "The parable of the cooking pot, the death of Ezekiel's wife as a sign, the fall of Jerusalem, and Jehovah's judgment against Tyre",
+    quiz: {
+      title: "📘 Ezekiel 24–26 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 24, the parable of the cooking pot and boiling meat represented what coming event?",
+          options: [
+            "The plague that would strike the Babylonian army",
+            "The siege and destruction of Jerusalem by Babylon",
+            "The purification of the priesthood through trials",
+            "The famine that would come upon the surrounding nations"
+          ],
+          correctAnswer: "The siege and destruction of Jerusalem by Babylon"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 24, Jehovah told Ezekiel that his wife — the delight of his eyes — would die, and that Ezekiel was not to mourn publicly or weep, as a sign to the people.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What did Ezekiel's restrained mourning over his wife's death symbolize for the people of Israel, according to Ezekiel 24:21–24?",
+          options: [
+            "That Jehovah would eventually comfort them after a short period of grief",
+            "That they would be too stunned and ashamed to mourn openly when Jerusalem and the temple — the delight of their eyes — fell",
+            "That the priests would continue their temple duties even during the siege",
+            "That foreign nations would mock Israel's grief over their destroyed city"
+          ],
+          correctAnswer: "That they would be too stunned and ashamed to mourn openly when Jerusalem and the temple — the delight of their eyes — fell"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Ezekiel 24:25–27, what would happen to Ezekiel on the day a refugee arrived with news of Jerusalem's fall?",
+          options: [
+            "Ezekiel would be taken up in a vision to see the destroyed city",
+            "Ezekiel's mouth would be opened and he would no longer be speechless — he would speak as a sign to them",
+            "Ezekiel would perform another sign act before the house of Israel",
+            "Ezekiel would be released from his house and allowed to travel freely"
+          ],
+          correctAnswer: "Ezekiel's mouth would be opened and he would no longer be speechless — he would speak as a sign to them"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "In Ezekiel 25, before turning to Tyre, Jehovah pronounced judgment on four neighboring nations. Name them and give the main reason cited for each judgment.",
+          correctAnswer: "Ammon — for rejoicing over the defilement of Jehovah's sanctuary and the exile of Israel. Moab — for saying that the house of Judah was like all the other nations. Edom — for acting vengefully against the house of Judah. The Philistines — for taking revenge with contempt and causing destruction out of age-old hatred."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 26:2, what did Tyre say about Jerusalem's fall that provoked Jehovah's judgment against her?",
+          options: [
+            "'Jerusalem the holy city has been destroyed — now we can rebuild it in our image'",
+            "'The gateway of the peoples is broken — it has swung open to me. I will be filled, now that she has been devastated'",
+            "'The army of Judah has fallen and we will take their place among the nations'",
+            "'Now Israel has no king and we will rule over their trade routes'"
+          ],
+          correctAnswer: "'The gateway of the peoples is broken — it has swung open to me. I will be filled, now that she has been devastated'"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Ezekiel 26, Jehovah stated that Nebuchadnezzar king of Babylon would be the primary instrument of his judgment against Tyre, described as a king of kings coming with horses, war chariots, and a great army.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Ezekiel 26:19–21, what was the ultimate fate Jehovah decreed for Tyre?",
+          options: [
+            "It would be rebuilt by its conquerors as a tribute to their power",
+            "It would be brought down to the pit, to the people of long ago, and would be given no place in the land of the living",
+            "It would be sold into slavery to the nations of the east",
+            "It would become a wasteland for forty years before being restored"
+          ],
+          correctAnswer: "It would be brought down to the pit, to the people of long ago, and would be given no place in the land of the living"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 26, the coastal princes who had traded with Tyre are described as lamenting her fall, sitting on the ground trembling and taking up a dirge over her.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Ezekiel 26:14, what did Jehovah say would become of the site of Tyre, and how permanent would this judgment be?",
+          correctAnswer: "Jehovah said Tyre would become a bare rock — a place for spreading fishing nets — and would never be rebuilt, for Jehovah himself had spoken."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 258,
+    passage: "Ezekiel 27–28",
+    focus: "The lamentation over Tyre as a great merchant ship, and the judgment against the king of Tyre's pride and the city of Sidon",
+    quiz: {
+      title: "📘 Ezekiel 27–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 27, Tyre was compared to a beautifully constructed ship. What did the oars, planks, mast, and benches made from various timbers represent?",
+          options: [
+            "The different tribes of Israel that once traded with Tyre",
+            "The many nations and materials from across the known world that contributed to Tyre's greatness and wealth",
+            "The military strength that Tyre had accumulated over the centuries",
+            "The spiritual resources Tyre had stolen from Israel"
+          ],
+          correctAnswer: "The many nations and materials from across the known world that contributed to Tyre's greatness and wealth"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 27, Judah and the land of Israel are listed among the trading partners of Tyre, exchanging wheat, millet, honey, oil, and balsam for Tyre's merchandise.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In the lamentation of Ezekiel 27, what caused the magnificent ship of Tyre to sink?",
+          options: [
+            "An attack by the navy of Egypt",
+            "The east wind broke her apart in the heart of the sea",
+            "A great storm sent directly by Jehovah from the north",
+            "Her own crew mutinied and scuttled the ship"
+          ],
+          correctAnswer: "The east wind broke her apart in the heart of the sea"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Ezekiel 27:35–36, how did the nations and their kings react to the fall of Tyre?",
+          correctAnswer: "The inhabitants of the coastlands were appalled at Tyre, and their kings were greatly disturbed, their faces showing horror. The merchants among the peoples hissed at her — she had become an object of terror and would be no more."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 28:2, what specific claim did the leader of Tyre make that provoked Jehovah's judgment?",
+          options: [
+            "That he was greater than the king of Babylon",
+            "'I am a god. I sit in the seat of a god in the heart of the sea'",
+            "That Jehovah had no power over the sea peoples",
+            "'My wisdom and my wealth will protect me forever'"
+          ],
+          correctAnswer: "'I am a god. I sit in the seat of a god in the heart of the sea'"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 28:7–8, Jehovah said he would bring foreigners against the leader of Tyre who would draw their swords against his beauty and wisdom, and he would die the death of someone slain in the heart of the sea.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 28:12–15, the lamentation over the king of Tyre described him in highly symbolic terms. Where was he said to have been, described as 'a covering cherub'?",
+          options: [
+            "In the garden of Eden, on the holy mountain of God",
+            "In the throne room of the great king of Babylon",
+            "In the innermost room of Solomon's temple",
+            "In the heavenly court among the sons of God"
+          ],
+          correctAnswer: "In the garden of Eden, on the holy mountain of God"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "According to Ezekiel 28:17, what was the root cause of the downfall of the king of Tyre, described in the symbolic lament?",
+          options: [
+            "His excessive cruelty toward conquered peoples",
+            "His heart became haughty because of his beauty, and he corrupted his wisdom because of his own glorious splendor",
+            "His refusal to pay tribute to the great empires around him",
+            "His worshipping of foreign gods instead of Jehovah"
+          ],
+          correctAnswer: "His heart became haughty because of his beauty, and he corrupted his wisdom because of his own glorious splendor"
+        },
+        {
+          id: "q9",
+          type: "short-answer",
+          question: "In Ezekiel 28:20–23, what was the judgment Jehovah pronounced against Sidon, and what would the nations know as a result?",
+          correctAnswer: "Jehovah said he was against Sidon and would be glorified in her midst. He would send pestilence and blood into her streets, and the slain would fall within her. The nations would know that he is Jehovah when he executed his judgments in her and showed himself holy in her."
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "In Ezekiel 28:25–26, Jehovah concluded the section with a promise that he would eventually gather Israel from the peoples among whom they had been scattered and would let them dwell in security on their own soil.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+  {
+    day: 259,
+    passage: "Ezekiel 29–31",
+    focus: "Jehovah's judgment against Egypt, Pharaoh as a great dragon, and the fall of Egypt compared to a toppled cedar of Lebanon",
+    quiz: {
+      title: "📘 Ezekiel 29–31 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 29:3, Pharaoh king of Egypt was compared to what creature lying in the Nile River?",
+          options: [
+            "A great serpent",
+            "A large crocodile or dragon",
+            "A mighty lion",
+            "A massive bull"
+          ],
+          correctAnswer: "A large crocodile or dragon"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 29, Jehovah condemned Egypt because Israel had leaned on her for support, and Egypt proved to be a staff of reed that splintered and pierced Israel's hand.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "According to Ezekiel 29:13–16, what did Jehovah promise would happen to Egypt after forty years of desolation?",
+          options: [
+            "It would be rebuilt into the greatest empire of the ancient world",
+            "It would be gathered back but remain a lowly kingdom, never again exalting itself above the nations",
+            "It would be permanently given to Babylon as a province",
+            "It would be repopulated by exiles from Israel and Judah"
+          ],
+          correctAnswer: "It would be gathered back but remain a lowly kingdom, never again exalting itself above the nations"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 29:17–20, why did Jehovah say he was giving Egypt to Nebuchadnezzar as wages?",
+          options: [
+            "Because Nebuchadnezzar had worshipped Jehovah faithfully throughout the siege",
+            "Because his army had worked hard against Tyre but received no wages from it for the service he rendered against it",
+            "Because Egypt had refused to pay tribute to Babylon for twenty years",
+            "Because Nebuchadnezzar had freed the Israelite captives in Babylon"
+          ],
+          correctAnswer: "Because his army had worked hard against Tyre but received no wages from it for the service he rendered against it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 30, Jehovah said that the day of Egypt's judgment would be a cloudy time — a day of doom for the nations — and that he would strengthen the arms of the king of Babylon against Egypt.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Ezekiel 30:20–26, Jehovah described breaking Pharaoh's arms. What did the broken and strengthened arms symbolize in this prophecy?",
+          correctAnswer: "The broken arms of Pharaoh represented the shattering of Egypt's military power, while the strengthened arms of the king of Babylon represented Jehovah empowering Nebuchadnezzar to carry out his judgment against Egypt. The Egyptians would be scattered among the nations."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 31, Egypt and Pharaoh were compared to which great tree?",
+          options: [
+            "A towering oak of Bashan",
+            "A great cedar of Lebanon",
+            "A mighty terebinth of the valley",
+            "A tall palm tree of the Jordan"
+          ],
+          correctAnswer: "A great cedar of Lebanon"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 31:10–12, what was the reason given for the great cedar being brought down?",
+          options: [
+            "It had stopped producing fruit for the nations around it",
+            "Its heart had become haughty because of its height and it had exalted itself",
+            "Its roots had spread into lands that did not belong to it",
+            "The nations had turned against it and conspired for its downfall"
+          ],
+          correctAnswer: "Its heart had become haughty because of its height and it had exalted itself"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 31, Jehovah pointed out that no tree in the garden of Eden had equaled the cedar in beauty, yet even this great tree was brought down to the pit.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What lesson did Jehovah say the fall of the great cedar was meant to teach, as stated in Ezekiel 31:14?",
+          correctAnswer: "The lesson was that no tree watered by waters should exalt itself in height or put its treetop among the clouds, and that no well-watered tree should stand tall in its height — for they are all given over to death, to the lower parts of the earth."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 260,
+    passage: "Ezekiel 32–33",
+    focus: "Laments over Pharaoh and Egypt's descent to the pit, and Ezekiel's role as watchman with the news of Jerusalem's fall",
+    quiz: {
+      title: "📘 Ezekiel 32–33 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 32:2, Pharaoh was compared to two creatures. What were they?",
+          options: [
+            "A roaring bear and a great serpent",
+            "A young lion among the nations and a monster in the seas",
+            "A mighty eagle and a river dragon",
+            "A prowling leopard and a sea creature"
+          ],
+          correctAnswer: "A young lion among the nations and a monster in the seas"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 32, Jehovah described causing the sun, moon, and stars to be darkened over Egypt as part of his judgment — language indicating the extinguishing of Egypt's national glory.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 32:17–32, Ezekiel was shown Egypt descending to the pit. Which of the following nations was NOT listed among those already there in shame?",
+          options: [
+            "Assyria",
+            "Elam",
+            "Babylon",
+            "Meshech and Tubal"
+          ],
+          correctAnswer: "Babylon"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Ezekiel 33:1–6, Jehovah used the illustration of a watchman for a city. What was the watchman's responsibility, and what happened if he failed to warn the people?",
+          correctAnswer: "The watchman's responsibility was to blow the horn and warn the people when he saw the sword coming. If he saw the danger and did not warn them, and someone died, Jehovah would hold the watchman responsible for that person's blood. But if he warned them and they did not listen, they would be responsible for their own death."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 33:10, the people of Israel said their transgressions and sins were weighing them down and they were rotting away. What hopeless conclusion had they drawn?",
+          options: [
+            "That Jehovah had abandoned them permanently in favor of Babylon",
+            "'How can we keep living?' — expressing despair that survival was impossible",
+            "That the prophets had been wrong and there was no hope of restoration",
+            "That they would never be allowed to return to the land of Israel"
+          ],
+          correctAnswer: "'How can we keep living?' — expressing despair that survival was impossible"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 33:12–13, Jehovah warned that the righteousness of a righteous person would not save him on the day he turned to wrongdoing, and that he would die because of his sin.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 33:21, a fugitive arrived from Jerusalem with what news, and how did this affect Ezekiel?",
+          options: [
+            "He brought news that the siege had been lifted; Ezekiel was commanded to remain silent",
+            "He brought news that the city had fallen; Ezekiel's mouth was opened and he was no longer speechless",
+            "He brought news of the temple's destruction; Ezekiel fell into a vision",
+            "He brought news that the king had survived; Ezekiel was told to prophesy comfort"
+          ],
+          correctAnswer: "He brought news that the city had fallen; Ezekiel's mouth was opened and he was no longer speechless"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 33:24, what false reasoning were the remaining inhabitants of the ruined land of Israel using to claim the land still belonged to them?",
+          options: [
+            "That Jehovah had promised the land to David's descendants forever",
+            "That Abraham was only one man yet received the land, so they — being many — surely possessed it",
+            "That the law of Moses said the land could never be given to foreigners",
+            "That the temple's foundation stones still stood, proving Jehovah had not abandoned the land"
+          ],
+          correctAnswer: "That Abraham was only one man yet received the land, so they — being many — surely possessed it"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 33:30–32, Jehovah told Ezekiel that the people enjoyed listening to his words and spoke well of him, but they were not acting on what they heard — treating his message like an entertaining song.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "According to Ezekiel 33:19, what did Jehovah promise to someone wicked who turned from his wickedness and began doing what is just and righteous?",
+          correctAnswer: "Jehovah promised that the wicked person who turned from his wickedness and did what is just and righteous would keep living because of those actions."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 261,
+    passage: "Ezekiel 34–36",
+    focus: "Jehovah as the true shepherd against faithless shepherds, the judgment on Edom, and the promise of Israel's restoration and a new heart",
+    quiz: {
+      title: "📘 Ezekiel 34–36 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 34, what were the shepherds of Israel condemned for doing to the flock?",
+          options: [
+            "Selling the sheep to foreign nations for profit",
+            "Feeding themselves instead of the flock — not strengthening the weak, healing the sick, or searching for the lost",
+            "Allowing foreign shepherds to take over the pastures of Israel",
+            "Refusing to offer the required sacrifices on behalf of the people"
+          ],
+          correctAnswer: "Feeding themselves instead of the flock — not strengthening the weak, healing the sick, or searching for the lost"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 34:11–16, Jehovah declared that he himself would search for his sheep, rescue them from all the places where they had been scattered, and feed them on good pasture.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 34:23–24, who did Jehovah promise to raise up as one shepherd over his flock?",
+          options: [
+            "A faithful high priest from the line of Aaron",
+            "My servant David — pointing to the future Messianic ruler",
+            "A prince from the tribe of Judah chosen by lot",
+            "Ezekiel himself as a representative shepherd"
+          ],
+          correctAnswer: "My servant David — pointing to the future Messianic ruler"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 35, why was Jehovah's judgment directed against Mount Seir (Edom)?",
+          options: [
+            "Because Edom had worshipped Baal and led Israel into idolatry",
+            "Because Edom harbored an age-old hatred for Israel and had given them over to the sword at the time of their calamity",
+            "Because Edom had made a military alliance with Babylon against Jehovah's will",
+            "Because Edom had refused to allow Israelite exiles to pass through their land"
+          ],
+          correctAnswer: "Because Edom harbored an age-old hatred for Israel and had given them over to the sword at the time of their calamity"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 35:10, Edom was condemned for saying that Israel and Judah — the two nations and their lands — would become theirs to possess, even though Jehovah was there.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 36:20–21, why did Jehovah say he would act to restore Israel, even though they had profaned his name among the nations?",
+          options: [
+            "Because Israel had finally repented sincerely in exile",
+            "Because he felt compassion for their suffering at the hands of Babylon",
+            "For the sake of his own holy name, which the house of Israel had profaned among the nations",
+            "Because the nations had gone too far in mocking his people"
+          ],
+          correctAnswer: "For the sake of his own holy name, which the house of Israel had profaned among the nations"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Describe the promise Jehovah made in Ezekiel 36:25–27 about what he would do for the restored Israel.",
+          correctAnswer: "Jehovah promised to sprinkle clean water on them and they would be clean from all their uncleanness and idols. He would give them a new heart and put a new spirit within them, removing the heart of stone and giving them a heart of flesh. He would put his spirit within them and cause them to walk in his statutes and keep his judgments."
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 36:33–35, what would the restored land of Israel look like, causing the nations to recognize Jehovah's work?",
+          options: [
+            "It would be filled with gold and silver from the nations as tribute",
+            "The desolate land would be cultivated and the ruined cities rebuilt and inhabited, making it like the garden of Eden",
+            "A great temple would be built surpassing Solomon's in glory",
+            "The land would produce miraculous harvests beyond anything seen before"
+          ],
+          correctAnswer: "The desolate land would be cultivated and the ruined cities rebuilt and inhabited, making it like the garden of Eden"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 36:37, Jehovah indicated he would respond to Israel's request and let them inquire of him before increasing their people like a flock.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In Ezekiel 34:25, what did Jehovah call the covenant he would make with his restored people?",
+          options: [
+            "The covenant of the land",
+            "The covenant of peace",
+            "The everlasting covenant",
+            "The covenant of David"
+          ],
+          correctAnswer: "The covenant of peace"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 262,
+    passage: "Ezekiel 37–38",
+    focus: "The vision of the valley of dry bones, the reunion of Israel and Judah, and the prophecy of Gog's attack from the north",
+    quiz: {
+      title: "📘 Ezekiel 37–38 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 37, what did the valley full of dry bones represent, according to Jehovah's own explanation?",
+          options: [
+            "The nations that had been destroyed by Babylon",
+            "The whole house of Israel, who were saying their bones had dried up and their hope had perished",
+            "The false prophets whose words had no life in them",
+            "The priests who had died in the destruction of Jerusalem"
+          ],
+          correctAnswer: "The whole house of Israel, who were saying their bones had dried up and their hope had perished"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 37, Ezekiel was commanded to prophesy to the bones, and as he did, there was a noise and a rattling, and the bones came together with sinews, flesh, and skin — but the breath did not enter them until he prophesied to the wind.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "In Ezekiel 37:15–22, what did the joining of the two sticks — one for Judah and one for Joseph — symbolize?",
+          correctAnswer: "It symbolized Jehovah's purpose to reunite the two kingdoms of Israel and Judah into one nation in the land, with one king over them, so they would no longer be two nations or divided into two kingdoms."
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 37:24–26, what two roles would David — the promised future ruler — fill for the reunited Israel?",
+          options: [
+            "High priest and military commander",
+            "King and shepherd, under an everlasting covenant of peace",
+            "Prophet and judge over all the tribes",
+            "Mediator and lawgiver for the restored nation"
+          ],
+          correctAnswer: "King and shepherd, under an everlasting covenant of peace"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 38:2–3, who is Gog, and from what land does he come?",
+          options: [
+            "Gog, of the land of Ammon, chief prince of Edom and Moab",
+            "Gog, of the land of Magog, chief prince of Meshech and Tubal",
+            "Gog, of the land of Assyria, commander of the armies of the north",
+            "Gog, of the land of Persia, ruler of the eastern kingdoms"
+          ],
+          correctAnswer: "Gog, of the land of Magog, chief prince of Meshech and Tubal"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 38, Jehovah stated that he himself would put hooks in Gog's jaws and bring him and his vast army against the mountains of Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 38:11–12, what condition of Israel did Gog plan to exploit when he attacked?",
+          options: [
+            "Israel was weakened by famine and disease",
+            "Israel was living in unprotected settlements — a land of open rural areas without walls, bars, or gates",
+            "Israel had no king and was in political chaos",
+            "Israel was distracted by wars with neighboring nations"
+          ],
+          correctAnswer: "Israel was living in unprotected settlements — a land of open rural areas without walls, bars, or gates"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 38:13, which nations challenged Gog's motives, asking if he had come to plunder silver and gold and carry off livestock?",
+          options: [
+            "Egypt, Assyria, and Babylon",
+            "Sheba, Dedan, and the merchants of Tarshish",
+            "Moab, Edom, and the Philistines",
+            "Persia, Cush, and Libya"
+          ],
+          correctAnswer: "Sheba, Dedan, and the merchants of Tarshish"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 38:18–20, Jehovah described his reaction to Gog's attack as one of hot anger, accompanied by a great earthquake that would shake all living things on earth.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "According to Ezekiel 38:23, what was Jehovah's ultimate purpose in allowing and then defeating Gog's attack?",
+          correctAnswer: "Jehovah's ultimate purpose was to magnify himself and sanctify himself and make himself known before the eyes of many nations, so that they would know that he is Jehovah."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 263,
+    passage: "Ezekiel 39–40",
+    focus: "The defeat and burial of Gog, Jehovah's restoration of Israel, and the vision of the future temple's outer courts and gates",
+    quiz: {
+      title: "📘 Ezekiel 39–40 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 39:3–4, how did Jehovah say he would defeat Gog and his army on the mountains of Israel?",
+          options: [
+            "By sending a great plague that would destroy them overnight",
+            "By striking his bow from his left hand and making his arrows fall from his right hand, leaving him to fall on the mountains",
+            "By causing the surrounding nations to rise up and destroy Gog's forces",
+            "By sending fire down from heaven to consume the entire army"
+          ],
+          correctAnswer: "By striking his bow from his left hand and making his arrows fall from his right hand, leaving him to fall on the mountains"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 39, Jehovah said that he would send fire on Magog and on those who were living in security in the coastlands, and they would know that he is Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 39:9–10, how long did Jehovah say the Israelites would use the weapons of Gog's army for fuel?",
+          options: [
+            "Three years",
+            "Five years",
+            "Seven years",
+            "Ten years"
+          ],
+          correctAnswer: "Seven years"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "Describe the large-scale burial operation described in Ezekiel 39:11–16 following the defeat of Gog.",
+          correctAnswer: "Gog and all his multitude would be buried in a valley east of the sea, called the Valley of Gog's Crowd. It would take seven months for the house of Israel to bury them in order to cleanse the land. Men would be employed continuously to pass through the land and bury the remains, and anyone who found a bone would mark it until the burial workers had buried it in the valley."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 39:25–29, what did Jehovah promise regarding Israel after the defeat of Gog?",
+          options: [
+            "That Israel would become the dominant military power among all nations",
+            "That he would restore their captives, have mercy on the whole house of Israel, and pour out his spirit on them",
+            "That Israel would rebuild the temple more glorious than Solomon's",
+            "That the nations would bring tribute to Israel for one hundred years"
+          ],
+          correctAnswer: "That he would restore their captives, have mercy on the whole house of Israel, and pour out his spirit on them"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 40:1–2, when did Ezekiel receive the vision of the future temple, and where was he taken in the vision?",
+          options: [
+            "In the first year of the exile, to the city of Babylon",
+            "In the 25th year of the exile, to a very high mountain in the land of Israel",
+            "In the year Jerusalem fell, to the ruins of the old temple",
+            "In the 30th year of the exile, to the banks of the Chebar River"
+          ],
+          correctAnswer: "In the 25th year of the exile, to a very high mountain in the land of Israel"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Ezekiel 40, the man with a linen cord and a measuring reed who met Ezekiel instructed him to look and listen carefully and pay attention to everything he was shown, so he could report it to the house of Israel.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 40, which gate of the temple's outer court did Ezekiel first approach and measure?",
+          options: [
+            "The south gate",
+            "The west gate",
+            "The north gate",
+            "The east gate"
+          ],
+          correctAnswer: "The east gate"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "According to Ezekiel 40:38–43, what activities took place in the chambers near the inner gate?",
+          options: [
+            "The storage of tithes and offerings brought by the people",
+            "The washing of the burnt offerings and the slaughtering and preparing of sacrifices",
+            "The teaching of the law to the priests and Levites",
+            "The housing of the musicians and singers of the temple"
+          ],
+          correctAnswer: "The washing of the burnt offerings and the slaughtering and preparing of sacrifices"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "In Ezekiel 40, chambers for the priests who had charge of the temple were located near the inner court, facing north and south.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+
+  {
+    day: 264,
+    passage: "Ezekiel 41–43",
+    focus: "The measurements of the temple interior and surrounding structures, and the return of Jehovah's glory to the new temple",
+    quiz: {
+      title: "📘 Ezekiel 41–43 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 41, what was located at the very end of the inner temple that the guiding man measured but Ezekiel was not permitted to enter?",
+          options: [
+            "The altar of incense",
+            "The Most Holy, the innermost room of the temple",
+            "The room for the ark of the covenant",
+            "The chamber of the high priest"
+          ],
+          correctAnswer: "The Most Holy, the innermost room of the temple"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 41:18–20, the walls of the temple were decorated with carvings of cherubs and palm trees, with each cherub having two faces — one of a lion and one of a man.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 41:22, a wooden altar was described inside the temple. What was it called?",
+          options: [
+            "The altar of burnt offering",
+            "The table that stands before Jehovah",
+            "The altar of incense",
+            "The table of the bread of the presence"
+          ],
+          correctAnswer: "The table that stands before Jehovah"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 42:13–14, what was the purpose of the holy dining rooms for the priests near the temple?",
+          options: [
+            "For housing visiting priests from other towns during festivals",
+            "For eating the most holy offerings and storing the holy contributions, and for the priests to change out of their holy garments before going to the outer court",
+            "For training new priests in the laws of sacrifice",
+            "For storing the temple treasuries and the sacred vessels"
+          ],
+          correctAnswer: "For eating the most holy offerings and storing the holy contributions, and for the priests to change out of their holy garments before going to the outer court"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 42:20, the outer wall surrounding the entire temple complex measured 500 cubits on each of its four sides, serving to make a separation between what is holy and what is common.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Ezekiel 43:1–4, from which direction did the glory of Jehovah return to the temple?",
+          options: [
+            "From the west, over the sea",
+            "From the north, from the direction of Babylon",
+            "From the east, the same direction from which it had departed",
+            "From the south, from the direction of Jerusalem's old city"
+          ],
+          correctAnswer: "From the east, the same direction from which it had departed"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "In Ezekiel 43:7–9, what conditions did Jehovah set for dwelling among the Israelites permanently in the new temple?",
+          correctAnswer: "Jehovah said they must put away their spiritual prostitution and the carcasses of their kings — meaning their former kings' high places and idolatry. They must remove those things far away from him, and then he would dwell among them forever."
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 43:10–11, why did Jehovah tell Ezekiel to describe the temple to the house of Israel?",
+          options: [
+            "So they could begin construction of it immediately upon their return",
+            "So they would feel ashamed of their past errors and measure the pattern carefully",
+            "So they would know how to worship correctly during the exile in Babylon",
+            "So they could teach the surrounding nations about Jehovah's requirements"
+          ],
+          correctAnswer: "So they would feel ashamed of their past errors and measure the pattern carefully"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Ezekiel 43:13–17, what was measured and described in detail as the place for burnt offerings?",
+          options: [
+            "The laver for priestly washing",
+            "The altar with its base, ledge, and hearth",
+            "The inner court pavement",
+            "The steps leading up to the temple porch"
+          ],
+          correctAnswer: "The altar with its base, ledge, and hearth"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "In Ezekiel 43:18–27, Jehovah gave instructions for a seven-day inauguration of the altar with sin offerings and burnt offerings before regular offerings could begin on the eighth day.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+
+  {
+    day: 265,
+    passage: "Ezekiel 44–45",
+    focus: "Regulations for the temple gates and priests, the role of the Levites, and the allotment of the holy district and land",
+    quiz: {
+      title: "📘 Ezekiel 44–45 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 44:2, why was the outer east gate of the temple to remain permanently shut?",
+          options: [
+            "Because it faced the direction of the enemy and was a security risk",
+            "Because Jehovah, the God of Israel, had entered through it, so it must remain shut",
+            "Because only the high priest was permitted to use it on the Day of Atonement",
+            "Because it was reserved for the Messiah's future entry into the temple"
+          ],
+          correctAnswer: "Because Jehovah, the God of Israel, had entered through it, so it must remain shut"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 44:9, Jehovah declared that no foreigner — uncircumcised in heart or in flesh — was to enter his sanctuary.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 44:10–14, what was the reduced role assigned to the Levites who had gone far from Jehovah by following their idols?",
+          options: [
+            "They would serve as teachers of the law in the outer courts",
+            "They would serve as gatekeepers and slaughter the burnt offerings and sacrifices for the people, but would not approach Jehovah or serve as priests at the altar",
+            "They would be permanently exiled from the temple area",
+            "They would serve only during the major festivals but not on regular days"
+          ],
+          correctAnswer: "They would serve as gatekeepers and slaughter the burnt offerings and sacrifices for the people, but would not approach Jehovah or serve as priests at the altar"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Ezekiel 44:15, which priestly group was honored for remaining faithful and was given the right to approach Jehovah and offer the fat and the blood?",
+          options: [
+            "The sons of Moses from the tribe of Levi",
+            "The sons of Zadok who kept the charge of the sanctuary when Israel went astray",
+            "The descendants of Aaron from the line of Eleazar",
+            "The firstborn sons of the tribe of Levi set apart since the exodus"
+          ],
+          correctAnswer: "The sons of Zadok who kept the charge of the sanctuary when Israel went astray"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Ezekiel 44:20–22, the priests were instructed not to shave their heads or let their hair grow long, to drink no wine when entering the inner court, and not to marry a widow or a divorced woman.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "According to Ezekiel 44:28–30, what was the inheritance of the priests and how were they to be provided for?",
+          correctAnswer: "Jehovah himself was to be their inheritance — they would have no property in Israel. They would eat the grain offering, the sin offering, and the guilt offering, and every devoted thing in Israel would be theirs. The first of all the firstfruits and every contribution of every sort would belong to the priests, and the first of the coarse meal was to be given to them so Jehovah's blessing would rest on the household."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 45:1–5, when the land was divided, a holy contribution was to be set apart. What was included in the portion designated for the priests?",
+          options: [
+            "The city of Jerusalem and its surrounding farmland",
+            "A strip of land 25,000 cubits long and 10,000 wide for the sanctuary and those ministering at it",
+            "The entire territory formerly belonging to the tribe of Levi",
+            "A coastal region with access to trade routes and fishing"
+          ],
+          correctAnswer: "A strip of land 25,000 cubits long and 10,000 wide for the sanctuary and those ministering at it"
+        },
+        {
+          id: "q8",
+          type: "true-false",
+          question: "In Ezekiel 45:8–9, the chieftain was warned by Jehovah to put away violence and oppression and to stop dispossessing the people of their land.",
+          correctAnswer: true
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Ezekiel 45:18–20, what was to be done on the first day of the first month and the seventh day of the first month in the new temple arrangement?",
+          options: [
+            "The Passover lambs were to be selected and examined for blemishes",
+            "A young bull was to be offered as a sin offering to purify the sanctuary from anyone who sinned in error",
+            "The priests were to be anointed with oil and consecrated for service",
+            "The firstfruits of grain were to be presented before the altar"
+          ],
+          correctAnswer: "A young bull was to be offered as a sin offering to purify the sanctuary from anyone who sinned in error"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In Ezekiel 45:21–25, which two festivals were specified for the chieftain to provide offerings on behalf of the people?",
+          options: [
+            "The Festival of Weeks and the Festival of Booths",
+            "The Passover (starting the 14th of the first month) and the Festival of Booths (starting the 15th of the seventh month)",
+            "The Day of Atonement and the Festival of Unleavened Bread",
+            "The New Moon festivals and the weekly Sabbath"
+          ],
+          correctAnswer: "The Passover (starting the 14th of the first month) and the Festival of Booths (starting the 15th of the seventh month)"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 266,
+    passage: "Ezekiel 46–48",
+    focus: "Regulations for the chieftain's offerings, the life-giving river from the temple, and the division of the land among the tribes",
+    quiz: {
+      title: "📘 Ezekiel 46–48 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Ezekiel 46:1–3, when was the inner east gate to be opened for the chieftain, and what would the people do at its entrance?",
+          options: [
+            "On the first day of each month; the people would bring their tithes",
+            "On the Sabbath and the new moon; the people of the land would bow down at the entrance",
+            "On each of the three annual festivals; the priests would lead them in worship",
+            "Every morning at sunrise; the chieftain alone would pray there"
+          ],
+          correctAnswer: "On the Sabbath and the new moon; the people of the land would bow down at the entrance"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Ezekiel 46:16–18, the chieftain could give a gift from his inheritance to his sons permanently, but if he gave a gift to one of his servants it would revert to the chieftain at the year of liberty — so that the chieftain could not take the people's inheritance from them.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Ezekiel 47:1–5, Ezekiel saw water flowing from the temple. As he walked eastward, how did the water change?",
+          options: [
+            "It remained shallow throughout but widened into a great river",
+            "It began ankle-deep, then knee-deep, then waist-deep, then became a river too deep to cross",
+            "It flowed slowly at first then became a rushing torrent",
+            "It was clear near the temple but became brackish further away"
+          ],
+          correctAnswer: "It began ankle-deep, then knee-deep, then waist-deep, then became a river too deep to cross"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "According to Ezekiel 47:8–12, what miraculous effects did the river from the temple have when it flowed into the sea and the surrounding region?",
+          correctAnswer: "The water flowed into the eastern sea (the Dead Sea) and its waters were healed. Swarms of living creatures would live wherever the river flowed, and there would be an abundance of fish. Trees of all kinds would grow on both banks, producing food every month and bearing leaves for healing, because the water flowed from the sanctuary."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Ezekiel 47:13–14, on what basis were all twelve tribes to receive an equal inheritance in the land?",
+          options: [
+            "Based on the size of each tribe's population at the time of return",
+            "Because Jehovah had sworn to give the land to their forefathers, and each tribe was to receive a portion",
+            "By drawing lots in the presence of the priests and the chieftain",
+            "Based on the faithfulness each tribe had shown during the exile"
+          ],
+          correctAnswer: "Because Jehovah had sworn to give the land to their forefathers, and each tribe was to receive a portion"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Ezekiel 47:22–23, alien residents living among the Israelites were also to receive an inheritance of land among the tribe where they resided, being treated the same as native-born Israelites.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Ezekiel 48:1–7, how were the northern tribal portions arranged, from north to south?",
+          options: [
+            "Dan, Asher, Naphtali, Manasseh, Ephraim, Reuben, Judah",
+            "Asher, Dan, Naphtali, Manasseh, Ephraim, Reuben, Judah",
+            "Naphtali, Dan, Asher, Ephraim, Manasseh, Judah, Reuben",
+            "Dan, Naphtali, Manasseh, Asher, Reuben, Ephraim, Judah"
+          ],
+          correctAnswer: "Dan, Asher, Naphtali, Manasseh, Ephraim, Reuben, Judah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Ezekiel 48:15–19, what was the purpose of the area of 5,000 by 25,000 cubits adjacent to the holy contribution?",
+          options: [
+            "It was reserved for the temple singers and musicians",
+            "It was for common use — for the city, its housing, and its pasture lands, with the city at its center",
+            "It was designated for the Levitical cities of refuge",
+            "It was set aside for foreign residents and traders who served the temple"
+          ],
+          correctAnswer: "It was for common use — for the city, its housing, and its pasture lands, with the city at its center"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Ezekiel 48:30–35, the city at the center of the holy district had twelve gates named after the twelve tribes of Israel, three on each of its four sides.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was the name given to the city at the conclusion of Ezekiel 48:35, and what did it signify?",
+          options: [
+            "Jehovah-Shammah, meaning 'Jehovah Is There'",
+            "Jehovah-Jireh, meaning 'Jehovah Will Provide'",
+            "Jehovah-Nissi, meaning 'Jehovah Is My Banner'",
+            "Jehovah-Shalom, meaning 'Jehovah Is Peace'"
+          ],
+          correctAnswer: "Jehovah-Shammah, meaning 'Jehovah Is There'"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 267,
+    passage: "Daniel 1–2",
+    focus: "Daniel and his companions' faithfulness in Babylon, and Nebuchadnezzar's dream of the immense image",
+    quiz: {
+      title: "📘 Daniel 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Daniel 1, why did Daniel resolve not to defile himself with the king's food and wine?",
+          options: [
+            "Because the food was too expensive and he wanted to save resources",
+            "Because it likely included food forbidden under the Mosaic Law or offered to idols, and he wanted to remain faithful to Jehovah",
+            "Because he had taken a personal vow of fasting before leaving Jerusalem",
+            "Because he was afraid the food had been poisoned by his enemies"
+          ],
+          correctAnswer: "Because it likely included food forbidden under the Mosaic Law or offered to idols, and he wanted to remain faithful to Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "After ten days of eating only vegetables and drinking only water, Daniel and his three companions looked better and healthier than all the young men who were eating the king's food.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Daniel 1:17, what did Jehovah give Daniel that set him apart from his companions?",
+          options: [
+            "The ability to speak all the languages of Babylon",
+            "Insight into all visions and dreams, in addition to wisdom and knowledge",
+            "Exceptional physical strength and endurance",
+            "The gift of prophecy and the ability to heal the sick"
+          ],
+          correctAnswer: "Insight into all visions and dreams, in addition to wisdom and knowledge"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Daniel 2, when no wise man could tell Nebuchadnezzar his dream and its interpretation, what did the king decree?",
+          options: [
+            "That all the wise men be put in prison until someone could interpret the dream",
+            "That all the wise men of Babylon be destroyed",
+            "That a new group of wise men be brought from foreign lands",
+            "That the temples be searched for ancient scrolls about dreams"
+          ],
+          correctAnswer: "That all the wise men of Babylon be destroyed"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Daniel 2, Daniel asked his three companions to pray to Jehovah for mercy regarding the secret of the dream, and Jehovah revealed the secret to Daniel in a vision of the night.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "Describe the immense image in Nebuchadnezzar's dream as Daniel explained it in Daniel 2:31–35, including the materials and what happened to it.",
+          correctAnswer: "The image had a head of fine gold, a chest and arms of silver, a belly and thighs of copper, legs of iron, and feet partly of iron and partly of clay. A stone was cut without hands and struck the feet of iron and clay, smashing them. The entire image crumbled and became like chaff, and the wind swept it away. But the stone became a large mountain that filled the whole earth."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Daniel 2:44, what did the stone that struck the image represent?",
+          options: [
+            "The restored kingdom of Israel under a Davidic king",
+            "A kingdom that Jehovah would set up that would never be destroyed and would crush all other kingdoms",
+            "The Persian Empire that would conquer Babylon",
+            "The Messianic community that would gradually reform the existing kingdoms"
+          ],
+          correctAnswer: "A kingdom that Jehovah would set up that would never be destroyed and would crush all other kingdoms"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Daniel 2:37–38, which part of the image represented Nebuchadnezzar and his kingdom?",
+          options: [
+            "The chest and arms of silver",
+            "The head of fine gold",
+            "The belly and thighs of copper",
+            "The legs of iron"
+          ],
+          correctAnswer: "The head of fine gold"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "After Daniel interpreted the dream, Nebuchadnezzar fell on his face before Daniel, instructed that a gift offering be made to him, and acknowledged that Daniel's God was a God of gods and a Lord of kings.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What position did Nebuchadnezzar appoint Daniel to after the dream was revealed?",
+          options: [
+            "Chief scribe over all the royal archives",
+            "Ruler over the entire province of Babylon and chief prefect over all the wise men",
+            "Personal adviser to the king on all foreign affairs",
+            "High priest of the temple of Marduk"
+          ],
+          correctAnswer: "Ruler over the entire province of Babylon and chief prefect over all the wise men"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 268,
+    passage: "Daniel 3–4",
+    focus: "The fiery furnace and the faithfulness of Shadrach, Meshach, and Abednego, and Nebuchadnezzar's humbling dream about the great tree",
+    quiz: {
+      title: "📘 Daniel 3–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Daniel 3, what did Nebuchadnezzar set up on the plain of Dura, and what were all people commanded to do when the music played?",
+          options: [
+            "A golden throne; bow before the king",
+            "A golden image 60 cubits high; bow down and worship it",
+            "A large altar to Marduk; offer incense and sacrifices",
+            "A statue of the king; swear allegiance and pay tribute"
+          ],
+          correctAnswer: "A golden image 60 cubits high; bow down and worship it"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "When Shadrach, Meshach, and Abednego refused to bow to the image, they told Nebuchadnezzar that even if Jehovah did not rescue them, they still would not serve his gods or worship the image.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Daniel 3:25, what did Nebuchadnezzar see when he looked into the furnace after throwing in the three men?",
+          options: [
+            "The three men lying still, unharmed by the flames",
+            "Four men walking around in the fire unharmed, with the fourth looking like a son of the gods",
+            "An angel standing between the men and the flames",
+            "The three men praying with their faces to the ground"
+          ],
+          correctAnswer: "Four men walking around in the fire unharmed, with the fourth looking like a son of the gods"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What was the result of Shadrach, Meshach, and Abednego's deliverance from the furnace, and what decree did Nebuchadnezzar make?",
+          correctAnswer: "The three men came out completely unharmed — the fire had no effect on their bodies, their hair was not singed, their garments were unaffected, and there was no smell of fire on them. Nebuchadnezzar praised their God and decreed that anyone who spoke against their God would be cut to pieces, because no other god could rescue like this."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Daniel 4, Nebuchadnezzar dreamed of a great tree. What happened to it in the dream?",
+          options: [
+            "It was uprooted by a great wind and thrown into the sea",
+            "A holy watcher came down and commanded it to be chopped down, with its stump banded with iron and copper",
+            "It was struck by lightning and burned to the ground",
+            "Its fruit dried up and its leaves fell off due to a prolonged drought"
+          ],
+          correctAnswer: "A holy watcher came down and commanded it to be chopped down, with its stump banded with iron and copper"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Daniel hesitated to tell Nebuchadnezzar the interpretation of the tree dream because the message was so alarming, but the king urged him to speak.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "According to Daniel 4:25, what would happen to Nebuchadnezzar until he recognized that the Most High was Ruler over human kingdoms?",
+          options: [
+            "He would be driven away from his palace to live among wild animals, eating vegetation like a bull",
+            "He would lose his sight and hearing until he humbled himself in prayer",
+            "He would be conquered by his enemies and taken into captivity",
+            "He would lose his throne to his son until he confessed Jehovah's sovereignty"
+          ],
+          correctAnswer: "He would be driven away from his palace to live among wild animals, eating vegetation like a bull"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Daniel 4:29–33, when did the judgment fall on Nebuchadnezzar?",
+          options: [
+            "Immediately after Daniel gave the interpretation",
+            "Twelve months later, while he was boasting about the greatness of Babylon he had built",
+            "Seven years after Daniel's warning, when he refused to show mercy to the poor",
+            "After he set up a second golden image in defiance of Jehovah"
+          ],
+          correctAnswer: "Twelve months later, while he was boasting about the greatness of Babylon he had built"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "At the end of Daniel 4, after his sanity returned, Nebuchadnezzar praised and glorified Jehovah, acknowledging that all his works are truth, his ways are just, and he is able to humble those who walk in pride.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What was the meaning of the banded stump being left in the ground, according to Daniel 4:26?",
+          correctAnswer: "The banded stump left in the ground meant that Nebuchadnezzar's kingdom would be preserved for him — he would receive his kingdom back once he recognized that the heavens are ruling."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 269,
+    passage: "Daniel 5–7",
+    focus: "Belshazzar's feast and the writing on the wall, Daniel in the lions' den, and Daniel's vision of the four beasts and the Ancient of Days",
+    quiz: {
+      title: "📘 Daniel 5–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Daniel 5, what act of Belshazzar during his feast provoked the divine writing on the wall?",
+          options: [
+            "He sacrificed to foreign gods on the altar of Jehovah",
+            "He and his nobles drank wine from the sacred vessels taken from Jehovah's temple in Jerusalem",
+            "He burned a copy of the law of Moses before his guests",
+            "He publicly renounced all the decrees of his grandfather Nebuchadnezzar"
+          ],
+          correctAnswer: "He and his nobles drank wine from the sacred vessels taken from Jehovah's temple in Jerusalem"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "In Daniel 5:26–28, what did the words MENE, MENE, TEKEL, and PARSIN mean as Daniel interpreted them?",
+          options: [
+            "Numbered, numbered, weighed, divided — Belshazzar's kingdom was finished and given to the Medes and Persians",
+            "Counted, found, lacking, conquered — Babylon would fall to Persia in seven days",
+            "Measured, judged, punished, destroyed — the king would die and Babylon be burned",
+            "Written, sealed, finished, scattered — the Babylonian people would be exiled to Persia"
+          ],
+          correctAnswer: "Numbered, numbered, weighed, divided — Belshazzar's kingdom was finished and given to the Medes and Persians"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "In Daniel 5, Belshazzar was killed that very night, and Darius the Mede received the kingdom.",
+          correctAnswer: true
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Daniel 6, why did the other administrators and satraps try to find fault with Daniel?",
+          options: [
+            "Because they were jealous of his wisdom and his close relationship with Darius",
+            "Because Daniel had accused them of corruption before the king",
+            "Because Daniel refused to serve under a non-Israelite ruler",
+            "Because Daniel had predicted the downfall of Darius in a private letter"
+          ],
+          correctAnswer: "Because they were jealous of his wisdom and his close relationship with Darius"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "In Daniel 6:10, after the law forbidding prayer to anyone but Darius was signed, what did Daniel do, and how often?",
+          correctAnswer: "Daniel went to his house, and in his roof chamber with its windows open toward Jerusalem, he knelt down three times a day and prayed and gave thanks before his God, just as he had been doing previously — he did not change his practice."
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "After Daniel was delivered from the lions' den, Darius issued a decree commanding that people tremble and fear before Daniel's God, acknowledging him as the living God whose kingdom will never be destroyed.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Daniel 7:3–7, four great beasts came out of the sea. In order, what were they?",
+          options: [
+            "A lion, a bear, a leopard with four wings and four heads, and a terrifying beast with iron teeth and ten horns",
+            "An eagle, a lion, a bear, and a dragon with ten horns",
+            "A lion, a leopard, a bear with four heads, and a beast with bronze claws",
+            "A ram, a goat, a lion, and a terrible beast with iron teeth"
+          ],
+          correctAnswer: "A lion, a bear, a leopard with four wings and four heads, and a terrifying beast with iron teeth and ten horns"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Daniel 7:13–14, who was brought before the Ancient of Days, and what was given to him?",
+          options: [
+            "Michael the archangel, who was given authority over all the angels",
+            "Someone like a son of man, who was given rulership, honor, and a kingdom that all peoples would serve",
+            "The angel Gabriel, who was given the scroll of the nations' destinies",
+            "A figure like Elijah, who was given the power to judge the four kingdoms"
+          ],
+          correctAnswer: "Someone like a son of man, who was given rulership, honor, and a kingdom that all peoples would serve"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Daniel 7:27, the kingdom, rulership, and greatness of the kingdoms under all the heavens were to be given to the people who are the holy ones of the Supreme One, whose kingdom would be everlasting.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Daniel 7:23–25, what did the angel tell Daniel about the fourth beast and the horn that spoke arrogantly?",
+          correctAnswer: "The fourth beast would be a fourth kingdom on earth, different from all the others, that would devour the whole earth. The ten horns were ten kings who would rise from it. Another king would rise after them and would be different, humiliating three kings. He would speak words against the Most High and wear down the holy ones, and would intend to change times and law. They would be given into his hand for a time, times, and half a time."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 270,
+    passage: "Daniel 8–10",
+    focus: "Daniel's visions of the ram and goat, the 2,300 evenings and mornings, the prophecy of the 70 weeks, and Gabriel's visitations",
+    quiz: {
+      title: "📘 Daniel 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Daniel 8:20–21, the ram with two horns and the large-horned goat were explicitly identified as representing what powers?",
+          options: [
+            "Babylon and Persia",
+            "The kings of Media and Persia; and the king of Greece",
+            "Assyria and Egypt; and the king of the north",
+            "Persia and Greece; and the king of the south"
+          ],
+          correctAnswer: "The kings of Media and Persia; and the king of the Greece"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Daniel 8, when the large horn of the goat was broken, four horns grew in its place, pointing toward the four winds of the heavens.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Daniel 8:11–12, the small horn that grew great cast down what and trampled on it?",
+          options: [
+            "The walls of Jerusalem and the altar of burnt offering",
+            "The place of the sanctuary, the constant feature, and truth itself",
+            "The scrolls of the law and the sacred vessels of the temple",
+            "The thrones of the kings and the cities of the holy land"
+          ],
+          correctAnswer: "The place of the sanctuary, the constant feature, and truth itself"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Daniel 9:2–3, what motivated Daniel to turn to Jehovah in prayer with fasting, sackcloth, and ashes?",
+          options: [
+            "A new vision he had received about the coming of the Messiah",
+            "His reading of Jeremiah's prophecy that 70 years must pass for Jerusalem's desolation",
+            "The news that the Persian king had issued a decree against the Jews",
+            "The death of Darius the Mede and uncertainty about the new ruler's intentions"
+          ],
+          correctAnswer: "His reading of Jeremiah's prophecy that 70 years must pass for Jerusalem's desolation"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "Summarize the key elements of Daniel's prayer of confession in Daniel 9:4–11.",
+          correctAnswer: "Daniel acknowledged Jehovah as great and awe-inspiring, who keeps his covenant and loyal love with those who love him. He confessed that Israel had sinned, acted wickedly, and rebelled against Jehovah, not listening to his prophets. He admitted that the curse written in the law of Moses had been poured out on them because of their disobedience, and that the calamity that came upon Jerusalem was Jehovah's righteous act, while Israel had not appeased him by turning from their errors."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Daniel 9:24, the 70 weeks were decreed to accomplish six things. Which of the following is one of them?",
+          options: [
+            "To destroy all pagan temples in the land of Israel",
+            "To finish the transgression, make an end of sin, and bring in everlasting righteousness",
+            "To rebuild Jerusalem greater than in the days of Solomon",
+            "To establish Israel as the dominant nation among all peoples"
+          ],
+          correctAnswer: "To finish the transgression, make an end of sin, and bring in everlasting righteousness"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Daniel 9:26, the anointed one would be cut off with nothing for himself, and the city and the holy place would be destroyed by the people of a coming leader.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Daniel 10:2–3, why was Daniel mourning for three full weeks before receiving his final vision?",
+          options: [
+            "He was fasting because of a sin he had committed against Jehovah",
+            "He was grieving over the opposition facing the Jewish returnees who were rebuilding Jerusalem",
+            "He was distressed because of the harsh treatment of Jews still in Babylon",
+            "He was mourning the death of Cyrus the Persian king"
+          ],
+          correctAnswer: "He was grieving over the opposition facing the Jewish returnees who were rebuilding Jerusalem"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Daniel 10:13, the angelic messenger told Daniel that he had been delayed for 21 days. Who came to help him?",
+          options: [
+            "Gabriel, the chief messenger",
+            "Michael, one of the foremost princes",
+            "The angel of Jehovah who had appeared to Moses",
+            "Uriel, the angel standing before the throne"
+          ],
+          correctAnswer: "Michael, one of the foremost princes"
+        },
+        {
+          id: "q10",
+          type: "true-false",
+          question: "In Daniel 10:19, after the heavenly messenger strengthened Daniel, Daniel said he felt stronger and asked the messenger to speak, since he had been made to feel stronger.",
+          correctAnswer: true
+        }
+      ]
+    }
+  },
+
+  {
+    day: 271,
+    passage: "Daniel 11–12",
+    focus: "The detailed prophecy of the kings of the north and south, the time of the end, and the promise of resurrection",
+    quiz: {
+      title: "📘 Daniel 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Daniel 11:2–4, what would happen to the mighty king who would stand up and rule with great authority?",
+          options: [
+            "He would establish a kingdom that would last for a thousand years",
+            "His kingdom would be broken apart and divided toward the four winds — but not to his descendants",
+            "He would be defeated by the king of the south and exiled to a distant land",
+            "He would unite all nations under one ruler before being overthrown"
+          ],
+          correctAnswer: "His kingdom would be broken apart and divided toward the four winds — but not to his descendants"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Daniel 11 contains detailed prophecies about the ongoing conflicts between the king of the north and the king of the south, with the land of Israel (the land of the Decoration) caught in between.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Daniel 11:31, what would the king of the north set up after removing the constant feature?",
+          options: [
+            "An image of himself to be worshipped in the temple",
+            "The disgusting thing that causes desolation",
+            "A foreign priesthood to replace the Levitical order",
+            "A new tax system to fund his military campaigns"
+          ],
+          correctAnswer: "The disgusting thing that causes desolation"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "According to Daniel 11:32–33, how would the people who know their God respond during the time of tribulation?",
+          correctAnswer: "The people who know their God would be strong and take action. Those with insight among the people would give understanding to the many, though they would be made to stumble by sword, by flame, by captivity, and by plundering for some days."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Daniel 11:36, what would the king who does as he pleases do regarding every god?",
+          options: [
+            "He would establish a new religious system based on the worship of wealth",
+            "He would exalt and magnify himself above every god and speak astonishing things against the God of gods",
+            "He would force all people to worship only the god of fortresses",
+            "He would destroy all temples and declare himself the only god"
+          ],
+          correctAnswer: "He would exalt and magnify himself above every god and speak astonishing things against the God of gods"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Daniel 11:45, the king of the north would pitch his royal tents between the grand sea and the holy mountain of Decoration, but he would come to his end with no one helping him.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Daniel 12:1, what role would Michael play during the time of distress such as had not occurred since nations came into existence?",
+          options: [
+            "He would lead the armies of Israel against their enemies",
+            "He would stand up — the great prince who stands in behalf of the sons of Daniel's people",
+            "He would deliver the sealed scroll to the faithful remnant",
+            "He would announce the coming of the Messianic king to the nations"
+          ],
+          correctAnswer: "He would stand up — the great prince who stands in behalf of the sons of Daniel's people"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Daniel 12:2, what would happen to many of those asleep in the dust of the earth?",
+          options: [
+            "They would be transformed into spirit beings without dying",
+            "Some would wake up to everlasting life and others to reproach and everlasting contempt",
+            "All the righteous dead would be immediately taken to heaven",
+            "They would be given a second chance to choose between good and evil"
+          ],
+          correctAnswer: "Some would wake up to everlasting life and others to reproach and everlasting contempt"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Daniel 12:4, Daniel was told to keep the words secret and seal up the book until the time of the end, when many would rove about and the true knowledge would become abundant.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "What was the final word Jehovah gave to Daniel personally at the end of Daniel 12:13?",
+          correctAnswer: "Daniel was told to go to his end, and that he would rest but would stand up for his lot at the end of the days — a personal promise of resurrection and a place in Jehovah's purpose."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 272,
+    passage: "Hosea 1–7",
+    focus: "Hosea's marriage as a symbol of Israel's unfaithfulness to Jehovah, warnings of judgment, and calls to return",
+    quiz: {
+      title: "📘 Hosea 1–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Hosea 1:2, why did Jehovah command Hosea to take a wife of prostitution?",
+          options: [
+            "To demonstrate that Jehovah would accept all people regardless of their past",
+            "Because the land had committed great prostitution by abandoning Jehovah",
+            "To show neighboring nations that Israel was morally tolerant",
+            "As a test of Hosea's obedience and personal sacrifice"
+          ],
+          correctAnswer: "Because the land had committed great prostitution by abandoning Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Hosea 1, the three children of Hosea and Gomer were given symbolic names: Jezreel (meaning Jehovah sows), Lo-ruhamah (meaning not shown mercy), and Lo-ammi (meaning not my people).",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Hosea 2:14–15, despite the judgment pronounced on Israel, what did Jehovah promise to do for her?",
+          options: [
+            "Immediately restore her to her land if she repented publicly",
+            "Persuade her and lead her into the wilderness and speak to her heart, restoring her vineyards",
+            "Send a new prophet to replace Hosea and deliver a message of comfort",
+            "Establish a new covenant with the surrounding nations to protect Israel"
+          ],
+          correctAnswer: "Persuade her and lead her into the wilderness and speak to her heart, restoring her vineyards"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Hosea 2:16, what would Israel call Jehovah in the restored relationship, and what term would she stop using?",
+          options: [
+            "She would call him Father, and stop calling him Lord",
+            "She would call him My Husband, and stop calling him My Master",
+            "She would call him My King, and stop calling him My God",
+            "She would call him My Shepherd, and stop calling him My Judge"
+          ],
+          correctAnswer: "She would call him My Husband, and stop calling him My Master"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Hosea 4:1–2, Jehovah's legal case against Israel included charges of no truth, no loyal love, and no knowledge of God in the land, along with cursing, lying, murder, stealing, and adultery.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Hosea 4:6, what did Jehovah say was destroying his people, and who bore special responsibility?",
+          correctAnswer: "Jehovah said his people were being destroyed for lack of knowledge. He directed special blame at the priests, saying that because they had rejected knowledge, he would reject them from serving as priests. Because they forgot the law of their God, he would forget their sons."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Hosea 6:6, what did Jehovah declare he desired more than sacrifices and burnt offerings?",
+          options: [
+            "Fasting and prayer three times a day",
+            "Loyal love and the knowledge of God",
+            "The rebuilding of the temple and its priesthood",
+            "Political obedience to the appointed kings of Israel"
+          ],
+          correctAnswer: "Loyal love and the knowledge of God"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Hosea 7:11, Israel was compared to what creature in its foolishness of turning to Egypt and Assyria for help?",
+          options: [
+            "A stubborn heifer that refuses the yoke",
+            "A stupid dove without heart",
+            "A wild donkey wandering alone",
+            "A lost sheep among wolves"
+          ],
+          correctAnswer: "A stupid dove without heart"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Hosea 6:1–2, the words 'after two days he will revive us, on the third day he will raise us up' were meant as a sincere and acceptable repentance that Jehovah immediately accepted.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Hosea 7:1–2, what did Jehovah say he noticed even as he wanted to heal Israel?",
+          correctAnswer: "As Jehovah wanted to heal Israel, the error of Ephraim was exposed and the wickedness of Samaria became evident. They practiced deception and the thief broke in, and the band of robbers raided outside. Jehovah noted that they did not consider in their heart that he remembered all their wickedness — their deeds surrounded them and were before his face."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 273,
+    passage: "Hosea 8–14",
+    focus: "Israel's idolatry and its consequences, the call to return to Jehovah, and the promise of future restoration",
+    quiz: {
+      title: "📘 Hosea 8–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Hosea 8:7, what principle did Jehovah state about Israel's choices that described the outcome of their sinful course?",
+          options: [
+            "Those who live by the sword will die by the sword",
+            "They sow the wind and they will reap the storm wind",
+            "A tree that bears bad fruit will be cut down and thrown into the fire",
+            "The one who digs a pit for others will fall into it himself"
+          ],
+          correctAnswer: "They sow the wind and they will reap the storm wind"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Hosea 9:10, Jehovah described how he found Israel like grapes in the wilderness and like an early fig on a fig tree, but they went to Baal of Peor and became as detestable as the thing they loved.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Hosea 10:1, Israel was compared to a spreading vine. What did this abundance lead to?",
+          options: [
+            "Greater generosity toward the poor and needy",
+            "More altars and sacred pillars — more fruit led to more idolatry",
+            "Stronger military alliances with neighboring nations",
+            "A period of peace during which the people returned to Jehovah"
+          ],
+          correctAnswer: "More altars and sacred pillars — more fruit led to more idolatry"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Hosea 11:1, Jehovah made a statement about Israel's origins that is also applied prophetically in Matthew 2:15. What was it?",
+          options: [
+            "'I planted Israel like a choice vine and called it my holy nation'",
+            "'When Israel was a boy, I loved him, and out of Egypt I called my son'",
+            "'Israel is my firstborn son, and I said to Pharaoh: Let my son go'",
+            "'I formed Israel in the wilderness and called them my servant and witness'"
+          ],
+          correctAnswer: "'When Israel was a boy, I loved him, and out of Egypt I called my son'"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Hosea 11:8–9, Jehovah expressed deep emotional conflict over punishing Israel, saying his heart turned within him and his compassion grew warm, and that he would not carry out the heat of his anger or destroy Ephraim.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Hosea 12:6, what did Jehovah call Israel to do in response to the example of their forefather Jacob?",
+          correctAnswer: "Jehovah called Israel to return to their God, to maintain loyal love and justice, and to always hope in their God."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Hosea 13:4–6, why did Jehovah say Israel had forgotten him?",
+          options: [
+            "Because the foreign nations had persuaded them to worship other gods",
+            "Because they had become satisfied — their heart became exalted when they were filled with food in their pastures",
+            "Because the priests had hidden the law from the people for generations",
+            "Because Jehovah had been silent for too many years"
+          ],
+          correctAnswer: "Because they had become satisfied — their heart became exalted when they were filled with food in their pastures"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Hosea 13:14, what did Jehovah say about ransoming Israel from the power of the Grave and Death?",
+          options: [
+            "That he would ransom them from the hand of the Grave and redeem them from Death",
+            "That Israel had forfeited their right to redemption through persistent sin",
+            "That only a perfect sacrifice would be sufficient to buy back their lives",
+            "That the power of death was too great for even Jehovah to overcome"
+          ],
+          correctAnswer: "That he would ransom them from the hand of the Grave and redeem them from Death"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Hosea 14:1–2, Jehovah called Israel to return to him with words of prayer, asking him to forgive their error and accept what is good, offering the praise of their lips as bulls.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Hosea 14:4–7, what restoration did Jehovah promise to those who returned to him?",
+          correctAnswer: "Jehovah promised to heal their unfaithfulness and love them of his own free will, because his anger had turned away from them. He would be like dew to Israel so they would blossom like the lily, take root like Lebanon's trees, and spread their branches. Their beauty would be like the olive tree and their fragrance like Lebanon."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 274,
+    passage: "Joel 1–3",
+    focus: "The locust plague as a sign of Jehovah's day, the call to repentance, the outpouring of spirit, and Jehovah's judgment on the nations",
+    quiz: {
+      title: "📘 Joel 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Joel 1:4, four stages of locusts were described consuming the land. What did Joel call the people to do in response?",
+          options: [
+            "Offer extra sacrifices at the temple to appease Jehovah",
+            "Wail, lament, come to the temple, and call a holy fast — even the priests were to mourn",
+            "Gather the remaining food and store it for the coming years of famine",
+            "Send representatives to Jehovah's prophet to inquire about the plague's end"
+          ],
+          correctAnswer: "Wail, lament, come to the temple, and call a holy fast — even the priests were to mourn"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Joel 2:1–2, the blowing of the horn in Zion was a signal to warn of the coming of the day of Jehovah — described as a day of darkness and gloom, a day of clouds and thick gloom.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Joel 2:12–13, how did Jehovah call the people to return to him?",
+          options: [
+            "By rebuilding the altar and resuming daily sacrifices",
+            "With all their heart, with fasting, weeping, and wailing, and by ripping their hearts rather than their garments",
+            "By sending their elders to the temple to pray on behalf of all the people",
+            "By separating themselves from foreigners living in the land"
+          ],
+          correctAnswer: "With all their heart, with fasting, weeping, and wailing, and by ripping their hearts rather than their garments"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Joel 2:28–29, what did Jehovah promise to pour out after that, and on whom?",
+          correctAnswer: "Jehovah promised to pour out his spirit on every sort of flesh — sons and daughters would prophesy, old men would dream dreams, and young men would see visions. Even on male and female servants he would pour out his spirit in those days."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Joel 2:30–31, what signs would accompany the great and awe-inspiring day of Jehovah?",
+          options: [
+            "Earthquakes in every nation and a great flood of the rivers",
+            "Wonders in the heavens and earth — blood and fire and columns of smoke; the sun turning to darkness and the moon to blood",
+            "The withering of all crops and the drying up of all seas",
+            "The falling of all the stars and the collapse of the sky"
+          ],
+          correctAnswer: "Wonders in the heavens and earth — blood and fire and columns of smoke; the sun turning to darkness and the moon to blood"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Joel 2:32, Jehovah promised that everyone who called on his name would be saved, and that among the survivors would be those whom Jehovah was calling.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Joel 3:2, Jehovah said he would gather all nations to the valley of Jehoshaphat to enter into judgment with them. What was one reason cited for this judgment?",
+          options: [
+            "They had refused to allow Israelites to pass through their territories",
+            "They had scattered Israel among the nations, divided up his land, and sold his people as slaves",
+            "They had attacked Jerusalem during the time of the Babylonian siege",
+            "They had built temples to false gods within the borders of Israel"
+          ],
+          correctAnswer: "They had scattered Israel among the nations, divided up his land, and sold his people as slaves"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Joel 3:10, Jehovah gave the opposite instruction to the nations compared to the well-known prophecy of peace in Isaiah 2:4. What were the nations told to do?",
+          options: [
+            "Lay down their weapons and come to Jerusalem to learn Jehovah's ways",
+            "Beat their plowshares into swords and their pruning shears into spears",
+            "Send their armies home and make peace with Israel",
+            "Offer their weapons as tribute to Jehovah at the valley of judgment"
+          ],
+          correctAnswer: "Beat their plowshares into swords and their pruning shears into spears"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Joel 3:18, Jehovah promised that in that day the mountains would drip with sweet wine, the hills would flow with milk, and a spring would go out from the house of Jehovah to water the valley of the acacia trees.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Joel 3:20–21, what final contrast did Jehovah draw between the fate of Judah and Egypt and Edom?",
+          correctAnswer: "Jehovah promised that Judah would be inhabited forever and Jerusalem for generation after generation, while Egypt would become a desolate wasteland and Edom a desolate wilderness, because of the violence they had done to the people of Judah. Jehovah declared he would avenge their blood and dwell in Zion."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 275,
+    passage: "Amos 1–5",
+    focus: "Jehovah's judgments against the surrounding nations and Israel, social injustice, empty religion, and the call to seek good",
+    quiz: {
+      title: "📘 Amos 1–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Amos 1–2, Jehovah pronounced judgment on multiple nations using a repeated formula. What was the phrase that introduced each judgment?",
+          options: [
+            "'Woe to you, O nation, for your sins are great'",
+            "'For three revolts of [nation], and for four, I will not reverse it'",
+            "'Thus says Jehovah: I have seen the wickedness of [nation] and I will judge them'",
+            "'Hear the word of Jehovah, O [nation], for your end has come'"
+          ],
+          correctAnswer: "'For three revolts of [nation], and for four, I will not reverse it'"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Amos 2:6–7, Israel was condemned for selling the righteous for silver and the poor for a pair of sandals, and for trampling the heads of the helpless into the dust.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Amos 3:2, Jehovah stated that Israel's close relationship with him made their guilt greater, not lesser. What did he say?",
+          options: [
+            "'You are my chosen people, so I will always protect you from punishment'",
+            "'You alone have I known out of all the families of the ground, and that is why I will call you to account for all your errors'",
+            "'You were once close to me, but now you are like strangers and I do not know you'",
+            "'I chose you above all nations, yet you have made yourselves the lowest of them all'"
+          ],
+          correctAnswer: "'You alone have I known out of all the families of the ground, and that is why I will call you to account for all your errors'"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Amos 3:7, what principle did Jehovah state about his relationship with his prophets?",
+          options: [
+            "Jehovah acts only after his people have prayed to him first",
+            "Jehovah does nothing without revealing his confidential matter to his servants the prophets",
+            "Jehovah warns the nations through signs in the heavens before sending his prophets",
+            "Jehovah speaks only to prophets who have been faithful for at least forty years"
+          ],
+          correctAnswer: "Jehovah does nothing without revealing his confidential matter to his servants the prophets"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Amos 4:6–11, Jehovah listed a series of calamities he had already sent on Israel — hunger, drought, crop failure, plague, and overthrow — each followed by the phrase 'yet you did not return to me.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Amos 4:12, after listing the failed corrective judgments, what solemn warning did Jehovah give Israel?",
+          correctAnswer: "Jehovah told Israel to prepare to meet their God — a warning that a definitive judgment was coming that would be far more severe than the corrective measures they had already experienced and ignored."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Amos 5:21–22, how did Jehovah describe his attitude toward Israel's religious festivals and offerings?",
+          options: [
+            "He said they were acceptable as long as the people also treated others fairly",
+            "He said he hated and despised their festivals and took no pleasure in their solemn assemblies or offerings",
+            "He said the offerings were too small and the festivals too infrequent",
+            "He said the problem was that they were worshipping at the wrong location"
+          ],
+          correctAnswer: "He said he hated and despised their festivals and took no pleasure in their solemn assemblies or offerings"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Amos 5:24, what did Jehovah say he wanted to flow like water instead of empty religious rituals?",
+          options: [
+            "Prayer and fasting from all the tribes of Israel",
+            "Justice and righteousness",
+            "Offerings of grain and burnt sacrifices",
+            "The singing of Psalms and the sound of the harp"
+          ],
+          correctAnswer: "Justice and righteousness"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Amos 5:14–15, Jehovah told Israel to search for good and not for bad so that they might keep living, to hate bad and love good, and to establish justice in the gate — and perhaps Jehovah would show favor to the remnant.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Amos 5:18–20, what warning did Amos give to those who were longing for the day of Jehovah?",
+          correctAnswer: "Amos warned that the day of Jehovah would be darkness and not light for those who were living wickedly. He compared it to a man fleeing from a lion only to encounter a bear, or entering his house and leaning his hand on the wall only to be bitten by a snake — there would be no escape from its darkness and terror for the unrepentant."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 276,
+    passage: "Amos 6–9",
+    focus: "Woe to the complacent in Zion, visions of judgment, the plumb line, the confrontation with Amaziah, and the promise of restoration",
+    quiz: {
+      title: "📘 Amos 6–9 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Amos 6:1–4, whom did Jehovah pronounce woe upon, and what were they doing?",
+          options: [
+            "The false prophets who were comforting the people with lies",
+            "Those at ease in Zion and on the mountain of Samaria — the prominent men lying on ivory beds, feasting and carousing while not being anxious about the breakdown of Israel",
+            "The merchants who were cheating the poor with false scales",
+            "The priests who were neglecting the daily sacrifices at the altar"
+          ],
+          correctAnswer: "Those at ease in Zion and on the mountain of Samaria — the prominent men lying on ivory beds, feasting and carousing while not being anxious about the breakdown of Israel"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Amos 7:1–6, Amos twice interceded with Jehovah on behalf of Jacob, saying he was small and could not stand, and both times Jehovah relented from the calamity he had planned.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Amos 7:7–8, what did Jehovah show Amos, and what did it mean for Israel?",
+          options: [
+            "A plumb line — Jehovah was setting it in the midst of Israel to show they were out of line, and he would not pardon them anymore",
+            "A torn garment — Israel's covenant with Jehovah was broken beyond repair",
+            "A consuming fire — the judgment on Israel could no longer be stopped",
+            "A basket of rotten fruit — Israel's time of favor was completely finished"
+          ],
+          correctAnswer: "A plumb line — Jehovah was setting it in the midst of Israel to show they were out of line, and he would not pardon them anymore"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Amos 7:10–13, how did Amaziah the priest of Bethel try to silence Amos, and what was his accusation?",
+          correctAnswer: "Amaziah sent word to King Jeroboam accusing Amos of conspiring against him in the midst of Israel, saying the land could not endure his words. He then told Amos to flee to Judah and do his prophesying there, claiming that Bethel was the king's sanctuary and the house of the kingdom — implying Amos had no authority to prophesy there."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Amos 7:14–15, how did Amos respond to Amaziah's attempt to dismiss him?",
+          options: [
+            "He claimed the authority of the high priest and refused to leave",
+            "He said he was not a prophet or the son of a prophet but a herdsman and a dresser of sycamore trees whom Jehovah had taken and commanded to prophesy to Israel",
+            "He appealed to the king directly and demanded the right to speak",
+            "He declared a fast and called the people to gather and hear his message"
+          ],
+          correctAnswer: "He said he was not a prophet or the son of a prophet but a herdsman and a dresser of sycamore trees whom Jehovah had taken and commanded to prophesy to Israel"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Amos 8:4–6, what specific economic abuses were the wealthy merchants of Israel committing?",
+          options: [
+            "Charging excessive interest on loans to the poor and seizing their homes",
+            "Trampling on the poor, buying the helpless for silver, making the ephah small and the shekel large, and using dishonest scales",
+            "Hoarding grain during famines to sell at inflated prices",
+            "Bribing judges to rule against the poor in land disputes"
+          ],
+          correctAnswer: "Trampling on the poor, buying the helpless for silver, making the ephah small and the shekel large, and using dishonest scales"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Amos 8:11–12, Jehovah described a famine coming — not of bread or water, but of hearing the words of Jehovah. People would wander searching for his word and would not find it.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Amos 9:2–4, Jehovah declared that there was no place to hide from his judgment. Which of the following hiding places did he specifically mention?",
+          options: [
+            "The forest of Lebanon and the depths of the Jordan River",
+            "The depths of the Grave, the heavens, the top of Carmel, the bottom of the sea, or captivity before enemies",
+            "The cities of refuge and the courts of the temple",
+            "The mountains of Edom and the caves of the Judean wilderness"
+          ],
+          correctAnswer: "The depths of the Grave, the heavens, the top of Carmel, the bottom of the sea, or captivity before enemies"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Amos 9:11–12, Jehovah promised to raise up the fallen booth of David, to repair its breaches and restore it, so that they might take possession of Edom and all the nations on whom his name had been called.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "Describe the vision of future restoration in Amos 9:13–15.",
+          correctAnswer: "Jehovah promised a time when the plowman would catch up to the reaper and the treader of grapes to the sower of seed, and the mountains would drip with sweet wine. He would restore the captives of his people Israel, and they would rebuild the desolate cities and inhabit them, plant vineyards and drink their wine, make gardens and eat their fruit. He would plant them on their own soil and they would never be uprooted again."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 277,
+    passage: "Obadiah / Jonah",
+    focus: "Jehovah's judgment on Edom's pride and violence against Judah, and Jonah's mission to Nineveh and the lesson on divine mercy",
+    quiz: {
+      title: "📘 Obadiah / Jonah Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Obadiah 3–4, what was the sin at the root of Edom's downfall?",
+          options: [
+            "Their worship of foreign gods and rejection of the law of Moses",
+            "The presumptuousness of their heart — they lived in the rocky clefts and thought no one could bring them down",
+            "Their military aggression against the neighboring nations",
+            "Their mistreatment of the alien residents living among them"
+          ],
+          correctAnswer: "The presumptuousness of their heart — they lived in the rocky clefts and thought no one could bring them down"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Obadiah 10–14, Edom was condemned specifically for standing aloof while foreigners carried off Jerusalem's wealth, rejoicing over Judah's disaster, and handing over survivors to the enemy.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Obadiah 17–18, what did Jehovah promise would happen on Mount Zion, and what would become of Edom?",
+          options: [
+            "Mount Zion would be a place of refuge and holiness, and the house of Jacob would be a fire consuming Edom like stubble",
+            "Mount Zion would be rebuilt higher than before, and Edom would become a vassal state",
+            "Mount Zion would welcome back the exiles, and Edom would be spared if it repented",
+            "Mount Zion would produce great harvests, and Edom would serve Israel forever"
+          ],
+          correctAnswer: "Mount Zion would be a place of refuge and holiness, and the house of Jacob would be a fire consuming Edom like stubble"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Jonah 1:3, when Jehovah told Jonah to go to Nineveh, what did Jonah do instead?",
+          options: [
+            "He went to the temple to pray for three days before deciding",
+            "He got up and fled to Tarshish, going down to Joppa and boarding a ship",
+            "He traveled to Samaria and began preaching there instead",
+            "He wrote a letter to the king of Nineveh warning of judgment but did not go himself"
+          ],
+          correctAnswer: "He got up and fled to Tarshish, going down to Joppa and boarding a ship"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "During the storm at sea in Jonah 1, Jonah was asleep below deck while the sailors frantically prayed to their gods and threw cargo overboard — and it was the sailors who finally woke Jonah and suggested casting lots.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Jonah 2:1–9, what was the key spiritual lesson Jonah expressed in his prayer from inside the great fish?",
+          correctAnswer: "Jonah acknowledged that salvation belongs to Jehovah. He recognized that when he called out to Jehovah from the depths, Jehovah heard him. He admitted that those who are observing worthless idols abandon their own loyal love, but he would offer sacrifice and pay his vows — recognizing that deliverance came from Jehovah alone."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Jonah 3:4, what was the message Jonah proclaimed through Nineveh?",
+          options: [
+            "'Repent and turn from your evil ways or Jehovah will destroy you'",
+            "'In 40 days more, Nineveh will be overthrown'",
+            "'Jehovah has seen your wickedness and has sent me to warn you'",
+            "'Cease your violence and pay tribute to the God of Israel'"
+          ],
+          correctAnswer: "'In 40 days more, Nineveh will be overthrown'"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Jonah 3:5–9, how did the people of Nineveh respond to Jonah's message, from the greatest to the least?",
+          options: [
+            "They laughed at Jonah and drove him out of the city",
+            "They put faith in God, called a fast, and put on sackcloth — even the king rose from his throne and sat in ashes, issuing a decree for all to turn from their evil ways",
+            "They built altars to Jehovah in the city squares",
+            "They sent a delegation to Jerusalem to learn about Jehovah's law"
+          ],
+          correctAnswer: "They put faith in God, called a fast, and put on sackcloth — even the king rose from his throne and sat in ashes, issuing a decree for all to turn from their evil ways"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Jonah 4:1–2, Jonah was deeply displeased and angry when Jehovah did not destroy Nineveh, and he revealed that he had fled originally because he knew Jehovah was gracious and merciful and would relent from bringing calamity.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Jonah 4:10–11, what lesson did Jehovah teach Jonah through the plant that grew and then withered?",
+          correctAnswer: "Jehovah pointed out that Jonah felt sorry about the plant he had not labored over or made grow, which lasted only a day. Should Jehovah not feel sorry for Nineveh — a great city with more than 120,000 people who did not know right from wrong, as well as many animals? The lesson was that Jehovah's concern extends to all people, even those outside Israel, who respond to his message."
+        }
+      ]
+    }
+  },
+  {
+    day: 278,
+    passage: "Micah 1–7",
+    focus: "Judgment on Samaria and Jerusalem, false prophets and corrupt leaders, the promise of a ruler from Bethlehem, and Jehovah's case against Israel",
+    quiz: {
+      title: "📘 Micah 1–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Micah 1:5–6, what were the two chief causes of transgression in Jacob and Judah that Micah identified?",
+          options: [
+            "The false prophets and the corrupt priests",
+            "Samaria and the high places of Judah — idolatry in both kingdoms",
+            "The foreign alliances and the neglect of the Sabbath",
+            "The corrupt kings and the unjust judges"
+          ],
+          correctAnswer: "Samaria and the high places of Judah — idolatry in both kingdoms"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Micah 2:1–2, Jehovah condemned those who devised harmful things on their beds and carried them out in the morning — seizing fields, houses, and inheritances through violence and fraud.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Micah 3:11, what was the corrupt attitude of Jerusalem's leaders, priests, and prophets that Jehovah condemned?",
+          options: [
+            "They openly worshipped foreign gods while claiming to serve Jehovah",
+            "They judged for a bribe, taught for a price, and practiced divination for money, yet claimed Jehovah was with them and no calamity would come",
+            "They refused to allow the people to bring offerings to the temple",
+            "They made alliances with Babylon and Egypt without consulting Jehovah's prophets"
+          ],
+          correctAnswer: "They judged for a bribe, taught for a price, and practiced divination for money, yet claimed Jehovah was with them and no calamity would come"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Micah 4:1–2, what would happen to the mountain of the house of Jehovah in the final part of the days?",
+          options: [
+            "It would be destroyed and never rebuilt",
+            "It would be firmly established above the top of the mountains, and peoples would stream to it to learn Jehovah's ways",
+            "It would be given to the nations as a sign of Jehovah's judgment",
+            "It would be hidden away until the time of restoration"
+          ],
+          correctAnswer: "It would be firmly established above the top of the mountains, and peoples would stream to it to learn Jehovah's ways"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Micah 4:3–4, the vision of peace included nations beating their swords into plowshares and their spears into pruning shears, and each person sitting under his own vine and fig tree with no one to make them afraid.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Micah 5:2, what was the significant prophecy about the ruler who would come from Bethlehem Ephrathah?",
+          options: [
+            "He would be born of a virgin and rule all the nations by military force",
+            "He was small among the thousands of Judah, yet from him would come the one to be ruler in Israel, whose origin was from ancient times",
+            "He would be a descendant of Aaron and serve as both king and high priest",
+            "He would emerge from obscurity and be anointed king by the last of the true prophets"
+          ],
+          correctAnswer: "He was small among the thousands of Judah, yet from him would come the one to be ruler in Israel, whose origin was from ancient times"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "In Micah 6:1–2, how did Jehovah open his legal case against Israel, and who were called as witnesses?",
+          correctAnswer: "Jehovah told Micah to rise up and present his legal case before the mountains, and let the hills hear his voice. He called on the mountains and the enduring foundations of the earth to hear Jehovah's legal case against his people, as Jehovah was bringing a legal case against Israel."
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Micah 6:8, what did Jehovah say he required of his people — described as the summary of what is good?",
+          options: [
+            "To offer daily sacrifices and keep all the festivals faithfully",
+            "To act with justice, to cherish loyalty, and to walk humbly with their God",
+            "To rebuild the temple and restore the priesthood to its proper role",
+            "To separate themselves from foreign nations and their customs"
+          ],
+          correctAnswer: "To act with justice, to cherish loyalty, and to walk humbly with their God"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Micah 7:7–8, despite acknowledging Israel's fall, Micah expressed personal faith that he would keep watching for Jehovah and that Jehovah would hear him — and he warned the enemy not to rejoice, for he would rise again.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Micah 7:18–19, how did Micah describe Jehovah's mercy and forgiveness as he concluded his prophecy?",
+          correctAnswer: "Micah asked who is a God like Jehovah, who pardons error and passes over the transgression of the remnant of his inheritance. He said Jehovah does not hold onto his anger forever, for he delights in loyal love. He would again show them mercy, tread their errors underfoot, and throw all their sins into the depths of the sea."
+        }
+      ]
+    }
+  },
+  {
+    day: 279,
+    passage: "Nahum / Habakkuk",
+    focus: "Jehovah's judgment against Nineveh and the fall of Assyria, and Habakkuk's dialogue with Jehovah about justice and the righteous living by faith",
+    quiz: {
+      title: "📘 Nahum / Habakkuk Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Nahum 1:2–3, how is Jehovah described in relation to those who oppose him?",
+          options: [
+            "Slow to act but certain in his timing",
+            "A God exacting vengeance and feeling great rage, slow to anger but great in power, who will by no means hold back punishment",
+            "A God who overlooks sin but remembers it at the appointed time",
+            "A compassionate judge who waits for full repentance before acting"
+          ],
+          correctAnswer: "A God exacting vengeance and feeling great rage, slow to anger but great in power, who will by no means hold back punishment"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Nahum 1:7, Jehovah is described as good, a stronghold in the day of distress, and he takes care of those seeking refuge in him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Nahum 2:11–12, the destruction of Nineveh was compared to the end of what kind of place?",
+          options: [
+            "A great marketplace stripped of all its goods",
+            "A lion's lair — once filled with prey, now emptied and destroyed",
+            "A mighty fortress whose walls had crumbled to dust",
+            "A deep river that had completely dried up"
+          ],
+          correctAnswer: "A lion's lair — once filled with prey, now emptied and destroyed"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Nahum 3:1–4, what specific charges did Jehovah bring against Nineveh that led to its destruction?",
+          correctAnswer: "Nineveh was condemned as a city of bloodshed, full of deception and pillaging, with unceasing prey. It was also condemned for the many prostitutions of the prostitute — beautiful and charming, a mistress of sorceries who enslaved nations through her prostitutions and families through her sorceries."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Nahum 3:8–10, Jehovah compared Nineveh to which great city that had also fallen despite its strength and defenses?",
+          options: [
+            "Babylon on the Euphrates",
+            "No-amon (Thebes) on the Nile",
+            "Tyre on the Mediterranean coast",
+            "Jerusalem on the mountains of Judah"
+          ],
+          correctAnswer: "No-amon (Thebes) on the Nile"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Habakkuk 1:2–3, what was Habakkuk's complaint to Jehovah?",
+          options: [
+            "That the neighboring nations were attacking Israel without cause",
+            "That Jehovah was not listening when he cried for help about violence, wrongdoing, and the lack of justice",
+            "That the false prophets were leading the people astray unchecked",
+            "That the priests had abandoned the temple and stopped offering sacrifices"
+          ],
+          correctAnswer: "That Jehovah was not listening when he cried for help about violence, wrongdoing, and the lack of justice"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Habakkuk 1:6, Jehovah told Habakkuk he was raising up the Chaldeans — a fierce and impetuous nation — to execute his judgment, which troubled Habakkuk because the Chaldeans were more wicked than Judah.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Habakkuk 2:4, what key principle did Jehovah state that contrasted the proud with the righteous?",
+          options: [
+            "The proud shall be brought low, but the humble shall be exalted",
+            "The soul of the proud one is not upright, but the righteous one will live by his faithfulness",
+            "Pride leads to destruction, but righteousness leads to blessing",
+            "The arrogant will perish, but the one who trusts in Jehovah will be saved"
+          ],
+          correctAnswer: "The soul of the proud one is not upright, but the righteous one will live by his faithfulness"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Habakkuk 2:14, what global outcome did Jehovah promise amid the pronouncements of woe on the wicked?",
+          options: [
+            "All nations would bring tribute to Jerusalem",
+            "The earth would be filled with the knowledge of Jehovah's glory as the waters cover the sea",
+            "Every false god would be destroyed and their temples torn down",
+            "Jehovah's people would rule over all the nations of the earth"
+          ],
+          correctAnswer: "The earth would be filled with the knowledge of Jehovah's glory as the waters cover the sea"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Habakkuk 3:17–18, what did Habakkuk express about his trust in Jehovah even in the face of total agricultural failure?",
+          correctAnswer: "Habakkuk said that even if the fig tree did not bloom, the vine produced no grapes, the olive harvest failed, the fields produced no food, the flock disappeared from the pen, and there were no cattle in the stalls — he would still exult in Jehovah and be joyful in the God of his salvation. Jehovah was his strength."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 280,
+    passage: "Zephaniah / Haggai",
+    focus: "The great day of Jehovah's judgment on Judah and the nations, the promise of a humble remnant, and Haggai's call to rebuild the temple",
+    quiz: {
+      title: "📘 Zephaniah / Haggai Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Zephaniah 1:4–6, what groups in Judah did Jehovah say he would cut off in his judgment?",
+          options: [
+            "The foreign merchants and the temple money changers",
+            "Those bowing to Baal, those worshipping the army of the heavens, those swearing by Jehovah and also by Malcam, and those who had turned away from following Jehovah",
+            "The false prophets and the corrupt priests only",
+            "Those who had intermarried with surrounding nations"
+          ],
+          correctAnswer: "Those bowing to Baal, those worshipping the army of the heavens, those swearing by Jehovah and also by Malcam, and those who had turned away from following Jehovah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Zephaniah 1:12, Jehovah said he would search Jerusalem with lamps to find those saying in their heart that Jehovah would not do good or do bad — people who had become complacent about divine judgment.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Zephaniah 2:3, who were encouraged to seek Jehovah and perhaps be concealed in the day of his anger?",
+          options: [
+            "The priests and Levites who had remained faithful in the temple",
+            "All the meek of the earth who had practiced his judgments and sought righteousness and meekness",
+            "The elders of Jerusalem who had warned the people of coming judgment",
+            "The remnant of Judah who had fled to Egypt before the invasion"
+          ],
+          correctAnswer: "All the meek of the earth who had practiced his judgments and sought righteousness and meekness"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Zephaniah 3:9, what did Jehovah promise to give to the peoples after the judgment, and what would be its purpose?",
+          correctAnswer: "Jehovah promised to give the peoples a pure language — a cleansed speech — so that all of them would call on the name of Jehovah and serve him shoulder to shoulder, meaning in unity."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Zephaniah 3:14–17, what was the reason given for Zion and Jerusalem to shout for joy and rejoice?",
+          options: [
+            "Because the temple was being rebuilt and the sacrifices restored",
+            "Because Jehovah had removed the judgments against them, the king of Israel was in their midst, and Jehovah himself would rejoice over them with joy and exult over them with a joyful shout",
+            "Because the surrounding nations had made peace with Israel",
+            "Because the exile was ending and the people were returning home"
+          ],
+          correctAnswer: "Because Jehovah had removed the judgments against them, the king of Israel was in their midst, and Jehovah himself would rejoice over them with joy and exult over them with a joyful shout"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Haggai 1:4–6, what was the problem Jehovah identified with the returned exiles' priorities?",
+          options: [
+            "They were spending too much time farming instead of worshipping",
+            "They were living in their own paneled houses while Jehovah's house lay in ruins — and their efforts were bringing little reward because of misplaced priorities",
+            "They were intermarrying with the people of the land and adopting their customs",
+            "They were neglecting the Sabbath and the appointed festivals"
+          ],
+          correctAnswer: "They were living in their own paneled houses while Jehovah's house lay in ruins — and their efforts were bringing little reward because of misplaced priorities"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Haggai 1:12–14, Zerubbabel the governor, Joshua the high priest, and all the remaining people obeyed Jehovah's voice and began work on the house of Jehovah of armies within 23 days of Haggai's message.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Haggai 2:3–5, Jehovah acknowledged that the rebuilt temple looked like nothing compared to the former one in the eyes of older people. What encouragement did he give?",
+          options: [
+            "That the new temple would eventually be embellished with gold and silver from the nations",
+            "That his spirit was still in their midst and they should not be afraid — his covenant promise stood",
+            "That the glory of the new temple would exceed the first because of faithful worship",
+            "That Jehovah would send an angel to assist with the construction"
+          ],
+          correctAnswer: "That his spirit was still in their midst and they should not be afraid — his covenant promise stood"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Haggai 2:7–9, what did Jehovah promise about the glory of the new temple?",
+          options: [
+            "That the nations would contribute silver and gold to decorate it",
+            "That the desirable things of all the nations would come in, Jehovah would fill the house with glory, and the glory of this latter house would be greater than that of the former",
+            "That a miraculous fire from heaven would descend on the altar at its dedication",
+            "That the ark of the covenant would be restored to the Most Holy"
+          ],
+          correctAnswer: "That the desirable things of all the nations would come in, Jehovah would fill the house with glory, and the glory of this latter house would be greater than that of the former"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Haggai 2:23, what personal promise did Jehovah make to Zerubbabel, and what did the signet ring symbolize?",
+          correctAnswer: "Jehovah promised to take Zerubbabel his servant and make him like a signet ring, for he had chosen him. The signet ring was a symbol of honor, authority, and close relationship with Jehovah — representing that Zerubbabel held a special place in Jehovah's purpose, and pointing forward to the Messianic line through his descendants."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 281,
+    passage: "Zechariah 1–7",
+    focus: "Eight night visions calling the returned exiles to remain faithful, the crowning of Joshua, and the question about fasting",
+    quiz: {
+      title: "📘 Zechariah 1–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Zechariah 1:3, what was the core message Jehovah sent through Zechariah to the returned exiles?",
+          options: [
+            "Continue rebuilding the temple and Jehovah will bless all your efforts",
+            "Return to me and I will return to you — do not be like your forefathers who refused to listen",
+            "Fear not the surrounding nations for I am with you to protect you",
+            "Separate yourselves from the people of the land and remain holy"
+          ],
+          correctAnswer: "Return to me and I will return to you — do not be like your forefathers who refused to listen"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Zechariah's first vision, he saw a man on a red horse standing among myrtle trees, followed by other horses. The horsemen reported that the whole earth was sitting still and undisturbed.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Zechariah 1:18–21, what did the four horns represent, and what were the four craftsmen sent to do?",
+          options: [
+            "The four horns were the armies of Babylon; the craftsmen were sent to rebuild Jerusalem's walls",
+            "The four horns were the nations that had scattered Judah, Israel, and Jerusalem; the craftsmen were sent to terrify and throw them down",
+            "The four horns were the four kingdoms of Daniel's vision; the craftsmen represented Israel's future kings",
+            "The four horns were false prophets; the craftsmen were Jehovah's true messengers"
+          ],
+          correctAnswer: "The four horns were the nations that had scattered Judah, Israel, and Jerusalem; the craftsmen were sent to terrify and throw them down"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Zechariah 2:4–5, what did Jehovah promise about Jerusalem's future that made physical walls unnecessary?",
+          options: [
+            "That Jehovah's angels would form an invisible wall around the city",
+            "That Jerusalem would be inhabited as a city without walls due to the multitude of people, and Jehovah would be a wall of fire around her and the glory within her",
+            "That the nations would make a treaty guaranteeing Jerusalem's safety",
+            "That the temple would radiate such glory that no enemy would dare approach"
+          ],
+          correctAnswer: "That Jerusalem would be inhabited as a city without walls due to the multitude of people, and Jehovah would be a wall of fire around her and the glory within her"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Zechariah 3, Joshua the high priest was shown standing before Jehovah's angel dressed in filthy garments, which represented the error of the people. The filthy garments were removed and he was clothed in robes of state.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Zechariah 3:8–9, who was the Branch that Jehovah promised to bring, and what would the stone with seven eyes accomplish?",
+          correctAnswer: "Jehovah said he was bringing his servant the Branch — a Messianic figure. The stone he was placing before Joshua had seven eyes, and Jehovah would engrave its engraving and remove the guilt of that land in one day, pointing to a complete spiritual cleansing through the promised one."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Zechariah 4:6, what was the key principle Jehovah communicated to Zerubbabel about the work of rebuilding?",
+          options: [
+            "With enough workers and resources, the temple could be finished quickly",
+            "Not by military force or personal power, but by Jehovah's spirit",
+            "Only through complete obedience to the Mosaic law would the work succeed",
+            "With the support of the Persian king, nothing would be impossible"
+          ],
+          correctAnswer: "Not by military force or personal power, but by Jehovah's spirit"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Zechariah 5:1–4, what was the flying scroll, and what did it represent?",
+          options: [
+            "A record of Israel's sins being carried to Babylon for judgment",
+            "The curse going out over all the land against thieves and those swearing falsely by Jehovah's name",
+            "A list of the nations to be judged in the day of Jehovah",
+            "The law of Moses being restored to the returned exiles"
+          ],
+          correctAnswer: "The curse going out over all the land against thieves and those swearing falsely by Jehovah's name"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Zechariah 6:12–13, the man whose name was the Branch would build the temple of Jehovah, sit on his throne, and be a priest on his throne — combining the roles of king and priest.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In Zechariah 7:5–6, when the people asked about their fasting in the fifth and seventh months, how did Jehovah respond?",
+          options: [
+            "He approved their fasting as a sign of genuine repentance",
+            "He questioned whether their fasting and mourning for 70 years was really for him, or whether their eating and drinking was not simply for themselves",
+            "He told them to fast more frequently to show greater devotion",
+            "He said fasting was no longer required now that the temple was being rebuilt"
+          ],
+          correctAnswer: "He questioned whether their fasting and mourning for 70 years was really for him, or whether their eating and drinking was not simply for themselves"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 282,
+    passage: "Zechariah 8–11",
+    focus: "Jehovah's zeal for Jerusalem and promises of restoration, the coming king on a donkey, and the rejection of the foolish shepherd",
+    quiz: {
+      title: "📘 Zechariah 8–11 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Zechariah 8:3, what did Jehovah promise about Jerusalem in the restored future?",
+          options: [
+            "It would become the military capital of all the surrounding nations",
+            "He would return to Zion and dwell in Jerusalem, which would be called the City of Truth and the mountain of Jehovah of armies the Holy Mountain",
+            "Its walls would be rebuilt stronger than any fortress in the ancient world",
+            "It would become the center of world trade and commerce"
+          ],
+          correctAnswer: "He would return to Zion and dwell in Jerusalem, which would be called the City of Truth and the mountain of Jehovah of armies the Holy Mountain"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Zechariah 8:16–17, Jehovah listed practical requirements for the restored community, including speaking truth to one another, rendering truthful and peaceful judgment, and not loving a false oath — things he hated.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Zechariah 8:20–23, what did Jehovah say people of many nations and cities would do in those days?",
+          options: [
+            "They would bring tribute to Jerusalem and acknowledge Israel's military power",
+            "They would go to Jerusalem to seek Jehovah and entreat his favor, and ten men from all languages would take hold of a Jew's garment wanting to go with him",
+            "They would send representatives to learn the law of Moses from the priests",
+            "They would rebuild the cities of Judah as a tribute to Jehovah"
+          ],
+          correctAnswer: "They would go to Jerusalem to seek Jehovah and entreat his favor, and ten men from all languages would take hold of a Jew's garment wanting to go with him"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Zechariah 9:9, the famous prophecy about Jerusalem's coming king described him in what way?",
+          options: [
+            "Mighty in battle, riding a great war horse, crowned with gold",
+            "Righteous and bringing salvation, humble and riding on a donkey — on a colt, the foal of a female donkey",
+            "Surrounded by the armies of heaven, shining like the sun",
+            "Dressed in the robes of the high priest and carrying a golden scepter"
+          ],
+          correctAnswer: "Righteous and bringing salvation, humble and riding on a donkey — on a colt, the foal of a female donkey"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Zechariah 9:10, the coming king would speak peace to the nations, and his rulership would extend from sea to sea and from the River to the ends of the earth.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Zechariah 10:2–3, what was wrong with the spiritual leadership Israel had been receiving, and what was Jehovah's response?",
+          correctAnswer: "The teraphim spoke what was worthless, the diviners saw false visions and told lying dreams that gave empty comfort. As a result the people wandered like sheep who were afflicted for lack of a shepherd. Jehovah's anger burned against the shepherds and he would hold the goat-shaped leaders accountable, and would care for his flock himself."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Zechariah 11:12–13, what prophetic detail about 30 pieces of silver is recorded, later fulfilled in the account of Jesus?",
+          options: [
+            "The shepherd was paid 30 pieces of silver as wages, which he then threw to the potter in the house of Jehovah",
+            "The 30 pieces of silver were used to buy back the flock from the foolish shepherd",
+            "The shepherd refused 30 pieces of silver as payment for his care of the flock",
+            "The 30 pieces of silver were scattered among the people as a sign of judgment"
+          ],
+          correctAnswer: "The shepherd was paid 30 pieces of silver as wages, which he then threw to the potter in the house of Jehovah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Zechariah 11:7–10, what were the two staffs the shepherd carried, and what did breaking the first one signify?",
+          options: [
+            "Favor and Union; breaking Favor represented ending Jehovah's covenant with all the peoples",
+            "Peace and Strength; breaking Peace represented the end of Jehovah's protection of Israel",
+            "Truth and Grace; breaking Truth represented removing his word from the nation",
+            "Light and Life; breaking Light represented withdrawing divine guidance from the leaders"
+          ],
+          correctAnswer: "Favor and Union; breaking Favor represented ending Jehovah's covenant with all the peoples"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Zechariah 11:15–17, Jehovah told Zechariah to take up the equipment of a foolish shepherd, representing a coming leader who would not care for the perishing, seek the scattered, or heal the hurt.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Zechariah 10:6–7, what did Jehovah promise regarding the houses of Judah and Joseph?",
+          correctAnswer: "Jehovah said he would strengthen the house of Judah and save the house of Joseph, and he would bring them back because he had compassion on them. They would be as though he had not rejected them, for he was Jehovah their God and he would answer them. Ephraim would be like a mighty man, and their heart would rejoice as with wine."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 283,
+    passage: "Zechariah 12–14",
+    focus: "Jerusalem's deliverance, mourning over the one pierced, the refining of a remnant, and Jehovah's final battle and kingdom",
+    quiz: {
+      title: "📘 Zechariah 12–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Zechariah 12:2–3, what did Jehovah say Jerusalem would become for the surrounding nations and peoples?",
+          options: [
+            "A city of refuge and peace for all who sought Jehovah",
+            "A cup causing reeling and a heavy stone — those lifting it would be severely injured",
+            "A source of great wealth and trade for all the surrounding nations",
+            "An example of divine blessing that would attract all nations to worship Jehovah"
+          ],
+          correctAnswer: "A cup causing reeling and a heavy stone — those lifting it would be severely injured"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Zechariah 12:10, Jehovah said he would pour out on the house of David and Jerusalem a spirit of favor and entreaty, and they would look on the one whom they had pierced and mourn bitterly over him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Zechariah 13:1, what was the fountain opened for the house of David and the inhabitants of Jerusalem?",
+          options: [
+            "A source of living water in the desert for the returning exiles",
+            "A fountain for sin and for uncleanness — representing spiritual cleansing",
+            "A spring that would make Jerusalem the most fertile city in the land",
+            "A pool of water for ritual washing in the new temple"
+          ],
+          correctAnswer: "A fountain for sin and for uncleanness — representing spiritual cleansing"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Zechariah 13:7–9, what would happen to the flock when the shepherd was struck, and what would become of the refined remnant?",
+          correctAnswer: "When the shepherd was struck, the sheep would be scattered. Jehovah would turn his hand against the insignificant ones. Two-thirds in the land would be cut off and the third part would be left. The third part would be brought through fire and refined like silver and tested like gold. They would call on Jehovah's name and he would answer them, saying they were his people, and they would say Jehovah is their God."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Zechariah 14:1–2, what did Jehovah say would happen to Jerusalem before his intervention on her behalf?",
+          options: [
+            "An earthquake would devastate the city before Jehovah rebuilt it",
+            "All the nations would be gathered against Jerusalem, the city would be captured, and half the city would go into exile",
+            "A plague would strike the city's enemies before they could attack",
+            "The people of Jerusalem would flee to the mountains before Jehovah fought for them"
+          ],
+          correctAnswer: "All the nations would be gathered against Jerusalem, the city would be captured, and half the city would go into exile"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Zechariah 14:4, Jehovah would stand on the Mount of Olives to the east of Jerusalem, and the mountain would be split in two from east to west, forming a very large valley.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Zechariah 14:8, what would flow out from Jerusalem in that day?",
+          options: [
+            "A river of gold representing the wealth of the nations coming to Jerusalem",
+            "Living waters going out from Jerusalem — half toward the eastern sea and half toward the western sea",
+            "A stream of fire consuming the enemies of Jehovah's people",
+            "A flood of returning exiles streaming back into the city from all directions"
+          ],
+          correctAnswer: "Living waters going out from Jerusalem — half toward the eastern sea and half toward the western sea"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Zechariah 14:16, what would the survivors of the nations do annually after Jehovah's victory?",
+          options: [
+            "Bring tribute of silver and gold to the temple in Jerusalem each year",
+            "Go up to Jerusalem year after year to worship Jehovah of armies and celebrate the Festival of Booths",
+            "Send representatives to Jerusalem to learn the law of Moses",
+            "Build altars to Jehovah in their own lands as they had seen in Jerusalem"
+          ],
+          correctAnswer: "Go up to Jerusalem year after year to worship Jehovah of armies and celebrate the Festival of Booths"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Zechariah 14:20–21, the holiness of Jehovah would extend even to ordinary objects — the bells of the horses would be inscribed 'Holy to Jehovah' and every cooking pot in Jerusalem would be sacred.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Zechariah 14:9, what was the grand conclusion about Jehovah's sovereignty over all the earth in that day?",
+          correctAnswer: "Jehovah would become king over all the earth. In that day Jehovah would be one and his name one — expressing complete, undivided universal sovereignty with no rival gods or divided worship."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 284,
+    passage: "Malachi 1–4",
+    focus: "Jehovah's rebuke of Israel's polluted offerings and faithless priests, the coming messenger, and the call to return before the great day of Jehovah",
+    quiz: {
+      title: "📘 Malachi 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Malachi 1:6–8, what specific failure of the priests did Jehovah condemn regarding the sacrifices they were offering?",
+          options: [
+            "They were offering sacrifices without the required prayers and incense",
+            "They were offering blind, lame, and sick animals — animals they would not dare present to their governor",
+            "They were keeping the best animals for themselves and offering substitutes",
+            "They were offering sacrifices at unauthorized times of the year"
+          ],
+          correctAnswer: "They were offering blind, lame, and sick animals — animals they would not dare present to their governor"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Malachi 2:13–14, Jehovah said he was not accepting their offerings because they had dealt treacherously with the wife of their youth — he had been a witness between the man and the wife of his youth.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Malachi 2:17, what wearying question had the people been asking that Jehovah found burdensome?",
+          options: [
+            "'Why does Jehovah not answer our prayers or restore our former glory?'",
+            "'Where is the God of justice?' — implying the wicked prospered and Jehovah approved of evil",
+            "'When will the promised Messiah come to rescue us from our enemies?'",
+            "'Has Jehovah truly chosen Israel above all other nations?'"
+          ],
+          correctAnswer: "'Where is the God of justice?' — implying the wicked prospered and Jehovah approved of evil"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Malachi 3:1, who were the two messengers Jehovah promised to send, and what would each do?",
+          correctAnswer: "Jehovah promised to send his messenger who would clear up the way before him — a preparatory messenger. Then suddenly the true Lord would come to his temple, the messenger of the covenant in whom they delighted. The first would prepare the way, and the second would come for judgment and purification."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Malachi 3:8–10, Jehovah accused Israel of robbing him. In what way?",
+          options: [
+            "By building houses for themselves instead of contributing to the temple rebuilding fund",
+            "In the tithes and the contributions — and he challenged them to bring the full tithe and test him whether he would not open the floodgates of heaven",
+            "By offering sacrifices to foreign gods rather than giving all their offerings to Jehovah",
+            "By withholding the firstborn of their flocks from the priests"
+          ],
+          correctAnswer: "In the tithes and the contributions — and he challenged them to bring the full tithe and test him whether he would not open the floodgates of heaven"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Malachi 3:16, those fearing Jehovah spoke with one another, and Jehovah kept paying attention and a book of remembrance was written before him for those fearing Jehovah and meditating on his name.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Malachi 3:17, what did Jehovah say those written in the book of remembrance would become to him in the day he was acting?",
+          options: [
+            "His priests and servants in the new temple",
+            "His special property — and he would show them compassion as a man shows compassion to his son who serves him",
+            "His ambassadors to the nations who had not heard his name",
+            "His witnesses before all the kings and rulers of the earth"
+          ],
+          correctAnswer: "His special property — and he would show them compassion as a man shows compassion to his son who serves him"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Malachi 4:1–2, what contrast did Jehovah draw between the fate of the arrogant and the wicked versus those fearing his name?",
+          options: [
+            "The wicked would be exiled while the righteous would be restored to the land",
+            "The day would burn the wicked like stubble, while for those fearing Jehovah the sun of righteousness would shine with healing in its wings",
+            "The wicked would suffer in silence while the righteous would receive double the blessing",
+            "The wicked would lose their wealth while the righteous would inherit the nations"
+          ],
+          correctAnswer: "The day would burn the wicked like stubble, while for those fearing Jehovah the sun of righteousness would shine with healing in its wings"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Malachi 4:4–5, Jehovah called Israel to remember the law of Moses and announced he would send the prophet Elijah before the coming of the great and awe-inspiring day of Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Malachi 4:6, what was the mission of the Elijah figure who would come before the great day of Jehovah?",
+          correctAnswer: "He would turn the heart of fathers back to their sons and the heart of sons back to their fathers, so that Jehovah would not have to come and strike the land with a curse — his mission was one of reconciliation and restoration within families and the community."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 285,
+    passage: "Matthew 1–4",
+    focus: "The genealogy and birth of Jesus, the visit of the astrologers, John's baptism ministry, Jesus' baptism and temptation, and the beginning of his preaching",
+    quiz: {
+      title: "📘 Matthew 1–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 1:21, what was the angel's instruction about the name of Mary's son, and why?",
+          options: [
+            "Call him Emmanuel, meaning God is with us, to fulfill Isaiah's prophecy",
+            "Call him Jesus, for he would save his people from their sins",
+            "Call him the Son of David, to establish his royal lineage before the people",
+            "Call him the Christ, so Israel would recognize their long-awaited Messiah"
+          ],
+          correctAnswer: "Call him Jesus, for he would save his people from their sins"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 2, after the astrologers from the East visited the young child Jesus, Jehovah warned Joseph in a dream to flee to Egypt because Herod was about to search for the child to destroy him.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 3:1–2, what was the core message of John the Baptist's preaching in the wilderness of Judea?",
+          options: [
+            "The Messiah is coming — prepare your offerings and tithes",
+            "Repent, for the Kingdom of the heavens has drawn near",
+            "Turn back to the law of Moses and observe all its commandments",
+            "Flee from the coming wrath by seeking refuge in the wilderness"
+          ],
+          correctAnswer: "Repent, for the Kingdom of the heavens has drawn near"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 3:9–10, what warning did John give to the Pharisees and Sadducees who came to his baptism?",
+          options: [
+            "That they needed to offer additional sacrifices to make up for their hypocrisy",
+            "Not to presume on being children of Abraham — every tree not producing fine fruit would be cut down",
+            "That they had no authority to be baptized without first confessing their sins publicly",
+            "That their teaching was leading the people into error and they must stop immediately"
+          ],
+          correctAnswer: "Not to presume on being children of Abraham — every tree not producing fine fruit would be cut down"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "At Jesus' baptism in Matthew 3:16–17, the heavens were opened, the spirit of God descended like a dove upon him, and a voice from the heavens said: 'This is my Son, the beloved, whom I have approved.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "Summarize the three temptations Satan presented to Jesus in Matthew 4:1–11 and how Jesus responded to each.",
+          correctAnswer: "First, Satan tempted Jesus to turn stones into bread after 40 days of fasting; Jesus responded that man must live on every word from Jehovah's mouth. Second, Satan told Jesus to throw himself off the temple pinnacle so angels would catch him; Jesus replied that one must not put Jehovah to the test. Third, Satan offered all the kingdoms of the world in exchange for one act of worship; Jesus firmly told Satan to go away, for it is Jehovah God who must be worshipped exclusively."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 4:17, after John was arrested, Jesus began preaching. What was his message?",
+          options: [
+            "The time has been fulfilled — the Messiah has arrived",
+            "Repent, for the Kingdom of the heavens has drawn near",
+            "Believe and be baptized, and you will be saved",
+            "The Son of Man has come to seek and save what was lost"
+          ],
+          correctAnswer: "Repent, for the Kingdom of the heavens has drawn near"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 4:18–22, when Jesus called Peter, Andrew, James, and John from their fishing, how did they respond?",
+          options: [
+            "They asked for time to consider and followed him the next day",
+            "They immediately left their nets and boats and followed him",
+            "They followed him only after he performed a miracle for them",
+            "They sent word through their families before agreeing to follow"
+          ],
+          correctAnswer: "They immediately left their nets and boats and followed him"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 4:23–24, Jesus went throughout all of Galilee teaching in the synagogues, preaching the good news of the Kingdom, and curing every sort of disease and illness among the people.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In Matthew 2:13–15, the flight to Egypt fulfilled a prophecy from which Hebrew Scripture writer?",
+          options: [
+            "Isaiah",
+            "Jeremiah",
+            "Hosea",
+            "Micah"
+          ],
+          correctAnswer: "Hosea"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 286,
+    passage: "Matthew 5–7",
+    focus: "The Sermon on the Mount — the Beatitudes, the Lord's Prayer, teachings on the law, prayer, judging, and the two roads",
+    quiz: {
+      title: "📘 Matthew 5–7 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 5:3, who did Jesus say were happy in the first Beatitude?",
+          options: [
+            "Those who are pure in heart",
+            "Those who are poor in spirit — for theirs is the Kingdom of the heavens",
+            "Those who mourn — for they will be comforted",
+            "Those who are meek — for they will inherit the earth"
+          ],
+          correctAnswer: "Those who are poor in spirit — for theirs is the Kingdom of the heavens"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 5:17, Jesus said he came to destroy the Law and the Prophets, replacing them with his own new teaching.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 5:44, what did Jesus command regarding enemies?",
+          options: [
+            "Avoid them and pray that Jehovah will deal with them justly",
+            "Continue to love your enemies and pray for those persecuting you",
+            "Show them kindness only if they first show repentance",
+            "Seek to convert them before showing them any love"
+          ],
+          correctAnswer: "Continue to love your enemies and pray for those persecuting you"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Matthew 6:9–13, list the main petitions of the model prayer Jesus gave his disciples.",
+          correctAnswer: "The main petitions are: hallowing of Jehovah's name; the coming of his Kingdom; his will being done on earth as in heaven; daily bread; forgiveness of debts as we forgive our debtors; not being brought into temptation; deliverance from the wicked one."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Matthew 6:24, Jesus said no one can slave for two masters. What specific contrast did he draw?",
+          options: [
+            "You cannot serve both Jehovah and your own desires",
+            "You cannot slave for God and for Riches",
+            "You cannot love your family and also love Jehovah with your whole heart",
+            "You cannot serve both the law of Moses and the teachings of Jesus"
+          ],
+          correctAnswer: "You cannot slave for God and for Riches"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Matthew 6:33, Jesus told his followers to keep on seeking first the Kingdom and Jehovah's righteousness, and all other needed things would be added to them.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 7:7–8, what did Jesus teach about prayer using three parallel expressions?",
+          options: [
+            "Ask — it will be given; seek — you will find; knock — it will be opened to you",
+            "Pray with faith — you will receive; seek with patience — you will find; wait on Jehovah — he will act",
+            "Ask according to his will — he will hear; seek in his word — you will find truth; knock at his temple — it will open",
+            "Ask once — if not granted, ask again; seek diligently — the answer is near; knock persistently — he will answer"
+          ],
+          correctAnswer: "Ask — it will be given; seek — you will find; knock — it will be opened to you"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 7:13–14, what did Jesus say about the two roads and their destinations?",
+          options: [
+            "The broad road leads to happiness in this life, but the cramped road leads to true life",
+            "Go in through the narrow gate — broad and spacious is the road to destruction, but cramped is the road leading to life, and few are finding it",
+            "The wide road leads to worldly success, but only the narrow road leads to the Kingdom",
+            "Two roads exist — one for Jews and one for Gentiles — but both lead to the same destination"
+          ],
+          correctAnswer: "Go in through the narrow gate — broad and spacious is the road to destruction, but cramped is the road leading to life, and few are finding it"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 7:21, Jesus said that not everyone saying 'Lord, Lord' would enter the Kingdom of the heavens, but only the one doing the will of his Father in the heavens.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 7:24–27, what was the lesson of the parable of the two builders, and what distinguished the wise from the foolish builder?",
+          correctAnswer: "The wise man who heard Jesus' words and did them was like a man who built his house on rock — when the rain, floods, and winds came, the house did not fall. The foolish man who heard but did not act was like one who built on sand — his house collapsed completely. The lesson was that hearing Jesus' words must be accompanied by obedience and action to provide real spiritual stability."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 287,
+    passage: "Matthew 8–10",
+    focus: "Jesus' miracles of healing and authority, the call of Matthew, and the commissioning of the twelve apostles",
+    quiz: {
+      title: "📘 Matthew 8–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 8:5–10, what impressed Jesus about the army officer whose servant was ill?",
+          options: [
+            "His generosity in donating to the synagogue and his kindness to his servant",
+            "His exceptional faith — he understood that Jesus only needed to say the word and his servant would be healed",
+            "His humility in coming personally to Jesus rather than sending a representative",
+            "His knowledge of the Hebrew Scriptures and his recognition of Jesus as Messiah"
+          ],
+          correctAnswer: "His exceptional faith — he understood that Jesus only needed to say the word and his servant would be healed"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 8:23–27, when a great storm arose on the sea while Jesus was asleep in the boat, Jesus rebuked the winds and the sea after rebuking the disciples for their little faith, and a great calm followed.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 9:2–6, when Jesus healed a paralyzed man, what did he say first that caused the scribes to accuse him of blasphemy?",
+          options: [
+            "'Rise and walk — your faith has made you well'",
+            "'Take courage, your sins are forgiven'",
+            "'Your illness is finished — stand up and go to your house'",
+            "'Be made clean — the power of God is upon you'"
+          ],
+          correctAnswer: "'Take courage, your sins are forgiven'"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 9:12–13, how did Jesus respond to the Pharisees' objection about him eating with tax collectors and sinners?",
+          options: [
+            "That the Pharisees themselves were sinners and needed to repent",
+            "That those who are healthy do not need a physician, but those who are ill do — he came to call sinners, not righteous people",
+            "That Jehovah's mercy extends to all people regardless of their past",
+            "That he was fulfilling the prophecy of the Messiah as a friend of sinners"
+          ],
+          correctAnswer: "That those who are healthy do not need a physician, but those who are ill do — he came to call sinners, not righteous people"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Matthew 9:35–38, Jesus felt compassion for the crowds because they were skinned and thrown about like sheep without a shepherd, and he told his disciples that the harvest was great but the workers were few.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Matthew 10:5–8, what specific instructions did Jesus give the twelve about where to go and what to do?",
+          correctAnswer: "Jesus told them not to go off into the road of the nations or enter a Samaritan city, but to go instead to the lost sheep of the house of Israel. As they went, they were to preach that the Kingdom of the heavens had drawn near, and to cure the sick, raise up the dead, make lepers clean, and expel demons — freely they had received, freely they were to give."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 10:16, Jesus described the disciples' situation with two contrasting images. What were they?",
+          options: [
+            "Like soldiers going to war and like servants doing their master's business",
+            "Like sheep among wolves — so they must be as cautious as serpents and yet as innocent as doves",
+            "Like lambs among lions — bold as lions yet gentle as lambs",
+            "Like farmers sowing seed — scattering the word widely but carefully"
+          ],
+          correctAnswer: "Like sheep among wolves — so they must be as cautious as serpents and yet as innocent as doves"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 10:28, what did Jesus tell his disciples not to fear, and what should they fear instead?",
+          options: [
+            "Do not fear those who imprison the body; fear Jehovah who can send you to Gehenna",
+            "Do not fear those who kill the body but cannot kill the soul; rather fear him who can destroy both soul and body in Gehenna",
+            "Do not fear rejection by men; fear only failing to carry out Jehovah's will",
+            "Do not fear persecution; fear becoming ashamed of the good news before men"
+          ],
+          correctAnswer: "Do not fear those who kill the body but cannot kill the soul; rather fear him who can destroy both soul and body in Gehenna"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 10:34–36, Jesus said he came to bring peace on the earth, assuring his disciples that following him would unite rather than divide families.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 10:42, what simple act of kindness did Jesus say would not go unrewarded?",
+          correctAnswer: "Jesus said that whoever gave one of his disciples even a cup of cold water to drink because he was a disciple would by no means lose his reward."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 288,
+    passage: "Matthew 11–13",
+    focus: "John's question from prison, Jesus' condemnation of unrepentant cities, rest for the toiling, Sabbath controversies, and the parables of the Kingdom",
+    quiz: {
+      title: "📘 Matthew 11–13 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 11:2–5, when John the Baptist sent disciples to ask if Jesus was the Coming One, how did Jesus answer?",
+          options: [
+            "He said plainly: 'I am the Messiah — go and tell John'",
+            "He told them to report what they were hearing and seeing: the blind seeing, the lame walking, lepers being cleansed, the deaf hearing, the dead being raised, and the poor being told the good news",
+            "He quoted Isaiah 53 and asked them to judge for themselves",
+            "He said John would understand after the resurrection"
+          ],
+          correctAnswer: "He told them to report what they were hearing and seeing: the blind seeing, the lame walking, lepers being cleansed, the deaf hearing, the dead being raised, and the poor being told the good news"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 11:28–30, Jesus invited those toiling and loaded down to come to him, promising rest and saying his yoke was easy and his load light.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 12:8, what claim did Jesus make about himself in connection with the Sabbath controversy?",
+          options: [
+            "That the Sabbath law had been abolished by his arrival",
+            "That the Son of Man is Lord of the Sabbath",
+            "That mercy takes precedence over strict Sabbath observance in all cases",
+            "That the Pharisees had no authority to interpret the Sabbath law"
+          ],
+          correctAnswer: "That the Son of Man is Lord of the Sabbath"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 12:31–32, what did Jesus say about the unforgivable sin?",
+          options: [
+            "Blasphemy against the Son of Man would never be forgiven in any age",
+            "Blasphemy against the holy spirit would not be forgiven — in this system or in the one to come",
+            "Deliberate sin after knowing the truth would result in permanent exclusion from the Kingdom",
+            "Rejecting Jesus publicly before men would result in him rejecting that person before his Father"
+          ],
+          correctAnswer: "Blasphemy against the holy spirit would not be forgiven — in this system or in the one to come"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "In Matthew 13:10–13, why did Jesus explain to his disciples that he spoke to the crowds in parables?",
+          correctAnswer: "Jesus said it was given to his disciples to understand the sacred secrets of the Kingdom of the heavens, but to others it had not been given. To those who had, more would be given; from those who did not have, even what they had would be taken. He spoke in parables because seeing, the crowds did not see; and hearing, they did not hear or understand — fulfilling Isaiah's prophecy about dull hearts."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Jesus' explanation of the parable of the wheat and weeds in Matthew 13:37–39, what did the fine seed, the weeds, the harvest, and the reapers represent?",
+          options: [
+            "The fine seed = the word of God; the weeds = false teachers; the harvest = judgment day; the reapers = the apostles",
+            "The fine seed = the sons of the Kingdom; the weeds = the sons of the wicked one; the harvest = the conclusion of the system; the reapers = angels",
+            "The fine seed = the Israelites; the weeds = the Gentiles; the harvest = the end of the age; the reapers = Jehovah's prophets",
+            "The fine seed = repentant sinners; the weeds = unrepentant sinners; the harvest = death; the reapers = death and Hades"
+          ],
+          correctAnswer: "The fine seed = the sons of the Kingdom; the weeds = the sons of the wicked one; the harvest = the conclusion of the system; the reapers = angels"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Matthew 13:44–46, Jesus gave two parables about the immense value of the Kingdom — a man finding a treasure hidden in a field, and a merchant finding one pearl of great value — both of whom sold everything they had to obtain it.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 13:57–58, why did Jesus not do many powerful works in his hometown of Nazareth?",
+          options: [
+            "Because the Pharisees there were too powerful and prevented him",
+            "Because of their lack of faith",
+            "Because it was not yet his time to reveal his full power",
+            "Because the people had not repented sufficiently"
+          ],
+          correctAnswer: "Because of their lack of faith"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Matthew 13:31–32, to what did Jesus compare the Kingdom of the heavens in the mustard grain parable?",
+          options: [
+            "A tiny seed that becomes the largest tree in the garden, in whose branches birds come to nest",
+            "A grain of wheat that falls into the ground and produces a hundred times what was sown",
+            "A small spark that grows into a fire covering an entire forest",
+            "A single drop of water that grows into a river covering the earth"
+          ],
+          correctAnswer: "A tiny seed that becomes the largest tree in the garden, in whose branches birds come to nest"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 11:20–22, why did Jesus condemn Chorazin, Bethsaida, and Capernaum?",
+          correctAnswer: "Jesus condemned them because most of his powerful works had been done in them, yet they had not repented. He said it would be more endurable for Tyre and Sidon and even Sodom on Judgment Day than for those cities, because Tyre and Sidon would have repented long ago in sackcloth and ashes had they seen the same works."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 289,
+    passage: "Matthew 14–17",
+    focus: "The death of John, feeding the multitudes, walking on water, Peter's confession, the transfiguration, and teachings on faith and humility",
+    quiz: {
+      title: "📘 Matthew 14–17 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 14:6–10, how did John the Baptist come to be executed by Herod?",
+          options: [
+            "Herod was pressured by the Pharisees who feared John's influence over the people",
+            "At Herod's birthday celebration, the daughter of Herodias danced and pleased Herod, who promised her anything — at her mother's prompting she asked for John's head",
+            "John publicly confronted Herod about his idolatry and was arrested and killed on the spot",
+            "John was caught helping prisoners escape from the palace and was executed for treason"
+          ],
+          correctAnswer: "At Herod's birthday celebration, the daughter of Herodias danced and pleased Herod, who promised her anything — at her mother's prompting she asked for John's head"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 14:17–21, Jesus fed a crowd of about 5,000 men, besides women and children, starting with only five loaves and two fish, and twelve baskets of leftover fragments were collected.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 14:28–31, what happened when Peter walked on the water toward Jesus?",
+          options: [
+            "Peter walked all the way to Jesus without difficulty, showing great faith",
+            "Peter began to sink when he noticed the windstorm, and Jesus caught him and called him a man of little faith",
+            "Peter walked a few steps then Jesus told him to return to the boat",
+            "Peter sank immediately because he doubted before even stepping out"
+          ],
+          correctAnswer: "Peter began to sink when he noticed the windstorm, and Jesus caught him and called him a man of little faith"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 16:15–17, when Jesus asked who the disciples said he was and Peter answered, what was Jesus' response to Peter's answer?",
+          options: [
+            "He told Peter he had figured this out through his own wisdom and study",
+            "He told Peter that flesh and blood had not revealed it to him but his Father in the heavens",
+            "He praised Peter for being the most faithful of all the apostles",
+            "He told Peter to keep this knowledge secret until after his death and resurrection"
+          ],
+          correctAnswer: "He told Peter that flesh and blood had not revealed it to him but his Father in the heavens"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Matthew 16:21–23, when Jesus told his disciples he must go to Jerusalem, suffer, be killed, and be raised on the third day, Peter rebuked him — and Jesus in turn rebuked Peter, calling him Satan.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Matthew 16:24–26, what did Jesus say about the cost and value of being his disciple?",
+          correctAnswer: "Jesus said that anyone who wanted to come after him must disown himself and pick up his torture stake and follow him. Whoever wanted to save his life would lose it, but whoever lost his life for Jesus' sake would find it. He asked what a person would benefit if he gained the whole world but lost his life, or what he could give in exchange for his life."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 17:1–5, at the transfiguration, who appeared alongside Jesus on the mountain?",
+          options: [
+            "Abraham and Isaac",
+            "Moses and Elijah",
+            "Elijah and Elisha",
+            "Moses and Aaron"
+          ],
+          correctAnswer: "Moses and Elijah"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 17:19–20, when the disciples asked why they could not expel a demon, what did Jesus say was the reason?",
+          options: [
+            "Because they had not fasted before attempting the expulsion",
+            "Because of their little faith — even faith the size of a mustard grain could move a mountain",
+            "Because they had not prayed collectively before confronting the demon",
+            "Because Jehovah had not given them authority over that particular type of demon"
+          ],
+          correctAnswer: "Because of their little faith — even faith the size of a mustard grain could move a mountain"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 15:21–28, a Canaanite woman persistently pleaded for Jesus to heal her demon-possessed daughter, and Jesus initially responded that he was sent only to the lost sheep of the house of Israel before granting her request because of her great faith.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 16:28 and Matthew 17:9, what did Jesus tell his disciples about the Son of Man coming in his Kingdom, and how did the transfiguration relate to this?",
+          correctAnswer: "Jesus told some of those standing there that they would not taste death before seeing the Son of Man coming in his Kingdom. The transfiguration that followed — where Jesus' face shone like the sun and his garments became brilliant white — served as a prophetic preview or vision of that glorious future. Jesus called it a vision that they should tell no one about until after his resurrection."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 290,
+    passage: "Matthew 18–20",
+    focus: "Teachings on humility and forgiveness, the parable of the unforgiving slave, teachings on marriage, the rich young man, and the workers in the vineyard",
+    quiz: {
+      title: "📘 Matthew 18–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 18:1–4, when the disciples asked who was greatest in the Kingdom, what did Jesus do and say?",
+          options: [
+            "He pointed to Peter and said those with strong faith like his were greatest",
+            "He called a young child to him and said unless they turned and became like young children they would not enter the Kingdom — the one who humbled himself like a child was greatest",
+            "He said the one who served the most people would be greatest in the Kingdom",
+            "He said the question itself showed they had not yet understood his teachings"
+          ],
+          correctAnswer: "He called a young child to him and said unless they turned and became like young children they would not enter the Kingdom — the one who humbled himself like a child was greatest"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 18:21–22, when Peter asked if he should forgive his brother up to seven times, Jesus said not seven times but 77 times — indicating forgiveness should be without limit.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "Summarize the lesson of the parable of the unforgiving slave in Matthew 18:23–35.",
+          correctAnswer: "A king forgave a slave an enormous debt he could never repay. That same slave then refused to show mercy to a fellow slave who owed him a tiny amount, and had him thrown in prison. When the king heard, he handed the unforgiving slave over to the jailers until he repaid everything. Jesus concluded that his heavenly Father would do the same to anyone who did not forgive his brother from the heart."
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 19:4–6, when asked about divorce, how did Jesus define marriage using the words from Genesis?",
+          options: [
+            "Marriage is a human custom that Jehovah tolerates but did not originally intend",
+            "From the beginning the Creator made them male and female — the two would become one flesh, and no one should separate what God has yoked together",
+            "Marriage was instituted at Sinai as part of the Mosaic covenant and was binding only under that covenant",
+            "Marriage was meant to be a temporary arrangement until the Kingdom came"
+          ],
+          correctAnswer: "From the beginning the Creator made them male and female — the two would become one flesh, and no one should separate what God has yoked together"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Matthew 19:16–22, what was the one thing the rich young man lacked that prevented him from following Jesus?",
+          options: [
+            "He had not been baptized and therefore could not be a disciple",
+            "He needed to sell his possessions, give to the poor, and follow Jesus — but he went away grieved because he had many possessions",
+            "He had not forgiven an enemy who had wronged him",
+            "He needed to leave his family and make Jehovah his primary relationship"
+          ],
+          correctAnswer: "He needed to sell his possessions, give to the poor, and follow Jesus — but he went away grieved because he had many possessions"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Matthew 19:26, when the disciples were astounded at Jesus' words about the difficulty of a rich man entering the Kingdom, Jesus said with God all things are possible.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 20:1–16, what was the main lesson of the parable of the workers in the vineyard who all received a denarius regardless of when they started working?",
+          options: [
+            "That Jehovah rewards effort rather than results",
+            "That Jehovah is free to be generous with his gifts as he chooses, and the last ones can receive the same reward as the first",
+            "That early commitment to the Kingdom guarantees greater reward than late conversion",
+            "That all Christians receive identical rewards regardless of their level of service"
+          ],
+          correctAnswer: "That Jehovah is free to be generous with his gifts as he chooses, and the last ones can receive the same reward as the first"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 20:25–28, how did Jesus contrast worldly leadership with leadership among his followers?",
+          options: [
+            "Worldly rulers lead by law; his followers lead by example",
+            "The rulers of the nations lord it over them, but among his disciples whoever wanted to be great must be their minister and slave — the Son of Man came not to be served but to serve and give his life as a ransom",
+            "Worldly rulers use fear; Jesus' followers use love and persuasion",
+            "Rulers of nations appoint others; among his disciples the greatest would be chosen by Jehovah directly"
+          ],
+          correctAnswer: "The rulers of the nations lord it over them, but among his disciples whoever wanted to be great must be their minister and slave — the Son of Man came not to be served but to serve and give his life as a ransom"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 18:15–17, Jesus gave a three-step process for handling wrongdoing within the congregation — speak to the person privately, then with witnesses, then bring it before the congregation.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 19:27–29, when Peter pointed out that the disciples had left everything to follow Jesus, what did Jesus promise them?",
+          correctAnswer: "Jesus promised that in the re-creation when the Son of Man sat on his glorious throne, those who had followed him would also sit on twelve thrones judging the twelve tribes of Israel. Anyone who had left houses, brothers, sisters, father, mother, children, or lands for his name's sake would receive many times more and would inherit everlasting life."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 291,
+    passage: "Matthew 21–23",
+    focus: "The triumphal entry, cleansing the temple, parables challenging the religious leaders, and the denunciation of the scribes and Pharisees",
+    quiz: {
+      title: "📘 Matthew 21–23 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 21:12–13, when Jesus entered the temple and drove out the merchants and money changers, what scripture did he quote to explain his action?",
+          options: [
+            "'The zeal for your house will consume me' from the Psalms",
+            "'My house will be called a house of prayer, but you are making it a cave of robbers' — combining Isaiah and Jeremiah",
+            "'Do not make my Father's house a house of merchandise' from Zechariah",
+            "'This house has become a desolation' from Malachi"
+          ],
+          correctAnswer: "'My house will be called a house of prayer, but you are making it a cave of robbers' — combining Isaiah and Jeremiah"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 21:28–31, in the parable of the two sons, the son who initially refused but later went to work in the vineyard represented tax collectors and prostitutes who repented, while the son who said yes but did not go represented the chief priests.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 21:42–43, when Jesus quoted the scripture about the stone the builders rejected becoming the chief cornerstone, what did he say would happen to the Kingdom of God?",
+          options: [
+            "It would be given to the angels to administer on behalf of a faithful remnant of Israel",
+            "It would be taken from the Jewish religious leaders and given to a nation producing its fruits",
+            "It would remain with Israel but the religious leaders would be excluded from it",
+            "It would be established in Jerusalem only after the temple was rebuilt"
+          ],
+          correctAnswer: "It would be taken from the Jewish religious leaders and given to a nation producing its fruits"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Matthew 22:37–40, when asked which commandment was the greatest, what was Jesus' answer?",
+          options: [
+            "Love Jehovah your God with your whole heart, soul, and mind — and love your neighbor as yourself; on these two commandments hang the whole Law and the Prophets",
+            "Keep the Sabbath holy and honor your father and mother — these two cover all human responsibility",
+            "Love Jehovah above all things and do to others as you would have them do to you",
+            "Have no other gods and do not make idols — these two encompass all worship"
+          ],
+          correctAnswer: "Love Jehovah your God with your whole heart, soul, and mind — and love your neighbor as yourself; on these two commandments hang the whole Law and the Prophets"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Matthew 22:15–22, when the Pharisees tried to trap Jesus over the census tax, Jesus asked whose image was on the coin and answered: 'Pay back Caesar's things to Caesar, but God's things to God.'",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Matthew 23:23, what did Jesus say the scribes and Pharisees were neglecting while they meticulously tithed their herbs?",
+          correctAnswer: "Jesus said they had disregarded the weightier matters of the Law — justice and mercy and faithfulness — which they should have practiced without neglecting the tithing. He called them blind guides who strained out the gnat but swallowed the camel."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 23:27–28, to what did Jesus compare the scribes and Pharisees in one of his seven woes?",
+          options: [
+            "Wolves dressed in sheep's clothing who devoured the flock",
+            "Whitewashed graves that appeared beautiful on the outside but inside were full of dead men's bones and every sort of uncleanness",
+            "Empty cisterns that promised water but held none",
+            "Trees that appeared full of leaves but produced no fruit"
+          ],
+          correctAnswer: "Whitewashed graves that appeared beautiful on the outside but inside were full of dead men's bones and every sort of uncleanness"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 23:37–38, how did Jesus express his grief over Jerusalem?",
+          options: [
+            "He wept openly and said Jerusalem's destruction was now inevitable and irreversible",
+            "He said how often he had wanted to gather her children like a hen gathers her chicks, but they had not been willing — and her house was abandoned to her",
+            "He said Jerusalem had rejected every prophet and would suffer the greatest punishment of any city in history",
+            "He declared that Jerusalem would not see him again until all its inhabitants had fled to safety"
+          ],
+          correctAnswer: "He said how often he had wanted to gather her children like a hen gathers her chicks, but they had not been willing — and her house was abandoned to her"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 22:29–32, when the Sadducees tried to disprove the resurrection with the question about the seven brothers and one wife, Jesus said they were wrong because they knew neither the scriptures nor the power of God — and proved resurrection from Jehovah's words to Moses at the burning bush.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 23:8–12, what did Jesus say about titles and authority among his disciples?",
+          correctAnswer: "Jesus said his disciples were not to be called Rabbi, for one was their teacher and all of them were brothers. They were not to call anyone their father on earth, for one was their Father — the heavenly one. Nor were they to be called leaders, for their leader was one — the Christ. The greatest among them would be their minister, and whoever exalted himself would be humbled and whoever humbled himself would be exalted."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 292,
+    passage: "Matthew 24–25",
+    focus: "The sign of Jesus' presence and the conclusion of the system, the need for watchfulness, and parables about the end",
+    quiz: {
+      title: "📘 Matthew 24–25 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 24:3, the disciples asked Jesus three things. What were they?",
+          options: [
+            "When Jerusalem would be destroyed, what sign would precede it, and how to prepare",
+            "When these things would be, what the sign of his presence would be, and the sign of the conclusion of the system of things",
+            "When the Kingdom would come, who would rule in it, and how to qualify for it",
+            "When the temple would be rebuilt, who would rebuild it, and when the Messiah would reign"
+          ],
+          correctAnswer: "When these things would be, what the sign of his presence would be, and the sign of the conclusion of the system of things"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 24:14, Jesus said the good news of the Kingdom would be preached in all the inhabited earth for a witness to all the nations, and then the end would come.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 24:36, what did Jesus say about knowing the day and hour of the end?",
+          options: [
+            "Only those who studied the scriptures diligently would be able to calculate the time",
+            "No one knew — neither the angels nor the Son — but only the Father",
+            "He had been given a general timeframe but not the exact day or hour",
+            "The sign he gave would allow his disciples to calculate the approximate date"
+          ],
+          correctAnswer: "No one knew — neither the angels nor the Son — but only the Father"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Matthew 24:45–47, who was the faithful and discreet slave, and what was his responsibility?",
+          correctAnswer: "The faithful and discreet slave was the one whom his master appointed over his domestics to give them food at the proper time. If that slave was found doing this when his master arrived, he would be appointed over all his master's belongings — emphasizing the importance of faithfully providing spiritual nourishment to fellow believers."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Matthew 25:1–13, in the parable of the ten virgins, what distinguished the five discreet virgins from the five foolish ones?",
+          options: [
+            "The discreet ones had trimmed their lamps while the foolish had not",
+            "The discreet ones had extra oil in their flasks while the foolish had not prepared extra oil",
+            "The discreet ones stayed awake while the foolish fell asleep",
+            "The discreet ones arrived early while the foolish arrived at the last moment"
+          ],
+          correctAnswer: "The discreet ones had extra oil in their flasks while the foolish had not prepared extra oil"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Matthew 25:14–30, in the parable of the talents, what happened to the slave who hid his master's talent in the ground?",
+          options: [
+            "He was forgiven because he had kept the talent safe and returned it intact",
+            "He was rebuked for his laziness and the talent was taken and given to the one with ten talents, and he was thrown into outer darkness",
+            "He received a smaller reward than the other slaves but was not punished",
+            "He was given a second chance to invest the talent before his master returned again"
+          ],
+          correctAnswer: "He was rebuked for his laziness and the talent was taken and given to the one with ten talents, and he was thrown into outer darkness"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Matthew 25:31–40, Jesus described the sheep and goats being separated, with the sheep on his right being welcomed into the Kingdom because they had cared for him by caring for his brothers — even when they had not realized they were serving him personally.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 24:21–22, what did Jesus say about the great tribulation that was coming?",
+          options: [
+            "It would last seven years but the faithful would be protected throughout",
+            "Such tribulation as had not occurred since the world's beginning — and if those days were not cut short, no flesh would be saved, but for the sake of the chosen those days would be cut short",
+            "It would be the worst disaster in human history but Jerusalem alone would be destroyed",
+            "No tribulation like it had ever happened but Jehovah would bring it to an end before any of his people suffered harm"
+          ],
+          correctAnswer: "Such tribulation as had not occurred since the world's beginning — and if those days were not cut short, no flesh would be saved, but for the sake of the chosen those days would be cut short"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 24:23–26, Jesus warned his disciples not to believe reports of a Christ appearing in the wilderness or in the inner rooms, since his presence would be like lightning visible from east to west.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 25:46, what were the two destinies Jesus described for the goats and the sheep respectively?",
+          correctAnswer: "The goats would depart into everlasting cutting-off, while the righteous — the sheep — would go into everlasting life."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 293,
+    passage: "Matthew 26",
+    focus: "The plot to kill Jesus, the final Passover, Gethsemane, the betrayal by Judas, and the trial before the Sanhedrin",
+    quiz: {
+      title: "📘 Matthew 26 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 26:6–13, a woman poured costly perfumed oil on Jesus' head at Bethany. How did Jesus respond to the disciples' indignation over the waste?",
+          options: [
+            "He agreed that the oil should have been sold and the money given to the poor",
+            "He said she had done a fine deed — she had prepared him for burial, and wherever the good news was preached her deed would be told in memory of her",
+            "He told them her generosity would be rewarded in the resurrection",
+            "He said acts of worship were always more valuable than acts of charity"
+          ],
+          correctAnswer: "He said she had done a fine deed — she had prepared him for burial, and wherever the good news was preached her deed would be told in memory of her"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 26:14–16, Judas Iscariot went to the chief priests and agreed to betray Jesus for 30 pieces of silver, after which he began looking for a good opportunity to hand him over.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 26:26–28, what did Jesus say about the bread and the cup when he instituted the Memorial of his death?",
+          options: [
+            "The bread represented his body given for many, and the cup represented his suffering which they were to share",
+            "The bread represented his body and the cup represented his blood of the covenant, to be poured out in behalf of many for forgiveness of sins",
+            "The bread and cup were symbols of the Kingdom feast they would share together in the new world",
+            "The bread represented the Law and the cup represented the new covenant replacing it"
+          ],
+          correctAnswer: "The bread represented his body and the cup represented his blood of the covenant, to be poured out in behalf of many for forgiveness of sins"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Matthew 26:36–44, describe Jesus' prayer in Gethsemane — what did he ask for, and what was his conclusion?",
+          correctAnswer: "Jesus prayed to his Father three times, asking if it were possible for the cup to pass away from him — but always concluding that not as he willed but as his Father willed. He expressed his deep distress and sorrow to the point of death, yet fully submitted to his Father's will each time."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Matthew 26:47–49, how did Judas identify Jesus to the crowd that came to arrest him?",
+          options: [
+            "He called out Jesus' name and pointed to him in the darkness",
+            "He greeted Jesus with a kiss — a prearranged signal telling the crowd he was the one to seize",
+            "He handed the soldiers a description of Jesus' appearance and clothing",
+            "He led the soldiers to the garden knowing Jesus prayed there regularly"
+          ],
+          correctAnswer: "He greeted Jesus with a kiss — a prearranged signal telling the crowd he was the one to seize"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Matthew 26:52–54, when a companion of Jesus drew a sword and cut off the ear of the high priest's slave, Jesus told him to put the sword back — those who take the sword will die by the sword — and that he could have called on his Father for legions of angels but the scriptures had to be fulfilled.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 26:63–65, what question did the high priest ask Jesus that led to the charge of blasphemy?",
+          options: [
+            "'Are you the King of the Jews?' — and Jesus said 'You yourself said it'",
+            "'Are you the Christ, the Son of God?' — and Jesus confirmed he was and said they would see the Son of Man sitting at the right hand of power",
+            "'Do you claim to be greater than Moses?' — and Jesus said he was",
+            "'Did you threaten to destroy the temple?' — and Jesus said he would rebuild it in three days"
+          ],
+          correctAnswer: "'Are you the Christ, the Son of God?' — and Jesus confirmed he was and said they would see the Son of Man sitting at the right hand of power"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 26:69–75, how many times did Peter deny knowing Jesus, and what happened afterward?",
+          options: [
+            "Two times; Peter left the courtyard weeping",
+            "Three times; a rooster crowed and Peter went outside and wept bitterly",
+            "Three times; Peter ran to tell the other disciples what had happened",
+            "Four times; Peter collapsed in grief and was comforted by another disciple"
+          ],
+          correctAnswer: "Three times; a rooster crowed and Peter went outside and wept bitterly"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 26:31–32, Jesus predicted that all his disciples would be stumbled because of him that night, quoting the prophecy about striking the shepherd and scattering the sheep, but he also promised to go ahead of them to Galilee after his resurrection.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 26:24, what did Jesus say about Judas the betrayer?",
+          correctAnswer: "Jesus said the Son of Man was going away just as it was written about him, but woe to the man through whom the Son of Man was betrayed — it would have been better for that man if he had not been born."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 294,
+    passage: "Matthew 27–28",
+    focus: "The trial before Pilate, Jesus' death and burial, the resurrection, and the great commission",
+    quiz: {
+      title: "📘 Matthew 27–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Matthew 27:3–5, what did Judas do after learning Jesus had been condemned?",
+          options: [
+            "He tried to appeal to Pilate to release Jesus",
+            "He felt remorse and returned the 30 silver pieces to the chief priests and elders, then went and hanged himself",
+            "He fled Jerusalem in shame and was never heard from again",
+            "He publicly confessed his betrayal before the crowds in the temple courtyard"
+          ],
+          correctAnswer: "He felt remorse and returned the 30 silver pieces to the chief priests and elders, then went and hanged himself"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Matthew 27:24, Pilate washed his hands before the crowd, saying he was innocent of the blood of Jesus — and the people responded that his blood should come upon them and their children.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Matthew 27:45–46, what happened from the sixth hour to the ninth hour, and what did Jesus cry out?",
+          options: [
+            "A great earthquake struck Jerusalem; Jesus cried out that he was thirsty",
+            "Darkness came over all the land; Jesus cried out asking why his God had forsaken him",
+            "The temple curtain tore; Jesus cried out 'It is finished'",
+            "The sun was eclipsed; Jesus cried out commending his spirit to his Father"
+          ],
+          correctAnswer: "Darkness came over all the land; Jesus cried out asking why his God had forsaken him"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Matthew 27:51–54, what miraculous events accompanied Jesus' death, and what effect did they have on the Roman army officer and those with him?",
+          correctAnswer: "The curtain of the sanctuary was torn in two from top to bottom, the earth quaked, the rocks were split, the tombs were opened, and many bodies of holy ones who had fallen asleep were raised and appeared to many people after his resurrection. When the army officer and those keeping watch over Jesus saw the earthquake and the things happening, they became very frightened and said: 'Truly this was God's Son.'"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Matthew 27:62–66, why did the chief priests and Pharisees ask Pilate to secure the tomb?",
+          options: [
+            "Because they feared his disciples would steal the body and claim a resurrection",
+            "Because they wanted to ensure the body was properly buried according to Jewish custom",
+            "Because they feared the disciples would come and hold memorial services at the tomb",
+            "Because Roman law required that crucified criminals be guarded for three days"
+          ],
+          correctAnswer: "Because they feared his disciples would steal the body and claim a resurrection"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Matthew 28:1–5, Mary Magdalene and the other Mary came to the tomb early on the first day of the week, and an angel whose appearance was like lightning appeared and rolled away the stone — causing the guards to shake with fear.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Matthew 28:9, when Jesus appeared to the women after his resurrection, what did they do?",
+          options: [
+            "They stood frozen in amazement and could not move or speak",
+            "They grabbed his feet and did obeisance to him",
+            "They ran to tell the disciples without stopping to speak with Jesus",
+            "They asked him to show them his wounds to confirm his identity"
+          ],
+          correctAnswer: "They grabbed his feet and did obeisance to him"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Matthew 28:18–20, what authority did Jesus claim, and what did he commission his disciples to do?",
+          options: [
+            "Authority over Israel — to gather the lost sheep and restore the twelve tribes",
+            "All authority in heaven and on earth — to make disciples of people of all nations, baptizing them and teaching them to observe all he had commanded",
+            "Authority over the nations — to proclaim the Kingdom and await his return in Jerusalem",
+            "Authority over death — to heal the sick and raise the dead until he returned"
+          ],
+          correctAnswer: "All authority in heaven and on earth — to make disciples of people of all nations, baptizing them and teaching them to observe all he had commanded"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Matthew 28:11–15, after the resurrection, the chief priests paid the soldiers a large sum of money to say that the disciples had stolen the body while they were sleeping.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Matthew 28:20, what promise did Jesus make to his disciples as he gave the great commission?",
+          correctAnswer: "Jesus promised that he would be with them all the days until the conclusion of the system of things — assuring them of his continual presence and support throughout their disciple-making work."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 295,
+    passage: "Mark 1–3",
+    focus: "John's ministry, Jesus' baptism and temptation, early Galilean ministry, healings, and the calling of the first disciples",
+    quiz: {
+      title: "📘 Mark 1–3 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Mark 1:7–8, how did John the Baptist describe the one coming after him?",
+          options: [
+            "He would come with great power and establish Jehovah's kingdom on earth immediately",
+            "John was not worthy to stoop down and untie his sandal straps — the one coming would baptize with holy spirit",
+            "He would perform miracles greater than Moses and lead Israel out of Roman captivity",
+            "He would sit on David's throne and judge the nations with a rod of iron"
+          ],
+          correctAnswer: "John was not worthy to stoop down and untie his sandal straps — the one coming would baptize with holy spirit"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Mark 1:21–27, Jesus taught in the synagogue at Capernaum with authority — unlike the scribes — and demonstrated that authority by expelling an unclean spirit that recognized him as the Holy One of God.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Mark 1:35, what did Jesus do very early in the morning before the disciples came looking for him?",
+          options: [
+            "He went to the synagogue to teach before the crowds arrived",
+            "He rose and went outside to a lonely place and prayed there",
+            "He walked along the Sea of Galilee choosing additional disciples",
+            "He fasted and studied the scriptures in preparation for his day's work"
+          ],
+          correctAnswer: "He rose and went outside to a lonely place and prayed there"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Mark 2:1–12, when Jesus healed the paralyzed man lowered through the roof, what did he say first that caused controversy?",
+          options: [
+            "Rise, take up your mat, and walk",
+            "Your sins are forgiven",
+            "Your faith has made you well",
+            "Do not sin anymore lest something worse happens to you"
+          ],
+          correctAnswer: "Your sins are forgiven"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Mark 2:27, Jesus made the statement that the Sabbath came into existence for the sake of man, not man for the sake of the Sabbath.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "short-answer",
+          question: "In Mark 3:13–19, Jesus appointed twelve apostles for two specific purposes. What were they?",
+          correctAnswer: "Jesus appointed the twelve so that they would be with him and so that he could send them out to preach and to have authority to expel demons."
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Mark 3:21–22, what two groups accused Jesus, and what were their accusations?",
+          options: [
+            "The Pharisees said he broke the Sabbath; the Herodians said he was a threat to the king",
+            "His relatives said he had gone out of his mind; the scribes said he expelled demons by the ruler of demons",
+            "The priests said he was a false prophet; the people said he was too radical in his teaching",
+            "His disciples worried he was overworking himself; the Sadducees accused him of stirring up the people"
+          ],
+          correctAnswer: "His relatives said he had gone out of his mind; the scribes said he expelled demons by the ruler of demons"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Mark 3:31–35, when Jesus was told his mother and brothers were outside looking for him, what did he say about his true family?",
+          options: [
+            "He asked them to be brought to him so he could greet them privately",
+            "Whoever does the will of God is his brother, sister, and mother",
+            "His family had not yet believed in him and he would speak to them after his ministry was complete",
+            "He said he had left his family behind to serve Jehovah and expected his disciples to do the same"
+          ],
+          correctAnswer: "Whoever does the will of God is his brother, sister, and mother"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Mark 1:40–45, Jesus healed a leper and then told him to say nothing to anyone but to show himself to the priest and offer what Moses commanded — yet the man went out and spread the news widely.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Mark 2:21–22, what two illustrations did Jesus use to explain why his disciples did not fast like the Pharisees' disciples?",
+          correctAnswer: "Jesus used the illustration of an unshrunk cloth — no one sews it on an old garment or the patch tears away and makes things worse. He also used new wine in old wineskins — new wine bursts old wineskins and both are ruined; new wine must go into new wineskins. These illustrated that his new teaching could not simply be patched onto old religious forms."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 296,
+    passage: "Mark 4–5",
+    focus: "Parables of the Kingdom, calming the storm, the Gerasene demoniac, Jairus's daughter, and the woman healed by touching Jesus' garment",
+    quiz: {
+      title: "📘 Mark 4–5 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Mark 4:3–8, in the parable of the sower, which soil represented those who heard the word and accepted it and kept bearing fruit?",
+          options: [
+            "The rocky ground where the plant sprang up quickly but had no root",
+            "The roadside where the birds ate the seed",
+            "The soil among thorns that choked the plant",
+            "The fine soil that yielded 30, 60, and 100 times what was sown"
+          ],
+          correctAnswer: "The fine soil that yielded 30, 60, and 100 times what was sown"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Mark 4:21–22, Jesus said a lamp is not brought to be put under a basket or a bed but on a lampstand, and that there was nothing hidden that would not be disclosed.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Mark 4:26–29, what unique parable does Mark record about the Kingdom of God that does not appear in the other Gospels?",
+          options: [
+            "A farmer scatters seed and it grows while he sleeps and rises without him knowing how, until the harvest comes",
+            "A woman hides leaven in flour until the whole batch is leavened",
+            "A merchant sells all he has to buy a pearl of great value",
+            "A dragnet is cast into the sea and gathers fish of every kind"
+          ],
+          correctAnswer: "A farmer scatters seed and it grows while he sleeps and rises without him knowing how, until the harvest comes"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In Mark 4:38–40, when the disciples woke Jesus during the storm, what was his response to them after calming the sea?",
+          options: [
+            "He praised them for trusting him enough to wake him",
+            "He asked why they were so afraid and said they had no faith",
+            "He told them they should have prayed rather than panicking",
+            "He said that faith meant not being afraid, even in dangerous storms"
+          ],
+          correctAnswer: "He asked why they were so afraid and said they had no faith"
+        },
+        {
+          id: "q5",
+          type: "short-answer",
+          question: "Describe the condition and behavior of the demon-possessed man Jesus met in the region of the Gerasenes in Mark 5:2–5.",
+          correctAnswer: "The man lived in the tombs and no one could bind him anymore, not even with a chain. He had often been bound with fetters and chains but he tore the chains apart and broke the fetters, and no one was strong enough to subdue him. Night and day he was crying out in the tombs and in the mountains and cutting himself with stones."
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Mark 5:9, when Jesus asked the demon its name, what was the answer and why?",
+          options: [
+            "'Beelzebub, for I am the prince of demons'",
+            "'Legion, for we are many' — indicating a large number of demons had entered the man",
+            "'Destroyer, for that is what we do to those we possess'",
+            "'Unclean, for we have defiled this man completely'"
+          ],
+          correctAnswer: "'Legion, for we are many' — indicating a large number of demons had entered the man"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "In Mark 5:25–29, a woman who had a flow of blood for 12 years and had spent all she had on physicians was immediately healed when she touched the fringe of Jesus' outer garment.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Mark 5:35–36, when word came that Jairus's daughter had died, what did Jesus say to Jairus?",
+          options: [
+            "Your daughter will be raised again — death has no power over those who believe",
+            "Stop being afraid — only have faith",
+            "She has only fallen asleep — come and I will wake her",
+            "Go home in peace — your faith has already saved your daughter"
+          ],
+          correctAnswer: "Stop being afraid — only have faith"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "In Mark 5:41–43, what Aramaic words did Jesus say to Jairus's daughter, and what happened?",
+          options: [
+            "'Ephphatha' meaning 'be opened' — and she heard and spoke immediately",
+            "'Talitha cumi' meaning 'little girl, I say to you, get up' — and she rose and started walking",
+            "'Hosanna' meaning 'save now' — and she was immediately restored to full health",
+            "'Abba' meaning 'Father' — and Jehovah restored her life from above"
+          ],
+          correctAnswer: "'Talitha cumi' meaning 'little girl, I say to you, get up' — and she rose and started walking"
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Mark 5:18–20, after the demoniac was healed, he begged to go with Jesus. What did Jesus tell him to do instead, and how did he respond?",
+          correctAnswer: "Jesus told him to go home to his relatives and report to them all the things Jehovah had done for him and the mercy he had shown him. The man went off and started proclaiming in the Decapolis all the things Jesus had done for him, and all the people were amazed."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 297,
+    passage: "Mark 6–8",
+    focus: "Jesus rejected at Nazareth, the death of John the Baptist, feeding the multitudes, walking on water, healing the deaf man, and Peter's confession",
+    quiz: {
+      title: "📘 Mark 6–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Mark 6:4, what did Jesus say about a prophet's reception in his hometown?",
+          options: [
+            "A prophet is never accepted by anyone until his message is proven true",
+            "A prophet is not without honor except in his hometown and among his relatives and in his own house",
+            "A prophet's greatest opposition always comes from those who know him best",
+            "A prophet must leave his homeland to fulfill his calling"
+          ],
+          correctAnswer: "A prophet is not without honor except in his hometown and among his relatives and in his own house"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Mark 6:7–9, when Jesus sent out the twelve, he instructed them to take a staff but no bread, no food bag, no copper for their money belts — and to wear sandals but not two garments.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Mark 6:48–51, when Jesus walked on the water toward the disciples' boat during the fourth watch of the night, what was he about to do that Mark uniquely mentions?",
+          options: [
+            "He was about to call out to them to lower their sails",
+            "He was about to pass them by",
+            "He was about to reach into the boat and calm the storm",
+            "He was about to sink into the sea to test their reaction"
+          ],
+          correctAnswer: "He was about to pass them by"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Mark 7:1–8, what was the core issue Jesus identified with the Pharisees and scribes regarding traditions?",
+          correctAnswer: "Jesus identified that they had set aside the commandment of God to hold on to the tradition of men. He quoted Isaiah saying these people honored Jehovah with their lips but their hearts were far removed from him — their worship was in vain because they taught commands of men as doctrines."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Mark 7:31–35, how did Jesus heal the man who was deaf and had a speech impediment?",
+          options: [
+            "He spoke a word of command and the man was immediately healed",
+            "He took the man aside, put his fingers in his ears, spit and touched his tongue, looked up to heaven, and said 'Ephphatha'",
+            "He anointed the man's ears with oil and prayed over him for healing",
+            "He asked the man to go wash in the pool of Siloam and return hearing"
+          ],
+          correctAnswer: "He took the man aside, put his fingers in his ears, spit and touched his tongue, looked up to heaven, and said 'Ephphatha'"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Mark 8:1–9, Jesus fed a crowd of 4,000 men with seven loaves and a few small fish, and seven large baskets of leftover fragments were collected.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Mark 8:11–12, when the Pharisees asked for a sign from heaven to test Jesus, how did he respond?",
+          options: [
+            "He performed a sign immediately to silence their criticism",
+            "He sighed deeply and said no sign would be given to that generation",
+            "He said the only sign they would receive was the sign of Jonah",
+            "He told them the signs they had already seen were sufficient"
+          ],
+          correctAnswer: "He sighed deeply and said no sign would be given to that generation"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Mark 8:27–29, when Jesus asked his disciples who people said he was and then who they themselves said he was, what was Peter's answer?",
+          options: [
+            "You are John the Baptist risen from the dead",
+            "You are the Christ",
+            "You are the Son of the living God",
+            "You are Elijah who was to come"
+          ],
+          correctAnswer: "You are the Christ"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Mark 8:22–26, Jesus healed a blind man at Bethsaida in two stages — after the first touch the man saw people like trees walking around, and after the second touch he could see everything clearly.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Mark 8:34–36, what did Jesus say about the cost of following him, and the value of one's life?",
+          correctAnswer: "Jesus said that if anyone wanted to come after him he must disown himself and pick up his torture stake and follow him continually. Whoever wanted to save his life would lose it, but whoever lost his life for Jesus' sake and for the good news would save it. He asked what benefit it was for a man to gain the whole world and lose his life."
+        }
+      ]
+    }
+  },
+
+  {
+    day: 298,
+    passage: "Mark 9–10",
+    focus: "The transfiguration, healing a demon-possessed boy, teachings on humility and stumbling, the rich young ruler, and servanthood",
+    quiz: {
+      title: "📘 Mark 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In Mark 9:7, during the transfiguration, what did the voice from the cloud say?",
+          options: [
+            "'This is my Son, the beloved — listen to him'",
+            "'This is my Son in whom I am well pleased — fear not'",
+            "'This is my chosen one — do whatever he tells you'",
+            "'Behold the Son of Man coming in his Kingdom — give him glory'"
+          ],
+          correctAnswer: "'This is my Son, the beloved — listen to him'"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "In Mark 9:17–29, when Jesus' disciples had failed to expel a demon from a boy, Jesus said that type could come out only by prayer — emphasizing continued reliance on Jehovah rather than confidence in one's own ability.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "In Mark 9:33–35, when Jesus asked what the disciples had been arguing about on the road, they were silent because they had been arguing about who was greatest. What did Jesus say about greatness?",
+          options: [
+            "Greatness is determined by Jehovah alone and humans should not seek it",
+            "If anyone wants to be first he must be last of all and minister of all",
+            "The one who brings the most people into the Kingdom will be greatest",
+            "Greatness in the Kingdom belongs to those who suffer most for the good news"
+          ],
+          correctAnswer: "If anyone wants to be first he must be last of all and minister of all"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "In Mark 9:42–47, what serious warnings did Jesus give about stumbling blocks, and what radical action did he recommend?",
+          correctAnswer: "Jesus said whoever stumbled one of the little ones who had faith in him would be better off thrown into the sea with a millstone around his neck. He warned that if a hand, foot, or eye caused one to stumble, it was better to cut it off or gouge it out and enter life maimed or blind than to be thrown into Gehenna with all one's parts intact. The point was that no sacrifice was too great to avoid losing one's life in Gehenna."
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "In Mark 10:6–9, how did Jesus answer the Pharisees' question about whether it was lawful for a man to divorce his wife?",
+          options: [
+            "He said Moses permitted it because of hard-heartedness but from the beginning it was not this way — what God yoked together man must not separate",
+            "He said divorce was always permitted under the law and remained so",
+            "He said only adultery could break a marriage covenant under God's law",
+            "He refused to answer directly and said the question was a trap"
+          ],
+          correctAnswer: "He said Moses permitted it because of hard-heartedness but from the beginning it was not this way — what God yoked together man must not separate"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "In Mark 10:13–16, Jesus was indignant when his disciples tried to turn away people who were bringing young children to him, and he said the Kingdom of God belongs to those who receive it like a young child.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "In Mark 10:21, what did Jesus feel toward the rich young man before telling him what he lacked?",
+          options: [
+            "Compassion for his spiritual poverty despite his material wealth",
+            "He felt love for him",
+            "Sadness that such a sincere person was so close yet so far from the Kingdom",
+            "Disappointment that his wealth had become his identity"
+          ],
+          correctAnswer: "He felt love for him"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "In Mark 10:35–40, what did James and John ask Jesus, and how did he respond?",
+          options: [
+            "They asked to sit at his right and left in his glory; Jesus said that was not his to grant but belonged to those for whom it had been prepared",
+            "They asked to be given authority over the other ten apostles; Jesus said authority belonged to those who served most",
+            "They asked whether they would rule over Israel or the nations; Jesus said all the tribes would be under their authority",
+            "They asked to perform the greatest miracles; Jesus said that depended on their faith"
+          ],
+          correctAnswer: "They asked to sit at his right and left in his glory; Jesus said that was not his to grant but belonged to those for whom it had been prepared"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "In Mark 10:46–52, blind Bartimaeus called out to Jesus as Son of David despite the crowd's attempts to silence him, and Jesus healed him — and Bartimaeus began following Jesus on the road.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "short-answer",
+          question: "In Mark 10:43–45, how did Jesus summarize the principle of leadership among his followers, using himself as the model?",
+          correctAnswer: "Jesus said that whoever wanted to become great among them would be their minister, and whoever wanted to be first would be slave of all — for the Son of Man came not to be served but to serve and to give his life as a ransom in exchange for many."
+        }
+      ]
+    }
+  },
+  {
+    day: 299,
+    passage: "Mark 11–12",
+    focus: "Jesus' triumphal entry, cleansing the temple, and teachings on authority and love",
+    quiz: {
+      title: "📘 Mark 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What animal did Jesus ride into Jerusalem?",
+          options: ["A horse", "A donkey's colt", "A mule", "A camel"],
+          correctAnswer: "A donkey's colt"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jesus cursed the fig tree because it had no fruit, even though it was not the season for figs.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "multiple-choice",
+          question: "What did Jesus do when he entered the temple in Jerusalem?",
+          options: [
+            "He taught the crowd from the steps",
+            "He drove out those buying and selling and overturned the money changers' tables",
+            "He healed the sick who were gathered there",
+            "He read from the scroll of Isaiah"
+          ],
+          correctAnswer: "He drove out those buying and selling and overturned the money changers' tables"
+        },
+        {
+          id: "q4",
+          type: "short-answer",
+          question: "What scripture did Jesus quote when he cleansed the temple, and what charge did he make against those there?",
+          correctAnswer: "'My house will be called a house of prayer for all nations,' but you have made it a cave of robbers. (Mark 11:17)"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "By what authority did the chief priests ask Jesus he was acting? What was his counter-question to them?",
+          options: [
+            "He asked whether John's baptism was from heaven or from men",
+            "He asked whether Moses had given them authority to question him",
+            "He asked whether they believed in the resurrection",
+            "He asked whether Caesar's law superseded Jehovah's law"
+          ],
+          correctAnswer: "He asked whether John's baptism was from heaven or from men"
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In the parable of the vineyard, what did the owner do after the tenants killed his servants?",
+          options: [
+            "He sent soldiers to destroy them",
+            "He sent his son, whom he loved",
+            "He abandoned the vineyard",
+            "He sent more servants with greater authority"
+          ],
+          correctAnswer: "He sent his son, whom he loved"
+        },
+        {
+          id: "q7",
+          type: "true-false",
+          question: "The Pharisees and Herodians tried to trap Jesus with a question about paying tax to Caesar.",
+          correctAnswer: true
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What was Jesus' famous reply regarding the coin and paying taxes to Caesar?",
+          correctAnswer: "Pay back Caesar's things to Caesar, but God's things to God. (Mark 12:17)"
+        },
+        {
+          id: "q9",
+          type: "multiple-choice",
+          question: "According to Jesus, which is the greatest commandment of all?",
+          options: [
+            "Honor your father and your mother",
+            "You must love Jehovah your God with your whole heart, soul, mind, and strength",
+            "You must love your neighbor as yourself",
+            "You must not make for yourself a carved image"
+          ],
+          correctAnswer: "You must love Jehovah your God with your whole heart, soul, mind, and strength"
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jesus observe about the poor widow who put money into the treasury?",
+          options: [
+            "That she gave less than the rich but was equally commended",
+            "That she gave out of her surplus",
+            "That she put in more than all the others because she gave out of her want",
+            "That her offering was rejected because it was too small"
+          ],
+          correctAnswer: "That she put in more than all the others because she gave out of her want"
+        }
+      ]
+    }
+  },
+  {
+    day: 319,
+    passage: "John 11–12",
+    focus: "Resurrection of Lazarus, Jesus' anointing, and his entry into Jerusalem",
+    quiz: {
+      title: "📘 John 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Jesus say when he heard that Lazarus was sick?",
+          options: [
+            "That Lazarus would recover on his own",
+            "That this sickness would not result in death but was for the glory of God",
+            "That they must go to him immediately",
+            "That death had already come to Lazarus"
+          ],
+          correctAnswer: "That this sickness would not result in death but was for the glory of God"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jesus wept when he saw Mary and the Jews weeping at the tomb of Lazarus.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jesus say to Martha about the resurrection when she expressed faith that Lazarus would rise?",
+          correctAnswer: "I am the resurrection and the life. The one who exercises faith in me, even though he dies, will come to life. (John 11:25)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What was the reaction of the chief priests and Pharisees after hearing that Jesus raised Lazarus?",
+          options: [
+            "They believed in Jesus",
+            "They gathered the Sanhedrin and planned to kill Jesus",
+            "They demanded Jesus perform the miracle again",
+            "They sent messengers to congratulate Lazarus"
+          ],
+          correctAnswer: "They gathered the Sanhedrin and planned to kill Jesus"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "Who anointed Jesus' feet with costly perfumed oil and wiped them with her hair in John 12?",
+          options: ["Mary Magdalene", "Mary the sister of Lazarus", "Salome", "Martha"],
+          correctAnswer: "Mary the sister of Lazarus"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Judas Iscariot objected to the anointing because he cared deeply about helping the poor.",
+          correctAnswer: false
+        },
+        {
+          id: "q7",
+          type: "multiple-choice",
+          question: "What scripture was fulfilled when Jesus entered Jerusalem on a donkey?",
+          options: [
+            "Do not be afraid, daughter of Zion; look, your king is coming seated on a donkey's colt",
+            "Blessed is the one who comes in the name of Jehovah",
+            "Shout for joy, O daughter of Jerusalem; your king will come to you",
+            "The stone the builders rejected has become the chief cornerstone"
+          ],
+          correctAnswer: "Do not be afraid, daughter of Zion; look, your king is coming seated on a donkey's colt"
+        },
+        {
+          id: "q8",
+          type: "short-answer",
+          question: "What did Jesus say about a grain of wheat that must fall into the ground in John 12:24?",
+          correctAnswer: "Unless a grain of wheat falls into the ground and dies, it remains just one grain; but if it dies, it then bears much fruit. (John 12:24)"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Many of the rulers believed in Jesus but would not speak up for fear of being expelled from the synagogue.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did the voice from heaven say in response to Jesus' prayer in John 12:28?",
+          options: [
+            "'You are my Son, the beloved'",
+            "'I have glorified it and will glorify it again'",
+            "'This is my chosen one; listen to him'",
+            "'Well done, my faithful servant'"
+          ],
+          correctAnswer: "'I have glorified it and will glorify it again'"
+        }
+      ]
+    }
+  },
+  {
+    day: 320,
+    passage: "John 13–14",
+    focus: "Jesus washes feet, the new commandment, and comfort for his disciples",
+    quiz: {
+      title: "📘 John 13–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did Jesus wash his disciples' feet in John 13?",
+          options: [
+            "To fulfill a requirement of the Passover",
+            "To set an example that they should serve one another",
+            "To cleanse them of their sins symbolically",
+            "To demonstrate his power over custom"
+          ],
+          correctAnswer: "To set an example that they should serve one another"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Peter initially refused to let Jesus wash his feet.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What new commandment did Jesus give his disciples in John 13:34?",
+          correctAnswer: "That they love one another just as he loved them. (John 13:34)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Jesus identify his betrayer at the meal?",
+          options: [
+            "By naming Judas directly before all",
+            "By saying it was the one to whom he would give the piece of bread after dipping it",
+            "By saying the betrayer's hand was on the table with him",
+            "By pointing to Judas when asked"
+          ],
+          correctAnswer: "By saying it was the one to whom he would give the piece of bread after dipping it"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What did Jesus tell his disciples to calm their troubled hearts in John 14:1?",
+          options: [
+            "To pray without ceasing",
+            "To exercise faith in God and also in him",
+            "To remember his words and not be afraid",
+            "To lean on one another for support"
+          ],
+          correctAnswer: "To exercise faith in God and also in him"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Jesus said he was going to prepare a place for his disciples and would come again to receive them.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did Jesus answer Thomas when he asked how they could know the way?",
+          correctAnswer: "I am the way and the truth and the life. No one comes to the Father except through me. (John 14:6)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Jesus promise the disciples about the helper, the holy spirit, in John 14?",
+          options: [
+            "It would perform miracles on their behalf",
+            "It would teach them all things and bring to their minds all the things he told them",
+            "It would speak to them audibly from heaven",
+            "It would protect them from all persecution"
+          ],
+          correctAnswer: "It would teach them all things and bring to their minds all the things he told them"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jesus said that whoever loves him will be loved by his Father and that Jesus would make himself known to that person.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jesus say about the Father in John 14:28 that showed the Father's position?",
+          options: [
+            "'The Father and I are equal in all things'",
+            "'The Father is greater than I am'",
+            "'The Father sent me as his equal representative'",
+            "'The Father does whatever I ask of him'"
+          ],
+          correctAnswer: "'The Father is greater than I am'"
+        }
+      ]
+    }
+  },
+  {
+    day: 321,
+    passage: "John 15–16",
+    focus: "The true vine, love among disciples, the helper, and foretold persecution",
+    quiz: {
+      title: "📘 John 15–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Jehovah the Father do to branches in the true vine that bear fruit?",
+          options: [
+            "He leaves them to grow on their own",
+            "He prunes them so they will bear more fruit",
+            "He rewards them with more sunlight",
+            "He transplants them to better soil"
+          ],
+          correctAnswer: "He prunes them so they will bear more fruit"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jesus said that branches that do not remain in him are gathered and burned.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jesus say is the greatest love a person can show?",
+          correctAnswer: "No one has love greater than this, that someone should surrender his life in behalf of his friends. (John 15:13)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did Jesus say the world hates his disciples?",
+          options: [
+            "Because the disciples exposed the world's sinful deeds",
+            "Because the disciples are no part of the world, just as Jesus is no part of it",
+            "Because the disciples refused to follow worldly customs",
+            "Because the disciples preached publicly against worldly rulers"
+          ],
+          correctAnswer: "Because the disciples are no part of the world, just as Jesus is no part of it"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jesus said that the helper, the spirit of truth, would bear witness about him.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Jesus say the helper would do when it came regarding sin, righteousness, and judgment?",
+          options: [
+            "It would convict the world concerning sin, righteousness, and judgment",
+            "It would reveal all future events to the disciples",
+            "It would speak directly to world rulers",
+            "It would remove sin from those who believed"
+          ],
+          correctAnswer: "It would convict the world concerning sin, righteousness, and judgment"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Jesus say the spirit of truth would do when it arrived, regarding future things?",
+          correctAnswer: "It will guide you into all the truth and will declare to you the things coming. (John 16:13)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What illustration did Jesus use to explain that the disciples' grief would turn to joy?",
+          options: [
+            "A seed dying in the ground and producing fruit",
+            "A woman in labor whose pain turns to joy at the birth of her child",
+            "A traveler who suffers on the road but rejoices when he arrives home",
+            "A farmer who weeps while sowing but rejoices at the harvest"
+          ],
+          correctAnswer: "A woman in labor whose pain turns to joy at the birth of her child"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jesus said he had conquered the world, giving his disciples a basis for peace despite tribulation.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jesus say the Father would give the disciples if they asked in Jesus' name?",
+          options: [
+            "Miraculous powers",
+            "Whatever they ask",
+            "Wisdom and understanding",
+            "Protection from all harm"
+          ],
+          correctAnswer: "Whatever they ask"
+        }
+      ]
+    }
+  },
+  {
+    day: 322,
+    passage: "John 17–18",
+    focus: "Jesus' prayer for his disciples, his arrest, and his trial before Pilate",
+    quiz: {
+      title: "📘 John 17–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "short-answer",
+          question: "How did Jesus define everlasting life in his prayer in John 17:3?",
+          correctAnswer: "Taking in knowledge of the only true God and of Jesus Christ whom He sent. (John 17:3)"
+        },
+        {
+          id: "q2",
+          type: "multiple-choice",
+          question: "What did Jesus pray for his disciples regarding the world in John 17?",
+          options: [
+            "That they would be taken out of the world",
+            "That they would be kept from the wicked one while remaining in the world",
+            "That they would convert the whole world",
+            "That the world would come to love them"
+          ],
+          correctAnswer: "That they would be kept from the wicked one while remaining in the world"
+        },
+        {
+          id: "q3",
+          type: "true-false",
+          question: "Jesus prayed only for his apostles and not for those who would later believe through their word.",
+          correctAnswer: false
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "In what garden did Jesus and his disciples go after his prayer in John 17?",
+          options: ["The garden of Eden", "The garden of Gethsemane", "A garden across the Kidron Valley", "The garden of Joseph of Arimathea"],
+          correctAnswer: "A garden across the Kidron Valley"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What happened when Jesus identified himself to the soldiers and officers who came to arrest him?",
+          options: [
+            "They immediately bound him",
+            "They drew back and fell to the ground",
+            "They called for reinforcements",
+            "They bowed before him"
+          ],
+          correctAnswer: "They drew back and fell to the ground"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Peter cut off the right ear of Malchus, the slave of the high priest, during the arrest of Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Jesus say to Pilate about his Kingdom when asked if he was a king?",
+          correctAnswer: "My Kingdom is no part of this world. If my Kingdom were part of this world, my attendants would have fought. (John 18:36)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What question did Pilate famously ask Jesus in John 18:38?",
+          options: [
+            "'Are you the Son of God?'",
+            "'What is truth?'",
+            "'Do you claim to be a king?'",
+            "'Why do your own people hate you?'"
+          ],
+          correctAnswer: "'What is truth?'"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Pilate found Jesus guilty of the charges brought against him.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How many times did Peter deny being a disciple of Jesus in John 18?",
+          options: ["Once", "Twice", "Three times", "Four times"],
+          correctAnswer: "Three times"
+        }
+      ]
+    }
+  },
+  {
+    day: 323,
+    passage: "John 19–21",
+    focus: "Jesus' death, burial, resurrection, and final appearances",
+    quiz: {
+      title: "📘 John 19–21 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Pilate write and place on Jesus' torture stake?",
+          options: [
+            "Jesus of Nazareth, the Messiah",
+            "Jesus of Nazareth, the King of the Jews",
+            "Jesus, the King of Israel",
+            "Jesus the Nazarene, condemned"
+          ],
+          correctAnswer: "Jesus of Nazareth, the King of the Jews"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The soldiers divided Jesus' outer garments into four parts but cast lots for his inner garment because it was seamless.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jesus say from the stake when he saw his mother and the disciple he loved standing nearby?",
+          correctAnswer: "He told his mother 'Woman, see your son!' and told the disciple 'See your mother!' and from that hour the disciple took her into his own home. (John 19:26–27)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What were Jesus' final words before he died according to John 19?",
+          options: [
+            "'Father, into your hands I entrust my spirit'",
+            "'It has been accomplished'",
+            "'My God, my God, why have you forsaken me?'",
+            "'Father, forgive them'"
+          ],
+          correctAnswer: "'It has been accomplished'"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "When the soldiers came to break the legs of those on the stakes, they found Jesus already dead and pierced his side with a spear instead.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Who came with Nicodemus to prepare Jesus' body for burial?",
+          options: [
+            "Simon of Cyrene",
+            "Joseph of Arimathea",
+            "The apostle John",
+            "Lazarus"
+          ],
+          correctAnswer: "Joseph of Arimathea"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did the resurrected Jesus tell Mary Magdalene not to do, and what message did he give her for the disciples?",
+          correctAnswer: "Stop clinging to me. Go to my brothers and say to them, I am ascending to my Father and your Father, to my God and your God. (John 20:17)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Jesus say to Thomas, who had doubted the resurrection, when Thomas saw him?",
+          options: [
+            "'Because you have seen me, you have believed; happy are those who do not see and yet believe'",
+            "'Your faith has made you whole'",
+            "'Stop doubting and exercise faith'",
+            "Both the first and third options"
+          ],
+          correctAnswer: "'Because you have seen me, you have believed; happy are those who do not see and yet believe'"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Jesus asked Peter three times if he loved him and three times commissioned him to feed and shepherd his sheep.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Jesus say to Peter about following him when Peter asked about the disciple whom Jesus loved?",
+          options: [
+            "'He will also follow me in my own time'",
+            "'What is that to you? You continue following me'",
+            "'His path is different from yours'",
+            "'He has already been chosen for another purpose'"
+          ],
+          correctAnswer: "'What is that to you? You continue following me'"
+        }
+      ]
+    }
+  },
+  {
+    day: 324,
+    passage: "Acts 1–2",
+    focus: "Jesus' ascension, Pentecost, and the outpouring of holy spirit",
+    quiz: {
+      title: "📘 Acts 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Jesus tell his disciples to wait for in Jerusalem before he ascended?",
+          options: [
+            "The arrival of an angel with instructions",
+            "The holy spirit, which would give them power",
+            "A sign from Jehovah confirming their commission",
+            "The arrival of more disciples from Galilee"
+          ],
+          correctAnswer: "The holy spirit, which would give them power"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jesus told his disciples the exact day and hour when the Kingdom would be restored to Israel.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did the two men in white apparel say to the disciples as Jesus ascended?",
+          correctAnswer: "This Jesus who was taken from you into the sky will come in the same way you have seen him going into the sky. (Acts 1:11)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who was chosen to replace Judas Iscariot among the twelve apostles?",
+          options: ["Barnabas", "Matthias", "Barsabbas", "Stephen"],
+          correctAnswer: "Matthias"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "What happened at Pentecost when the disciples were all together?",
+          options: [
+            "An angel appeared and spoke to them",
+            "There was a rushing stiff breeze and tongues of fire rested on each of them",
+            "A bright light surrounded the house",
+            "Jehovah's voice spoke from heaven"
+          ],
+          correctAnswer: "There was a rushing stiff breeze and tongues of fire rested on each of them"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Peter quoted from the prophet Joel when explaining the outpouring of holy spirit at Pentecost.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Peter tell the crowd to do in response to his Pentecost speech?",
+          correctAnswer: "Repent, and let each one of you be baptized in the name of Jesus Christ for forgiveness of sins, and you will receive the free gift of the holy spirit. (Acts 2:38)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Approximately how many people were baptized on the day of Pentecost?",
+          options: ["120", "500", "3,000", "5,000"],
+          correctAnswer: "3,000"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The early Christian congregation devoted themselves to the apostles' teaching, to sharing meals, and to prayer.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "In his Pentecost speech, Peter quoted David's words about the Messiah not being abandoned to the Grave. Where is this found?",
+          options: ["Psalm 2", "Psalm 16", "Psalm 22", "Psalm 110"],
+          correctAnswer: "Psalm 16"
+        }
+      ]
+    }
+  },
+  {
+    day: 325,
+    passage: "Acts 3–4",
+    focus: "Healing of the lame man, Peter's speech, and opposition from the Sanhedrin",
+    quiz: {
+      title: "📘 Acts 3–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Peter say to the lame man begging at the temple gate when he asked for money?",
+          options: [
+            "'Silver and gold I do not possess, but pray for healing'",
+            "'Silver and gold I do not possess, but what I do have I give you: in the name of Jesus Christ, walk'",
+            "'Your faith has made you well; rise and walk'",
+            "'Jehovah commands you to rise and walk in his name'"
+          ],
+          correctAnswer: "'Silver and gold I do not possess, but what I do have I give you: in the name of Jesus Christ, walk'"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "The lame man had been unable to walk from birth and was more than 40 years old.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Peter tell the crowd in Solomon's colonnade about why the miracle of healing had occurred?",
+          correctAnswer: "The faith that is through Jesus gave him complete soundness in the presence of all of you. (Acts 3:16)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who arrested Peter and John after the healing at the temple?",
+          options: [
+            "Roman soldiers acting on Pilate's orders",
+            "The captain of the temple and the Sadducees",
+            "The Pharisees and the scribes",
+            "The high priest and his family alone"
+          ],
+          correctAnswer: "The captain of the temple and the Sadducees"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "How many men came to believe after Peter's speech at Solomon's colonnade?",
+          options: ["1,000", "3,000", "5,000", "7,000"],
+          correctAnswer: "5,000"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Peter told the Sanhedrin that salvation is found in no one else but Jesus Christ.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What scripture did Peter quote to describe Jesus as rejected by builders but becoming the chief cornerstone?",
+          correctAnswer: "Psalm 118:22 — The stone that was rejected by you builders has become the chief cornerstone. (Acts 4:11)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What command did the Sanhedrin give Peter and John after deliberating?",
+          options: [
+            "To leave Jerusalem immediately",
+            "Not to speak or teach at all on the basis of the name of Jesus",
+            "To appear before them weekly for monitoring",
+            "To pay a fine and be released"
+          ],
+          correctAnswer: "Not to speak or teach at all on the basis of the name of Jesus"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Believers in the early congregation sold their possessions and distributed to all according to their need.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who was the Levite from Cyprus who sold a field and gave the proceeds to the apostles?",
+          options: ["Silas", "Barnabas", "Titus", "Agabus"],
+          correctAnswer: "Barnabas"
+        }
+      ]
+    }
+  },
+  {
+    day: 326,
+    passage: "Acts 5–6",
+    focus: "Ananias and Sapphira, apostolic signs, and the appointment of the seven men",
+    quiz: {
+      title: "📘 Acts 5–6 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What sin did Ananias and Sapphira commit that led to their deaths?",
+          options: [
+            "They refused to share their property with the congregation",
+            "They lied to the holy spirit by secretly keeping part of the proceeds while claiming to give it all",
+            "They worshipped idols in secret",
+            "They spoke against the apostles publicly"
+          ],
+          correctAnswer: "They lied to the holy spirit by secretly keeping part of the proceeds while claiming to give it all"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Peter told Ananias that he had lied not to men but to God.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What miraculous effect did Peter's shadow reportedly have on the sick in Acts 5?",
+          correctAnswer: "Even his shadow would fall on some of them as he passed by, and they would be cured. (Acts 5:15)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who advised the Sanhedrin not to act against the apostles, using the examples of Theudas and Judas the Galilean?",
+          options: ["Nicodemus", "Gamaliel", "Caiaphas", "Simon of Cyrene"],
+          correctAnswer: "Gamaliel"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "After being flogged and released by the Sanhedrin, the apostles stopped teaching in the temple.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "Why were seven men appointed in Acts 6?",
+          options: [
+            "To assist with preaching in the surrounding regions",
+            "To handle the daily distribution so the apostles could focus on prayer and the ministry of the word",
+            "To serve as judges in disputes among believers",
+            "To manage the funds collected from the sale of properties"
+          ],
+          correctAnswer: "To handle the daily distribution so the apostles could focus on prayer and the ministry of the word"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What qualifications were the seven men required to have, according to Acts 6:3?",
+          correctAnswer: "They were to be men full of spirit and wisdom, well-reported and approved. (Acts 6:3)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Who among the seven became especially prominent for performing great signs and wonders among the people?",
+          options: ["Philip", "Prochorus", "Stephen", "Nicanor"],
+          correctAnswer: "Stephen"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Members of the Synagogue of the Freedmen were able to refute Stephen's wisdom in debate.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What false charge did witnesses bring against Stephen before the Sanhedrin?",
+          options: [
+            "That he had broken the Sabbath",
+            "That he had spoken blasphemous words against Moses and God",
+            "That he had incited the people to riot",
+            "That he had stolen from the temple treasury"
+          ],
+          correctAnswer: "That he had spoken blasphemous words against Moses and God"
+        }
+      ]
+    }
+  },
+  {
+    day: 327,
+    passage: "Acts 7–8",
+    focus: "Stephen's speech and martyrdom, Philip's preaching in Samaria and to the Ethiopian",
+    quiz: {
+      title: "📘 Acts 7–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "In his speech, Stephen recounted that Jehovah appeared to Abraham while he was in what location?",
+          options: ["Canaan", "Haran", "Mesopotamia", "Egypt"],
+          correctAnswer: "Mesopotamia"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Stephen accused the Sanhedrin of always resisting the holy spirit, just as their forefathers had done.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Stephen see when he gazed into heaven just before being stoned?",
+          correctAnswer: "He saw the glory of God and Jesus standing at God's right hand. (Acts 7:55–56)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who was consenting to Stephen's death and guarding the garments of those stoning him?",
+          options: ["Barnabas", "Saul", "Philip", "Ananias"],
+          correctAnswer: "Saul"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "A great persecution against the congregation in Jerusalem scattered the disciples throughout Judea and Samaria, except for the apostles.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Simon the sorcerer do after seeing the miracles Philip performed in Samaria?",
+          options: [
+            "He tried to expose Philip as a fraud",
+            "He was baptized and followed Philip around",
+            "He reported Philip to the authorities",
+            "He left Samaria in fear"
+          ],
+          correctAnswer: "He was baptized and followed Philip around"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Peter say to Simon the sorcerer when he tried to buy the gift of holy spirit with money?",
+          correctAnswer: "May your silver perish with you, because you thought you could acquire the free gift of God with money. (Acts 8:20)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "The Ethiopian eunuch whom Philip met was returning from worship in Jerusalem and reading from which prophet?",
+          options: ["Jeremiah", "Ezekiel", "Isaiah", "Daniel"],
+          correctAnswer: "Isaiah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Philip began from the scripture the Ethiopian was reading and declared the good news about Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What happened to Philip after he baptized the Ethiopian eunuch?",
+          options: [
+            "He returned to Jerusalem with the eunuch",
+            "Jehovah's spirit caught Philip away and he was found at Azotus",
+            "He continued walking alongside the chariot",
+            "He was arrested by Roman soldiers"
+          ],
+          correctAnswer: "Jehovah's spirit caught Philip away and he was found at Azotus"
+        }
+      ]
+    }
+  },
+  {
+    day: 328,
+    passage: "Acts 9–10",
+    focus: "Saul's conversion and Peter's vision leading to Cornelius' baptism",
+    quiz: {
+      title: "📘 Acts 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What happened to Saul on the road to Damascus?",
+          options: [
+            "An angel appeared to him in a vision",
+            "A light from heaven flashed and he fell to the ground, hearing Jesus' voice",
+            "He had a dream in which Jesus appeared to him",
+            "A member of the congregation confronted him with scripture"
+          ],
+          correctAnswer: "A light from heaven flashed and he fell to the ground, hearing Jesus' voice"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "After his encounter on the road, Saul was blind for three days and neither ate nor drank.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Jehovah tell Ananias about Saul's future role?",
+          correctAnswer: "He is a chosen vessel to bear Jehovah's name to the nations and kings and the sons of Israel. (Acts 9:15)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How did Saul escape from Damascus when the Jews plotted to kill him?",
+          options: [
+            "He disguised himself and left through the city gate",
+            "He was lowered through an opening in the wall in a basket",
+            "He left at night through the marketplace",
+            "He was escorted by Roman soldiers"
+          ],
+          correctAnswer: "He was lowered through an opening in the wall in a basket"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Barnabas introduced Saul to the apostles in Jerusalem and vouched for his conversion.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What vision did Peter have on the rooftop in Joppa?",
+          options: [
+            "A vision of a great harvest field waiting for workers",
+            "A vessel like a great linen sheet descending with all kinds of animals, and a voice telling him to rise, slaughter, and eat",
+            "A vision of an angel pointing him toward Caesarea",
+            "A vision of the nations coming to worship Jehovah"
+          ],
+          correctAnswer: "A vessel like a great linen sheet descending with all kinds of animals, and a voice telling him to rise, slaughter, and eat"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What lesson did Peter draw from his rooftop vision regarding people of other nations?",
+          correctAnswer: "God is not partial, but in every nation the man who fears him and does what is right is acceptable to him. (Acts 10:34–35)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Who was Cornelius, and what was he noted for?",
+          options: [
+            "A Jewish merchant who feared God",
+            "A Roman army officer who was devout, feared God, made many gifts of mercy, and prayed continually",
+            "A Greek philosopher who sought the truth",
+            "A synagogue ruler who studied the Hebrew scriptures"
+          ],
+          correctAnswer: "A Roman army officer who was devout, feared God, made many gifts of mercy, and prayed continually"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The holy spirit fell on Cornelius and those with him before they were baptized with water.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Peter justify baptizing Cornelius and his household to those of Jewish background with him?",
+          options: [
+            "He said Jehovah had appeared to him in a dream commanding it",
+            "He said that since they had received the holy spirit just as the apostles had, no one could forbid the water",
+            "He said the Law of Moses had been completely set aside",
+            "He said an angel had told him to baptize all who believed"
+          ],
+          correctAnswer: "He said that since they had received the holy spirit just as the apostles had, no one could forbid the water"
+        }
+      ]
+    }
+  },
+  {
+    day: 329,
+    passage: "Acts 11–12",
+    focus: "Peter's report to Jerusalem, Antioch's congregation, and Herod's persecution",
+    quiz: {
+      title: "📘 Acts 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why did those of Jewish background in Jerusalem criticize Peter when he returned from Caesarea?",
+          options: [
+            "Because he had baptized uncircumcised men",
+            "Because he had entered the house of uncircumcised men and eaten with them",
+            "Because he had preached without the apostles' permission",
+            "Because he had given Jehovah's name to non-Jews"
+          ],
+          correctAnswer: "Because he had entered the house of uncircumcised men and eaten with them"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "After Peter explained the vision and events at Cornelius' house, those in Jerusalem glorified God and accepted that everlasting life was being given to the nations too.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "In what city were the disciples first called Christians, and who had sent Barnabas there?",
+          correctAnswer: "In Antioch; the congregation in Jerusalem sent Barnabas there. (Acts 11:22, 26)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who prophesied that a great famine would come over the entire inhabited earth?",
+          options: ["Barnabas", "Agabus", "Saul", "Silas"],
+          correctAnswer: "Agabus"
+        },
+        {
+          id: "q5",
+          type: "multiple-choice",
+          question: "Which apostle did Herod Agrippa have executed with the sword?",
+          options: ["Peter", "John", "James the brother of John", "Andrew"],
+          correctAnswer: "James the brother of John"
+        },
+        {
+          id: "q6",
+          type: "true-false",
+          question: "Peter was bound with two chains between two soldiers when the angel came to free him from prison.",
+          correctAnswer: true
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What was the congregation doing while Peter was in prison?",
+          correctAnswer: "Intense prayer to God was being made by the congregation in his behalf. (Acts 12:5)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Where did Peter go after the angel led him out of prison?",
+          options: [
+            "To the home of Mary, the mother of John Mark",
+            "To the upper room where the apostles were meeting",
+            "To the temple to give thanks",
+            "To the home of Barnabas"
+          ],
+          correctAnswer: "To the home of Mary, the mother of John Mark"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Herod Agrippa accepted praise from the crowd who called his voice the voice of a god and was immediately struck by Jehovah's angel.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What was the result of Herod's death in terms of the word of God?",
+          options: [
+            "The congregation feared further persecution",
+            "The word of Jehovah kept growing and spreading",
+            "The apostles moved their ministry to Rome",
+            "The congregation met secretly from that point forward"
+          ],
+          correctAnswer: "The word of Jehovah kept growing and spreading"
+        }
+      ]
+    }
+  },
+  {
+    day: 330,
+    passage: "Acts 13–14",
+    focus: "Paul's first missionary journey, preaching to Jews and Gentiles, and opposition",
+    quiz: {
+      title: "📘 Acts 13–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How were Barnabas and Saul set apart for their missionary work?",
+          options: [
+            "The apostles in Jerusalem commissioned them",
+            "The holy spirit directed the congregation in Antioch to set them apart, and they were sent off after fasting and prayer",
+            "An angel appeared to them with a commission",
+            "Gamaliel appointed them as missionaries"
+          ],
+          correctAnswer: "The holy spirit directed the congregation in Antioch to set them apart, and they were sent off after fasting and prayer"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul struck the sorcerer Elymas with blindness when he tried to turn the proconsul Sergius Paulus away from the faith.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "In his speech at the synagogue in Antioch of Pisidia, what did Paul say Jehovah did after raising Jesus from the dead?",
+          correctAnswer: "God raised him up from the dead, and for many days he appeared to those who had gone with him from Galilee to Jerusalem. (Acts 13:30–31)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "When the Jews in Antioch of Pisidia contradicted Paul and blasphemed, what did Paul and Barnabas declare?",
+          options: [
+            "They would return to Jerusalem and report to the apostles",
+            "They were turning to the nations because the Jews had judged themselves unworthy of everlasting life",
+            "They would never speak in a synagogue again",
+            "The Jews would face Jehovah's judgment for their rejection"
+          ],
+          correctAnswer: "They were turning to the nations because the Jews had judged themselves unworthy of everlasting life"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "In Lystra, Paul healed a man who had been lame from birth, and the crowds tried to offer sacrifices to Paul and Barnabas as gods.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Paul and Barnabas call themselves when the crowd tried to worship them in Lystra?",
+          options: [
+            "Servants of the Most High God",
+            "Men with the same feelings as you",
+            "Ambassadors of Jesus Christ",
+            "Messengers of the living God"
+          ],
+          correctAnswer: "Men with the same feelings as you"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Paul and Barnabas tell the disciples when they returned to strengthen the congregations?",
+          correctAnswer: "It is through many tribulations that we must enter into the Kingdom of God. (Acts 14:22)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Paul and Barnabas do in each congregation they revisited on their return journey?",
+          options: [
+            "They baptized new believers and appointed elders",
+            "They appointed elders for them and offered prayer with fasting",
+            "They collected funds for the congregation in Jerusalem",
+            "They selected young men to join their missionary team"
+          ],
+          correctAnswer: "They appointed elders for them and offered prayer with fasting"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul was stoned and dragged out of Lystra, presumed dead, but rose up and went back into the city.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "When Paul and Barnabas returned to Antioch, what did they report to the congregation?",
+          options: [
+            "That Israel had rejected the good news completely",
+            "The many things God had done with them and that he had opened the door of faith to the nations",
+            "That new congregations had been established in all major cities",
+            "That Jerusalem had approved their mission to the Gentiles"
+          ],
+          correctAnswer: "The many things God had done with them and that he had opened the door of faith to the nations"
+        }
+      ]
+    }
+  },
+  {
+    day: 331,
+    passage: "Acts 15–16",
+    focus: "The Jerusalem council, Paul's second journey, and Philippi's congregation",
+    quiz: {
+      title: "📘 Acts 15–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was the dispute that led to the Jerusalem council in Acts 15?",
+          options: [
+            "Whether Gentile believers needed to be circumcised and observe the Law of Moses",
+            "Whether Paul had the right to call himself an apostle",
+            "Whether the congregation should move from Jerusalem",
+            "Whether Gentiles could eat with Jewish believers"
+          ],
+          correctAnswer: "Whether Gentile believers needed to be circumcised and observe the Law of Moses"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "James cited the prophet Amos to support the decision that Gentiles did not need to be circumcised.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What four requirements did the letter from the Jerusalem council ask Gentile believers to observe?",
+          correctAnswer: "To abstain from things sacrificed to idols, from blood, from what is strangled, and from sexual immorality. (Acts 15:29)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did Paul and Barnabas separate before the second journey?",
+          options: [
+            "They disagreed about where to preach",
+            "There was a sharp dispute over whether to take John Mark, who had deserted them on the first journey",
+            "The congregation in Antioch sent only Paul",
+            "Barnabas was called back to Cyprus for personal reasons"
+          ],
+          correctAnswer: "There was a sharp dispute over whether to take John Mark, who had deserted them on the first journey"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Timothy joined Paul on his second journey, and Paul had him circumcised because of the Jews in those areas.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What vision directed Paul to go to Macedonia?",
+          options: [
+            "An angel told him in a dream",
+            "A Macedonian man appeared in a vision urging him to come over and help them",
+            "Jehovah spoke to him directly during prayer",
+            "The holy spirit gave him a prophecy through Silas"
+          ],
+          correctAnswer: "A Macedonian man appeared in a vision urging him to come over and help them"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who was Lydia, and how did she respond to Paul's message in Philippi?",
+          correctAnswer: "She was a seller of purple from Thyatira who worshipped God; Jehovah opened her heart to pay attention to Paul's words, and she and her household were baptized. (Acts 16:14–15)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What happened to Paul and Silas after they were imprisoned in Philippi?",
+          options: [
+            "The other prisoners helped them escape",
+            "An earthquake opened all the doors and everyone's bonds were unfastened",
+            "An angel appeared and led them out",
+            "The congregation bribed the jailer to release them"
+          ],
+          correctAnswer: "An earthquake opened all the doors and everyone's bonds were unfastened"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The jailer in Philippi and his entire household were baptized after Paul preached to them.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Paul and Silas secure their release from Philippi the next morning?",
+          options: [
+            "They appealed to Caesar",
+            "They revealed they were Roman citizens, which alarmed the magistrates who had beaten them publicly without a trial",
+            "The congregation in Philippi petitioned the authorities",
+            "Lydia paid a fine on their behalf"
+          ],
+          correctAnswer: "They revealed they were Roman citizens, which alarmed the magistrates who had beaten them publicly without a trial"
+        }
+      ]
+    }
+  },
+  {
+    day: 332,
+    passage: "Acts 17–18",
+    focus: "Preaching in Thessalonica, Beroea, Athens, and Corinth",
+    quiz: {
+      title: "📘 Acts 17–18 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What was notable about the people of Beroea compared to those in Thessalonica?",
+          options: [
+            "They were more numerous in their congregation",
+            "They accepted the word with great eagerness and carefully examined the scriptures daily",
+            "They gave more financial support to Paul",
+            "They had no Jewish opposition to the message"
+          ],
+          correctAnswer: "They accepted the word with great eagerness and carefully examined the scriptures daily"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul was deeply disturbed in Athens when he saw the city full of idols.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What inscription on an altar did Paul use as a starting point in his speech on the Areopagus?",
+          correctAnswer: "'To an Unknown God.' (Acts 17:23)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Paul tell the Athenians about Jehovah's relationship to humanity?",
+          options: [
+            "That God is far away and unknowable",
+            "That God does not dwell in temples made with hands and is not far from each one of us",
+            "That God requires sacrifices and offerings",
+            "That God had only revealed himself to the Jewish nation"
+          ],
+          correctAnswer: "That God does not dwell in temples made with hands and is not far from each one of us"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The majority of those who heard Paul speak at the Areopagus put faith in his message.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Jehovah tell Paul in a vision while he was in Corinth?",
+          options: [
+            "To leave Corinth and go to Rome",
+            "To keep speaking and not be silent because Jehovah had many people in that city",
+            "That he would be arrested and must prepare his defense",
+            "That the congregation would face severe persecution"
+          ],
+          correctAnswer: "To keep speaking and not be silent because Jehovah had many people in that city"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Who were Aquila and Priscilla, and how were they connected to Paul?",
+          correctAnswer: "They were a Jewish couple, tentmakers like Paul, who had come from Italy after Claudius ordered all Jews to leave Rome; Paul stayed and worked with them. (Acts 18:2–3)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "When the Jews in Corinth brought Paul before the proconsul Gallio, what did Gallio do?",
+          options: [
+            "He put Paul in prison pending investigation",
+            "He dismissed the case, saying it involved Jewish law rather than a legal wrong",
+            "He fined Paul and ordered him to leave Corinth",
+            "He heard the case fully and acquitted Paul"
+          ],
+          correctAnswer: "He dismissed the case, saying it involved Jewish law rather than a legal wrong"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Apollos was a learned man who knew the scriptures well but initially knew only the baptism of John, and Priscilla and Aquila explained the way of God more accurately to him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did Paul stay in Corinth during this visit?",
+          options: ["6 months", "A year and six months", "Two years", "Three months"],
+          correctAnswer: "A year and six months"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 333,
+    passage: "Acts 19–20",
+    focus: "Paul's ministry in Ephesus, the riot of the silversmiths, and his farewell to the elders",
+    quiz: {
+      title: "📘 Acts 19–20 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Paul do when he found disciples in Ephesus who had received only John's baptism?",
+          options: [
+            "He told them their baptism was sufficient",
+            "He baptized them in the name of the Lord Jesus and placed his hands on them, and they received the holy spirit",
+            "He sent them to Jerusalem for instruction",
+            "He had them re-examine the scriptures before any further action"
+          ],
+          correctAnswer: "He baptized them in the name of the Lord Jesus and placed his hands on them, and they received the holy spirit"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul taught daily in the school of Tyrannus for two years, so that all those in Asia heard the word of Jehovah.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What happened when the seven sons of Sceva tried to use Jesus' name to expel a wicked spirit?",
+          correctAnswer: "The man with the wicked spirit leaped on them, overpowered them, and they fled naked and wounded. (Acts 19:16)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did the silversmith Demetrius stir up a riot against Paul in Ephesus?",
+          options: [
+            "Paul had insulted the goddess Artemis publicly",
+            "Paul's preaching was reducing the income of craftsmen who made silver shrines of Artemis",
+            "Paul had entered the temple of Artemis without permission",
+            "Paul had baptized members of Demetrius' own household"
+          ],
+          correctAnswer: "Paul's preaching was reducing the income of craftsmen who made silver shrines of Artemis"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The city recorder calmed the crowd in Ephesus and dismissed the assembly without charges being brought against Paul.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened to Eutychus in Troas during Paul's extended speech?",
+          options: [
+            "He challenged Paul's teaching publicly",
+            "He fell asleep and fell from a third-floor window and was picked up dead, then restored by Paul",
+            "He was miraculously healed of a disease during the meeting",
+            "He was baptized after hearing Paul speak through the night"
+          ],
+          correctAnswer: "He fell asleep and fell from a third-floor window and was picked up dead, then restored by Paul"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What warning did Paul give the Ephesian elders about men who would rise among them after his departure?",
+          correctAnswer: "From among you yourselves men will rise and speak twisted things to draw away the disciples after themselves. (Acts 20:30)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Paul tell the Ephesian elders about his own conduct during his time with them?",
+          options: [
+            "That he had always accepted financial support from the congregation",
+            "That he had not coveted anyone's silver or gold and had worked with his own hands to provide for his needs",
+            "That he had lived in comfort to show Jehovah's blessing",
+            "That he had relied on the hospitality of wealthy believers"
+          ],
+          correctAnswer: "That he had not coveted anyone's silver or gold and had worked with his own hands to provide for his needs"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul told the Ephesian elders he was determined to go to Jerusalem despite knowing that imprisonment and tribulations awaited him.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What words of Jesus did Paul quote to encourage generosity, a saying not recorded in the Gospels?",
+          options: [
+            "'Give and it will be given to you'",
+            "'There is more happiness in giving than there is in receiving'",
+            "'The one who gives freely will be enriched'",
+            "'Jehovah loves a cheerful giver'"
+          ],
+          correctAnswer: "'There is more happiness in giving than there is in receiving'"
+        }
+      ]
+    }
+  },
+  {
+    day: 334,
+    passage: "Acts 21–22",
+    focus: "Paul's arrival in Jerusalem, his arrest, and his defense before the crowd",
+    quiz: {
+      title: "📘 Acts 21–22 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Who prophesied in Caesarea that Paul would be bound by the Jews and handed over to the nations?",
+          options: ["Silas", "Philip's daughters", "Agabus", "Barnabas"],
+          correctAnswer: "Agabus"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul said he was ready not only to be bound but also to die in Jerusalem for the name of the Lord Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did James and the elders in Jerusalem ask Paul to do to show he was law-abiding?",
+          correctAnswer: "To join four men who had a vow, purify himself with them, and pay their expenses, to show he walked orderly and kept the Law. (Acts 21:23–24)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What false accusation did Jews from Asia make against Paul in the temple?",
+          options: [
+            "That he had taught against the Sabbath",
+            "That he had brought Greeks into the temple and defiled the holy place",
+            "That he had stolen from the temple treasury",
+            "That he had spoken blasphemy against Moses"
+          ],
+          correctAnswer: "That he had brought Greeks into the temple and defiled the holy place"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The Roman military commander initially mistook Paul for an Egyptian revolutionary.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In what language did Paul address the crowd in Jerusalem, which brought greater silence?",
+          options: ["Greek", "Latin", "Hebrew", "Aramaic"],
+          correctAnswer: "Hebrew"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "How did Paul describe his former life before his conversion in his defense speech?",
+          correctAnswer: "He persecuted this Way to the death, binding and handing over to prison both men and women, as the high priest and the entire council of elders could testify. (Acts 22:4–5)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What did Ananias tell Paul after restoring his sight in Damascus?",
+          options: [
+            "That Paul would preach to the nations and kings",
+            "That Paul had been chosen to know God's will and see the righteous one and hear a voice from his mouth",
+            "That Paul must return to Jerusalem immediately",
+            "That Paul would suffer greatly for the name of Jesus"
+          ],
+          correctAnswer: "That Paul had been chosen to know God's will and see the righteous one and hear a voice from his mouth"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "The crowd listened calmly to Paul's entire defense speech without interruption.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How did Paul stop the Roman commander from having him scourged?",
+          options: [
+            "He quoted Roman law regarding prisoners",
+            "He revealed he was a Roman citizen by birth",
+            "He demanded to be heard before the emperor",
+            "He requested a Jewish trial instead"
+          ],
+          correctAnswer: "He revealed he was a Roman citizen by birth"
+        }
+      ]
+    }
+  },
+  {
+    day: 335,
+    passage: "Acts 23–24",
+    focus: "Paul before the Sanhedrin, the plot to kill him, and his defense before Felix",
+    quiz: {
+      title: "📘 Acts 23–24 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How did Paul divide the Sanhedrin when he stood before them?",
+          options: [
+            "By declaring he was a Roman citizen",
+            "By declaring he was a Pharisee and was being judged over the hope of resurrection",
+            "By accusing the high priest of breaking the Law",
+            "By quoting from the writings of Moses"
+          ],
+          correctAnswer: "By declaring he was a Pharisee and was being judged over the hope of resurrection"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Jehovah appeared to Paul the night after his appearance before the Sanhedrin and told him he would also bear witness in Rome.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What plot was uncovered regarding Paul, and who revealed it?",
+          correctAnswer: "More than 40 men took an oath not to eat or drink until they had killed Paul; Paul's nephew heard of it and reported it to the commander. (Acts 23:12–16)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "To where was Paul transferred for his safety, and under what escort?",
+          options: [
+            "To Rome under 100 soldiers",
+            "To Caesarea under 200 soldiers, 70 horsemen, and 200 spearmen",
+            "To Antioch under 50 soldiers",
+            "To Alexandria under a full Roman cohort"
+          ],
+          correctAnswer: "To Caesarea under 200 soldiers, 70 horsemen, and 200 spearmen"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "The letter from the commander Claudius Lysias to Felix stated that Paul had done nothing deserving death or prison bonds.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What charges did the attorney Tertullus bring against Paul before Felix?",
+          options: [
+            "Blasphemy against the temple and violation of Roman law",
+            "Being a pestilent fellow, stirring up sedition, and being a ringleader of the sect of the Nazarenes",
+            "Murder, theft, and inciting rebellion against Caesar",
+            "Teaching false doctrine and defiling the Jewish people"
+          ],
+          correctAnswer: "Being a pestilent fellow, stirring up sedition, and being a ringleader of the sect of the Nazarenes"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Paul say about the resurrection in his defense before Felix?",
+          correctAnswer: "There is going to be a resurrection of both the righteous and the unrighteous. (Acts 24:15)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Why did Felix tremble when Paul spoke to him privately about faith in Christ Jesus?",
+          options: [
+            "Paul warned him of Jehovah's coming judgment",
+            "Paul reasoned with him about righteousness, self-control, and the judgment to come",
+            "Paul revealed that Felix's enemies were plotting against him",
+            "Paul told him his sins were unforgivable"
+          ],
+          correctAnswer: "Paul reasoned with him about righteousness, self-control, and the judgment to come"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Felix kept Paul in custody for two years, hoping Paul would offer him a bribe.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What did Felix do when he was replaced by Festus?",
+          options: [
+            "He released Paul as a gesture of goodwill",
+            "He transferred Paul's case to Rome",
+            "He left Paul in custody as a favor to the Jews",
+            "He handed Paul over to the Sanhedrin"
+          ],
+          correctAnswer: "He left Paul in custody as a favor to the Jews"
+        }
+      ]
+    }
+  },
+  {
+    day: 336,
+    passage: "Acts 25–26",
+    focus: "Paul before Festus and his defense before King Agrippa",
+    quiz: {
+      title: "📘 Acts 25–26 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Paul do when Festus asked if he was willing to go to Jerusalem for trial?",
+          options: [
+            "He agreed on the condition of a fair judge",
+            "He appealed to Caesar",
+            "He requested an immediate hearing in Caesarea",
+            "He asked for a delay to prepare his defense"
+          ],
+          correctAnswer: "He appealed to Caesar"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Festus told King Agrippa that his investigation showed Paul had done nothing deserving death.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Paul say was the main point at issue in all the charges against him?",
+          correctAnswer: "It was concerning the resurrection of the dead and whether Jesus had been raised up. (Acts 24:21; Acts 26:6–8)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did Paul describe himself as having been before his conversion on the road to Damascus?",
+          options: [
+            "A peaceful scholar of the Law",
+            "A violent persecutor of followers of Jesus, casting votes against them and forcing them to blaspheme",
+            "A merchant who doubted the resurrection",
+            "A temple guard who opposed the apostles"
+          ],
+          correctAnswer: "A violent persecutor of followers of Jesus, casting votes against them and forcing them to blaspheme"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Jesus told Paul on the road to Damascus that he was sending him to the nations to open their eyes and turn them from darkness to light.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Festus shout out while Paul was making his defense before Agrippa?",
+          options: [
+            "'You are speaking treason against Caesar!'",
+            "'You are going mad, Paul! Great learning is driving you mad!'",
+            "'Stop! This is not the place for such a defense!'",
+            "'Your god is not recognized by Rome!'"
+          ],
+          correctAnswer: "'You are going mad, Paul! Great learning is driving you mad!'"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Paul say to Agrippa when Agrippa suggested Paul was quickly persuading him to become a Christian?",
+          correctAnswer: "I would wish to God that whether with little effort or with great effort not only you but also all those who hear me today would become such as I am, except for these bonds. (Acts 26:29)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What conclusion did Agrippa and Festus reach after hearing Paul's defense?",
+          options: [
+            "That Paul was guilty of sedition",
+            "That Paul was doing nothing deserving death or prison bonds",
+            "That Paul should be sent to Rome for the emperor's judgment alone",
+            "That Paul should be handed back to the Sanhedrin"
+          ],
+          correctAnswer: "That Paul was doing nothing deserving death or prison bonds"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Agrippa told Festus that Paul could have been released if he had not appealed to Caesar.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Paul told Agrippa he was saying nothing outside what the prophets and Moses had said would happen, specifically about what?",
+          options: [
+            "The destruction of Jerusalem",
+            "The Christ suffering and being first to be resurrected and declare light to the Jewish people and the nations",
+            "The coming judgment of Rome",
+            "The restoration of the Kingdom to Israel"
+          ],
+          correctAnswer: "The Christ suffering and being first to be resurrected and declare light to the Jewish people and the nations"
+        }
+      ]
+    }
+  },
+  {
+    day: 337,
+    passage: "Acts 27–28",
+    focus: "Paul's voyage to Rome, shipwreck, and his arrival and ministry in Rome",
+    quiz: {
+      title: "📘 Acts 27–28 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What did Paul warn the ship's officers before they left Fair Havens?",
+          options: [
+            "That pirates were reported in the area",
+            "That the voyage would result in disaster and great loss of cargo and lives",
+            "That the winds were favorable but would change suddenly",
+            "That they should wait for a larger naval escort"
+          ],
+          correctAnswer: "That the voyage would result in disaster and great loss of cargo and lives"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "An angel of Jehovah appeared to Paul during the storm and assured him that all on board would survive, though the ship would be lost.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What did Paul urge those on board to do before the shipwreck, and how many were on the ship?",
+          correctAnswer: "He urged them to eat, telling them no hair of their heads would perish; there were 276 people on board. (Acts 27:34–37)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "On what island did the survivors of the shipwreck land?",
+          options: ["Cyprus", "Crete", "Malta", "Sicily"],
+          correctAnswer: "Malta"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "When a viper fastened onto Paul's hand on Malta, the islanders concluded he was a murderer whom justice would not allow to live.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What happened after Paul shook the viper off into the fire on Malta?",
+          options: [
+            "He fell ill for three days but recovered",
+            "He suffered no harm, and the islanders changed their minds and said he was a god",
+            "He was taken before the island ruler for questioning",
+            "The islanders fled in fear"
+          ],
+          correctAnswer: "He suffered no harm, and the islanders changed their minds and said he was a god"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "When Paul arrived in Rome, what was he permitted to do while under guard?",
+          correctAnswer: "He was allowed to stay by himself with the soldier guarding him and to receive all who came to him. (Acts 28:16, 30)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What was the response of the Jews in Rome when Paul explained the Kingdom of God and Jesus from morning until evening?",
+          options: [
+            "All of them believed his message",
+            "Some were persuaded and others would not believe",
+            "They all rejected his message and drove him out",
+            "They reported him to the Roman authorities"
+          ],
+          correctAnswer: "Some were persuaded and others would not believe"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul quoted Isaiah's prophecy about hearing but not understanding to explain why he would turn to the nations.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "How long did Paul remain in Rome preaching and teaching about the Lord Jesus Christ?",
+          options: ["Six months", "One year", "Two years", "Three years"],
+          correctAnswer: "Two years"
+        }
+      ]
+    }
+  },
+  {
+    day: 338,
+    passage: "Romans 1–2",
+    focus: "The good news, Jehovah's wrath against unrighteousness, and impartial judgment",
+    quiz: {
+      title: "📘 Romans 1–2 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "How does Paul describe the good news in Romans 1:16?",
+          options: [
+            "A message of wisdom for the educated",
+            "God's power for salvation to everyone having faith, to the Jew first and also to the Greek",
+            "A secret revealed only to the apostles",
+            "The fulfillment of all Jewish prophecy"
+          ],
+          correctAnswer: "God's power for salvation to everyone having faith, to the Jew first and also to the Greek"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul says that God's invisible qualities, including his eternal power and Godship, are clearly seen from creation.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What happened to people's thinking when they knew God but did not glorify him as God, according to Romans 1?",
+          correctAnswer: "They became empty-headed in their reasonings and their senseless hearts became darkened. (Romans 1:21)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "According to Romans 1, what did people receive as a result of their decision to worship created things rather than the Creator?",
+          options: [
+            "Divine patience and further opportunity to repent",
+            "God gave them up to disgraceful sexual conduct and a disapproved mental state",
+            "Immediate destruction from Jehovah",
+            "Removal of all spiritual knowledge"
+          ],
+          correctAnswer: "God gave them up to disgraceful sexual conduct and a disapproved mental state"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul says in Romans 2 that Jehovah will judge impartially, rewarding those who do good and punishing those who do bad, regardless of whether they are Jew or Greek.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Paul say leads people to repentance in Romans 2:4?",
+          options: [
+            "Fear of Jehovah's wrath",
+            "God's kindness",
+            "The preaching of the good news",
+            "The Law of Moses"
+          ],
+          correctAnswer: "God's kindness"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What did Paul say about Gentiles who do not have the Law but do by nature the things of the Law?",
+          correctAnswer: "They are a law to themselves and show that the matter of the Law is written in their hearts, while their conscience bears witness with them. (Romans 2:14–15)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Paul say is true circumcision according to Romans 2:29?",
+          options: [
+            "Physical circumcision performed on the eighth day",
+            "Circumcision of the heart by spirit, not by a written code",
+            "Observance of all the Mosaic laws",
+            "Baptism in the name of Jesus"
+          ],
+          correctAnswer: "Circumcision of the heart by spirit, not by a written code"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul argues that knowing and teaching the Law guarantees that a person will not break it.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "According to Romans 1:17, the righteous person will live by what?",
+          options: ["Works of the Law", "Faith", "Obedience to elders", "Temple sacrifice"],
+          correctAnswer: "Faith"
+        }
+      ]
+    }
+  },
+  {
+    day: 339,
+    passage: "Romans 3–4",
+    focus: "All have sinned, justification by faith, and Abraham as the father of faith",
+    quiz: {
+      title: "📘 Romans 3–4 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "According to Romans 3:23, who has sinned and falls short of the glory of God?",
+          options: [
+            "Only the Gentiles who rejected the Law",
+            "All people",
+            "Those who have never heard the good news",
+            "Those who practice gross sins"
+          ],
+          correctAnswer: "All people"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul quotes from the Psalms to show that there is not even one righteous person.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How does Paul say a person is declared righteous, according to Romans 3:28?",
+          correctAnswer: "A person is declared righteous by faith apart from works of law. (Romans 3:28)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What did God set Jesus forward as in Romans 3:25?",
+          options: [
+            "An example of perfect obedience",
+            "A propitiatory sacrifice through faith in his blood",
+            "The ultimate high priest of Israel",
+            "A ransom equal to the angels"
+          ],
+          correctAnswer: "A propitiatory sacrifice through faith in his blood"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul argues that justification by faith does away with the Law entirely.",
+          correctAnswer: false
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "When was Abraham declared righteous — before or after his circumcision?",
+          options: [
+            "After his circumcision",
+            "Before his circumcision",
+            "At the moment of his circumcision",
+            "Long after both his circumcision and the birth of Isaac"
+          ],
+          correctAnswer: "Before his circumcision"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say Abraham's faith was like, even when considering his own body and Sarah's womb?",
+          correctAnswer: "He did not weaken in faith when he considered his own body, now as good as dead, and Sarah's deadness of womb; but became powerfully filled with faith, giving God glory. (Romans 4:19–20)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "For whose sake was it written that Abraham's faith was counted as righteousness, according to Romans 4:23–24?",
+          options: [
+            "For Abraham's own sake only",
+            "For our sake too — those who believe in the One who raised Jesus from the dead",
+            "For the sake of the Jewish nation",
+            "For the sake of all who keep the Law"
+          ],
+          correctAnswer: "For our sake too — those who believe in the One who raised Jesus from the dead"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "God is the God of Jews only and not of Gentiles, according to Paul's argument in Romans 3.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Paul say about boasting in Romans 3:27?",
+          options: [
+            "Boasting in the Law is acceptable for Jews",
+            "Boasting is excluded because justification comes through faith, not works",
+            "Only those without the Law have reason to boast",
+            "Boasting in Jehovah is always appropriate"
+          ],
+          correctAnswer: "Boasting is excluded because justification comes through faith, not works"
+        }
+      ]
+    }
+  },
+
+  {
+    day: 340,
+    passage: "Romans 5–6",
+    focus: "Peace with God through Christ, sin and death through Adam, and baptism into Christ's death",
+    quiz: {
+      title: "📘 Romans 5–6 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "According to Romans 5:1, what do we have as a result of being declared righteous through faith?",
+          options: [
+            "Freedom from all suffering",
+            "Peace with God through our Lord Jesus Christ",
+            "A guarantee of physical health",
+            "Immediate entry into the Kingdom"
+          ],
+          correctAnswer: "Peace with God through our Lord Jesus Christ"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul says that tribulation produces endurance, endurance produces an approved condition, and an approved condition produces hope.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Romans 5:8 say about the demonstration of God's love toward us?",
+          correctAnswer: "God demonstrates his own love for us in that while we were yet sinners, Christ died for us. (Romans 5:8)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Through whom did sin and death spread to all mankind, according to Romans 5?",
+          options: [
+            "Eve, through her disobedience",
+            "Adam, because all sinned in connection with him",
+            "Satan, who introduced sin to the world",
+            "The first human generation after Eden"
+          ],
+          correctAnswer: "Adam, because all sinned in connection with him"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul says that just as death ruled as king through Adam, so too those receiving the abundance of grace will rule as kings in life through Jesus Christ.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What did Paul say about those who have been baptized into Christ Jesus?",
+          options: [
+            "They have been washed of all past sins",
+            "They have been baptized into his death and should consider themselves dead to sin",
+            "They have received the holy spirit automatically",
+            "They have been adopted as sons of the Father"
+          ],
+          correctAnswer: "They have been baptized into his death and should consider themselves dead to sin"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say we should not let sin do, and what should we instead present to God?",
+          correctAnswer: "Do not let sin continue to reign in your mortal body; present your members to God as weapons of righteousness. (Romans 6:12–13)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Paul say sin will not have over those who are not under law but under undeserved kindness?",
+          options: [
+            "Influence", "Lordship", "Power to tempt", "Access to their hearts"
+          ],
+          correctAnswer: "Lordship"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul says that the wages sin pays is death, but the gift God gives is everlasting life by Christ Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What argument does Paul refute with 'Certainly not!' in Romans 6:1?",
+          options: [
+            "That we should abandon the Law entirely",
+            "That we should continue in sin so that undeserved kindness may abound",
+            "That faith without works is sufficient",
+            "That God's patience means he tolerates all sin"
+          ],
+          correctAnswer: "That we should continue in sin so that undeserved kindness may abound"
+        }
+      ]
+    }
+  },
+  {
+    day: 341,
+    passage: "Romans 7–8",
+    focus: "The struggle with sin, freedom through Christ, and life in the spirit",
+    quiz: {
+      title: "📘 Romans 7–8 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What illustration does Paul use in Romans 7 to explain that Christians are released from the Law?",
+          options: [
+            "A servant released from slavery",
+            "A woman who is free from the law of her husband when he dies",
+            "A son who comes of age and no longer needs a tutor",
+            "A prisoner pardoned by a king"
+          ],
+          correctAnswer: "A woman who is free from the law of her husband when he dies"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul says the Law itself is sinful.",
+          correctAnswer: false
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "How does Paul describe his inner conflict in Romans 7:19?",
+          correctAnswer: "For the good that I wish I do not do, but the bad that I do not wish is what I practice. (Romans 7:19)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who does Paul say delivers him from the body undergoing this death?",
+          options: [
+            "The Law of Moses",
+            "His own willpower",
+            "God through Jesus Christ our Lord",
+            "The congregation of believers"
+          ],
+          correctAnswer: "God through Jesus Christ our Lord"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul says there is now no condemnation for those in union with Christ Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What does Paul say those who set their minds on the flesh result in, compared to those who set their minds on the spirit?",
+          options: [
+            "Flesh leads to temporary comfort; spirit leads to eternal peace",
+            "Flesh leads to death; spirit leads to life and peace",
+            "Flesh leads to sin; spirit leads to the Law's fulfillment",
+            "Flesh leads to weakness; spirit leads to strength"
+          ],
+          correctAnswer: "Flesh leads to death; spirit leads to life and peace"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say the spirit does to help us in our weakness regarding prayer?",
+          correctAnswer: "The spirit itself pleads for us with unuttered groanings, and God who searches the hearts knows what the meaning of the spirit is. (Romans 8:26–27)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Romans 8:28 say about all things working together for those who love God?",
+          options: [
+            "All things eventually produce happiness for believers",
+            "God makes all things work together for good for those loving him and called according to his purpose",
+            "Believers will always be protected from hardship",
+            "Everything that happens to believers is part of God's perfect plan without exception"
+          ],
+          correctAnswer: "God makes all things work together for good for those loving him and called according to his purpose"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul says that nothing in all creation will be able to separate us from God's love that is in Christ Jesus.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Paul call those who are led by God's spirit in Romans 8:14?",
+          options: [
+            "Servants of God",
+            "Sons of God",
+            "Heirs of the Kingdom",
+            "Friends of Jehovah"
+          ],
+          correctAnswer: "Sons of God"
+        }
+      ]
+    }
+  },
+  {
+    day: 342,
+    passage: "Romans 9–10",
+    focus: "Israel's rejection, Jehovah's sovereignty, and the path to salvation for all",
+    quiz: {
+      title: "📘 Romans 9–10 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Paul say about Jehovah's word to Moses regarding mercy?",
+          options: [
+            "I will have mercy on the obedient and compassion on the faithful",
+            "I will have mercy on whom I will have mercy and compassion on whom I will have compassion",
+            "I will have mercy based on each person's works",
+            "I will have mercy on all who call upon my name"
+          ],
+          correctAnswer: "I will have mercy on whom I will have mercy and compassion on whom I will have compassion"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul uses the illustration of a potter and clay to show that God has the right to make vessels for different purposes.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Paul say the Gentiles attained even though they were not pursuing righteousness?",
+          correctAnswer: "Righteousness, the righteousness that results from faith. (Romans 9:30)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Why did Israel not attain the Law of righteousness, according to Paul in Romans 9?",
+          options: [
+            "Because they lacked intelligence",
+            "Because they pursued it not by faith but as if by works, stumbling over the stumbling stone",
+            "Because the Law was not truly given to them",
+            "Because God had hidden righteousness from them"
+          ],
+          correctAnswer: "Because they pursued it not by faith but as if by works, stumbling over the stumbling stone"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul says that Christ is the end of the Law for righteousness to everyone having faith.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "According to Romans 10:9–10, what must a person do to be saved?",
+          options: [
+            "Be circumcised and keep the Sabbath",
+            "Make public declaration and exercise faith in the heart that Jehovah raised Jesus from the dead",
+            "Perform works of the Law and pray daily",
+            "Be baptized and attend the congregation"
+          ],
+          correctAnswer: "Make public declaration and exercise faith in the heart that Jehovah raised Jesus from the dead"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say about how people can call on Jehovah without a preacher, quoting Isaiah in Romans 10?",
+          correctAnswer: "How will they call on him in whom they have not put faith? How will they put faith in him of whom they have not heard? How will they hear without someone to preach? (Romans 10:14)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Romans 10:13 say about who can be saved?",
+          options: [
+            "All who keep the Mosaic Law",
+            "Everyone who calls on the name of Jehovah",
+            "Those who are chosen before birth",
+            "Those who receive baptism"
+          ],
+          correctAnswer: "Everyone who calls on the name of Jehovah"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul says there is a distinction between Jew and Greek when it comes to Jehovah being Lord of all.",
+          correctAnswer: false
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Paul quote from Isaiah about the feet of those who declare good news?",
+          options: [
+            "'How beautiful are the feet of those who declare good news of good things'",
+            "'Blessed are those who carry the good news to the ends of the earth'",
+            "'Their voice has gone out to all the earth'",
+            "'How swift are the messengers of peace'"
+          ],
+          correctAnswer: "'How beautiful are the feet of those who declare good news of good things'"
+        }
+      ]
+    }
+  },
+  {
+    day: 343,
+    passage: "Romans 11–12",
+    focus: "Israel's future hope, Jehovah's mercy for all, and practical Christian conduct",
+    quiz: {
+      title: "📘 Romans 11–12 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Paul say about whether God has rejected his people Israel in Romans 11:1?",
+          options: [
+            "God has rejected them permanently",
+            "God has not rejected his people",
+            "God has rejected only the unfaithful among them",
+            "God will restore them only after the nations are saved"
+          ],
+          correctAnswer: "God has not rejected his people"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul uses the illustration of an olive tree to show that Gentile believers were grafted in while some natural branches were broken off.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Paul say will happen to all Israel in Romans 11:26?",
+          correctAnswer: "All Israel will be saved, as it is written: 'The deliverer will come out of Zion and turn away ungodly practices from Jacob.' (Romans 11:26)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "How does Paul conclude his discussion of Jehovah's dealings with Israel and the nations in Romans 11:33?",
+          options: [
+            "With a warning about human pride",
+            "With an exclamation about the depth of God's riches, wisdom, and knowledge being unsearchable",
+            "With a prayer of thanksgiving",
+            "With a call to the nations to worship Jehovah"
+          ],
+          correctAnswer: "With an exclamation about the depth of God's riches, wisdom, and knowledge being unsearchable"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul urges Christians in Romans 12 to be transformed by making their minds over rather than conforming to the world.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "How does Paul describe the congregation in Romans 12:4–5?",
+          options: [
+            "As a building with Christ as the foundation",
+            "As one body with many members, each belonging to the others",
+            "As a flock with one shepherd",
+            "As a family with Jehovah as Father"
+          ],
+          correctAnswer: "As one body with many members, each belonging to the others"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say about repaying evil in Romans 12:17–21?",
+          correctAnswer: "Return evil for evil to no one; if your enemy is hungry, feed him; do not let yourself be conquered by evil, but keep conquering evil with good. (Romans 12:17–21)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Paul say about rejoicing and weeping with others in Romans 12:15?",
+          options: [
+            "Rejoice with those who rejoice and weep with those who weep",
+            "Rejoice always, even when others weep",
+            "Weep with those who weep and pray for those who rejoice",
+            "Share in both the joys and sorrows of the congregation only"
+          ],
+          correctAnswer: "Rejoice with those who rejoice and weep with those who weep"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul says that vengeance belongs to Jehovah, who will repay, so Christians should not take revenge.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Paul urge Christians to present to God as a living sacrifice in Romans 12:1?",
+          options: [
+            "Their financial resources",
+            "Their bodies, as a holy and acceptable sacrifice",
+            "Their time in prayer and study",
+            "Their talents in service to the congregation"
+          ],
+          correctAnswer: "Their bodies, as a holy and acceptable sacrifice"
+        }
+      ]
+    }
+  },
+  {
+    day: 344,
+    passage: "Romans 13–14",
+    focus: "Subjection to authorities, love as law's fulfillment, and not judging one another",
+    quiz: {
+      title: "📘 Romans 13–14 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "Why does Paul say Christians should be subject to the superior authorities?",
+          options: [
+            "Because rulers are always righteous",
+            "Because there is no authority except by God, and those that exist are placed in their relative positions by God",
+            "Because resistance to authority leads to persecution",
+            "Because Jehovah's people must avoid conflict at all costs"
+          ],
+          correctAnswer: "Because there is no authority except by God, and those that exist are placed in their relative positions by God"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul says the one in authority is God's minister and an avenger to express wrath against the one practicing what is bad.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Paul say love fulfills in Romans 13:10?",
+          correctAnswer: "Love does not work evil to one's neighbor; therefore love is the law's fulfillment. (Romans 13:10)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "What does Paul urge Christians to clothe themselves with in Romans 13:14?",
+          options: [
+            "The armor of God",
+            "The Lord Jesus Christ",
+            "The fruits of the spirit",
+            "Works of righteousness"
+          ],
+          correctAnswer: "The Lord Jesus Christ"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul says Christians should make no provision for the desires of the flesh.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "In Romans 14, what does Paul say about the person who judges a fellow servant over matters of food or days?",
+          options: [
+            "He is commended for his zeal for righteousness",
+            "He is judging another's servant when each one stands or falls to his own master",
+            "He should be corrected publicly by the elders",
+            "His conscience is rightly guiding the congregation"
+          ],
+          correctAnswer: "He is judging another's servant when each one stands or falls to his own master"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "Before whom does Paul say each of us will stand to render an account in Romans 14:12?",
+          correctAnswer: "Each of us will render an account for himself to God. (Romans 14:12)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "What does Paul say the Kingdom of God is not about in Romans 14:17?",
+          options: [
+            "Prayer and fasting",
+            "Eating and drinking, but righteousness, peace, and joy in holy spirit",
+            "Temple worship and sacrifices",
+            "Observing special days and festivals"
+          ],
+          correctAnswer: "Eating and drinking, but righteousness, peace, and joy in holy spirit"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul says that whatever is not out of faith is sin.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "What does Paul say those who are strong ought to bear in Romans 15:1?",
+          options: [
+            "The burdens of the entire world",
+            "The weaknesses of those not strong, and not to please themselves",
+            "The responsibility of teaching the congregation",
+            "The cost of spreading the good news"
+          ],
+          correctAnswer: "The weaknesses of those not strong, and not to please themselves"
+        }
+      ]
+    }
+  },
+  {
+    day: 345,
+    passage: "Romans 15–16",
+    focus: "Paul's ministry, travel plans, greetings, and a warning about divisions",
+    quiz: {
+      title: "📘 Romans 15–16 Study Quiz (NWT)",
+      questions: [
+        {
+          id: "q1",
+          type: "multiple-choice",
+          question: "What does Paul say was the purpose of the things written in earlier times according to Romans 15:4?",
+          options: [
+            "To show the superiority of the Jewish nation",
+            "For our instruction, so that through our endurance and comfort from the scriptures we might have hope",
+            "To predict the exact details of Jesus' ministry",
+            "To give Israel a legal code for governance"
+          ],
+          correctAnswer: "For our instruction, so that through our endurance and comfort from the scriptures we might have hope"
+        },
+        {
+          id: "q2",
+          type: "true-false",
+          question: "Paul says his ambition was to declare the good news where Christ had already been named, so as not to build on another man's foundation.",
+          correctAnswer: true
+        },
+        {
+          id: "q3",
+          type: "short-answer",
+          question: "What does Paul ask the Romans to do on his behalf in Romans 15:30?",
+          correctAnswer: "To exert themselves along with him in prayers to God in his behalf, to be rescued from the unbelievers in Judea. (Romans 15:30–31)"
+        },
+        {
+          id: "q4",
+          type: "multiple-choice",
+          question: "Who does Paul commend to the Romans in chapter 16 as a minister of the congregation in Cenchreae?",
+          options: ["Priscilla", "Phoebe", "Lydia", "Mary"],
+          correctAnswer: "Phoebe"
+        },
+        {
+          id: "q5",
+          type: "true-false",
+          question: "Paul describes Aquila and Priscilla as those who risked their own necks for his life.",
+          correctAnswer: true
+        },
+        {
+          id: "q6",
+          type: "multiple-choice",
+          question: "What warning does Paul give at the end of his letter to the Romans in chapter 16?",
+          options: [
+            "To beware of false apostles claiming authority from Jerusalem",
+            "To keep their eye on those who cause divisions and stumbling blocks contrary to the teaching they had learned",
+            "To guard against those who demanded circumcision",
+            "To avoid all contact with those who had left the congregation"
+          ],
+          correctAnswer: "To keep their eye on those who cause divisions and stumbling blocks contrary to the teaching they had learned"
+        },
+        {
+          id: "q7",
+          type: "short-answer",
+          question: "What does Paul say about those who cause divisions in Romans 16:18?",
+          correctAnswer: "They are slaves not of our Lord Christ but of their own appetites, and by smooth talk and flattering speech they seduce the hearts of unsuspecting ones. (Romans 16:18)"
+        },
+        {
+          id: "q8",
+          type: "multiple-choice",
+          question: "Paul says that the God of peace will crush Satan under the feet of the Romans shortly. What does this reflect?",
+          options: [
+            "A military victory for Rome",
+            "The fulfillment of the promise made in Genesis 3:15",
+            "The coming judgment of the nations",
+            "The end of persecution for the congregation"
+          ],
+          correctAnswer: "The fulfillment of the promise made in Genesis 3:15"
+        },
+        {
+          id: "q9",
+          type: "true-false",
+          question: "Paul describes his good news and the preaching of Jesus Christ as being in accordance with a sacred secret kept silent for long-lasting times but now made known.",
+          correctAnswer: true
+        },
+        {
+          id: "q10",
+          type: "multiple-choice",
+          question: "Who does Paul say wrote down the letter to the Romans at Paul's dictation?",
+          options: ["Timothy", "Silas", "Tertius", "Luke"],
+          correctAnswer: "Tertius"
+        }
+      ]
+    }
+  }
+
+
+]
+
